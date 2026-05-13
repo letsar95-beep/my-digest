@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "id": "design",
+      "title": "Дизайн продуктов",
+      "chip_label": "Дизайн",
+      "subtitle": "тренды и исследования",
+      "queries": [
+        "UX design trends 2026",
+        "product design mobile interface research",
+        "user experience usability study"
+      ]
+    },
+    {
+      "id": "comp",
+      "title": "Конкуренты",
+      "chip_label": "Конкуренты",
+      "subtitle": "что меняют YouDo, Яндекс, Авито",
+      "queries": [
+        "YouDo сервис обновление",
+        "Яндекс Услуги новый функционал",
+        "Авито Услуги новости обновление"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI для дизайнера",
+      "chip_label": "AI-инструменты",
+      "subtitle": "инструменты, релизы, бета",
+      "queries": [
+        "AI design tools release 2026",
+        "Figma AI generative design",
+        "AI UX interface prototyping"
+      ]
+    },
+    {
+      "id": "mp",
+      "title": "Кейсы маркетплейсов",
+      "chip_label": "Маркетплейсы",
+      "subtitle": "решения из больших платформ",
+      "queries": [
+        "marketplace UX product design case study",
+        "Airbnb Uber DoorDash design update",
+        "two-sided marketplace onboarding trust design"
+      ]
+    }
+  ]
+}

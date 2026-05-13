@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import FilterPills from '../components/FilterPills.astro';
+import DigestSection from '../components/DigestSection.astro';
+import type { NewsData } from '../types/news';
+import { formatDate, formatTime, nextIssueLabel } from '../utils/dates';
+import rawData from '../data/news.json';
+
+const data = rawData as NewsData;
+
+// Auto-computed values
+const totalCount = data.sections.reduce((sum, s) => sum + s.items.length, 0);
+const totalReadMin = data.sections.reduce(
+  (sum, s) => sum + s.items.reduce((n, item) => n + item.read_min, 0),
+  0
+);
+const counts: Record<string, number> = Object.fromEntries(
+  data.sections.map((s) => [s.id, s.items.length])
+);
+const categories = data.sections.map((s) => ({ id: s.id, label: s.chip_label }));
+
+const dateStr = formatDate(data.updated_at);
+const timeStr = formatTime(data.updated_at);
+const nextIssueText = nextIssueLabel(data.next_issue_at);
+---
+<BaseLayout>
+  <Header date={dateStr} time={timeStr} />
+
+  <main class="container">
+    <div class="meta-row">
+      <span><span class="strong">{totalCount} материалов</span></span>
+      <span class="meta-dot"></span>
+      <span>~{totalReadMin} минут чтения</span>
+      <span class="meta-dot"></span>
+      <span>обновляется {data.schedule}</span>
+    </div>
+
+    <FilterPills categories={categories} counts={counts} total={totalCount} />
+
+    {data.sections.map((section) => (
+      <DigestSection section={section} />
+    ))}
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <h2 class="footer-headline">
+        Следующий выпуск — <span class="countdown">{nextIssueText}</span>
+      </h2>
+      <p class="footer-sub">Каждые понедельник и четверг, 10:00</p>
+    </div>
+  </footer>
+</BaseLayout>

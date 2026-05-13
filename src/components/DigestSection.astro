@@ -1,0 +1,46 @@
+---
+import DigestCard from './DigestCard.astro';
+import EmptyState from './EmptyState.astro';
+import type { NewsSection } from '../types/news';
+import { formatDate } from '../utils/dates';
+
+interface Props {
+  section: NewsSection;
+}
+
+const { section } = Astro.props;
+const items = section.items.slice(0, 6);
+const count = String(items.length).padStart(2, '0');
+---
+<section class="section" data-cat={section.id}>
+  <header class="section-head">
+    <span
+      class="section-bar"
+      style={`background: var(--cat-${section.id})`}
+      aria-hidden="true"
+    ></span>
+    <h2 class="section-title">{section.title}</h2>
+    <span class="section-count">{count}</span>
+    <span class="section-sub">{section.subtitle}</span>
+  </header>
+
+  {items.length > 0 ? (
+    <div class="grid">
+      {items.map((item) => (
+        <DigestCard
+          categoryId={section.id}
+          headline={item.headline}
+          description={item.description}
+          source={item.source}
+          faviconChar={item.favicon_char}
+          faviconColor={item.favicon_color}
+          date={formatDate(item.published_at)}
+          readMin={item.read_min}
+          isUiUpdate={item.is_ui_update}
+        />
+      ))}
+    </div>
+  ) : (
+    <EmptyState />
+  )}
+</section>

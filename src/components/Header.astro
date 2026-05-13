@@ -1,0 +1,25 @@
+---
+interface Props {
+  date: string;
+  time: string;
+}
+
+const { date, time } = Astro.props;
+---
+<header class="appbar">
+  <div class="container appbar-inner">
+    <div class="brand">
+      <span class="brand-logo">
+        Digest<span class="brand-dot" aria-hidden="true"></span>
+      </span>
+      <span class="brand-sub">для&nbsp;меня</span>
+    </div>
+    <div class="timestamp">
+      <span class="live-dot" aria-hidden="true"></span>
+      <span>Обновлено</span>
+      <span class="num">{date}</span>
+      <span class="sep">·</span>
+      <span class="num">{time}</span>
+    </div>
+  </div>
+</header>

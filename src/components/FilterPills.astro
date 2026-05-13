@@ -1,0 +1,52 @@
+---
+interface Category {
+  id: string;
+  label: string;
+}
+
+interface Props {
+  categories: Category[];
+  counts: Record<string, number>;
+  total: number;
+}
+
+const { categories, counts, total } = Astro.props;
+---
+<div class="chips" role="tablist" aria-label="Категории">
+  <button class="chip active" data-cat="all" role="tab" aria-selected="true">
+    Все <span class="count">{total}</span>
+  </button>
+  {categories.map((cat) => (
+    <button class="chip" data-cat={cat.id} role="tab" aria-selected="false">
+      <span class="chip-dot" style={`background: var(--cat-${cat.id})`}></span>
+      {cat.label}
+      <span class="count">{counts[cat.id] ?? 0}</span>
+    </button>
+  ))}
+</div>
+
+<script>
+  const chips = document.querySelectorAll<HTMLButtonElement>('.chip');
+  const sections = document.querySelectorAll<HTMLElement>('.section');
+
+  chips.forEach((chip) => {
+    chip.addEventListener('click', () => {
+      const cat = chip.dataset.cat;
+
+      chips.forEach((c) => {
+        c.classList.remove('active');
+        c.setAttribute('aria-selected', 'false');
+      });
+      chip.classList.add('active');
+      chip.setAttribute('aria-selected', 'true');
+
+      sections.forEach((section) => {
+        if (cat === 'all') {
+          section.classList.remove('is-hidden');
+        } else {
+          section.classList.toggle('is-hidden', section.dataset.cat !== cat);
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,44 @@
+---
+interface Props {
+  categoryId: string;
+  headline: string;
+  description: string;
+  source: string;
+  faviconChar: string;
+  faviconColor: string;
+  date: string;
+  readMin: number;
+  isUiUpdate?: boolean;
+}
+
+const {
+  categoryId,
+  headline,
+  description,
+  source,
+  faviconChar,
+  faviconColor,
+  date,
+  readMin,
+  isUiUpdate = false,
+} = Astro.props;
+---
+<article class="card" data-cat={categoryId}>
+  {isUiUpdate && (
+    <span class="ui-badge">📱 UI-изменение</span>
+  )}
+  <h3 class="card-headline">{headline}</h3>
+  <p class="card-desc">{description}</p>
+  <div class="source-row">
+    <span
+      class="favicon"
+      style={`background: ${faviconColor}`}
+      aria-hidden="true"
+    >{faviconChar}</span>
+    <span class="src">{source}</span>
+    <span class="sep">·</span>
+    <span>{date}</span>
+    <span class="sep">·</span>
+    <span>{readMin} мин</span>
+  </div>
+</article>

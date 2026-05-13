@@ -1,0 +1,12 @@
+---
+interface Props {
+  message?: string;
+}
+
+const { message = 'Нет материалов в этой категории' } = Astro.props;
+---
+<div class="empty-state">
+  <div class="empty-state-icon">🗂️</div>
+  <p class="empty-state-title">{message}</p>
+  <p class="empty-state-sub">Попробуйте выбрать другую категорию или дождитесь следующего выпуска</p>
+</div>
