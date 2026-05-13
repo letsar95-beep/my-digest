@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T13:06:45",
+  "updated_at": "2026-05-13T16:07:31",
   "next_issue_at": "2026-05-14T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,69 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Обзор UX от Якоба Нильсена: AI, дашборды, неявные знания",
-          "description": "Nielsen Norman Group анализирует широкий спектр UX-тем, включая расширение использования ИИ по сравнению с поиском, визуализацию дашбордов и важность неявных знаний. Это помогает дизайнерам ориентироваться в актуальных трендах и методологиях.",
-          "source": "nngroup.com",
-          "favicon_char": "N",
+          "headline": "Обзор UX-трендов: ИИ, дашборды, неявные знания",
+          "description": "Ежемесячный дайджест о последних тенденциях в UX, включая расширение использования ИИ в сравнении с поиском и визуализацию дашбордов. Поможет дизайнерам быть в курсе актуальных направлений.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
           "favicon_color": "#1CB0F6",
           "published_at": "2026-05-11",
           "read_min": 6,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WEpQU1BZdS1NbGl3Z3N6SmtZckFVTVBsdG1xRGZHMDVuZS1ZWlBtOFVjS3ZodXFORTVhS0xuQW82Y3NNRndER09xY2ttOUN2OUFyZTBIRXh3YUdaSmNKYmJmcDE0TVdvSFE?oc=5"
         },
         {
           "id": 2,
-          "headline": "Лондонские компании перестраивают сайты на основе психологии покупателей",
-          "description": "Бизнесы в Лондоне фокусируются на психологии пользователей при переработке сайтов, вместо следования мимолетным дизайн-трендам. Это указывает на сдвиг в сторону более глубокого понимания пользовательских потребностей для долгосрочного роста.",
-          "source": "londonbusinessnews.com",
+          "headline": "Психология покупателя важнее трендов в веб-дизайне",
+          "description": "Лондонские компании перестраивают сайты, фокусируясь на психологии покупателя вместо мимолетных дизайн-трендов. Это подчеркивает важность глубокого понимания пользователя для создания эффективных продуктов.",
+          "source": "londonlovesbusiness.com",
           "favicon_char": "L",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-11",
           "read_min": 4,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHo4T1VGcHRlNVRWM0hZeEtOM1pFZjYzZ0QzRzFRZml5cHU5c0YwQVZ1SUtNMnZNMy1tMHpFbE85dXI3ZF83b3hqdUV6aDFZaWRCM3RELVRVeUoyaXRrQjJvQ3RGTlNuNV9wbVNIdDllVlFqOTk1QTlDRXQ3Zk55Z0ZtTmpETERCbXczM1oyQXkyQjgzOU8yRHpTdW1McW9YZnZGby1zMzczWlNVMC1ycVVaTDBOX19uSjl5WWRkYzFSUF9pOTNqc195WHZxQQ?oc=5"
         },
         {
           "id": 3,
-          "headline": "Очки-симуляторы нарушения зрения для дизайнеров",
-          "description": "Trend Hunter представил очки, имитирующие различные нарушения зрения, что помогает дизайнерам и разработчикам лучше понимать проблемы пользователей с ограниченными возможностями. Важный инструмент для создания инклюзивных продуктов.",
-          "source": "trendhunter.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-10",
-          "read_min": 2,
-          "is_ui_update": false
+          "headline": "Эффективные заметки в UX-исследованиях",
+          "description": "Советы по улучшению UX-исследований через эффективное ведение заметок, что критично для сбора и анализа данных о пользователях. Это поможет продуктовым дизайнерам углубить свои методы исследования.",
+          "source": "aol.com",
+          "favicon_char": "A",
+          "favicon_color": "#5B3FFF",
+          "published_at": "2026-05-13",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tLUFpNmZSNi1fVW91Z21iZEhGeGUyM0VCdGdJSWdvaVEyQjkwMkNOUzIwU2d6VS13YjR1R3E5QzRpS2dnQVRmUVM1SkhsT1F4TmpBOXV1cVNrTDhfc0gxLVNhbC1CaTdrRmk0ekJ6Y3JBTk00TnVtX2RNcw?oc=5"
         },
         {
           "id": 4,
-          "headline": "6 проблем интерфейса, мешающих росту стартапов",
-          "description": "Статья описывает шесть распространенных проблем в пользовательских интерфейсах, которые могут незаметно тормозить рост стартапов. Дизайнерам важно избегать этих ошибок для улучшения пользовательского опыта и удержания клиентов.",
-          "source": "worldbusinessoutlook.com",
-          "favicon_char": "W",
+          "headline": "Советы по UX-дизайну в мире автономного CX",
+          "description": "Статья предлагает практические советы по улучшению UX-дизайна в условиях развития автономных систем клиентского опыта. Позволит дизайнерам адаптироваться к новым технологическим вызовам.",
+          "source": "cmswire.com",
+          "favicon_char": "C",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-11",
           "read_min": 5,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVVPcVZLSVhMMHFBaFZqYmFIalB1dDY4MmgzX3J5S3llZ0dyOUtZSDF1QXFxSEs5dTFoeEtNemlaYjd0dk1GNjRtdWM5TVljeXJiZ3B1RWphZTFEaVlzQkRpemhpU0lYSGdGb2FWR1dQeXFzX1Vlb2ZJV08tYlNqbDNRNGNvaDhNbzRlZTFfT1FwSW96bWlXU0hNaktRdw?oc=5"
         },
         {
           "id": 5,
-          "headline": "Промпт-инжиниринг для дизайнеров: примеры и советы",
-          "description": "Hostinger делится советами и примерами по промпт-инжинирингу, обучая дизайнеров, как эффективно взаимодействовать с ИИ для генерации изображений, текстов и идей. Это ключевой навык в эпоху развития искусственного интеллекта.",
-          "source": "hostinger.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-10",
-          "read_min": 4,
-          "is_ui_update": false
+          "headline": "Студия провела редизайн UI/UX для e-commerce",
+          "description": "Дизайн-студия успешно обновила UI/UX для интернет-магазина Halmari Tea, повысив его привлекательность и удобство использования. Это пример успешного продуктового редизайна.",
+          "source": "openpr.com",
+          "favicon_char": "O",
+          "favicon_color": "#0A6A9B",
+          "published_at": "2026-05-11",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3c0MTJ6MTZqRWJRV0s3OVhKUTU2X2Rqd1o4aEdoMjJ4REZHNW9ETnF3WlN4V1VFZkNoTVZIWmVVRW52VDhiRjk5SjBKUEV5c0k2VmhwWFdjTmpvVjRhMDVLY3NmbUQzeFhhR0F0VmlxMktJYmw2N2VucFdRRXZXbVk2TWoxb2RJZzhienJKUXhLOW53?oc=5"
         },
         {
           "id": 6,
-          "headline": "Улучшение UX-исследований с помощью эффективного ведения заметок",
-          "description": "Эффективное ведение заметок — ключевой аспект успешных UX-исследований. Материал предлагает методы и инструменты для систематизации информации, что помогает дизайнерам получать более глубокие инсайты из пользовательских сессий.",
-          "source": "aol.com",
+          "headline": "YouTube тестирует новый вид для Shorts",
+          "description": "YouTube экспериментирует с «чистым» видом для Shorts, убирая элементы интерфейса для лучшего погружения. Это интересное UI-изменение для изучения паттернов мобильного дизайна.",
+          "source": "almcorp.com",
           "favicon_char": "A",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-13",
-          "read_min": 5,
-          "is_ui_update": false
+          "published_at": "2026-05-12",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XY2NBMXhIaHpzUWdBSG9STU43U2RKTm53THlIWk1TQ1U4NUJmMXBTUnByZ3NKS0VxcHZPaTVwbl9iMWlZVEhicFBXY0VJUlEwT1BDNEd4eXRfbzN0NWh2VnhZRnpLcU5DckFWeHJPX3RYd2RLMlEw?oc=5"
         }
       ]
     },
@@ -81,73 +87,43 @@
       "id": "comp",
       "title": "Конкуренты",
       "chip_label": "Конкуренты",
-      "subtitle": "что меняют конкуренты",
+      "subtitle": "что меняют YouDo, Яндекс, Авито",
       "items": [
         {
           "id": 7,
-          "headline": "«Яндекс Практикум» запустил платформу «Луми» с ИИ-тренажёром",
-          "description": "Яндекс представил «Луми» — платформу для развития карьерных навыков с ИИ-тренажёром. Это может повлиять на рынок образования и найма специалистов, предлагая новые способы обучения и оценки компетенций.",
+          "headline": "Яндекс запустил платформу «Луми» с ИИ-тренажёром",
+          "description": "«Яндекс Практикум» представил «Луми» – новую платформу для развития карьерных навыков с уникальным ИИ-тренажёром. Это расширяет предложения Яндекса на рынке услуг и образования, привлекая новую аудиторию.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-13",
-          "read_min": 3,
-          "is_ui_update": false
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSlEwUmtXbGxOUE9WLUNhbXNvbFFlcnRIWVViY0hMMGEza0k1TENHMEVMUktValM2c2VQREw0dVppSE9DbDZhTGZ0MF8wdXV2U2VJbTZoR3p2UmxmSjh4QjlWWGl5NUxJN1Y2VkxBRThZVXZyTHlfY0ZlU01DRlhyOTlRSVk1cHJVM2ZWbmxyRVpRUjNEYXZZUlNBR2JIaDNUWkw0RWE1WlRucS1pODA4d0w3OVJVbzRYaWZTR0xMY3A4bnBhQTRVQWdoY0VRdk40SW5tNDNnVlZyZw?oc=5"
         },
         {
           "id": 8,
-          "headline": "«Яндекс Карты» улучшили навигацию, используя понятные ориентиры",
-          "description": "«Яндекс Карты» внедрили обновление, которое делает навигацию более интуитивной, используя в подсказках легко узнаваемые объекты (например, \"у магазина\"). Это улучшает пользовательский опыт ориентирования.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
+          "headline": "Авито Услуги: рост спроса на хоумстейджинг",
+          "description": "В Санкт-Петербурге спрос на услуги по хоумстейджингу через «Авито Услуги» увеличился в полтора раза. Это указывает на активное развитие новых категорий услуг на платформе.",
+          "source": "neva.today",
+          "favicon_char": "N",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-12",
-          "read_min": 2,
-          "is_ui_update": true
+          "published_at": "2026-05-11",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03QVRjV2poaGM2bFkxWC1hbXMxWXNvUEFYdVJleDlnbFpEUk1xTVBnNE9oTXV3bThHWmFMNXA1ZDJReFJ0N21nWVV4bGxUVk1UU2c?oc=5"
         },
         {
           "id": 9,
-          "headline": "В «Авито Услугах» значительно вырос спрос на хоумстейджинг",
-          "description": "Спрос на услуги хоумстейджинга в Санкт-Петербурге вырос в 1,5 раза, согласно данным «Авито Услуг». Это указывает на перспективные категории и потенциал роста для сервисов по благоустройству жилья.",
-          "source": "neva.today",
-          "favicon_char": "N",
+          "headline": "В Челябинске вырос спрос на логистические услуги",
+          "description": "Отмечен значительный рост спроса на логистические услуги в Челябинской области. Это тренд, который может влиять на развитие маркетплейсов услуг, таких как Профи.ру, в регионах.",
+          "source": "chelindustry.ru",
+          "favicon_char": "C",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-11",
+          "published_at": "2026-05-10",
           "read_min": 3,
-          "is_ui_update": false
-        },
-        {
-          "id": 10,
-          "headline": "Анализ покупок на «Авито» в мае: что ищут пользователи",
-          "description": "Статья на Хабре анализирует потребительские предпочтения пользователей «Авито» в мае, выходя за рамки сезонных товаров. Понимание трендов поможет выявить новые возможности для предложения услуг и товаров.",
-          "source": "habr.com",
-          "favicon_char": "Х",
-          "favicon_color": "#F06A00",
-          "published_at": "2026-05-11",
-          "read_min": 4,
-          "is_ui_update": false
-        },
-        {
-          "id": 11,
-          "headline": "«Авито Услуги» опубликовали гайд по проверке роутера",
-          "description": "«Авито Услуги» выпустили рекомендации по диагностике проблем с Wi-Fi роутером. Это пример полезного контента, который может улучшать удержание пользователей и позиционировать платформу как эксперта.",
-          "source": "neva.today",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-11",
-          "read_min": 3,
-          "is_ui_update": false
-        },
-        {
-          "id": 12,
-          "headline": "Россияне тратят около 10 тыс. рублей на отпускной гардероб через «Авито»",
-          "description": "Данные «Авито» показывают, что пользователи тратят в среднем 10 тысяч рублей на обновление гардероба к отпуску. Эта информация важна для понимания покупательской способности и сезонных пиков спроса.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-12",
-          "read_min": 2,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTVsMEU5QzFkR0FrQUZ4MlA0d2FjRDB5MzViZzRUWHcxX0pDVnR5N0xIeU9QZjl5b01IdVRZOGx3cWxnWTU0VkNmdHFvYzl1c1hMZ3BVUEMyeTVjTlFLcjZ4aXlXNmpXdU1USk5qaDUyNFBfWUtaeWpQeThuT2xFTG10MjFwX1VVeE9VVHgzdC1vNU0?oc=5"
         }
       ]
     },
@@ -158,70 +134,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 13,
-          "headline": "Лучшие AI-инструменты для бизнеса в 2026 году",
-          "description": "Обзор актуальных ИИ-инструментов, которые будут востребованы в бизнесе в 2026 году. Помогает дизайнерам понять общий ландшафт ИИ и потенциал его применения для повышения эффективности и создания инновационных продуктов.",
-          "source": "tech.co",
+          "id": 10,
+          "headline": "TurboCAD 2026 получил ИИ-инструменты",
+          "description": "В новой версии TurboCAD 2026 появились инструменты на базе ИИ и обновления рабочего процесса CAD. Это показывает интеграцию генеративного дизайна в профессиональный софт.",
+          "source": "engineering.com",
+          "favicon_char": "E",
+          "favicon_color": "#007BFF",
+          "published_at": "2026-05-12",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUpXWm9yY1M0Wjd2Q0Naa1dqcTh4Sm5rYUJiS1k1TXdpUWtyWEVQeW9GMGp4aF9YOV9ON3ZTUjEweWZGTjlnYVZMSHNwZTk1RW1SbkRCaEtSMXQzc3VkVTAtYnQwS1ptOE9kVWQ0Rkw4cGFHazFWMkVZSXM5U0ptR3ZrSTlQTXho?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Dessn привлек $6 млн для AI дизайн-инструмента",
+          "description": "Стартап Dessn привлек $6 млн инвестиций для своего дизайн-инструмента, ориентированного на производство и использующего ИИ. Это подчеркивает рост интереса к AI-решениям для дизайнеров.",
+          "source": "techcrunch.com",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-13",
+          "favicon_color": "#17A85C",
+          "published_at": "2026-05-12",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMU1OeUhqRnZpeWk4VnBTeWxxZmk1MzJveGc4N3IxR01YeVJVVlp0d2NQd2U3WjNhSXRMbGVMZThyd3lYVVFWTklIdjB3MlhGTmFPanlTcmwwZmVDTEsxNHRobU1Cc01nYzdiamhhblZQTEh2d3lscGk1aEgwdUgyMGswTnRmMVFvcVVSSHItWUJpMjQ?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Лучшие AI-инструменты для инженеров и архитекторов",
+          "description": "Обзор лучших инструментов ИИ, используемых инженерами и архитекторами для более умного проектирования. Дизайнеры могут почерпнуть идеи для улучшения своих рабочих процессов.",
+          "source": "techtimes.com",
+          "favicon_char": "T",
+          "favicon_color": "#007BFF",
+          "published_at": "2026-05-11",
           "read_min": 5,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWFYeE9WNk9XQjA4M0lILUQ0NVZSVmJrSTNKS3AwS2lpSDRIOVBWbHF5czR2VjdSZWg0Vmc3RHIwLUNvOTJERXFJU0hfYllDOTd2QVdtRFlUdHVJRUJrd2FiLXFLN3ZzRGo2NG04OGtwQUNtQTYyZ21LMWw4b1BXMzhmaFp6NUJWSEVrM0oyRkJ0M3FhLUFVSVIycXJGQ1dqQVhld2JQZnRLdUpJamFGc2J5VlRlcXZqTWFxZXBmb3JGSEFHUXdYY3J3?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "ИИ генерирует сложную игровую механику",
+          "description": "Искусственный интеллект активно используется для создания более умной и сложной игровой механики. Это демонстрирует потенциал генеративного дизайна в интерактивных продуктах.",
+          "source": "gamespace.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-11",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHBZMG15NjR0WnNFT0lWUjRLWXFFck4zbWlmdzBHUF9qRGRMVklwWGh3UUE2enpQSGthbW5saTJ2UHd5UHM4Qmt3cGVyNGxWRE5ydlBfdjVnLXg5bG5NSUs3WW1IQ1JGOGtLLVhHQTFoa3NxczRwRy0tQU1YcVdtcjlFWlZSSnFvX1VFZE9IYUNnRHU2M3Vzb2VWMG1TVkhQb1VuVElzMmF6NjcyZ2ZiakgxTjhPNElOOGdCOF9B?oc=5"
         },
         {
           "id": 14,
-          "headline": "TurboCAD 2026 интегрирует AI-инструменты и обновляет CAD-рабочие процессы",
-          "description": "Новая версия TurboCAD 2026 включает инструменты ИИ и улучшения в рабочих процессах CAD. Это показывает, как ИИ проникает в специализированное ПО, автоматизируя и оптимизируя сложные задачи проектирования.",
-          "source": "engineering.com",
-          "favicon_char": "E",
+          "headline": "ИИ-инструменты меняют создание сайтов и безопасность",
+          "description": "Инструменты искусственного интеллекта трансформируют процесс создания веб-сайтов и повышают онлайн-безопасность. Это напрямую касается продуктовых дизайнеров, работающих с веб-интерфейсами.",
+          "source": "speedwaymedia.com",
+          "favicon_char": "S",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-12",
           "read_min": 4,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGJvUHRvUU5aZWJfTExWbVNrQ3Y5anF4emZBa1l5NVVoWFVhblEzWExUdkhOaUU2dVo1ZjIwM0ZIV3haNXZiQTEweUxzV3hDaVk0N2RyM09oTVZQM2FCbUV0bkE0eWNKRFNoQTR6a3hBanBuOF9TdDBoU1RvTENRdXZ4YkU3anFtR3lIcmpEN1diSTBHOHotdmVrUUg4dXh3THhpRGl6UQ?oc=5"
         },
         {
           "id": 15,
-          "headline": "Rescale представил Agentic Digital Engineering для ускорения AI-разработки продуктов",
-          "description": "Rescale внедряет подход Agentic Digital Engineering, направленный на ускорение создания продуктов с приоритетом ИИ. Это может значительно изменить подходы к проектированию и разработке, делая ИИ центральным элементом с самого начала.",
-          "source": "hpcwire.com",
-          "favicon_char": "H",
+          "headline": "AI дизайн-инструменты становятся инфраструктурой e-commerce",
+          "description": "Бум электронной коммерции в Корее превращает инструменты ИИ-дизайна в ключевую инфраструктуру. Это показывает, что AI-решения становятся стандартом в сфере продуктового дизайна.",
+          "source": "koreatechdesk.com",
+          "favicon_char": "K",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-12",
-          "read_min": 5,
-          "is_ui_update": false
-        },
-        {
-          "id": 16,
-          "headline": "Dessn привлек $6 млн на разработку дизайн-инструмента для производства",
-          "description": "Стартап Dessn получил $6 млн инвестиций для своего дизайн-инструмента, ориентированного на производство. Это подчеркивает растущий интерес к решениям, которые связывают дизайн с реальным производственным процессом.",
-          "source": "techcrunch.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-12",
-          "read_min": 3,
-          "is_ui_update": false
-        },
-        {
-          "id": 17,
-          "headline": "Лучшие AI-инструменты для инженеров и архитекторов в 2026",
-          "description": "Обзор ведущих ИИ-инструментов, используемых инженерами и архитекторами для повышения эффективности проектирования. Это демонстрирует, как ИИ меняет подходы к созданию сложных систем и конструкций.",
-          "source": "techtimes.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-11",
           "read_min": 4,
-          "is_ui_update": false
-        },
-        {
-          "id": 18,
-          "headline": "Forbes назвал 50 лучших компаний в сфере искусственного интеллекта в 2026 году",
-          "description": "Ежегодный список Forbes демонстрирует ведущие компании, развивающие технологии ИИ. Знакомство с лидерами рынка помогает дизайнерам понимать, куда движется индустрия и какие инновации ожидаются.",
-          "source": "forbes.com",
-          "favicon_char": "F",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-11",
-          "read_min": 5,
-          "is_ui_update": false
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPblJrOTRmTlpXNHJGdU5GbXh1VGJXSVdGcVo2cmotOU5zVWdpbE5jUnVUY2Y3WDZYMFN6UWwyLUR6Z0NSNC1jZURMeXRjTGlsLVUwNzh2Vm9VM05zRW1jX0h0cTA4UEtucy04NElES0RNWEpBaFhMZWlSVzhnSnN2QWNXMllncUdUU19DQ2dqMXk5ck0?oc=5"
         }
       ]
     },

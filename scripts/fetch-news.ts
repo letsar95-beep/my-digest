@@ -7,10 +7,11 @@
  *   2. Fetch Google News RSS for each query (last DAYS_BACK days)
  *   3. Deduplicate by URL and title prefix
  *   4. Limit to MAX_INPUT articles
- *   5. Send articles + digest-prompt.md to Gemini Flash
- *   6. Validate response JSON
- *   7. Overwrite timestamps + enforce section caps
- *   8. Write to src/data/news.json (only on success)
+ *   5. Build source→link map for URL injection
+ *   6. Send articles + digest-prompt.md to Gemini Flash
+ *   7. Validate response JSON
+ *   8. Overwrite timestamps + enforce section caps + inject article URLs
+ *   9. Write to src/data/news.json (only on success)
  */
 
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -52,6 +53,7 @@ interface SourcesConfig {
 interface RawArticle {
   sectionId: string;
   title: string;
+  link: string;
   source: string;
   publishedAt: string;
 }
@@ -66,6 +68,7 @@ interface DigestItem {
   published_at: string;
   read_min: number;
   is_ui_update: boolean;
+  url?: string;
 }
 
 interface DigestSection {
@@ -102,10 +105,15 @@ function extractSource(item: Record<string, unknown>): string {
   const s = item['source'];
   if (s && typeof s === 'object') {
     const src = s as Record<string, unknown>;
+    // Prefer domain from url attribute — matches what Gemini outputs as source
+    if (typeof src['@_url'] === 'string') {
+      try {
+        return new URL(src['@_url']).hostname.replace(/^www\./, '');
+      } catch {}
+    }
     if (typeof src['#text'] === 'string') return src['#text'];
   }
   if (typeof s === 'string' && s) return s;
-  // fall back to link domain
   try {
     return new URL(String(item['link'] ?? '')).hostname.replace(/^www\./, '');
   } catch {
@@ -148,6 +156,7 @@ async function fetchRssQuery(
       return {
         sectionId,
         title,
+        link: String(it['link'] ?? ''),
         source: extractSource(it),
         publishedAt: extractDate(it['pubDate']),
       };
@@ -317,7 +326,16 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  // 4. Call Gemini
+  // 4. Build source → article links map (used after Gemini response)
+  const linksBySource = new Map<string, string[]>();
+  for (const article of input) {
+    if (!article.link) continue;
+    const list = linksBySource.get(article.source) ?? [];
+    list.push(article.link);
+    linksBySource.set(article.source, list);
+  }
+
+  // 5. Call Gemini
   console.log(`\n🤖 Calling Gemini (${GEMINI_MODEL})…`);
   const rawDigest = await callGemini(input, sections);
 
@@ -326,7 +344,7 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  // 5. Validate schema
+  // 6. Validate schema
   if (!isValidDigest(rawDigest)) {
     console.error('❌ Gemini response failed schema validation');
     console.log('⚠️  Keeping existing news.json unchanged');
@@ -335,18 +353,20 @@ async function main(): Promise<void> {
 
   const digest: DigestData = rawDigest;
 
-  // 6. Inject timestamps (never trust Gemini for these)
+  // 7. Inject timestamps (never trust Gemini for these)
   const now = new Date();
   digest.updated_at     = formatLocalISO(now);
   digest.next_issue_at  = formatLocalISO(nextPublishDate());
   digest.schedule       = 'по понедельникам и четвергам';
 
-  // 7. Enforce max per section + re-number IDs
+  // 8. Enforce max per section + re-number IDs + inject article URLs from RSS
   let idCounter = 1;
   for (const section of digest.sections) {
     section.items = section.items.slice(0, MAX_PER_SECTION);
     for (const item of section.items) {
       item.id = idCounter++;
+      const links = linksBySource.get(item.source);
+      item.url = links?.shift() ?? `https://${item.source}`;
     }
   }
 

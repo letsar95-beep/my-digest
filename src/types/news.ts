@@ -9,6 +9,7 @@ export interface NewsItem {
   published_at: string;
   read_min: number;
   is_ui_update?: boolean;
+  url: string;
 }
 
 export interface NewsSection {

@@ -9,6 +9,7 @@ interface Props {
   date: string;
   readMin: number;
   isUiUpdate?: boolean;
+  url: string;
 }
 
 const {
@@ -21,9 +22,10 @@ const {
   date,
   readMin,
   isUiUpdate = false,
+  url,
 } = Astro.props;
 ---
-<article class="card" data-cat={categoryId}>
+<a class="card" data-cat={categoryId} href={url} target="_blank" rel="noopener noreferrer">
   {isUiUpdate && (
     <span class="ui-badge">📱 UI-изменение</span>
   )}
@@ -41,4 +43,4 @@ const {
     <span class="sep">·</span>
     <span>{readMin} мин</span>
   </div>
-</article>
+</a>

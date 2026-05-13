@@ -37,6 +37,7 @@ const count = String(items.length).padStart(2, '0');
           date={formatDate(item.published_at)}
           readMin={item.read_min}
           isUiUpdate={item.is_ui_update}
+          url={item.url}
         />
       ))}
     </div>
