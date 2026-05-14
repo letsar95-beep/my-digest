@@ -2,7 +2,7 @@ name: Update digest
 
 on:
   schedule:
-    - cron: '0 5 * * 1,4'  # 10:00 Ekaterinburg (UTC+5), Mon & Thu
+    - cron: '1 5 * * 1,4'  # 10:01 Екатеринбург (UTC+5), понедельник и четверг
   workflow_dispatch:
 
 permissions:
