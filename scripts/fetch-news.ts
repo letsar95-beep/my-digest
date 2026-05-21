@@ -216,7 +216,7 @@ function parseRetryDelay(errMsg: string): number {
 async function callGemini(
   articles: RawArticle[],
   sections: SourceSection[],
-  maxRetries = 3
+  maxRetries = 5
 ): Promise<DigestData | null> {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
@@ -253,10 +253,11 @@ async function callGemini(
     } catch (err) {
       const msg = (err as Error).message ?? '';
       const is429 = msg.includes('429');
+      const is503 = msg.includes('503');
 
-      if (is429 && attempt < maxRetries) {
-        const delaySec = parseRetryDelay(msg);
-        console.warn(`  ⚠ Rate limited. Waiting ${delaySec}s before retry ${attempt + 1}/${maxRetries}…`);
+      if ((is429 || is503) && attempt < maxRetries) {
+        const delaySec = is429 ? parseRetryDelay(msg) : 45;
+        console.warn(`  ⚠ ${is429 ? 'Rate limited' : 'Service unavailable (503)'}. Waiting ${delaySec}s before retry ${attempt + 1}/${maxRetries}…`);
         await sleep(delaySec * 1000);
         continue;
       }
