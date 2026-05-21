@@ -42,5 +42,6 @@ jobs:
             echo "No changes to news.json — skipping commit"
           else
             git commit -m "digest: auto-update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi
