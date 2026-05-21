@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T12:30:53",
+  "updated_at": "2026-05-21T16:26:06",
   "next_issue_at": "2026-05-25T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Почему Paystack перестроил свой дашборд после десятилетия работы",
-          "description": "Глубокий анализ редизайна, который дает понимание продуктовых решений и процесса переосмысления UI/UX спустя много лет.",
-          "source": "techcabal.com",
-          "favicon_char": "T",
+          "headline": "Обзор топовых AI-технологий и инноваций в UI/UX дизайне 2026",
+          "description": "Phenomenon Studio делится экспертным руководством по лучшим AI-инструментам, которые формируют будущее продуктового дизайна. Это поможет дизайнерам Профи.ру быть в курсе новейших технологий и применять их для улучшения сервиса.",
+          "source": "bbntimes.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-20",
+          "published_at": "2026-05-19",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2RIckcxUUtuSmlXdUMzeEktRlRaaFhLV2x6N2VZWUlOa2o3U3V4dktqVXlfNDlEbUtoZU8wRHFtTE9YODAxRXNPbGJhRXBBT2p1TkxITU0xWGlFRGV0Yy1udWlVcGNrak8tWS1MLVgybnJiby12dEhiY01EdXZUQmtIdFZndw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWVQS0FwYzJ2Qzg0X1diQXZMeU1PMVZYYVFycHExM3l3MUxPRG5xOUM3QjZGSkc1VHZqSllnXzg4cG1zb0hra1E0cUxLVWF5MlMxS2FacmwyUVN3YkRCNGpfb3lrdkpESUZFWG1wek9oblp2eEg2ZTgxVUJzRVJCdUN1V3JsakQ1UGtHTzlSOGNXampaVWZFYW9haEJYRE8zeFJ3bENpY013MHNrUzI3NnFrR05vTHI2Tl91UTBTcnI1MVk?oc=5"
         },
         {
           "id": 2,
-          "headline": "UX-обзор: редизайн рабочих процессов, жизнь с AI и без него, интеграция голоса",
-          "description": "От Якоба Нильсена: обзор ключевых UX-тенденций, включая влияние ИИ на рабочие процессы и новые подходы к взаимодействию.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
+          "headline": "Эволюция дизайна финсервисов в США: от онлайн-банкинга до мобильного first",
+          "description": "Анализ 30-летней истории финансового UX демонстрирует, как переход к мобильному приоритету изменил ландшафт. Это важный кейс для понимания долгосрочных трендов и адаптации Профи.ру.",
+          "source": "techbullion.com",
+          "favicon_char": "T",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-18",
+          "published_at": "2026-05-21",
           "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kY21zU0VFaXBxTE5va28tTTAzR1JDeE1vd0tXbjFPTUtPWE53eDdLU3QzZnBSdnhacVVGdU5wX0VfWFJEOFhJcGM5MkswWTNEWUNzblRoSXZvSXJtWnJ6WDMwNFNOTnRhQ2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTktDUERzLXhQcHI2R2p5MU9IQVlUNUNqNVUtLVptZ3lQbm1pNWhqakNmS2F2U1BfbjhlY1hUWnUyQ1FzNDlMWVJOV1l3eFhCOXRfeXVZYllBMUtWVnRrc1l6OWNtRGQ0aHNoU3N6VHFhN3hwUHFSeXRwN3M1NHQxNEltTEY3V3NfMUFsNDRQaEg0VDlKS1l3MXN6dlUzc1VCczBPc1RYTU9RRW12eTlpV2trNzBHNEZLRHZsV1FMcw?oc=5"
         },
         {
           "id": 3,
-          "headline": "Как Чжунци Фу проектирует человеческий опыт в интеллектуальных системах",
-          "description": "Взгляд на подход к дизайну человеческого опыта в сложных интеллектуальных системах, что важно для продуктовых дизайнеров.",
-          "source": "designscene.net",
-          "favicon_char": "D",
+          "headline": "Paystack обновил дашборд: чистый UI и новые AI-функции",
+          "description": "Paystack представил редизайн своего онлайн-дашборда с более чистым пользовательским интерфейсом и интеграцией AI. Это пример обновления продукта, где ИИ используется для улучшения пользовательского опыта.",
+          "source": "techlabari.com",
+          "favicon_char": "T",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-20",
+          "published_at": "2026-05-21",
           "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SU0xpVTV5NlZ3SlRoeFhubVBBVVdBN0NWdHVCbVo0eTZpaDZoUjFmaDFSV19Db3dqRFpuSW5odHRXblR4UnZIUkQ0X25IWWJOXzF6U3pqSVhpeGJqQlZVQw?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRW5OeGctc0lGLXI5Rk5KeFI5OXYwLTM2N2RVdWlQZUpsOXB4Q0o0bW83RDZJdERpWEdjTGdBM0wtTmtCaTJnVGZhYjliUVBpNEF1S3RzY25jWHRnVG9UNGM4RVlPeG45NlRMY0QzS3djbWo3VG1ZWThtSk1ndFNqaG1xT3hReWhmQkd1Zk5wQkt2MGFxcHMzVFczcFhhUQ?oc=5"
         },
         {
           "id": 4,
-          "headline": "Лучшие AI-технологии для UI/UX-дизайна в 2026 году: как выбрать компанию",
-          "description": "Обзор трендов использования ИИ в UI/UX-дизайне и советы по выбору партнеров для разработки продуктов с учетом ИИ.",
-          "source": "technology.org",
+          "headline": "Почему Paystack полностью перестроил свой дашборд спустя десятилетие",
+          "description": "Глубокий анализ причин и процесса редизайна дашборда Paystack, который не менялся 10 лет, предлагает ценные уроки для продуктовых дизайнеров Профи.ру о масштабируемости и долгосрочной стратегии UI.",
+          "source": "techcabal.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-18",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkgwV1JkV1gtcGFteTJsWUZLazI0OEt5VkZjYUczSktrRWJYeDRoVlFxdFEyenYySDJIMXBtVEFqalVtQlRPaVZRRFVPbDk4QXBBbEg0bzJlYUxsWUYzaDJUSmJVSVlILTE5RmpZLVl4MmQteU0tUWhhQWEyN1Bjb3NHb3E3LXVrVWphWnFPb1RhM2lGc2kzUE9pSlZFdk91LTdnMWp2QWRKSGQ0bW16eUN1YXdieGtYRnpFTkRpVVNlY1EwZXRpWlQ5NnhhMnAt?oc=5"
+          "published_at": "2026-05-21",
+          "read_min": 7,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2RIckcxUUtuSmlXdUMzeEktRlRaaFhLV2x6N2VZWUlOa2o3U3V4dktqVXlfNDlEbUtoZU8wRHFtTE9YODAxRXNPbGJhRXBBT2p1TkxITU0xWGlFRGV0Yy1udWlVcGNrak8tWS1MLVgybnJiby12dEhiY01EdXZUQmtIdFZndw?oc=5"
         },
         {
           "id": 5,
-          "headline": "Как использовать Adobe Creative Cloud в 2026 году: руководство для профессионалов",
-          "description": "Актуальные советы и тенденции по эффективному использованию инструментов Adobe Creative Cloud для дизайнеров.",
-          "source": "cio.economictimes.indiatimes.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-18",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVh1U244VWh6dG9yOVIzeVJGZnZHblltWVZ5R0ZPODRfVHRneGdfSUVsNkFsUnpVMkJlc280WkV6RWRvV1JHV085S05YYnQwWmtFZ2JaM0lSN3dsdzRoU0hxRzNEdjVFUUxSQVR3dFNUNkdhY0JpVVAzYTFucG85dTJvMzVoaE1jNU5XY2g4eGZFemwzNlFHcE9fMjZVaUowOGVzQnR4NFNfYW5pNEt3?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Данные в реальном времени становятся фокусом тестирования продуктов",
-          "description": "Важность использования данных в реальном времени для улучшения тестирования продуктов и оптимизации UX-исследований.",
-          "source": "blackpressusa.com",
-          "favicon_char": "B",
+          "headline": "Как улучшить UX-исследования с помощью эффективного ведения заметок",
+          "description": "Советы по улучшению практики заметок в UX-исследованиях помогают систематизировать информацию и выявлять инсайты. Это повышает качество исследовательской работы для команды Профи.ру.",
+          "source": "aol.com",
+          "favicon_char": "A",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-20",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajhNT2VPRUJyVjMxM1E2QnhtcVc0THlUVVFkYnRKYlozWXNibS1UTjhVRnduN3NlTm5fdFJpR0V5dVlDZ3pDR1VJUTlFRGJYSW1UWktQRVlmQ1FLdG1PbWdqbmozNmYwNTBPM1AtTFpfckNNOGRoNVdSRU0tdEp4bVIwNzN2MTh4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52c1VIc0FBQmxSQmRDRzNUNlRjSWlYNWd3X2k0NWl4djVmV01RQnUzdFo1Q1JXT1dUaGo3akZ1VjBVM1h0djYxVC1wODZnMXEyaHF6T0c2MWdVU282aWt1WmdLTEwtNC1ueGRSUWw1bHU2akVPSi1law?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "UX-обзор: редизайн рабочих процессов, ИИ в дизайне и интеграция голоса",
+          "description": "Свежий обзор UX-трендов охватывает редизайн рабочих процессов в студиях, влияние ИИ на дизайн и новые подходы к интеграции голосовых интерфейсов, что актуально для развития Профи.ру.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-18",
+          "read_min": 8,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kY21zU0VFaXBxTE5va28tTTAzR1JDeE1vd0tXbjFPTUtPWE53eDdLU3QzZnBSdnhacVVGdU5wX0VfWFJEOFhJcGM5MkswWTNEWUNzblRoSXZvSXJtWnJ6WDMwNFNOTnRhQ2c?oc=5"
         }
       ]
     },
@@ -91,20 +91,8 @@
       "items": [
         {
           "id": 7,
-          "headline": "В Яндекс Вебмастере появился инструмент «Баллы за отзывы»",
-          "description": "Яндекс запустил новый инструмент для оценки качества отзывов, что может повлиять на репутацию и выдачу поставщиков услуг.",
-          "source": "m.seonews.ru",
-          "favicon_char": "S",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-19",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2Z2YmNNQ19NTjVkd25hX2Y2NDkzUUxid1RLSWpJNm1FUjh1SHZvamFCbGJnSzRKbVJjbl85bXh4UlNTblZUWF9jSzZISWp3bVMzVHR4eF9LODhaeDQ1clBTUTNkaWprV3MtUEZsNWdoa2loaE9GbDN0eGRkU0w2dmczQTBpbUNPQlpSdi1VazBlckJLVnfSAZYBQVVfeXFMUG9mdmJjTUNfTU41ZHduYV9mNjQ5M1FMYndUS0lqSTZtRVI4dUh2b2phQmxiZ0s0Sm1SY25fOW14eFJTU25WVFhfY0s2SElqd21TM1R0eHhfSzg4Wng0NXJQU1EzZGlqa1dzLVBGbDVnaGtpaGhPRmwzdHhkZFNMNnZnM0EwaW1DT0JaUnYtVWswZXJCS1Z3?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "«Алиса AI» в «Яндекс Go» поможет с покупками и подберет товары",
-          "description": "Яндекс Go интегрирует Алису AI для консультаций и подбора товаров, улучшая пользовательский опыт в сервисе заказа.",
+          "headline": "«Алиса AI» в «Яндекс Go»: консультации, подбор товаров, заказ такси",
+          "description": "Расширение функций «Алисы AI» в «Яндекс Go» позволяет ей не только консультировать и подбирать товары, но и заказывать такси. Это пример амбициозного развития мультисервисной платформы, конкурент Профи.ру.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
@@ -114,9 +102,9 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWZJZFNMQmc5VE1qNlhLQkhLemsyT0VhVTB3WGFWTVVjTVJzam9jS3FsRFFaUGZDV2ptSU8tVnd0czhMR0VIUmJYd2lSTUlVMTFMdUE3NjY1MnExUWI4Sm5ZRHNMQ1FBZi1mNGpPaVJHVjJjVWZjb3VjX3RiNzdEbS1MazNnVFNpWGRSRjNHd2M0bVd1SDN1M1RyU1RlRkwtMjB0NDhVZV9jQzFza3U3Tk83al9QRk9pa19FcnRSMHhsZndlNHBz?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Яндекс открыл магазинам самостоятельное подключение продаж через «Алису AI» и «Поиск»",
-          "description": "Новая возможность для интернет-магазинов самостоятельно подключаться к продажам через ИИ Алисы и Поиск Яндекса, расширяя экосистему.",
+          "id": 8,
+          "headline": "«Яндекс» открыл магазинам подключение продаж через «Алису AI» и «Поиск»",
+          "description": "Новая возможность для интернет-магазинов самостоятельно подключать продажи через «Алису AI» и «Поиск» упрощает интеграцию. Это может расширить предложение «Яндекса» в сфере услуг и товаров.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
@@ -126,40 +114,52 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjhtckxlUVhBX1AwLVJ6OV9FSGR4bG5YbVdNMmItWjBsRjlheDBCVkZpd3U2SUU3ZkZCS2pZNG1lWjZsdFZVN2NYWmxfOXBMd1dtWE16cDBOMHkzMlI5bHlURncybUxja0ZLdjFpLW5HMWhKZ3REUjNjTHlIM09rYXdXSm50bE44Mm1JRXBueUFlbmotSnk3UkhFN1J0aTcxWEpual81akhCN2FjeW9RRzQtREU0XzR6bkhhNEhTcm90NXdOejV3bGV3?oc=5"
         },
         {
-          "id": 10,
-          "headline": "Скидки до 50% на поездки в «Яндекс Go» для держателей карт «МТС Деньги»",
-          "description": "Яндекс Go предлагает выгодную интеграцию с платежной системой МТС, стимулируя пользователей к активному использованию сервиса.",
+          "id": 9,
+          "headline": "В «Яндекс Музыке» радикально обновлена функция «Моя волна»",
+          "description": "Обновление ключевой функции «Моя волна» в «Яндекс Музыке» может улучшить пользовательский опыт. Хотя это и не сервис услуг, но показывает работу над персонализацией и UI в продуктах Яндекса.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-05-19",
+          "published_at": "2026-05-20",
           "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYy05SElYV3RnVXFuVWQ4WjZwcnNLLXBYdEkyV2FjMHN4dEI5VU5kdnB0anR2eFdkYTlFWUdZX3ZVVUxUcnlNTDlPeHFPazhiUDV6cm54NnpxeWJ3Ykk1RFlBb2swc25RU3BUd2lHVEtxNmtjUHlwdUFwNTFZTm9qQUVQZVRDZFVZbTNLMlhNM19udUo0TXNXLTR5ZFZET0dmSGZaUFlkWk5TaHZfdFhFMjNTODhpaHRMRVY3d3F1dEJQUQ?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnAyTk5RSXRhZ281cW9wWWRQS2N4Uk9fSXJZRjFxV19VdW1DajRKM0dnZExPUzlmWFFYcDVOTm5UTXBzVFR4bzVnR2FoY1pWNVZscWoyRE5wVjZFbmVqajdiYkQ3R3ZCLW1Lb2d1a0R4V1IydDUzRXV6ZFdqYm5oTW1BcGJ3UGhyUGJKSHgxX0xia1V5ZG5FTUhBbHZZekpsTzNF?oc=5"
         },
         {
-          "id": 11,
-          "headline": "«Авито» обновил кабинет: новые таргетинги для продвижения",
-          "description": "Авито внедрил новые опции таргетинга в кабинете, что дает продавцам и поставщикам услуг больше возможностей для привлечения клиентов.",
-          "source": "adindex.ru",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-18",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2a2ZWU2VSSnN0cVFNcTVJZGdVWXRid1VRYjVvUFlEUnZqS0RtU1dpaGszX1piazJ3Y0lLWUF5QVBvX01OeHgxLWdvMGc3bXpOQkNBM3k2akZaQU5iMkRPZVFFSzhha0k?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "«Авито Подработка»: рост интереса студентов к вакансиям флористов и поваров",
-          "description": "Авито анализирует рынок подработки, выявляя растущий спрос на определенные категории услуг среди студентов, что важно для рынка труда.",
+          "id": 10,
+          "headline": "«Авито Работы» запустил новый инструмент «Мониторинг рынка труда»",
+          "description": "Новый инструмент «Авито Работы» для мониторинга рынка труда поможет компаниям в найме персонала. Это усиливает позиции «Авито» в сфере HR-услуг, что может влиять на конкурентную среду для Профи.ру.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-21",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnAyTk5RSXRhZ281cW9wWWRQS2N4Uk9fSXJZRjFxV19VdW1DajRKM0dnZExPUzlmWFFYcDVOTm5UTXBzVFR4bzVnR2FoY1pWNVZscWoyRE5wVjZFbmVqajdiYkQ3R3ZCLW1Lb2d1a0R4V1IydDUzRXV6ZFdqYm5oTW1BcGJ3UGhyUGJKSHgxX0xia1V5ZG5FTUhBbHZZekpsTzNF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYy05SElYV3RnVXFuVWQ4WjZwcnNLLXBYdEkyV2FjMHN4dEI5VU5kdnB0anR2eFdkYTlFWUdZX3ZVVUxUcnlNTDlPeHFPazhiUDV6cm54NnpxeWJ3Ykk1RFlBb2swc25RU3BUd2lHVEtxNmtjUHlwdUFwNTFZTm9qQUVQZVRDZFVZbTNLMlhNM19udUo0TXNXLTR5ZFZET0dmSGZaUFlkWk5TaHZfdFhFMjNTODhpaHRMRVY3d3F1dEJQUQ?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Ventra Go! запустила новый сервис «Маркет вакансий»",
+          "description": "Новый «Маркет вакансий» от Ventra Go! расширяет предложения на рынке труда и услуг. Это создает дополнительную конкуренцию для платформ, таких как Профи.ру, в поиске и предложении работы.",
+          "source": "xn----ctbfecatgqygb5apl.xn--p1ai",
+          "favicon_char": "X",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-20",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTEt3UW9tWUJNS254N0JTRmVmREgwMkdVb0NmYmRVeXlzSHRHdndoZjJfZ0t1dENnNkZsTk43d05CeHRfRVAyd1dMZlhhWTBJWWhNQ0F1Z25FTzdtc0VvZUp2eHR4dlVybjM3WlpOZ0xNQzJGTHptTlJqYzIyOFE3UHlNTjNIWDJOU2lOVURwcXJYdHU0M3lTMjY2OGdEa2pfX0hWQWY0MXV3SWNxSlJMNW1xLUtIWDBsMld5R3pyUmxic0FpdXFLekl5RkdrcGNIeVBPNXFn?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Пользователи «Яндекса» жалуются на рост цен и рекламу в сервисах",
+          "description": "Негативные отзывы о повышении стоимости подписки и обилии рекламы в «Яндекс Плюсе» могут указывать на проблемы с удержанием аудитории. Это важный сигнал для Профи.ру в контексте конкуренции за пользователей.",
+          "source": "www1.ru",
+          "favicon_char": "W",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-21",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0pHR1dCLUszUW9iVzg2R29STTNDMldFMzhWcGkwSGIxUkFTVDVVbkR3WEdIUnptbF9oUVFJVk5EZGRpTU5yODFkc2taTkNJUzN0a0V4azUzdnd1STQ3cl9NRWo0MTRlRWt3UVJKc05OQktydlU0YWMzWFA3ZkI1Q2V6MHJSRUVQYzNkYVpRczJjNlpNTXJGV0JPekxsbnpVRWlrbEo1N3cyWG1oOTlfSnVLc0FKNE9KYzNzdTB4c9IBxAFBVV95cUxNSWtjSUYzaUNmR2pvdkJDMEtyN19oZlpmYndjT3dHbzVGLVZTS1VDTkxXU0ZBLXNJR0NBOGNVaFZrTGZTb3dyNjVESzdpbkFkUU1PZms2VzVuQmw0aE9uMzBzNVRQZEJ6VTNid0dLNTRTczVqLXJTZ2pGR2JRaDBySEpPWWQ1allXUlFVTU1QbnczeU5zYkFGTEZhNURNV3JTYV9pRUFkVzRsbmZqSzNWdThGMWhPRTA3MW5VT1lQTEU5YXJP?oc=5"
         }
       ]
     },
@@ -171,32 +171,56 @@
       "items": [
         {
           "id": 13,
-          "headline": "Google объявляет о себе как об игроке в AI-дизайне на I/O 2026",
-          "description": "Google официально вошел в сферу AI-дизайна, представив новые инструменты и направления на своей конференции I/O, что меняет ландшафт рынка.",
+          "headline": "Google заявил о себе как конкуренте в сфере AI-дизайна на I/O 2026",
+          "description": "Заявление Google на конференции I/O 2026 о намерении активно развивать AI-дизайн сигнализирует о новом сильном игроке на рынке инструментов для дизайнеров. Это подстегнет инновации и конкуренцию.",
           "source": "techcrunch.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-19",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JkQUZ0WXJRM2NIdTdVaC0xZURESllEMGsyZ2cwb2RFbVMzVXVEeVp0UlU0d3VMZC1pUVFPcmEtTVlWQmxKRXduNGZHWTlIQ0ZEX1BZeU95ODRZeVdpQ3M2ME5waDZ0amJUZzZ1azBVZ1JyYURxdS1EVV9yS0UzdXA1Y1k0MU1kdzZrUWhKdURfSFhBUlBNTERITDhjLThYclFWVU0za2VtQ2JWWHFtYVh6UEZ5TkxrZ1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGx6ZVpHYk5xY0loaUU0OWtvbWRLWGs4cTh5YmlQOXU2NUVhNllXY0hmMFladkJxQlJ6NG81QjFYcGFPOEdCV0YtU052MFo3S3Z1SXhtdVRVTWpPZlQtMDMydnhOTnJBbkg2MXhKdU5UdW1SZDB2X1AySl90OGEtQktvU1llYjdiaHZGdzNUQllSdEdPZkRWUnZpWW9DcmlLTnp3?oc=5"
         },
         {
           "id": 14,
-          "headline": "Google I/O 2026: Stitch перестраивает рабочие процессы AI-дизайна",
-          "description": "Новый инструмент Google Stitch нацелен на оптимизацию рабочих процессов в AI-дизайне и разработке, обещая значительные изменения для команд.",
+          "headline": "Бесплатные AI-инструменты и модели с Google I/O 2026 доступны для теста",
+          "description": "Google выпустил множество новых AI-инструментов, которые можно опробовать бесплатно, что дает дизайнерам Профи.ру возможность экспериментировать с передовыми технологиями и интегрировать их в свою работу.",
+          "source": "mashable.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-19",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82RWNBcG5EbnJJbnZCUGg3Rnh4YXRKTWFMZVV4M1FNM0ZmZXJXVzBQQmRUUnJoRmo0UFZRRHVIbG5reW9MMGNwdnhQQjg4RnoxUXN4TUhRX1R1V19mSXFJeml1TkxQcmQzeHBLX0hyZE5PUEFxazNmcGlB?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Google Stitch меняет рабочие процессы AI-дизайна и разработки",
+          "description": "Google Stitch, представленный на I/O 2026, обещает радикально изменить подходы к AI-дизайну и разработке, предлагая новые инструменты для оптимизации рабочих процессов и создания интерфейсов.",
           "source": "digitimes.com",
           "favicon_char": "D",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-20",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkwwU2JxczNaX2ViQ0d0Zjk2OFBQeE1fTkFkbGdSRnAyYzJyUXNneWpzZnZuMy16Rlh1b1VvTXZybkV3NHZ5Vy1LeUpMTjZjWll3NUlubGx0RGI0YXVBNDZKUGJlZWhBc0hoQmo2N2ZuVlYzU0hDZFhaSzhrVEp5REJBZFlnVTlvbF9QVUJuLTU?oc=5"
         },
         {
-          "id": 15,
-          "headline": "Google Stitch запускает AI-агента в реальном времени с мультиплеерным редактированием",
-          "description": "Google представил Stitch с AI-агентом для совместного редактирования в реальном времени, что создает конкуренцию Figma.",
+          "id": 16,
+          "headline": "Figma запускает собственного AI-агента в партнерстве с OpenAI и Anthropic",
+          "description": "Сотрудничество Figma с лидерами AI-индустрии для создания встроенного AI-агента знаменует собой крупный шаг в развитии инструментов для дизайнеров. Это упростит прототипирование и генерацию идей.",
+          "source": "dataconomy.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-05-21",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWxzQ205QjNleGlRVFZxcy01MmVoa2VtNFFGbDJqZUFtRnFZbnJPbFFXdWVRbDItam5kQUdWRkxFT3RQSUNNQjNXSzRzYXE2RkNmRmdnUGN6SU5tQjVxYVFRV2x2V082R2l2M1pFRTRSWEZua2EyODJoOHoxaFR0YUowU2RxbkJKVFFFejZkNA?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Google Stitch: AI-агент в реальном времени, мультиплеер; Figma взимает $15/место",
+          "description": "Google Stitch представляет новые возможности, включая AI-агента в реальном времени и совместное редактирование, конкурируя с Figma, которая вводит плату. Это влияет на выбор инструментов и стратегии для команд дизайнеров.",
           "source": "techtimes.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
@@ -206,40 +230,16 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORHhCOGtzXzlXVEZRc3A0VUxPWmJ0aDFfdU1zYVpMM1lRWnhCS3k0UUNfRjQwdEFiVWZFTE9hQUFUT3JuOENiLTBIZGtrN2J4VFlkcXhBck9FQ1RNb1NsYzdNeF9Gc0ZyRjFSQ0hDTGFKWEY0elR6RS1ld0NCYVl1dUdjNnZoaXVlX0o2ZW9ZeHQtOFdjZ1BBdG9jZ3dWLVY3U2w0Nzh1eDM0QzB3cVNxNFpWQ2lubExQa2d4UHEyaFdYVWZQdUh2WXl3YldkLWhTbWFXcw?oc=5"
         },
         {
-          "id": 16,
+          "id": 18,
           "headline": "AI-агент Figma знает ваш дизайн лучше, чем вы сами",
-          "description": "Figma усиливает свои возможности ИИ, предлагая агента, способного понимать контекст дизайна для более эффективной помощи дизайнерам.",
+          "description": "Новый AI-агент от Figma обещает понимать и предвидеть дизайнерские решения, значительно ускоряя и улучшая процесс работы. Это может кардинально изменить взаимодействие дизайнера с инструментом.",
           "source": "rollingout.com",
           "favicon_char": "R",
           "favicon_color": "#6750A4",
           "published_at": "2026-05-20",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdzNDU2xITEdTOUVHSzFMTjZjNjRIcmo5bGtQd2JZSFNRdWgtb0VzOGY2ODBYd01JNGxJd0xWVjR0c3g4ZTZCWXR6VXMtV1FoOHlTeVN2d1NxbHdMcWV2MFA1R2xFSnpzRHZiU3hTZWdkMFRYejZN?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "AI-дизайн становится полем битвы, Google полностью входит в игру на I/O 2026",
-          "description": "Рынок AI-инструментов для дизайна превращается в арену ожесточенной конкуренции, особенно после масштабного анонса Google.",
-          "source": "cxodigitalpulse.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-20",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVVDQ1BqYXpaS2lCNW1Nb2pYV25pb3dHNnlWMk1fYmROMnQzNTVwR3JVQWRrUENuNlNEQ3BUOFVyYWluWEhXWlZCRERHbmRSalRWQ29WOXFOb1ZTS0ZFc29PVHJOWkRSM19RRVhXWDRMa3hYODJHR3FxWVhYckh6N0tzZE5hNXFwQUZWMERqZUtwbVZMdE01enJXNWNCdmVuTnZmMTQ1TjNkMm91QzF4d3lVNXYzcEJmMjZ6cQ?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "Google Pics конкурирует с Canva с помощью AI-дизайна для Workspace",
-          "description": "Google интегрирует функции AI-дизайна в Google Pics для Workspace, напрямую конкурируя с Canva и расширяя возможности для пользователей.",
-          "source": "mexc.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-19",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9na1ZOSWxBMTNRaFdXbjVEVjFhOVJKSENTMUpTOE1hbmphdDNaWVc2YlU4N1ZtLUkzUUdnMGwyUWJIZUZrUFk0Sw?oc=5"
         }
       ]
     },
@@ -248,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 19,
-          "headline": "Как использовать Alexa для сравнения товаров и автопокупок",
-          "description": "Alexa от Amazon предлагает новые функции для покупок, включая сравнение продуктов, отслеживание цен и автоматическую покупку по целевым ценам.",
-          "source": "aboutamazon.com",
-          "favicon_char": "A",
-          "favicon_color": "#FF9900",
-          "published_at": "2026-05-18",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlk4QXJhNGNlNGxTamZaMm5QbDloYjY3bHFTbEVHR1pfT0I5dDBCQUk4OHJhbGFwN1I0ZGkteXN5TzlzOGVpMTNfOWJyNUJfYjAzQlUzQTNmUDFPSnVDdEdWZTV4X1FZaVlzQ01oYXpSdEttdmRGTHFDanJ1U0xNMHNOamstdw?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
