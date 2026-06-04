@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T05:03:21",
-  "next_issue_at": "2026-06-04T10:00:00",
+  "updated_at": "2026-06-04T05:04:04",
+  "next_issue_at": "2026-06-08T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Тренды UI: «Тихая роскошь» для премиальных брендов",
-          "description": "CodeBiosis выделяет тренд Quiet Luxury UI, фокусирующийся на минималистичном и изысканном дизайне, который важен для создания элитного цифрового опыта и соответствует ожиданиям премиум-аудитории.",
+          "headline": "Apple назвала победителей Design Awards 2026",
+          "description": "Награды присуждены за инновации и доступность. Дизайнерам стоит изучить кейсы победителей для вдохновения и понимания трендов.",
+          "source": "m.economictimes.com",
+          "favicon_char": "M",
+          "favicon_color": "#1473E6",
+          "published_at": "2026-06-03",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEoyTjdEbkpuUUhzV0lqR21jREZkMHdad2VyZHE4bGw2NEZ2aXVxYWxxNmZNbWg5MTdaRXhrVW5vUkNnWUEwUHJMNXl3VHh1SmJtdVIyQl8xSllhSFdtN3Qtd1ZuYkdHYjhrbklUVGd6bm5jT1dwZ0h5VlJOMWszM3lfUTlhMXpOVDlnbUFhRm5KVENfNFlIaHJoaWlsSzhOWFA0SmFEQzI0RzlBQkZzTUVxczNnT0E1UWtpdDcyeWtQMmJCX05UTl9TWVV6RFJINS1FV3puaWN1WVp6NWRTMkMzNFV2VUk20gHuAUFVX3lxTE80YWZ3a1FERXY1d3NBWDVCZEJkcFJ5YlBlNGFZSHBsQXZHR0tiQlFoWm0yTEd3RGdsY3hpQnZUclNSMmt1MVRUQnBqVTF1d09uYkNTek82aEQzdF9oN21oMkw0Y0ZscF9md0RPeDV4TTFacjk1bXJqTWR6djJqbHV4QTQ5TFlsWUlydElOLUgxNnVyRkU0ejBlbVlMcS0wajVmZ3hEOEtKeldPcWw0MjdYb3ZlcVE1a25xUGZVeVJDSUJtUlJabGVZdHJ3TUNneTc2VWRHSXFJLXQ0U3MxdVJiY2d1X3Q3Y2RJd3o4WEE?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Ключевые аспекты веб-дизайна e-commerce: UX, скорость и конверсия",
+          "description": "Материал о том, как профессиональный подход к UX, оптимизация скорости и фокус на конверсию влияют на успех интернет-магазина в 2026 году.",
+          "source": "openpr.com",
+          "favicon_char": "O",
+          "favicon_color": "#6a0dad",
+          "published_at": "2026-06-04",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTNFbW10RHlSaEc3Zy0tX2VCVC1vMkliNTE2QXM1c1pneUNEV1NCV2p1a21oM2VHcUs3NHMzeFZNYXRNYS1IQUc0bFFSNXVUZkFaQi1XYUZiOGRVN3RqQ3V6bk4xSGJGOFRBWVVtclpTc0FxX2VfSkRuNk9iTmJkLXlBOWdKY0t0aUVYU2RCYmtrNTQzNzQ4Yy13VQ?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "Тенденция «тихой роскоши» в UI для премиум-брендов",
+          "description": "CodeBiosis отмечает, как минималистичный и утонченный дизайн интерфейсов становится ключевым элементом для цифровых продуктов люкс-сегмента.",
           "source": "tipranks.com",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#000000",
           "published_at": "2026-06-01",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2ZyVFBKU1pXZzVraHNBb3llcTZMX3hwZlFxdzkzU1Nhcm9rVEx3QWdoU3JrcGZwemYtTU9Ua29maEJXdjFpV0VuRmRETVFrTXlGZmtSYUd0ZTI3N3NjZHE0bzVGT0ViejFQZC1QRE9TdHQwSXpLQ2dKYlRxVTU1ZjI3cDNLb3kyaTFGeUdXRDVpV2NYeC1nZDYyczZRbEl6M20yQ2RTMEFTY2dlNFdyVDlCaXZVOU1fQWc?oc=5"
         },
         {
-          "id": 2,
-          "headline": "ИИ убивает пользовательский опыт? Исследование Wharton School",
-          "description": "В статье обсуждается влияние ИИ на UX. Для дизайнера это повод задуматься о балансе между автоматизацией и человекоцентричным подходом в создании интерфейсов.",
-          "source": "knowledge.wharton.upenn.edu",
-          "favicon_char": "K",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WTkdxSVZ1aXg2WmJUaW51THBBbnRpX1BsVDdqRVBFeUxIbHBrRElfRVNWNl9wS21oOThyV1VTV0tFbUlFUmpsZ2FsYUppelh5U05xRXpCVXhEbEtoaVhPSEpRaFFkRXZWbGdkWm80S2l0SktXWXB5RXpjdjJYZGs?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "Переосмысление цифровых библиотек для людей с нарушениями зрения",
-          "description": "Профессора UWM работают над улучшением доступности цифровых библиотек для слабовидящих. Это подчеркивает важность инклюзивного дизайна и исследований в области UX для широкой аудитории.",
-          "source": "uwm.edu",
-          "favicon_char": "U",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUZNR3lfMWpHR3cxV3VVdV9Odl9wdmpBM3BYb2ZTOEN4dTBXOEFSRTliUnY3X2VqbnVtUmJqdTZxYXNkUG9tUUNaVXQzV2lxSWJSc3ZtSlNCNkVySmhGQi1jNE5NdFFjb1VSblFjWm93bjE0SEp4UUplNkZQQjd3Yk05S2lrZExUbGR6aGR1eUc0NlVKZHNoVkFwaDk?oc=5"
-        },
-        {
           "id": 4,
-          "headline": "Ошибки дизайна, стоящие игровым сайтам тысячи пользователей",
-          "description": "Кейс-стади показывает, как неудачный дизайн может привести к потере аудитории на сайтах ставок и игр. Дизайнерам стоит изучить эти примеры, чтобы избегать дорогостоящих ошибок.",
-          "source": "breakingac.com",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-01",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTVqY0tnSlBUMFJRb2tZekotbjlSeF81NUlNbjM4bmtSRzVOLVlmYnpjR2dVcFc4SmpNdGxRUnpTNkN2bHdkeHk0b214TFRQSXk1T091QVp5ZEx5ekVxTkpnX1luLUFMc3JoSi1SQnJNSWNibWJkeDVXMzM4OHBSdkxMRnRILUJnSGljbTlaM0tSX3NTcDdNMk8ydmNvRUQ3Z21kbDg3NFRQZkhzbXJHag?oc=5"
+          "headline": "Capital.com обновил мобильное приложение и бренд",
+          "description": "Редизайн сфокусирован на принятии «лучших решений» пользователями. Это важный кейс по изменению UI/UX для повышения удобства.",
+          "source": "cyprus-mail.com",
+          "favicon_char": "C",
+          "favicon_color": "#800000",
+          "published_at": "2026-06-03",
+          "read_min": 4,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVFwalV1TURKYTNKUkw4b1JkWm0xVEN5QjVCOHBUb1JFT29GalpTazNEc05XUEtaSVR1WUJNa2lLTlFEaExJXzNQZlQ5eWlfVFhCdFRxa0Jfdk9wRENKZnpWU2E4RmFfaHRfN1l6NFRFSkZZTGl0UFIxMFZPX21DQlJYVDhQcHplTDVfMU9TZHZZVHBHR1MyVzN1TnFHeXI2WXhkbk5vZHpWMThZb25sSm53?oc=5"
         },
         {
           "id": 5,
-          "headline": "Capital.com обновил мобильное приложение и бренд для лучших решений",
-          "description": "Платформа Capital.com провела редизайн мобильного приложения, сфокусировавшись на принципе принятия лучших решений. Это показывает важность пользовательского опыта в финансовых продуктах.",
-          "source": "capital.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-01",
-          "read_min": 4,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS19JQzFwMWxRdTI4SUc5WmI1a2FZVmVLSzJWUUhPendma2NKc0JCVUo2b3Fnd0k0cWFFUTVFYjY5R3pfUUtFd1ZxOGF2WGxaY21fTVBVMEhmSDltWUVWb3A5ZEFUT3ZWV0s1STZIdFRpUWhZelppWjdpdWlDeWl1emllY0hsd0JOUUVz?oc=5"
+          "headline": "Рынок клиентоориентированного дизайна переживает бум",
+          "description": "Nielsen Norman Group, IDEO и Frog Design лидируют в тренде. Это подчеркивает растущую важность UX-исследований и пользовательского опыта в продуктах.",
+          "source": "openpr.com",
+          "favicon_char": "O",
+          "favicon_color": "#6a0dad",
+          "published_at": "2026-06-03",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3Z3Mk9xZ3M4U2l1alQxekN4X2RsYlVlWHVqS0h6SFZrZlEtbDlvWjBOOVU3MG5DbEVMZVJTNFZ5Nk91SmFLOTRkSldJMmh1T2s2NmRDaFhYaEM4NkloM0JHR2xBalFqT3VBYTJBTTFVdDg1U3B6eVh3eHNqOFZyZndNUWVzdlRQZkwxOXRZcmduSVE?oc=5"
         },
         {
           "id": 6,
-          "headline": "Главное правило Google — «фокус на пользователе»",
-          "description": "Изучение основного принципа Google, который помог компании стать триллионной. Дизайнерам полезно помнить о постоянной ориентации на пользователя как основе успеха продукта.",
+          "headline": "Правило Google: 'Фокус на пользователе' помогло создать триллионную компанию",
+          "description": "Принцип, лежащий в основе успеха Google, актуален для любого продукта. Он напоминает о важности глубокого понимания и удовлетворения потребностей пользователей.",
           "source": "msn.com",
           "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-01",
+          "favicon_color": "#0078D4",
+          "published_at": "2026-05-31",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQk1EV191WDV2VGFCNGFvZjZIMGJpMnhWaHR4RlEtaElhakFMVGtncDE5dllCQXJTSXRjY0J3d0w4eDRsNjZYSVFwajZDTlRaMlNCSFNBSjhsSzlpM3A0LWdhWUt6NVVlTkUxUlotRDYwa2VoamJXbTN0S3ZEZmlMRkFpZkxydmY0UU9Ma3Bvdm9kWFUweW94aHJIYmpJY1Njbl9NQmcxRXExdy1LcGdlaEpaNXAwc1N1NGQ3b2FZQk9lS1QzankyS0V3eFVTcFliaF9pLXZ5U3UzakZiTlE3RGthY3EzNGNMZVNjXzVRYTZTTmNMdDI3eWpIeUlQM1VsaGRUcmFPcjJxLTg0NU82ZzloX08wREhHVUQxVlFYbWk5b1A4SDJrOGxlTjY1alk4Q1lSMVF6ZGtJRmFyQWJDN2ZDZWRuc2pwUGJxdGp2S2l2Nk1TTHlzaUZ2MkdNMUE3aHBPcmVhYTQzaERlaG1qTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMFFYM0c1dUQ3RjBJRENmNlN0ajZ2emJGRDJBbjhOREZSZzd0bk9heEdJMlduUkJ4SzMyMjBJS2RiWnVnR2hGSV9lOW16aTlnMFI5NnVob2E3U3VYOXlwWDU3R0VRVWQwTUVTVEF1OFQxSS00LXRjQlBQOENkT2hVcFdPU2Y4Y19yeml1TzVVbF9mTmZMelF6RmJJaWRHVDczd1lOcjF4eDRYa3JGRi1ZanA3SmR1UUc5em9BOFBIMU54MmNhaVJhb0JyVHFsVUlzNnk2RQ?oc=5"
         }
       ]
     },
@@ -91,75 +91,75 @@
       "items": [
         {
           "id": 7,
+          "headline": "«Яндекс» запустил страхование по подписке в приложении такси",
+          "description": "Теперь ОСАГО и КАСКО можно оформить ежемесячными платежами через Яндекс Go. Это расширяет финансовые услуги и модель подписки конкурента.",
+          "source": "rb.ru",
+          "favicon_char": "R",
+          "favicon_color": "#007bff",
+          "published_at": "2026-06-03",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXNKdE0yTEZPdk5MUXRmWXA4YjdjRUl3cEc3UzFCNDkwcVMyOHFwTXJFTFhsM3dlQ2JxTFRWQnQ0WmNkTERyR3NBci1RT0N4U2tnMlRLdEhaS0JRQ1Jza0hqMkZQbndhdlVTRTkwUEJwMWtEeWFaM3dmNzhLODJ5UlFNZGpabFU0TlBPdWlQNGRLaWZfZlRmNTFSSjYyY2ZPc0xUOXdYRkQ2MjREUjR6RWZXU000UQ?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "Яндекс внедряет «Отзывы за баллы Плюса» для бизнеса",
+          "description": "Новый инструмент позволяет компаниям стимулировать пользователей оставлять отзывы за бонусы. Это важно для репутации и привлечения клиентов на маркетплейсах услуг.",
+          "source": "sostav.ru",
+          "favicon_char": "S",
+          "favicon_color": "#007bff",
+          "published_at": "2026-06-03",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eTZKS2pWeXFUaC14bl9NTUtlaW9mOTV1SU9idVdqNDFac0w4OGJmQTlnWWZncGZCRW1TZWdhZzdfM2NMa0NNTjJucGwyMjZjRnc?oc=5"
+        },
+        {
+          "id": 9,
           "headline": "Яндекс дал сервисам объявлений контроль над индексацией",
-          "description": "Яндекс предоставил сервисам объявлений возможность выбирать форматы поиска для показа своих предложений. Это важная новость для конкурентов, позволяющая более гибко управлять видимостью контента.",
+          "description": "Теперь платформы могут самостоятельно настраивать показ предложений в разных форматах поиска. Это улучшает видимость объявлений и их релевантность.",
           "source": "m.seonews.ru",
           "favicon_char": "M",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#008cba",
           "published_at": "2026-06-02",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0tqOGJJM0piTWNBRTBLX1R5d3JEUnRtWHM4NlpPQi01Y0NBRDItT2M4cmZfYmJrT2xyRlYtNmpWdDVJbER6b2EyanltcW9rR0ZqUktVU1NzdFFCbTd3b0Y5Nzd3T3N5OUpfekNFdlZzdEgta3JQbFR1TGtSNzA2WG5GM1dBN243YlpJNWEtVjVsUzhpcEVoRlVNQTVuU0EzV3JqTVNrMVd2XzRYeVpqeEs5bVZjNEXSAbcBQVVfeXFMT1dLajhiSTNKYk1jQUUwS19UeXdyRFJ0bVhzODZaT0ItNWNDQUQyLU9jOHJmX2Jia09sckZWLTZqVnQ1SWxEem9hMmp5bXFva0dGalJLVVNTc3RRQm03d29GOTc3d09zeTlKX3pDRXZWc3RILWtyUGxUdUxrUjcwNlhuRjNXQTduN2JaSTVhLVY1bFM4aXBFaEZVTUE1blNBM1dyak1TazFXdl80WHlaanhLOW1WYzRF?oc=5"
         },
         {
-          "id": 8,
-          "headline": "Яндекс Пэй запустил подтверждение крупных переводов через доверенное лицо",
-          "description": "Новая функция в Яндекс Пэй повышает безопасность финансовых операций, позволяя подтверждать крупные переводы через доверенное лицо. Это шаг к укреплению доверия пользователей к платежным сервисам.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzZKbHJweS04Z2s3blB2RE9oMjBkcWZabzFnY1p3TWlNNF8wUExJaGRXaTV3MEZ3N1NHY09rUFBYckdOQVE5YWVXYnFaY05DMXE5ODhBOUJHQnF6NGNzSkxGOTRpYTNacGVCMzhMdkhzTkd2aTNhOHJFdUhjRmFwNWlLNk9ONG9yYXVma2hBU25MOXZOU0JRNE1OSjJvajFCY3oteUs3X2tpbnZtcHJuVEI4ZHdUTXFJMEk4Xw?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Яндекс запустил продажу страховок по подписке",
-          "description": "Новая бизнес-модель Яндекса в сфере страхования — продажа полисов по подписке. Это расширяет экосистему сервисов и может быть интересным для изучения других маркетплейсов услуг.",
-          "source": "xn----ctbfecatgqygb5apl.xn--p1ai",
-          "favicon_char": "X",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWxFTl9kQWpTS25oeU5ZMWJXcGhwWEZEMVZyV3M3U0N3ZFVraEgwZWdDT2g4aGJuMjNHRlYweG8tVnJ3OWpkZWtxeWxhTWlCQ3p4QmJkOU5iMGYzQnFXWElISWs4N3laSUk1OXpITWVwaE1oOGMtd2xnS0NsQ1JIWlRqRzVOQVRSZGJCUTBCNFZ6VjBsQmpDZ2RMUXVWc2RZcG5UQWdvcTJ4TTlIN1RxaUpkQ3lyTWN3a0FmdURRRUVoOUZHcnc4YzQ3WVV5UQ?oc=5"
-        },
-        {
           "id": 10,
-          "headline": "Билайн добавил точки Wi‑Fi в «Яндекс Карты»",
-          "description": "Интеграция точек Wi-Fi от Билайн в Яндекс Карты улучшает пользовательский опыт, предоставляя информацию о доступе к интернету. Это UI-обновление расширяет функционал навигационного сервиса.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
+          "headline": "Яндекс Пэй запустил подтверждение переводов",
+          "description": "Новый сервис позволяет подтверждать крупные переводы через доверенное лицо для защиты от мошенничества. Улучшает безопасность финансовых операций.",
+          "source": "bankinform.ru",
+          "favicon_char": "B",
+          "favicon_color": "#007bff",
+          "published_at": "2026-06-03",
           "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPby1DTkYtZ2NHNk9vLU1KMTJJdVA1VGttcU5hLTkwdDFVZXJOYVlaa1BNLVVKRkN4VV9MdW5zYlN3RWl1T20wX0I0b2F3UWhzQ0hzQ3d1bUppU2R0blU2Y0xsZG9jV0FjR2xVOU9fMGxnSkJEOFFPQU9mWDFFc2h0Zjkzd2l3dHZCZFZlT0h2a000NXN2LU9zcXNRMWZteUQtUnpvOVE2WnZLa20yOG9GTGtpNWQ3bW5YaU5rSHJPRzJTVWR4WTdmeF92bnVkY3RJdV84QVM1RVMwdw?oc=5"
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OX1c5NzRDNV9tbUh5YTU5NWNaUVJDbG5NeEpxMUFreldSM3BFdjNzcUpIZVFOWU55Um9vSUN3anBIVkhJMDlLQw?oc=5"
         },
         {
           "id": 11,
-          "headline": "На Авито появилась функция оформления автокредита для частных продавцов",
-          "description": "Авито внедрил целевые автокредиты для покупки машин у частных лиц, упрощая процесс сделки. Это важная новая финансовая фича для платформы, улучшающая пользовательский путь.",
-          "source": "xn----ctbfecatgqygb5apl.xn--p1ai",
-          "favicon_char": "X",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-30",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcURUVGNOd2FnVnhsYkE3N1h0VHFMaXpGZFVwZ0w2cjBpQ3FDWUpkMkNvYk9LNGVOb0tKSHloOE5yV04ySl80TFEtcVpDZ2RPdGNFYXZ6MXNLdER1bkZtN2E5d1k3MGkycEEtZkpFZnpZQzJ6MDBsWUFKVmZBS19zdlNyYktCUm5GWU9tbHpaM1FXd3dWWk11TlJod2Z3eWNkWUhxNjMxRGpTa0lxUGJLMjE3TkRkMDk2YW9pZVVhb3kyYm1OZDB0cEl5MUp4RlV3b1I1UTViTUhvNE9mN3pLX19LVE9FNlRqZ2Q0Wm92c0tYNjk5?oc=5"
+          "headline": "Билайн добавил точки Wi-Fi в «Яндекс Карты»",
+          "description": "Пользователи теперь могут находить ближайшие точки Wi-Fi прямо в приложении. Это улучшает навигационный опыт и полезность сервиса.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#4a90e2",
+          "published_at": "2026-06-02",
+          "read_min": 2,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjlVMEJmcW9ZX0JSel9KSmxjVGRzNjY1MEd0X1JYNDMxbm1NcXV0UEVhT1hRZEEwNUJlRHplbFNUa0dkbGV4SVdtcGN6bXRPcExNcEh0TjBHVVl5RVBoR0N1clZxcG9RUVAta0FGSF82UFVWWllrWFFuSlVfczdvX19HbWI0YVVpWm1NUDd4cXhJQkVZZkxybHNGX3ZJbFlhOFFtNklVYWpuaTU1YVlOZDVHN0tLYXZoYjNwbA?oc=5"
         },
         {
           "id": 12,
-          "headline": "Что произошло с Авито 1 июня: причины сбоев в работе сервиса",
-          "description": "Новость о сбоях в работе Авито 1 июня, которая повлияла на доступность платформы. Это напоминание о критической важности стабильности работы сервиса для удержания пользователей и доверия.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
+          "headline": "«Авито Работа»: половина россиян старше 55 лет меняют профессию",
+          "description": "Исследование Авито выявило тренд на переквалификацию среди старшего поколения. Это открывает новые возможности для услуг и обучения на платформах.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#4a90e2",
           "published_at": "2026-06-02",
-          "read_min": 3,
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3V3TGZ0WGY5VTRFeWZsTnNFMzd1VGxBUVlSMkVPWUw3aEdNVmxrS01GWWF3b05EVVdheHVPTTdvR3BMcTZXbXdlVmZ6bHdvR1dLVXRsQl9BUHBWQXNQLWRsaE5oMzJBZFJmQ25xTWc3NTQwQ2dMSURMdTdGSWhPNmlLS29kZHNKb2VJU2FBeTlXaThJNXlkNXJaS29TUDRORWdlOVNEdHNWbDRuNzJvVG5LcHdCczBYT0E?oc=5"
         }
       ]
     },
@@ -171,51 +171,63 @@
       "items": [
         {
           "id": 13,
-          "headline": "Open Design: открытый аналог Claude Design на GitHub",
-          "description": "Проект Open Design набирает популярность на GitHub как открытая альтернатива инструментам типа Claude Design. Это открывает новые возможности для дизайнеров в области генеративного ИИ и прототипирования.",
-          "source": "augmentcode.com",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
+          "headline": "DaVinci Resolve 21: новые AI-инструменты для редактирования фото",
+          "description": "Вышла новая версия DaVinci Resolve с расширенными возможностями фоторедактирования и функциями на базе ИИ. Это может упростить работу дизайнеров с медиаконтентом.",
+          "source": "petapixel.com",
+          "favicon_char": "P",
+          "favicon_color": "#5a4a9c",
+          "published_at": "2026-06-03",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VWGQ1bEJWbVNMUHBxQjRRWjVQX1FfQUpDeGl4eXZ1UlU0YjV1WXpBS1kyZFFVOGVMNmpFU05MbkVkNjlnQ2NwUjZFRDU3YWtKTk82VmZnbFN3ZmhDMm1JbVNMcHpqMmFBb1FvSWNpUGhjSUxKN0c2N0hlTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajhlellrSlpzMW5zMHk0ZVpPYTNwbzh1T3hRYlBSamxyT0VEUFFJTlZIUDJ3d1pjcTlwaENtbzZkMWc0WHBOVFFKTl93SjY3RGNZXzg0OWppNGhXSkx6M3BfRjBtbUtVLVRNT2FlcEtmWHp1ZEJwbnV3X0lfQVJuQXhUZGl0NGVQYmJ0S1k0QVRDdkMtUzZZQkRnSFh5ZVZ5SHJjNC00clItZWVGLThKci11UWI1dTFxbWc?oc=5"
         },
         {
           "id": 14,
-          "headline": "13,6 млн австралийцев используют ИИ-инструменты, включая Canva Magic Studio",
-          "description": "Отчет показывает широкое распространение ИИ-инструментов среди населения, включая те, что используются дизайнерами, как Canva Magic Studio. Это указывает на растущую роль ИИ в повседневной дизайн-работе.",
-          "source": "roymorgan.com",
-          "favicon_char": "R",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-02",
-          "read_min": 4,
+          "headline": "IronCAD 2027 получил AI-инструменты и улучшения дизайна",
+          "description": "Обновление популярного CAD-софта включает новые функции ИИ, направленные на оптимизацию процессов проектирования. Это ускоряет работу инженеров и продуктовых дизайнеров.",
+          "source": "engineering.com",
+          "favicon_char": "E",
+          "favicon_color": "#231f20",
+          "published_at": "2026-06-03",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkRsei1odThLU0ZnQVJlcDNOTG1fWHJLREd1NkNIdUtGc3Uya0JVQkR1VFh1TjlTNmJQdndwZDlrWnhTamNzdE1RLTVhZGI4X1ZNWEZ2WUFNeXVpMmxoZzVvU2xGUnd6RUI1YTVoVm1zQnVRZVpzQ0tKNnJiSGhIV195aHV0ZmRhRzhLTjUxT3RBQ0VM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbE8zMlNYTjdkcHF3bGM2c1A2WjBhckdEZ3AyMnZjX09oLU12SjNhZDFDUG9kNUIwZU9HQXBUVThPYWdySnpHNEZ6Nms2bGZreC1CY05TYm43dkdPb09DZ09JOTYxaEVlNVpzZUdwZTRXRWl5U05vc0RUMExaQ00?oc=5"
         },
         {
           "id": 15,
-          "headline": "Лучшие библиотеки промптов для генерации изображений ИИ в 2026 году",
-          "description": "Обзор лучших библиотек промптов для работы с ИИ-генераторами изображений. Для дизайнеров это ценный ресурс для эффективного создания визуального контента и экспериментов с генеративным дизайном.",
-          "source": "vocal.media",
-          "favicon_char": "V",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-05-31",
-          "read_min": 5,
+          "headline": "Топ AI-генераторов логотипов 2026: обзор и сравнение",
+          "description": "Сравнительный анализ лучших ИИ-инструментов для создания логотипов поможет дизайнерам выбрать оптимальное решение для быстрого прототипирования и идей.",
+          "source": "memeburn.com",
+          "favicon_char": "M",
+          "favicon_color": "#e74c3c",
+          "published_at": "2026-06-03",
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWtBY09GaVR2WHNaS0VwUEo5YXpXMlZhUjJ0d1hMS0hqd25XZnhDd0gtMWxIWDJNeWw0YzRkdkhzaDJ1OWFsN09vZFpFNjN6RG44Y2R0WFRDMVBaV21EcjdaRG5PQUlWV1hfMGVQc2FCUi1Pdmc1dmc3eTlMdHdHRXhfLUV5WDM3TUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbXdHLTUxR2gwWlFtVy04X0o1RXpNRE9JZzBLUXVvMjl0bDllLU9OcHBQekdTUDA1MVBHazJPNmJBTk54NGdTeEhEYzVjRHU5U1I0TjJYUQ?oc=5"
         },
         {
           "id": 16,
-          "headline": "Cadence Design Systems запустила ИИ-дизайн 5 уровня",
-          "description": "Компания Cadence Design Systems представила ИИ-дизайн 5 уровня на Computex, что вызвало скачок цен на акции. Это событие подчеркивает прогресс в области генеративного проектирования, в том числе для комплексных систем.",
-          "source": "ad-hoc-news.de",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-01",
+          "headline": "Легендарный стул Aeron обновлен: MillerKnoll внедряет AI в офисный дизайн",
+          "description": "Компания MillerKnoll интегрирует ИИ в процесс проектирования мебели, в частности, стула Aeron. Это показывает, как AI меняет подход к дизайну физических продуктов.",
+          "source": "stocktitan.net",
+          "favicon_char": "S",
+          "favicon_color": "#000000",
+          "published_at": "2026-06-03",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2QyZGswTmVSNUU5cGdNSWRjMnBMeW1IOTdBLU45SXA1ZDlJMUdPa0pMSlZrTk5TUEZ1TWh3T0oybTREUUliSEIzRlJTYzRSSHR4bDY3NEFQMWpYc0N3Q3pDYzZmVkNQWmpXbXB3aU5DazJoVHBESnU5aThHZWI4dXFlRVVsNmxESWUxYjV2MDdTRjJRRklYQXJQb1dVZnVCS1pZanZNZHJaOWNVWFVaSGZvMDRJV0NLeFg0V1NNb28tZGR5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFllN0o4ZVZPOHJMclRfNlFqazNma3BLaEltUTB0MFBpQk1qN2J3TFBzZXFVRFkwb1NKZERyRnBOdHk3bWdRRlh0WjVyWFlwaUc4Mll3RUtXa2VadjhGUHFsUGM3ZlFhTUhjckVSUUViREdabzFEZ092WDkzOXB2NmEwVm5aRUZDTURnOGhSaDUtNE53T2N2dHR5bWdTa2E1SlVXQTdaRWN6LXl5NTdkRHU0YUlTVUR5SDdJ?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Новые AI-инструменты для дизайна татуировок",
+          "description": "Развитие ИИ открывает новые возможности в креативных областях, позволяя дизайнерам татуировок генерировать идеи и визуализации. Это демонстрирует универсальность AI в дизайне.",
+          "source": "trendhunter.com",
+          "favicon_char": "T",
+          "favicon_color": "#ff0000",
+          "published_at": "2026-06-03",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSmZSd1A3QlNGT3NoZF8zMllTTkczOGRidXdPZ2hyY2phVk55QTg1ZUNldzl1N1JhcFhZQnRXWndKUlhpNUxZdWo0MlFHNExvVUN4aTR2NDg2RlnSAWBBVV95cUxPYllKcWJHZjhqdF9JWDB0d3Y0eHhrSk9qUUNadGJqbEZGR0ZTd09MV0JXUWtGX04waExidE5OQURPaUUwUjZBSmhSdXVZTkw1ekJpWUZMM3RwRThyWkdsMnc?oc=5"
         }
       ]
     },
@@ -224,20 +236,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 17,
-          "headline": "Сколько стоит привести дачу в порядок в Орле по данным Авито Услуг",
-          "description": "Эксперты оценили стоимость ремонтных работ на даче в Орле, используя данные Авито Услуг. Это дает ценные рыночные инсайты для продуктовых дизайнеров маркетплейсов, касающиеся ценообразования и спроса на услуги.",
-          "source": "infoorel.ru",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-01",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUdrU3Y4ZnJmdGdTMkJoS1F6Y1Z4MlNEVjNHQ2lPRnJ4bUU4czVVcnVpYW1ybnNxa1dJWTNOYWUwY3Znd2YwZTJnUXBYQTlCekJ5WXFsYWVkTEZ3aV93WWpMXzE5VkktNl9CNUpoV2wyWFVPOGlKMkt6M0hZX2NDYUE4RnlLTVlESHB2RVBqZ3MyYUdIX0REZW11UjZmTWdsRzdIZ3lVTGdyS215dUhVcldkOTRNS3pjR3RZTVAyOXc2OEtscXM0dzNWOFA?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
