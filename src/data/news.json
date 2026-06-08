@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T05:04:14",
-  "next_issue_at": "2026-06-08T10:00:00",
+  "updated_at": "2026-06-08T05:02:38",
+  "next_issue_at": "2026-06-11T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,11 +11,11 @@
       "items": [
         {
           "id": 1,
-          "headline": "Главные тренды UX-дизайна: как развивается пользовательский опыт",
-          "description": "Анализ текущих тенденций в UX-дизайне, важный для понимания будущих направлений развития продуктов и пользовательского взаимодействия.",
+          "headline": "Главные тренды UX-дизайна: куда движется развитие пользовательского опыта",
+          "description": "Обзор ключевых направлений в UX, которые формируют будущее продуктового дизайна. Важно для понимания, какие подходы и методики будут востребованы.",
           "source": "shopify.com",
           "favicon_char": "S",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#95BF47",
           "published_at": "2026-06-04",
           "read_min": 5,
           "is_ui_update": false,
@@ -23,11 +23,11 @@
         },
         {
           "id": 2,
-          "headline": "Ошибки веб-дизайна: чего избегать в электронной коммерции",
-          "description": "Обзор распространенных ошибок в дизайне для e-commerce помогает создавать более эффективные и конверсионные интерфейсы.",
+          "headline": "Ошибки в веб-дизайне: как избежать провалов в e-commerce",
+          "description": "Анализ типичных ошибок в дизайне сайтов электронной коммерции, которые вредят конверсии. Поможет продуктовым дизайнерам создавать более эффективные решения.",
           "source": "shopify.com",
           "favicon_char": "S",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#95BF47",
           "published_at": "2026-06-04",
           "read_min": 4,
           "is_ui_update": false,
@@ -35,51 +35,51 @@
         },
         {
           "id": 3,
-          "headline": "Apple назвала победителей Design Award 2026: фокус на инновации",
-          "description": "Награды Apple подчеркивают инновации и доступность в дизайне приложений, показывая перспективные направления развития индустрии.",
-          "source": "m.economictimes.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-03",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEoyTjdEbkpuUUhzV0lqR21jREZkMHdad2VyZHE4bGw2NEZ2aXVxYWxxNmZNbWg5MTdaRXhrVW5vUkNnWUEwUHJMNXl3VHh1SmJtdVIyQl8xSllhSFdtN3Qtd1ZuYkdHYjhrbklUVGd6bm5jT1dwZ0h5VlJOMWszM3lfUTlhMXpOVDlnbUFhRm5KVENfNFlIaHJoaWlsSzhOWFA0SmFEQzI0RzlBQkZzTUVxczNnT0E1UWtpdDcyeWtQMmJCX05UTl9TWVV6RFJINS1FV3puaWN1WVp6NWRTMkMzNFV2VUk20gHuAUFVX3lxTE80YWZ3a1FERXY1d3NBWDVCZEJkcFJ5YlBlNGFZSHBsQXZHR0tiQlFoWm0yTEd3RGdsY3hpQnZUclNSMmt1MVRUQnBqVTF1d09uYkNTek82aEQzdF9oN21oMkw0Y0ZscF9md0RPeDV4TTFacjk1bXJqTWR6djJqbHV4QTQ5TFlsWUlydElOLUgxNnVyRkU0ejBlbVlMcS0wajVmZ3hEOEtKeldPcWw0MjdYb3ZlcVE1a25xUGZVeVJDSUJtUlJabGVZdHJ3TUNneTc2VWRHSXFJLXQ0U3MxdVJiY2d1X3Q3Y2RJd3o4WEE?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Ловушка случайного дизайна в цифровых продуктах",
-          "description": "Размышления о том, как избежать неинтуитивных и нецеленаправленных решений в дизайне, уделяя внимание осознанному проектированию.",
+          "headline": "Опасность случайного дизайна в цифровых продуктах",
+          "description": "Статья о том, как отсутствие преднамеренного дизайна приводит к неэффективным продуктам. Подчеркивает важность глубокого UX-исследования и системного подхода.",
           "source": "geekwire.com",
           "favicon_char": "G",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#A33A3F",
           "published_at": "2026-06-05",
-          "read_min": 5,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjR2cjE2SUtNR2JYck81V0I0Mk1FcWJKbUdnNjJ3YTdkakh0LTZmZHhYajg3NGJtVUo4dERiV1BqNEZ6bzNnQnRSOUNWYnVSWTRHbzFuRlYxTURrNVJwZ3dwS0wwaTdpWVo2dmhVWmxiNFdPbUdlaXhpdkx1ZjluWWNCemxjS1lBY3k2TWFFQTZlNmJG?oc=5"
         },
         {
+          "id": 4,
+          "headline": "Goji Labs получила награду за лучший дизайн приложения Dreamwell",
+          "description": "Кейс успешного мобильного приложения Dreamwell, отмеченного за выдающийся дизайн. Пример того, как продуманный UX и UI приводят к признанию на рынке.",
+          "source": "itbusinessnet.com",
+          "favicon_char": "I",
+          "favicon_color": "#007bff",
+          "published_at": "2026-06-04",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1MaTVkVUNwZEkxYmxFRENuV2Vza09iamZDM3N4b1lYZnJNYUUtem1FT0NHUVdnVkVYZHpWQlk1dC1sZm9KY3ZSdDRQajJ0RWFCcldiWTVSc1AzTFZhU1Z3RnBYZUVCS2NTNGhQVzFIWk5GSElHMjlxand1WVJQOFBFaGlzRjduMVlmT010TDhDQ2lvSFRj0gGcAUFVX3lxTE53dzJGY2dpUEI0X2U0MXBCLUFsekVhZ29FTWthSko1MVRiVFJpc0dEZndVT0YxVW5heWlEd3RyRDhFUkdGQ3kzZWVBOEpuWGx0cV9SQm1DSkhDMzlWY2NaMERoeDdpZ1h5S1k2dWo0VHNtczdLRXpiUHdoYmVncWRCbnZ1T3pNVGh1ekszV0xiR1I5bC1hVTJPZ1ZJTQ?oc=5"
+        },
+        {
           "id": 5,
-          "headline": "Capital.com обновил дизайн мобильного приложения для лучших решений",
-          "description": "Редизайн мобильного приложения Capital.com с фокусом на принятие более обдуманных решений пользователями. Важное обновление UI/UX.",
-          "source": "cyprus-mail.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-03",
-          "read_min": 4,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSVFwalV1TURKYTNKUkw4b1JkWm0xVEN5QjVCOHBUb1JFT29GalpTazNEc05XUEtaSVR1WUJNa2lLTlFEaExJXzNQZlQ5eWlfVFhCdFRxa0Jfdk9wRENKZnpWU2E4RmFfaHRfN1l6NFRFSkZZTGl0UFIxMFZPX21DQlJYVDhQcHplTDVfMU9TZHZZVHBHR1MyVzN1TnFHeXI2WXhkbk5vZHpWMThZb25sSm53?oc=5"
+          "headline": "Главное правило Google: «фокус на пользователе» и успех в триллион долларов",
+          "description": "Принципы ориентированного на пользователя дизайна, которые легли в основу успеха Google. Напоминает о базовых ценностях UX, применимых к любому продукту.",
+          "source": "msn.com",
+          "favicon_char": "M",
+          "favicon_color": "#0078D4",
+          "published_at": "2026-06-04",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHNTTXdlZjFJX3BOSmR5ak96dWVCYmw0TDNQbFE0MHBVdUo3R0hrN0JWQ21nWEtHYUtTeGhrYU1ZZWF4b3dFV1J0MG9nUmQ5S2JITlA5YkhWcUE0NER0d1ZNZzU0QXR3ZlNrdXpzdkxMZmVhdGg3RTJzWmMwTVp0bGMta0ppOE54R3g4SEZMRmNvSXlORTNJNVNnRmt3T3JNV1hEV0k3RWczRU5aZks3Y0NKRHI5UmFGaTYwZi14c0RaNGJGSUU5eTc4eE1kV3VfQ29mb3pDWW0tUQ?oc=5"
         },
         {
           "id": 6,
-          "headline": "ИИ и пользовательский опыт: как AI помогает понять желания пользователей",
-          "description": "Статья Якоба Нильсена о роли продвинутого ИИ в понимании намерений пользователей и их потребностей, что критично для UX-исследований.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-04",
-          "read_min": 6,
+          "headline": "Обзор лучших приложений для похудения 2026 года",
+          "description": "Анализ функциональности и UX популярных приложений, помогающих в снижении веса. Полезно для понимания лучших практик в дизайне HealthTech продуктов.",
+          "source": "nerdbot.com",
+          "favicon_char": "N",
+          "favicon_color": "#E74C3C",
+          "published_at": "2026-06-06",
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aWEpvbk9heGRBMEwtdzFMVjF1T1Z0Q2c3Y1ktbVlVYkxYNFdYNkdiTXZxWjBycnF2d3NSVDFoT2F4NGQ1eVhoQUFyUkFUaEpySE9qUkczdFZqc25oaHUzZWNjRVRXa1VVOFpZN3Zqd1A?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qVHlaZVNGTmNPYWlJczF4UnN0ZHd4LUVVcmNXNU9zTGNhUGwySVZ6bmd5eVhsSzZVSGtXOHhib2pjT09ydHZOS1Q3UllxUVljNTJ0RTBKYlRjNXpUWGJNTVc4UzVNZl95VzU1Tnl0VURLbndES29NcQ?oc=5"
         }
       ]
     },
@@ -87,72 +87,24 @@
       "id": "comp",
       "title": "Конкуренты",
       "chip_label": "Конкуренты",
-      "subtitle": "что меняют YouDo, Яндекс, Авито",
+      "subtitle": "что меняют конкуренты",
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс: «Отзывы за баллы Плюса» как новый инструмент для бизнеса",
-          "description": "Новый инструмент Яндекса позволяет бизнесу быстрее собирать отзывы, что напрямую влияет на репутацию и привлечение клиентов на платформах услуг.",
-          "source": "sostav.ru",
-          "favicon_char": "S",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-06-04",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eTZKS2pWeXFUaC14bl9NTUtlaW9mOTV1SU9idVdqNDFac0w4OGJmQTlnWWZncGZCRW1TZWdhZzdfM2NMa0NNTjJucGwyMjZjRnc?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "«Яндекс» запустил продажу страховок по подписке",
-          "description": "Расширение бизнес-модели Яндекса на страховые услуги по подписке показывает диверсификацию сервисов и их интеграцию в экосистему.",
-          "source": "finance.mail.ru",
-          "favicon_char": "F",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-06-03",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Zjdad2xWZldlS09zRk1tQ0dkX01tazNKZHVkN0NXMVpYanFOb0NZVVcyYjVyX2M4UEd0Y3lTeDRKLVJXOENpVG5MSEUtVHlpZFVja1hWbm5Fc1dNTkRSeXk4ak11MjZSVWgxc0pRVFM0MlVi?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "ИИ в «Яндекс Музыке»: «Моя волна» по свободным текстовым запросам",
-          "description": "Интеграция ИИ для персонализации музыкальных рекомендаций через текстовые запросы улучшает пользовательский опыт и взаимодействие с сервисом.",
+          "headline": "«Яндекс Музыка» обновила «Мою волну»: теперь с текстовыми запросами",
+          "description": "Пользователи теперь могут управлять плейлистами «Моей волны» с помощью текстовых команд. Это улучшает персонализацию и взаимодействие с сервисом.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-06-05",
-          "read_min": 5,
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-04",
+          "read_min": 2,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFl2YkdvRXlFWGloQUVNd1Fjd0tjS1FuRFcxNlZUTmxHaU9xMXFDNFAyODZsSmlZbzJNbFlkV2pNTGxDaFFOTVFrcWhVaVpxQkVhZE1JdGhJeEUzLXlxdEhXOHUxQjJ1R2oyT0ZHVFlzV3pmOG93X3Q1MFdZUlVCc0N4YVB2MF92WFVzWFhRMmpZYmVSVjNwUlp1S0F3SmhwWUt0SjEwR2I5TzduQmU1VkFLTmk1azItbzlWeEZWM0FqVUtmNFE?oc=5"
         },
         {
-          "id": 10,
-          "headline": "Яндекс Go: ОСАГО и КАСКО теперь доступны по подписке",
-          "description": "Возможность оформления автостраховок в приложении Яндекс Go упрощает доступ к услугам и расширяет функционал для водителей.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-06-03",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeThVNDdkTWlrcFROcHpNZTlxRGdvTmwwRHFpM3kzc0VDVllnRzZHWFF4cE5FaUQ4SHVFZE96UDFfbkhKQmc0WkN3VllfdVljSE5GRFFjUld5TU1zQjFQal9CNDF6ZXFMY25IN0NHV2FMRXBNamJzRWRnaHZ4T0NZSGxFMDdFeFRWeHNzanpGdzNBd2FFTnRXd21mZlNWZzBMS1dHckZySjBhdXpMVVZ4eU9DQ3p3QXJKQmVwU0NVRGhmQU9Wb1VEMTJSZjRjQWx3VlB5T0NxLWltUQ?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Yandex Lavka откроет сотрудничество для людей с инвалидностью",
-          "description": "Инициатива Yandex Lavka по привлечению людей с инвалидностью повышает социальную ответственность и инклюзивность платформы.",
-          "source": "uznews.uz",
-          "favicon_char": "U",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-06-04",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6b3JuZl9JQTN1ZnJpOTZaRTlqazBiZm1XTDRyQTd3ekRSYjdHemFrazNxYmNQRTNUQ1V5c2ZIZkJOd1c5S2lneFhzQXk?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Авито: спрос на репетиторов в СЗФО растет летом",
-          "description": "Исследование Авито показывает рост спроса на услуги репетиторов, что актуально для сегмента образовательных услуг на маркетплейсах.",
+          "id": 8,
+          "headline": "Авито: спрос на репетиторов летом растет в СЗФО",
+          "description": "Отчет Авито показывает растущий спрос на образовательные услуги, что может влиять на развитие платформы и сегмента услуг.",
           "source": "brief24.ru",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
@@ -170,33 +122,9 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 13,
-          "headline": "Forbes AI 50: список ведущих компаний в сфере искусственного интеллекта 2026",
-          "description": "Обзор 50 ведущих компаний в сфере искусственного интеллекта, показывающий лидеров индустрии и ключевые направления развития AI-технологий.",
-          "source": "forbes.com",
-          "favicon_char": "F",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "12 лучших AI-конструкторов сайтов 2026 года: обзор победителей",
-          "description": "Сравнение лучших AI-инструментов для создания сайтов, полезно для дизайнеров, ищущих автоматизированные решения для быстрого прототипирования.",
-          "source": "memeburn.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 7,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Почему кастомный веб-дизайн превосходит ИИ в 2026 году",
-          "description": "Обсуждение роли индивидуального подхода в веб-дизайне на фоне растущего использования ИИ, подчеркивающее важность человеческого фактора.",
+          "id": 9,
+          "headline": "Кастомный веб-дизайн по-прежнему лидирует в эру ИИ",
+          "description": "Статья исследует, почему уникальный подход в веб-дизайне остается ценнее, чем полностью автоматизированные решения ИИ. Важно для понимания роли дизайнера в будущем.",
           "source": "news.designrush.com",
           "favicon_char": "N",
           "favicon_color": "#6750A4",
@@ -206,38 +134,62 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeThRQUdfYnpUeUhvR0dYc1NmZGFnU3d5ZkdLNGxyLTlUNXdsQ2lOZE5BV1hvMEM4LV9BemlJQjdCbWpaLXM5dzlIMk8tcnNSMzJVS2RqV1U4TjNRcnowdDVJQlU3NkFGc1JlbkdOeTcwUFU3NDRDSndBdGhhamc?oc=5"
         },
         {
-          "id": 16,
-          "headline": "IronCAD 2027: ИИ-инструменты и обновления дизайна",
-          "description": "Новая версия CAD-системы IronCAD включает ИИ-инструменты, что указывает на тренд внедрения ИИ в профессиональные дизайнерские программы.",
-          "source": "engineering.com",
-          "favicon_char": "E",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-03",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbE8zMlNYTjdkcHF3bGM2c1A2WjBhckdEZ3AyMnZjX09oLU12SjNhZDFDUG9kNUIwZU9HQXBUVThPYWdySnpHNEZ6Nms2bGZreC1CY05TYm43dkdPb09DZ09JOTYxaEVlNVpzZUdwZTRXRWl5U05vc0RUMExaQ00?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "DaVinci Resolve 21 представлен с восемью новыми AI-инструментами",
-          "description": "В новой версии DaVinci Resolve представлены восемь ИИ-инструментов, расширяющих возможности для фото- и видео-дизайна и постпродакшена.",
-          "source": "cined.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-04",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEoxMTZIMTVNNzMwc2dWVTlGT2NaVEdzU29OSjltczNGdXZ6LW4wY3FyOE92VTlpWHdxOVJ4NHRkQzN3djhrMFMzUFJLb0hONzRqNXpEY0kxYmNBa3R3a0otdWNMU0VSN2o3THl1UVlQRFFTWkFaUFlZUlU4T25EREMwaHNkYmF3N3RCY0NReXE1cHVNdUdnTkxBY08xVFJQRFZwTGNjZ25BMGxmSW1YUnFQN1BEbUdqaGIw?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "10 лучших бесплатных AI-генераторов изображений 2026 года",
-          "description": "Подборка бесплатных инструментов на базе ИИ для генерации изображений, полезных для быстрого создания визуального контента и концептов.",
+          "id": 10,
+          "headline": "Обзор 12 лучших ИИ-конструкторов сайтов 2026 года",
+          "description": "Сравнение и анализ ИИ-инструментов для создания сайтов. Поможет дизайнерам оценить существующие решения и их потенциал для автоматизации рутины.",
           "source": "memeburn.com",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-06",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Cursor запускает новый режим дизайна для интуитивного ИИ-кодирования",
+          "description": "Новая функция делает взаимодействие с ИИ при написании кода более визуальным и простым. Потенциально влияет на инструменты для прототипирования и разработки.",
+          "source": "moneycontrol.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-07",
           "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYzB1VkdVZDIwMGJKcGNDOGhhNjMwQnBKRFNsV1A2TUliWjlsVkpfQ084Ym9QZDgwV1p6Ym9GU1pLQU1hRmdIRzd2ZjBJUUg2eUp2d25SZFNuLVFVakI1bjNza3ZDbXdZWGQxbG1icXlXZi02TTZ3am9Nd0NYMmJWOEVTdjZnMk45bGgtVDBJRHlORkl4M05IUDFLWWlBQ1k5Ny1uRVhiZ2g5dUxISXRUd3hwRDQ2MWFFZHdUWk5aTUhXcUhwaE9Z0gHMAUFVX3lxTE9LX2x0RzYtZHM2VGpaZkVxWlNUNFlSOHRWWVNvM0JkZ1JHSzNkMlk2aV84Rk1VVjBJVzlYQmNhZXN5eW5XUC1FbzR5UU5tOFF0dFZHQ3NOUkRYaUxvemY1SWVjUnRuaHM3SHJURldYVGlpY2E2RHdCM1NYdXUzRjc3ZGo2VER2RnBILWZoN1N0SmlTUVl1VG85ZmF2ZE5WcFhqUERwdFlSLTVuSjNVNC0tUGJoVzRNX1ZoZ2Z4WUg0WXd0aVNVSm9IMDV5Vw?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Дизайн- и ИИ-инструменты Canva интегрированы в Perplexity Computer",
+          "description": "Расширение доступности популярных дизайн-инструментов Canva через интеграцию с ИИ-платформой. Улучшает возможности для быстрого создания контента.",
+          "source": "indianprinterpublisher.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-06",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1h4NTNOVTVrbFpoSmxDZ1JETTJNY1hTc1ltN0VIOWhtVnJNbUxGQXdYT2dEWWd0eEVDM3RTWlVyM2E2dUtVUWM5MHNUTFZWRnpJQmhuMEltdTNiczItMjhlelotUGJVekszYmp0NEUwenUyYnM4bzZ0cUhuUjVuMExBVlNxbEFkVVJMVTJHb0JDVEY5ekRyM3hFY25rUFE?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "DaVinci Resolve 21: новые ИИ-инструменты для фото и видео",
+          "description": "Обновление популярного редактора, включающее функции на базе ИИ для обработки изображений и видео. Расширяет арсенал инструментов для креативных специалистов.",
+          "source": "yugatech.com",
+          "favicon_char": "Y",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-06",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmVPb0tFS3RHT21JX0lzNFhPM2FPQ2ZKX1l3Q2MxRi1aX2NoTVVLd0FldkpfY2JkOXJoVDVVYllWeWVBaUZNZWRNNVRCYjN6bUdmU3pIOFk4M3ZYMjktMmE3UDhiTmU5c2pJTld4bl96Z1BPaTZ6WTRibnJoYTY0TUxrRU1ZajluWlFyVWtfNnhVOUZMZmFoYUZqbw?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "10 лучших бесплатных ИИ-генераторов изображений 2026",
+          "description": "Обзор самых эффективных бесплатных ИИ-инструментов для создания изображений. Поможет дизайнерам в быстрой генерации визуалов и поиске вдохновения.",
+          "source": "memeburn.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-06",
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EVTNoRkM3Z0k5TEpHOTVydWdOMXFjTXpheEtWVjNjS1FqV21oemxSU3M2NmliaHg4Mk1jVk8tQW4wdldhWnpZcDB5aXMtanFZRTl3TjgyLXdPdWxJZDlPVQ?oc=5"
         }
@@ -248,7 +200,32 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 15,
+          "headline": "Сооснователь Airbnb Брайан Чески планирует запуск новой ИИ-лаборатории",
+          "description": "Airbnb инвестирует в исследования ИИ для улучшения своего сервиса. Это указывает на тренд использования ИИ для оптимизации работы двухсторонних маркетплейсов.",
+          "source": "techcrunch.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-04",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1vWHRMRUR6RDBXUzFRc2xUSnF4QXpKMUIxajI0eFNRYndvS1lEMzNsYVlTR1FrZzJCdXdjYld0ZDA2Si1jSFQ1Vkp3TzRZS1E4ZkYycEpCUG4xOGcybGVDRHdyMW1qeHJCb18yRV9BeHZERjhybUJFTFNYWi1WTTNCQ2VRYU9Ia2VtNg?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "Экосистема App Store достигла рекордных $1,4 трлн оборота",
+          "description": "Рост App Store подчеркивает важность платформ для разработчиков и пользователей. Это показательный кейс для понимания экономики и развития крупных маркетплейсов.",
+          "source": "apple.com",
+          "favicon_char": "A",
+          "favicon_color": "#A1A1A6",
+          "published_at": "2026-06-04",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFRIdlZ3YTZ2TDlFUWxXTWh3TWYwamYwTWRjbUFVeFU3SlR1TDRGUjIySk1PUkhoTnVQb1JBTGdDQ3Q5NVlIT1NZa0xodzNUUnpuWEYybTZjX092NnphNEpzRDBYM2RVVFQwdXppU0VWcEJWU2c2eENWQy0zUDFNX3hoVkZ6ZC1mWkdPaTZick9rU3hzYWtOUHc4V3hjeVVCUk9raEVHOTdZMDd2QnlKREtzMlRBeDItUllPWXBwdEI?oc=5"
+        }
+      ]
     }
   ]
 }
