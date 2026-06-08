@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T05:02:38",
+  "updated_at": "2026-06-08T17:00:49",
   "next_issue_at": "2026-06-11T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,63 @@
       "items": [
         {
           "id": 1,
-          "headline": "Главные тренды UX-дизайна: куда движется развитие пользовательского опыта",
-          "description": "Обзор ключевых направлений в UX, которые формируют будущее продуктового дизайна. Важно для понимания, какие подходы и методики будут востребованы.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#95BF47",
-          "published_at": "2026-06-04",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEQkRQWHkyR19GSXVrUmVzdEdiNGhMR1JrSGwwLWxKNlhVMjZnUUNpT1F0cEl4SjdRbjJZWGJTMHV1UlR2a2kyQ1l1WC0tSVc0SVlZeGFXa01ESlNw?oc=5"
-        },
-        {
-          "id": 2,
-          "headline": "Ошибки в веб-дизайне: как избежать провалов в e-commerce",
-          "description": "Анализ типичных ошибок в дизайне сайтов электронной коммерции, которые вредят конверсии. Поможет продуктовым дизайнерам создавать более эффективные решения.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#95BF47",
-          "published_at": "2026-06-04",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WeUZ2amNKVGs5djRqWDJYX19IX0pzbVkwaHRDQTZycDFmTkFVT1Z4WGJpVmJRQUVBOG1pRUpYZXg4WlJhbWpyWE1GdWUxbkFweFRCMUstV0p3RnBmNDBvTg?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "Опасность случайного дизайна в цифровых продуктах",
-          "description": "Статья о том, как отсутствие преднамеренного дизайна приводит к неэффективным продуктам. Подчеркивает важность глубокого UX-исследования и системного подхода.",
+          "headline": "Ловушка случайного дизайна в цифровых продуктах",
+          "description": "Материал раскрывает проблемы, возникающие при отсутствии целенаправленного дизайн-процесса. Это важно для продуктовых дизайнеров, чтобы избегать ошибок и создавать более продуманные решения.",
           "source": "geekwire.com",
           "favicon_char": "G",
-          "favicon_color": "#A33A3F",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-05",
-          "read_min": 6,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjR2cjE2SUtNR2JYck81V0I0Mk1FcWJKbUdnNjJ3YTdkakh0LTZmZHhYajg3NGJtVUo4dERiV1BqNEZ6bzNnQnRSOUNWYnVSWTRHbzFuRlYxTURrNVJwZ3dwS0wwaTdpWVo2dmhVWmxiNFdPbUdlaXhpdkx1ZjluWWNCemxjS1lBY3k2TWFFQTZlNmJG?oc=5"
         },
         {
-          "id": 4,
-          "headline": "Goji Labs получила награду за лучший дизайн приложения Dreamwell",
-          "description": "Кейс успешного мобильного приложения Dreamwell, отмеченного за выдающийся дизайн. Пример того, как продуманный UX и UI приводят к признанию на рынке.",
-          "source": "itbusinessnet.com",
-          "favicon_char": "I",
-          "favicon_color": "#007bff",
-          "published_at": "2026-06-04",
+          "id": 2,
+          "headline": "UX/UI дизайн-услуги для компаний: что важно при росте продукта",
+          "description": "Статья фокусируется на ключевых аспектах UX/UI дизайна для зрелых компаний, ориентированных на рост. Это поможет дизайнерам понять, какие метрики и подходы наиболее ценны на этапе масштабирования продукта.",
+          "source": "bbntimes.com",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2VkRV8wQzVmeUpBdEFtOVR2M2xZWnlLWmFnVVg5US1SbDM1eEloWTBzWHVHMnNtRnVLbTY0RmY3WmVQZWV4Yk9jYWg5TzBGbXMyU0xnQU5wYjE2emdvSmdRUU1KNEJxUWpTMk1lcG9LMHhpdndPR2t6Vl9aTUdaNHdJa2syVzNYdE1yZ2pOb3hlbnhYeEhvaHZGcU5tcEhzeUE?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "ITM IDM завершил презентацию дизайна NeoSpark 2026",
+          "description": "Отчет о завершении ежегодной выставки дизайна, где были представлены новые подходы и решения. Дизайнеры могут найти здесь вдохновение и ознакомиться с актуальными концепциями.",
+          "source": "passionateinmarketing.com",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1MaTVkVUNwZEkxYmxFRENuV2Vza09iamZDM3N4b1lYZnJNYUUtem1FT0NHUVdnVkVYZHpWQlk1dC1sZm9KY3ZSdDRQajJ0RWFCcldiWTVSc1AzTFZhU1Z3RnBYZUVCS2NTNGhQVzFIWk5GSElHMjlxand1WVJQOFBFaGlzRjduMVlmT010TDhDQ2lvSFRj0gGcAUFVX3lxTE53dzJGY2dpUEI0X2U0MXBCLUFsekVhZ29FTWthSko1MVRiVFJpc0dEZndVT0YxVW5heWlEd3RyRDhFUkdGQ3kzZWVBOEpuWGx0cV9SQm1DSkhDMzlWY2NaMERoeDdpZ1h5S1k2dWo0VHNtczdLRXpiUHdoYmVncWRCbnZ1T3pNVGh1ekszV0xiR1I5bC1hVTJPZ1ZJTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHJEY2xuSnh3NWp1ZGctR0hhX2VYNXVHS0JfcHprdEMzblBrT3pqODRZSXVUOGNQNmNNcFNlUnRkUjQ5cHVWTWRMTDdrUnVRN0t1eGRKQXZnb19GVWR5d21wQy15clEtUU1OeFNsVlpNUFB2cnd2X1dnZkNnN3RxbjhHNndvU0tyVHVWdGZQYUxkaGVzTTVrMHE5Q2l1em0tbS1nNWl4V25GeTVVVWhwZzV6S05BR1VFdkhDX3VwQ0ZYOFRHR2p3VW41dFdvRS1TTEFtVHd3MA?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Инструменты аналитики встреч: новый тренд",
+          "description": "Обзор инструментов для анализа встреч и их влияния на продуктивность. Полезно для UX-исследователей, чтобы оптимизировать командные процессы и сбор обратной связи.",
+          "source": "trendhunter.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-05",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KanBoLTlaVEN6REZ0ZFpYck9CVXpreWVaSzZ6YjJ4N3ZjOXZOOEMwUXVLSmNFWEpGcEhwTWJZMEp2RzBxWkpUcXd3SXVFdnZKV2pLMDRHZVVqYjBmZlhVMNIBZkFVX3lxTE8xU1c1ai1SSDB3b2xKZEctTTVCWEJBSko3TUdLd0dUSTdRRWdtcnctcGNxb0o5Z1RyRHJ4dzFQeDFVZHk0WnhzLTZrOFEtRmtHTGVUY0xtSTY5RVh3bW16RUwwWmwtUQ?oc=5"
         },
         {
           "id": 5,
-          "headline": "Главное правило Google: «фокус на пользователе» и успех в триллион долларов",
-          "description": "Принципы ориентированного на пользователя дизайна, которые легли в основу успеха Google. Напоминает о базовых ценностях UX, применимых к любому продукту.",
-          "source": "msn.com",
-          "favicon_char": "M",
-          "favicon_color": "#0078D4",
-          "published_at": "2026-06-04",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHNTTXdlZjFJX3BOSmR5ak96dWVCYmw0TDNQbFE0MHBVdUo3R0hrN0JWQ21nWEtHYUtTeGhrYU1ZZWF4b3dFV1J0MG9nUmQ5S2JITlA5YkhWcUE0NER0d1ZNZzU0QXR3ZlNrdXpzdkxMZmVhdGg3RTJzWmMwTVp0bGMta0ppOE54R3g4SEZMRmNvSXlORTNJNVNnRmt3T3JNV1hEV0k3RWczRU5aZks3Y0NKRHI5UmFGaTYwZi14c0RaNGJGSUU5eTc4eE1kV3VfQ29mb3pDWW0tUQ?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Обзор лучших приложений для похудения 2026 года",
-          "description": "Анализ функциональности и UX популярных приложений, помогающих в снижении веса. Полезно для понимания лучших практик в дизайне HealthTech продуктов.",
-          "source": "nerdbot.com",
-          "favicon_char": "N",
-          "favicon_color": "#E74C3C",
+          "headline": "CodeBiosis усиливает AI-стратегию 'тихой роскоши' для цифровых брендов",
+          "description": "Компания CodeBiosis использует ИИ для разработки стратегий, ориентированных на премиальные цифровые бренды. Это показывает, как ИИ влияет на брендинг и эстетику в продуктовом дизайне.",
+          "source": "tipranks.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-06",
-          "read_min": 7,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qVHlaZVNGTmNPYWlJczF4UnN0ZHd4LUVVcmNXNU9zTGNhUGwySVZ6bmd5eVhsSzZVSGtXOHhib2pjT09ydHZOS1Q3UllxUVljNTJ0RTBKYlRjNXpUWGJNTVc4UzVNZl95VzU1Tnl0VURLbndES29NcQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGVjOW1lVEN2RVFyX29MN003ekdVUU9XTzdNMWFZdm1JM1VGSHV4LU5uU3A4eGkwTkhtLS1DY0Y5bUluSVdvTlBlczhMdHpmNm51Z3VhSG55VUV2c3FYVFZWLWotbHhXZjVjdTBhZWx4aFJ2RnNMR25SY0g0OVZVWFU4S3JfV2tIMlFneVVLdFFhX050QlIxU0gxTGw3eTRaLVEtTF9SNHFteV9ZQWt3N1NWN3FGVWFXVlpFdE5MUEd1aThn?oc=5"
         }
       ]
     },
@@ -90,28 +78,16 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 7,
-          "headline": "«Яндекс Музыка» обновила «Мою волну»: теперь с текстовыми запросами",
-          "description": "Пользователи теперь могут управлять плейлистами «Моей волны» с помощью текстовых команд. Это улучшает персонализацию и взаимодействие с сервисом.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-04",
-          "read_min": 2,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFl2YkdvRXlFWGloQUVNd1Fjd0tjS1FuRFcxNlZUTmxHaU9xMXFDNFAyODZsSmlZbzJNbFlkV2pNTGxDaFFOTVFrcWhVaVpxQkVhZE1JdGhJeEUzLXlxdEhXOHUxQjJ1R2oyT0ZHVFlzV3pmOG93X3Q1MFdZUlVCc0N4YVB2MF92WFVzWFhRMmpZYmVSVjNwUlp1S0F3SmhwWUt0SjEwR2I5TzduQmU1VkFLTmk1azItbzlWeEZWM0FqVUtmNFE?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "Авито: спрос на репетиторов летом растет в СЗФО",
-          "description": "Отчет Авито показывает растущий спрос на образовательные услуги, что может влиять на развитие платформы и сегмента услуг.",
-          "source": "brief24.ru",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-05",
+          "id": 6,
+          "headline": "«Авито» обновил кабинет: публичный API и прямые трансляции",
+          "description": "В кабинете «Авито» появились публичный API и функция прямых трансляций в Max. Это расширяет возможности для продавцов услуг и может повлиять на способы взаимодействия пользователей с платформой.",
+          "source": "adindex.ru",
+          "favicon_char": "A",
+          "favicon_color": "#FF8D00",
+          "published_at": "2026-06-08",
           "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wOVdRdk4zd3hUVmtBVG9nS2F4djZZMjJIcmZIeUdLdjJuNXVITXVyVDFaT1ZvRFphUnZma0k2TlFFMDN2WW5UWDg5WWxZSkxt?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nVHJodEdyX2VOZWNLZHB0YzRDN2ZMMUJBLV9ESDgwSlFQWndaMWdQejdMZHgxb3pxNVBBeks5b2tKdkJ1TDVTc1ltdnRVcHRsTEVwbS1SbFVVT2x6ZzFQSHo5LVBVVk0?oc=5"
         }
       ]
     },
@@ -122,9 +98,45 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
+          "id": 7,
+          "headline": "12 лучших AI-конструкторов сайтов в 2026 году",
+          "description": "Обзор и сравнение ведущих AI-инструментов для создания веб-сайтов без кода. Дизайнерам полезно знать эти платформы для быстрой реализации прототипов и упрощения рабочего процесса.",
+          "source": "memeburn.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-06",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "21 лучший Low-Code и No-Code AI-инструмент 2026 года",
+          "description": "Список наиболее эффективных AI-инструментов, позволяющих создавать приложения и продукты с минимальным кодированием. Это расширяет возможности дизайнеров в области прототипирования и разработки.",
+          "source": "marktechpost.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-07",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5"
+        },
+        {
           "id": 9,
-          "headline": "Кастомный веб-дизайн по-прежнему лидирует в эру ИИ",
-          "description": "Статья исследует, почему уникальный подход в веб-дизайне остается ценнее, чем полностью автоматизированные решения ИИ. Важно для понимания роли дизайнера в будущем.",
+          "headline": "How&How создаёт новую айдентику для AI-платформы Ideogram",
+          "description": "Кейс-стади о разработке новой визуальной идентичности для платформы генерации изображений на основе ИИ. Это демонстрирует применение AI в креативных процессах и брендинге.",
+          "source": "creativereview.co.uk",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rd19aT2lBU1ZQMnh1M0s4ODlKSXdMdlF2RFU2dGpyZjhWSkE2cHd3UEJjQ3VxeEFfeVRtbUVxZHlyNHJEdVpNakJHenZiVlB0YXNoSVFqSF9GRnloZkdaWHVtS3R5cVB1NDR6UmYtemhZRVprZHlCQzVFNA?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Почему кастомный веб-дизайн по-прежнему актуален в 2026 году, насыщенном ИИ",
+          "description": "Статья исследует, как искусственный интеллект влияет на веб-дизайн и почему индивидуальный подход сохраняет свою ценность. Дизайнерам важно понимать баланс между автоматизацией и креативом.",
           "source": "news.designrush.com",
           "favicon_char": "N",
           "favicon_color": "#6750A4",
@@ -134,21 +146,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeThRQUdfYnpUeUhvR0dYc1NmZGFnU3d5ZkdLNGxyLTlUNXdsQ2lOZE5BV1hvMEM4LV9BemlJQjdCbWpaLXM5dzlIMk8tcnNSMzJVS2RqV1U4TjNRcnowdDVJQlU3NkFGc1JlbkdOeTcwUFU3NDRDSndBdGhhamc?oc=5"
         },
         {
-          "id": 10,
-          "headline": "Обзор 12 лучших ИИ-конструкторов сайтов 2026 года",
-          "description": "Сравнение и анализ ИИ-инструментов для создания сайтов. Поможет дизайнерам оценить существующие решения и их потенциал для автоматизации рутины.",
-          "source": "memeburn.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
-        },
-        {
           "id": 11,
-          "headline": "Cursor запускает новый режим дизайна для интуитивного ИИ-кодирования",
-          "description": "Новая функция делает взаимодействие с ИИ при написании кода более визуальным и простым. Потенциально влияет на инструменты для прототипирования и разработки.",
+          "headline": "Режим 'design mode' в Cursor делает AI-кодинг интуитивнее",
+          "description": "Представлен новый режим дизайна в инструменте Cursor, упрощающий написание кода с помощью ИИ. Это может значительно ускорить процесс разработки интерфейсов для дизайнеров, работающих с кодом.",
           "source": "moneycontrol.com",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
@@ -159,8 +159,8 @@
         },
         {
           "id": 12,
-          "headline": "Дизайн- и ИИ-инструменты Canva интегрированы в Perplexity Computer",
-          "description": "Расширение доступности популярных дизайн-инструментов Canva через интеграцию с ИИ-платформой. Улучшает возможности для быстрого создания контента.",
+          "headline": "Дизайн и AI-инструменты Canva теперь в Perplexity Computer",
+          "description": "Интеграция популярных AI-функций Canva с Perplexity Computer расширяет возможности для создания контента. Это даёт дизайнерам доступ к мощным инструментам для автоматизации творческих задач.",
           "source": "indianprinterpublisher.com",
           "favicon_char": "I",
           "favicon_color": "#6750A4",
@@ -168,30 +168,6 @@
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1h4NTNOVTVrbFpoSmxDZ1JETTJNY1hTc1ltN0VIOWhtVnJNbUxGQXdYT2dEWWd0eEVDM3RTWlVyM2E2dUtVUWM5MHNUTFZWRnpJQmhuMEltdTNiczItMjhlelotUGJVekszYmp0NEUwenUyYnM4bzZ0cUhuUjVuMExBVlNxbEFkVVJMVTJHb0JDVEY5ekRyM3hFY25rUFE?oc=5"
-        },
-        {
-          "id": 13,
-          "headline": "DaVinci Resolve 21: новые ИИ-инструменты для фото и видео",
-          "description": "Обновление популярного редактора, включающее функции на базе ИИ для обработки изображений и видео. Расширяет арсенал инструментов для креативных специалистов.",
-          "source": "yugatech.com",
-          "favicon_char": "Y",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmVPb0tFS3RHT21JX0lzNFhPM2FPQ2ZKX1l3Q2MxRi1aX2NoTVVLd0FldkpfY2JkOXJoVDVVYllWeWVBaUZNZWRNNVRCYjN6bUdmU3pIOFk4M3ZYMjktMmE3UDhiTmU5c2pJTld4bl96Z1BPaTZ6WTRibnJoYTY0TUxrRU1ZajluWlFyVWtfNnhVOUZMZmFoYUZqbw?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "10 лучших бесплатных ИИ-генераторов изображений 2026",
-          "description": "Обзор самых эффективных бесплатных ИИ-инструментов для создания изображений. Поможет дизайнерам в быстрой генерации визуалов и поиске вдохновения.",
-          "source": "memeburn.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EVTNoRkM3Z0k5TEpHOTVydWdOMXFjTXpheEtWVjNjS1FqV21oemxSU3M2NmliaHg4Mk1jVk8tQW4wdldhWnpZcDB5aXMtanFZRTl3TjgyLXdPdWxJZDlPVQ?oc=5"
         }
       ]
     },
@@ -202,9 +178,9 @@
       "subtitle": "решения из больших платформ",
       "items": [
         {
-          "id": 15,
-          "headline": "Сооснователь Airbnb Брайан Чески планирует запуск новой ИИ-лаборатории",
-          "description": "Airbnb инвестирует в исследования ИИ для улучшения своего сервиса. Это указывает на тренд использования ИИ для оптимизации работы двухсторонних маркетплейсов.",
+          "id": 13,
+          "headline": "Брайан Чески из Airbnb планирует запустить новую лабораторию ИИ",
+          "description": "Глава Airbnb заявил о планах по созданию собственной лаборатории искусственного интеллекта. Это свидетельствует о стратегическом фокусе крупного маркетплейса на интеграции ИИ в свои сервисы и продукты.",
           "source": "techcrunch.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
@@ -212,18 +188,6 @@
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1vWHRMRUR6RDBXUzFRc2xUSnF4QXpKMUIxajI0eFNRYndvS1lEMzNsYVlTR1FrZzJCdXdjYld0ZDA2Si1jSFQ1Vkp3TzRZS1E4ZkYycEpCUG4xOGcybGVDRHdyMW1qeHJCb18yRV9BeHZERjhybUJFTFNYWi1WTTNCQ2VRYU9Ia2VtNg?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Экосистема App Store достигла рекордных $1,4 трлн оборота",
-          "description": "Рост App Store подчеркивает важность платформ для разработчиков и пользователей. Это показательный кейс для понимания экономики и развития крупных маркетплейсов.",
-          "source": "apple.com",
-          "favicon_char": "A",
-          "favicon_color": "#A1A1A6",
-          "published_at": "2026-06-04",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFRIdlZ3YTZ2TDlFUWxXTWh3TWYwamYwTWRjbUFVeFU3SlR1TDRGUjIySk1PUkhoTnVQb1JBTGdDQ3Q5NVlIT1NZa0xodzNUUnpuWEYybTZjX092NnphNEpzRDBYM2RVVFQwdXppU0VWcEJWU2c2eENWQy0zUDFNX3hoVkZ6ZC1mWkdPaTZick9rU3hzYWtOUHc4V3hjeVVCUk9raEVHOTdZMDd2QnlKREtzMlRBeDItUllPWXBwdEI?oc=5"
         }
       ]
     }
