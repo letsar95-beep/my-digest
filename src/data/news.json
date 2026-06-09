@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T17:00:49",
+  "updated_at": "2026-06-09T05:02:46",
   "next_issue_at": "2026-06-11T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,8 +11,20 @@
       "items": [
         {
           "id": 1,
+          "headline": "Тренды веб-дизайна 2026: полное руководство",
+          "description": "Изучите ключевые направления и подходы, которые будут формировать веб-дизайн в ближайшие годы. Важно для понимания эволюции пользовательских ожиданий.",
+          "source": "community.nasscom.in",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-09",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTU3d0Z3djU3aVc1UFdtcXpWa3hQdWtBcjBrcnlGMGNMeDVHNzl1RnpLM3NQakE2ZFRiX1Y1UTRTQ1FwRS16d2NqRXV4NnFEcERNeG9hYXp4ZjFURUxFXzZEQmhTdW5YcmZCTjUwUVdZTWF1RlBsdFdkM203Sl9Rb1VfYjNUSG5ISDZZb0lvTktlV2pxb2RFUEtBZmNRbTdlb2Zv?oc=5"
+        },
+        {
+          "id": 2,
           "headline": "Ловушка случайного дизайна в цифровых продуктах",
-          "description": "Материал раскрывает проблемы, возникающие при отсутствии целенаправленного дизайн-процесса. Это важно для продуктовых дизайнеров, чтобы избегать ошибок и создавать более продуманные решения.",
+          "description": "Понимание того, как непреднамеренные решения формируют пользовательский опыт, критично для избегания ошибок. Помогает создавать более осмысленные и функциональные продукты.",
           "source": "geekwire.com",
           "favicon_char": "G",
           "favicon_color": "#6750A4",
@@ -22,52 +34,28 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjR2cjE2SUtNR2JYck81V0I0Mk1FcWJKbUdnNjJ3YTdkakh0LTZmZHhYajg3NGJtVUo4dERiV1BqNEZ6bzNnQnRSOUNWYnVSWTRHbzFuRlYxTURrNVJwZ3dwS0wwaTdpWVo2dmhVWmxiNFdPbUdlaXhpdkx1ZjluWWNCemxjS1lBY3k2TWFFQTZlNmJG?oc=5"
         },
         {
-          "id": 2,
-          "headline": "UX/UI дизайн-услуги для компаний: что важно при росте продукта",
-          "description": "Статья фокусируется на ключевых аспектах UX/UI дизайна для зрелых компаний, ориентированных на рост. Это поможет дизайнерам понять, какие метрики и подходы наиболее ценны на этапе масштабирования продукта.",
+          "id": 3,
+          "headline": "UX/UI услуги для роста продуктов в зрелых компаниях",
+          "description": "Разбираем, что действительно важно при масштабировании продуктов для устоявшихся компаний. Актуально для дизайнеров, работающих над развитием существующих платформ.",
           "source": "bbntimes.com",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-08",
-          "read_min": 5,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2VkRV8wQzVmeUpBdEFtOVR2M2xZWnlLWmFnVVg5US1SbDM1eEloWTBzWHVHMnNtRnVLbTY0RmY3WmVQZWV4Yk9jYWg5TzBGbXMyU0xnQU5wYjE2emdvSmdRUU1KNEJxUWpTMk1lcG9LMHhpdndPR2t6Vl9aTUdaNHdJa2syVzNYdE1yZ2pOb3hlbnhYeEhvaHZGcU5tcEhzeUE?oc=5"
         },
         {
-          "id": 3,
-          "headline": "ITM IDM завершил презентацию дизайна NeoSpark 2026",
-          "description": "Отчет о завершении ежегодной выставки дизайна, где были представлены новые подходы и решения. Дизайнеры могут найти здесь вдохновение и ознакомиться с актуальными концепциями.",
-          "source": "passionateinmarketing.com",
-          "favicon_char": "P",
+          "id": 4,
+          "headline": "Кейс: создание UI и опыта отзывов для платформы Spinbara Casino",
+          "description": "Пример разработки интерфейса и UX для системы отзывов. Ценный опыт для улучшения доверия и вовлеченности пользователей.",
+          "source": "anoticiadoceara.com.br",
+          "favicon_char": "A",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-08",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHJEY2xuSnh3NWp1ZGctR0hhX2VYNXVHS0JfcHprdEMzblBrT3pqODRZSXVUOGNQNmNNcFNlUnRkUjQ5cHVWTWRMTDdrUnVRN0t1eGRKQXZnb19GVWR5d21wQy15clEtUU1OeFNsVlpNUFB2cnd2X1dnZkNnN3RxbjhHNndvU0tyVHVWdGZQYUxkaGVzTTVrMHE5Q2l1em0tbS1nNWl4V25GeTVVVWhwZzV6S05BR1VFdkhDX3VwQ0ZYOFRHR2p3VW41dFdvRS1TTEFtVHd3MA?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Инструменты аналитики встреч: новый тренд",
-          "description": "Обзор инструментов для анализа встреч и их влияния на продуктивность. Полезно для UX-исследователей, чтобы оптимизировать командные процессы и сбор обратной связи.",
-          "source": "trendhunter.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-05",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KanBoLTlaVEN6REZ0ZFpYck9CVXpreWVaSzZ6YjJ4N3ZjOXZOOEMwUXVLSmNFWEpGcEhwTWJZMEp2RzBxWkpUcXd3SXVFdnZKV2pLMDRHZVVqYjBmZlhVMNIBZkFVX3lxTE8xU1c1ai1SSDB3b2xKZEctTTVCWEJBSko3TUdLd0dUSTdRRWdtcnctcGNxb0o5Z1RyRHJ4dzFQeDFVZHk0WnhzLTZrOFEtRmtHTGVUY0xtSTY5RVh3bW16RUwwWmwtUQ?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "CodeBiosis усиливает AI-стратегию 'тихой роскоши' для цифровых брендов",
-          "description": "Компания CodeBiosis использует ИИ для разработки стратегий, ориентированных на премиальные цифровые бренды. Это показывает, как ИИ влияет на брендинг и эстетику в продуктовом дизайне.",
-          "source": "tipranks.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-06",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGVjOW1lVEN2RVFyX29MN003ekdVUU9XTzdNMWFZdm1JM1VGSHV4LU5uU3A4eGkwTkhtLS1DY0Y5bUluSVdvTlBlczhMdHpmNm51Z3VhSG55VUV2c3FYVFZWLWotbHhXZjVjdTBhZWx4aFJ2RnNMR25SY0g0OVZVWFU4S3JfV2tIMlFneVVLdFFhX050QlIxU0gxTGw3eTRaLVEtTF9SNHFteV9ZQWt3N1NWN3FGVWFXVlpFdE5MUEd1aThn?oc=5"
+          "read_min": 5,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzZZYm81SmhrY2dBeDJFV3QzeG1oem0tak1JS2Y0ZnUyRkMyWUtoUWlnVU50bWd2c1QzMHdmd3FoNFpCSlE0dFhLajR3cmh4ejZ2RmVTMXd0NDVEMGhjSWx5WHU2aU9FNEczRE5mOGRrNnhsVE9ud3p0YTlkRi1Pb2tRamZHcXBJQzVfVzc2WENRa1p1SlhvalFybkowMUc4emRn?oc=5"
         }
       ]
     },
@@ -78,16 +66,64 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
+          "id": 5,
+          "headline": "«Яндекс Авто» интегрируют в новые автомобили GAC S9",
+          "description": "Расширение сотрудничества «Яндекс Авто» и GAC приведет к появлению сервисов платформы в новых моделях. Это открывает новые каналы для пользователей и масштабирования продукта.",
+          "source": "xn----ctbfecatgqygb5apl.xn--p1ai",
+          "favicon_char": "X",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-09",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTF9FWkl4MWZPem9CU1NxZTNUc0FjeXF0Qld5cXRReTNlRWRvYlJxdHQ3WGNoSUhvSGxLTGV4VVJrVUh4Mmxab2I1MTgtWEZPSDVnck5SLWtUY1FyTThhMlFMUlpuaTk1ZmpMMTlwdnJtWFdlU0xmT1IycGxJQ3ptWlNZVTNkVWhwTkZDd0xnRkU2RkNZV3Y0bzNVbERJSFhkLUF2VWZZdWN3TDE3dFdDRWUtdVFnWUIyR2JoOFBLLWdEZDJKSmhwYVdLdDRES1RURGcyS21qQXQ0a2RpY2xJd3hrS2pCcWlwZjNrbHZhZW1GX3Az?oc=5"
+        },
+        {
           "id": 6,
-          "headline": "«Авито» обновил кабинет: публичный API и прямые трансляции",
-          "description": "В кабинете «Авито» появились публичный API и функция прямых трансляций в Max. Это расширяет возможности для продавцов услуг и может повлиять на способы взаимодействия пользователей с платформой.",
+          "headline": "«Авито»: публичный API и прямые трансляции в Max",
+          "description": "Обновления в кабинете «Авито» включают публичный API для разработчиков и функцию прямых трансляций. Это улучшает интеграционные возможности и пользовательский опыт за счет интерактивности.",
           "source": "adindex.ru",
           "favicon_char": "A",
-          "favicon_color": "#FF8D00",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-08",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nVHJodEdyX2VOZWNLZHB0YzRDN2ZMMUJBLV9ESDgwSlFQWndaMWdQejdMZHgxb3pxNVBBeks5b2tKdkJ1TDVTc1ltdnRVcHRsTEVwbS1SbFVVT2x6ZzFQSHo5LVBVVk0?oc=5"
+        },
+        {
+          "id": 7,
+          "headline": "«Авито» запустил биржу грузоперевозок для МСБ",
+          "description": "Сервис «Авито» открыл новую категорию для малого и среднего бизнеса — биржу грузоперевозок. Это расширяет охват платформы и предлагает новые B2B-инструменты.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGRzdkduTFRPeGhtbzZoeVBIYUdfSGJndVdmZ0JTcEhGQ3I0Ylpzc2ZzMFlQV3hjX0o0bFV0dDJyTk1xd1o2LU11YVRraDZPYXVxcXhVdGhJQ2RTRGlzeTZYTTZibzl0NXNtWnhEUFVoR24yQlJINWFwbThIdjRwWWxRNllxdEFGanRlN0FkLVFzN3pZWGhPR2Y4aWR5SGZBV0l2Y0hTTURpbmpL?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "MiXX и «Яндекс» запускают совместную подписку",
+          "description": "Партнерство MiXX и «Яндекс» предлагает новую совместную подписку. Это изменяет бизнес-модель и увеличивает ценность для пользователей, объединяя разные сервисы.",
+          "source": "spbit.ru",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXZqMnRvYk4ydzA1cGxDd0dhajc2UU5kTmdya3lERzAycmM3ZF8xMjdwRnA2eHFHUWNCOFBTTXZ6aVRHaGNnQUxtMHdkdzBCc0xOY3RRRERkVnRRY2ZmaUhiR0NBYmlFOFRMY0dldmw3OVlTRWZtUkVGalNneHNSbw?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "EVM и «Яндекс» представляют новый UMO 8",
+          "description": "В рамках партнерства EVM и «Яндекс» анонсировали новый продукт UMO 8. Это демонстрирует стремление к инновациям и интеграции в новые сферы.",
+          "source": "xn----ctbfecatgqygb5apl.xn--p1ai",
+          "favicon_char": "X",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVRGQ3NIZFM5U3RHeE5xZHpXelNqZFRySUZGd29MdlpfeWJiMDVad0Z6aVBIZmZsNjljSVVXYzlzeU9pZkxJWmhmTGxTS0oxSVppYkVUcW40Qkp1c2htVE1FNHhBa002aDdHZ1k5RXliSm1iM1hiWFgxSXNCNHJjSk11bFhsLWJnRERSUVNwUWZaUklGMGtJOXp1MzZESk04Uktscm9XU3ZBQlBpcm12SjNsZWl6RXVh?oc=5"
         }
       ]
     },
@@ -98,9 +134,45 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 7,
+          "id": 10,
+          "headline": "Apple представила новое поколение Apple Intelligence и Siri AI",
+          "description": "Значимые обновления в области искусственного интеллекта от Apple, включая улучшения Siri. Это повлияет на разработку приложений и взаимодействие с пользователями в экосистеме Apple.",
+          "source": "apple.com",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXJCVHVtdnRLcWJUbU5yaGZIbnJnaFVfUlFZdUhBYXoxQmRVQTB5a1lTb3lpQktQVHY2TXo3UFRtTFRsSi1Sc3BJcTF6VHhyUlVxNmRESlJFUnMzVkJyMEoxWDAyYndzUXNpbjdHR0ZFMEZJNmp5TTRfSFNGdHlYcEZhaDhiRjFxb0xaaHJKQ0Z0dlZHdHBWdkdvYUpWOGtXem5idjZESElnVkhD?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Как AI меняет SDLC: шестиэтапное руководство",
+          "description": "Глубокий анализ того, как искусственный интеллект трансформирует жизненный цикл разработки программного обеспечения. Важно для дизайнеров, чтобы адаптировать свои рабочие процессы.",
+          "source": "augmentcode.com",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydGdRLXloQXJVTlkxa1BtVUVkbGdpMHRVVnBRZWxjVXlXOTNEVTJvRmtrM0xsTTlpdkd1N3ZsZWlxSFZzSzZmZmtDbFljMUNtam4yTmM2TkdNai1kNUVWR2tYM3U5bEZXeGc?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Кастомный веб-дизайн все еще выигрывает у AI в 2026 году",
+          "description": "Обсуждение преимуществ индивидуального веб-дизайна в условиях развития AI-инструментов. Важно для понимания роли человеческого творчества в создании уникальных интерфейсов.",
+          "source": "news.designrush.com",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-05",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeThRQUdfYnpUeUhvR0dYc1NmZGFnU3d5ZkdLNGxyLTlUNXdsQ2lOZE5BV1hvMEM4LV9BemlJQjdCbWpaLXM5dzlIMk8tcnNSMzJVS2RqV1U4TjNRcnowdDVJQlU3NkFGc1JlbkdOeTcwUFU3NDRDSndBdGhhamc?oc=5"
+        },
+        {
+          "id": 13,
           "headline": "12 лучших AI-конструкторов сайтов в 2026 году",
-          "description": "Обзор и сравнение ведущих AI-инструментов для создания веб-сайтов без кода. Дизайнерам полезно знать эти платформы для быстрой реализации прототипов и упрощения рабочего процесса.",
+          "description": "Обзор наиболее эффективных AI-инструментов для создания веб-сайтов. Помогает дизайнерам выбирать подходящие платформы для ускорения рабочего процесса.",
           "source": "memeburn.com",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
@@ -110,57 +182,9 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
         },
         {
-          "id": 8,
-          "headline": "21 лучший Low-Code и No-Code AI-инструмент 2026 года",
-          "description": "Список наиболее эффективных AI-инструментов, позволяющих создавать приложения и продукты с минимальным кодированием. Это расширяет возможности дизайнеров в области прототипирования и разработки.",
-          "source": "marktechpost.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-07",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "How&How создаёт новую айдентику для AI-платформы Ideogram",
-          "description": "Кейс-стади о разработке новой визуальной идентичности для платформы генерации изображений на основе ИИ. Это демонстрирует применение AI в креативных процессах и брендинге.",
-          "source": "creativereview.co.uk",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rd19aT2lBU1ZQMnh1M0s4ODlKSXdMdlF2RFU2dGpyZjhWSkE2cHd3UEJjQ3VxeEFfeVRtbUVxZHlyNHJEdVpNakJHenZiVlB0YXNoSVFqSF9GRnloZkdaWHVtS3R5cVB1NDR6UmYtemhZRVprZHlCQzVFNA?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Почему кастомный веб-дизайн по-прежнему актуален в 2026 году, насыщенном ИИ",
-          "description": "Статья исследует, как искусственный интеллект влияет на веб-дизайн и почему индивидуальный подход сохраняет свою ценность. Дизайнерам важно понимать баланс между автоматизацией и креативом.",
-          "source": "news.designrush.com",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-05",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeThRQUdfYnpUeUhvR0dYc1NmZGFnU3d5ZkdLNGxyLTlUNXdsQ2lOZE5BV1hvMEM4LV9BemlJQjdCbWpaLXM5dzlIMk8tcnNSMzJVS2RqV1U4TjNRcnowdDVJQlU3NkFGc1JlbkdOeTcwUFU3NDRDSndBdGhhamc?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Режим 'design mode' в Cursor делает AI-кодинг интуитивнее",
-          "description": "Представлен новый режим дизайна в инструменте Cursor, упрощающий написание кода с помощью ИИ. Это может значительно ускорить процесс разработки интерфейсов для дизайнеров, работающих с кодом.",
-          "source": "moneycontrol.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-07",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYzB1VkdVZDIwMGJKcGNDOGhhNjMwQnBKRFNsV1A2TUliWjlsVkpfQ084Ym9QZDgwV1p6Ym9GU1pLQU1hRmdIRzd2ZjBJUUg2eUp2d25SZFNuLVFVakI1bjNza3ZDbXdZWGQxbG1icXlXZi02TTZ3am9Nd0NYMmJWOEVTdjZnMk45bGgtVDBJRHlORkl4M05IUDFLWWlBQ1k5Ny1uRVhiZ2g5dUxISXRUd3hwRDQ2MWFFZHdUWk5aTUhXcUhwaE9Z0gHMAUFVX3lxTE9LX2x0RzYtZHM2VGpaZkVxWlNUNFlSOHRWWVNvM0JkZ1JHSzNkMlk2aV84Rk1VVjBJVzlYQmNhZXN5eW5XUC1FbzR5UU5tOFF0dFZHQ3NOUkRYaUxvemY1SWVjUnRuaHM3SHJURldYVGlpY2E2RHdCM1NYdXUzRjc3ZGo2VER2RnBILWZoN1N0SmlTUVl1VG85ZmF2ZE5WcFhqUERwdFlSLTVuSjNVNC0tUGJoVzRNX1ZoZ2Z4WUg0WXd0aVNVSm9IMDV5Vw?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Дизайн и AI-инструменты Canva теперь в Perplexity Computer",
-          "description": "Интеграция популярных AI-функций Canva с Perplexity Computer расширяет возможности для создания контента. Это даёт дизайнерам доступ к мощным инструментам для автоматизации творческих задач.",
+          "id": 14,
+          "headline": "Инструменты дизайна и AI от Canva теперь в Perplexity",
+          "description": "Интеграция дизайн-инструментов и функций AI от Canva в платформу Perplexity Computer. Расширяет возможности для дизайнеров и ускоряет процесс генерации контента.",
           "source": "indianprinterpublisher.com",
           "favicon_char": "I",
           "favicon_color": "#6750A4",
@@ -168,6 +192,18 @@
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1h4NTNOVTVrbFpoSmxDZ1JETTJNY1hTc1ltN0VIOWhtVnJNbUxGQXdYT2dEWWd0eEVDM3RTWlVyM2E2dUtVUWM5MHNUTFZWRnpJQmhuMEltdTNiczItMjhlelotUGJVekszYmp0NEUwenUyYnM4bzZ0cUhuUjVuMExBVlNxbEFkVVJMVTJHb0JDVEY5ekRyM3hFY25rUFE?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Создана новая айдентика для AI-платформы Ideogram",
+          "description": "Кейс по разработке новой визуальной идентичности для платформы по генерации изображений с помощью ИИ. Показывает, как брендировать новые AI-продукты.",
+          "source": "creativereview.co.uk",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-08",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rd19aT2lBU1ZQMnh1M0s4ODlKSXdMdlF2RFU2dGpyZjhWSkE2cHd3UEJjQ3VxeEFfeVRtbUVxZHlyNHJEdVpNakJHenZiVlB0YXNoSVFqSF9GRnloZkdaWHVtS3R5cVB1NDR6UmYtemhZRVprZHlCQzVFNA?oc=5"
         }
       ]
     },
@@ -176,20 +212,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 13,
-          "headline": "Брайан Чески из Airbnb планирует запустить новую лабораторию ИИ",
-          "description": "Глава Airbnb заявил о планах по созданию собственной лаборатории искусственного интеллекта. Это свидетельствует о стратегическом фокусе крупного маркетплейса на интеграции ИИ в свои сервисы и продукты.",
-          "source": "techcrunch.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-04",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1vWHRMRUR6RDBXUzFRc2xUSnF4QXpKMUIxajI0eFNRYndvS1lEMzNsYVlTR1FrZzJCdXdjYld0ZDA2Si1jSFQ1Vkp3TzRZS1E4ZkYycEpCUG4xOGcybGVDRHdyMW1qeHJCb18yRV9BeHZERjhybUJFTFNYWi1WTTNCQ2VRYU9Ia2VtNg?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
