@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T17:55:14",
+  "updated_at": "2026-06-13T05:03:29",
   "next_issue_at": "2026-06-15T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Современный UI/UX: ИИ, персонализация и доступность",
-          "description": "Обзор ключевых трендов в дизайне пользовательских интерфейсов и опыта, включая интеграцию ИИ. Дизайнерам важно быть в курсе этих направлений для создания актуальных и востребованных продуктов.",
+          "headline": "Влияние ИИ на UX: как умные системы меняют пользовательский опыт",
+          "description": "Искусственный интеллект трансформирует дизайн продуктов, открывая новые возможности для персонализации и автоматизации. Дизайнерам важно осваивать AI-инструменты для создания инновационных и адаптивных интерфейсов.",
           "source": "programminginsider.com",
           "favicon_char": "P",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-06-10",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUW00R0VIYzl5LUloUE1vZUdfTkNQbWh4eEVvYnYxTEkyaWhETTdMa2pZUExWUFh3T0dWS2RwZkg0MGpyOVZybk1scFF5anZSc1JzTTFwdWl1ZHg0WFpqS0tkQ0FJWFZPWlFMVVR4MGN4RkE4WjhCZEk1aXNoQnBqd1hsLVVJSjFacm5HQkJYUFJUSVhfbEZHYk5ORFJ6ckUyTDJSY1NIVWgwYkRPTXlRQ052NmU1bm5J?oc=5"
         },
         {
           "id": 2,
-          "headline": "ИИ формирует пользовательский опыт: тренды UX дизайна 2026",
-          "description": "Интеллектуальные системы трансформируют подходы к созданию UX. Это важно для дизайнеров, чтобы эффективно применять ИИ в исследованиях и проектировании.",
-          "source": "programminginsider.com",
-          "favicon_char": "P",
+          "headline": "Главные тренды UI/UX дизайна на 2026 год",
+          "description": "Обзор ключевых тенденций, которые будут формировать пользовательские интерфейсы и опыт в ближайшие годы. Важно для дизайнеров, чтобы оставаться в курсе и применять передовые подходы.",
+          "source": "m.dailyhunt.in",
+          "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-10",
+          "published_at": "2026-06-09",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDhpWTduVWlLd3pTaWFIV21qeXZESlQwZlJHbWhKQmNBRnFlb0JUeDE2X0EtY1pNMGw1QUJJSDV2aHhzdWtyaHNwbFhNT3B1ZlpGQTJCS0pXdnZLMVVvb2RsdVVYcHFDYlI2VTlzQ2VZcUR6azc4a0lYU0xQVFVrTTM3eUVVRjY0X19kV1JNUWhvTThzZmxBdXRHenVJbzIwNXZsR0FKYjRVUVdLSFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblNuOGtlQlJvdW56N2lwYl9lTWNCLXhqQ0RlNjhXenlQN2NnMVVvYnpvRjRIcWRwdGU3ekhQSGNXSVNMMnBSQVItZTBiRDZSb1l5djBMT0U5czQzRS1VdGpxcDhDSmFhdHFXdnlPV3JrS2RMaEFtSUdpYjVUME1oUVhTTnAyaWcybUxpc1VfOS1SeElMZVVfNVZpbVdRYzhPWTBMbnA2aHRyY1REVmZBNC14ODBjX2pKR2ticzI0bDlUMWVsSGhONVp4Skw5cFE?oc=5"
         },
         {
           "id": 3,
-          "headline": "Главные тренды UI/UX дизайна 2026 года",
-          "description": "Обзор ведущих тенденций, которые будут определять UI/UX дизайн в ближайшие годы. Понимание этих трендов поможет дизайнерам создавать актуальные и конкурентоспособные продукты.",
-          "source": "community.nasscom.in",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXU0WFNZWWZTSjQtVVR2dTZKYlVxWFBlS2t1S2ZpdWxBR0VySjF2ZHVNenNzYWFRRnl5c1BfMlMwM25kZ2x3bVlsU2t4MDkzSWZvcm5JelZrcV9pTWV1N3dBaWxHR1BNdjdVY0tuUmpQZTlHcTdJOGY3Y2JhT0phaGdJTVc0T2lRVXhWZE1Yb3JLVEhOR3NkY200VHZPMDE5dkl4cA?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Клиентский опыт начинается с людей: решение верных проблем",
-          "description": "Статья подчеркивает важность человекоцентричного подхода в дизайне. Для дизайнеров это напоминание о необходимости глубокого понимания пользователей и их потребностей.",
-          "source": "carriermanagement.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-10",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUSzVFMi1CVEZ3YkFXNGp6Mlh1LWNueEl0S3BuUXZqeFNCeW9SNVRlb1JmR3QwOFNfZWstYTc2WWlqVXRqcjFQcnBtcWkwZE9JXzZTYk5TdjZmZDVUWmVGZkJ6M3Q0aUZEQ0tvdjd5aXd5QQ?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Как Product Owner использует ИИ: от исследования до релиза",
-          "description": "Кейс использования ИИ в продуктовой разработке, охватывающий этапы исследования и выпуска. Дизайнеры могут перенять опыт для оптимизации своих рабочих процессов.",
+          "headline": "Использование ИИ продакт-овнером в EXANTE: от исследования до релиза",
+          "description": "Кейс демонстрирует практическое применение AI в управлении продуктом, от анализа данных до запуска. Полезно для понимания роли ИИ в полном цикле разработки продукта и улучшении UX.",
           "source": "habr.com",
           "favicon_char": "H",
-          "favicon_color": "#F60000",
+          "favicon_color": "#FF6600",
           "published_at": "2026-06-11",
           "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYl9KR3RmZE9zcTVrRmNnSGJOQ3RkaHpRelowTDlibU4wM2h4dEVBbkFNYkZubmRhaHkxeVF2M1I1c3F3YVFfc0tzZXNrMEFMZFp4UDZYTWjSAVhBVV95cUxQMGJfSkd0ZmRPc3E1a0ZjZ0hiTkN0ZGh6UXpaMEw5Ym1OMDNoeHRFQW5BTWJGbm5kYWh5MXlRdjNSNXNxd2FRX3NLc2VzazBBTGRaeFA2WE1o?oc=5"
         },
         {
+          "id": 4,
+          "headline": "Современный UI/UX дизайн: ИИ, персонализация и доступность",
+          "description": "Акцент на том, как эти три элемента становятся центральными в современном дизайне, создавая более интуитивные и инклюзивные продукты. Дизайнерам необходимо учитывать эти аспекты для актуального UX.",
+          "source": "programminginsider.com",
+          "favicon_char": "P",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-06-10",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDhpWTduVWlLd3pTaWFIV21qeXZESlQwZlJHbWhKQmNBRnFlb0JUeDE2X0EtY1pNMGw1QUJJSDV2aHhzdWtyaHNwbFhNT3B1ZlpGQTJCS0pXdnZLMVVvb2RsdVVYcHFDYlI2VTlzQ2VZcUR6azc4a0lYU0xQVFVrTTM3eUVVRjY0X19kV1JNUWhvTThzZmxBdXRHenVJbzIwNXZsR0FKYjRVUVdLSFE?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "CX начинается с людей: решаем правильные проблемы",
+          "description": "Статья подчеркивает важность человекоцентричного подхода в создании клиентского опыта. Поможет дизайнерам глубже понять потребности пользователей и сфокусироваться на значимых решениях.",
+          "source": "carriermanagement.com",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUSzVFMi1CVEZ3YkFXNGp6Mlh1LWNueEl0S3BuUXZqeFNCeW9SNVRlb1JmR3QwOFNfZWstYTc2WWlqVXRqcjFQcnBtcWkwZE9JXzZTYk5TdjZmZDVUWmVGZkJ6M3Q0aUZEQ0tvdjd5aXd5QQ?oc=5"
+        },
+        {
           "id": 6,
           "headline": "Рост рынка ПО для UX-исследований",
-          "description": "Рынок программного обеспечения для UX-исследований демонстрирует ускоренный рост. Это указывает на возрастающую значимость исследований в продуктовом дизайне и появление новых инструментов.",
+          "description": "Значительный рост рынка инструментов для UX-исследований указывает на возрастающую потребность в глубоком понимании пользователей. Для дизайнеров это означает доступ к более продвинутым инструментам аналитики.",
           "source": "openpr.com",
           "favicon_char": "O",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-10",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWVjVTBKUU5WSm01ZUdEVHR5cWFoUlh5MjQ1c0RsR0UwTWphZ0hnRWdJTHF6MDNDUElSNUZqZ2Y4YU4xN1g0NWZwMzhSSi1IYnF3OFZfampVS3ZOSHBMUnhiWmZPTmZTOEE4c3hoaEZNZDFwUVNxc2VWdFg4b21lVjZ3elVNTGdnM0g4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHdGVmc0Mm1VVC16Q2JoZUVxV29wRk9WenA3S0JtYkJRazdFTFV3TWVnMGNoa3czYU4xMkpDTEhxdW5icWs5U3lIWGdMWnBjWXBaUGw5YmlfOGt5bnRWZ0M3V0U0VElWVU55d3d6dngtUkdTd19TbUZvSVQ2S21rSkZaOWpmdGtNeFNHc2lycThkclhFcVRZeXVmRVI?oc=5"
         }
       ]
     },
@@ -91,75 +91,63 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс Карты: новый поиск мест для мытья головы",
-          "description": "В «Яндекс Картах» появилась функция поиска мест, где можно помыть голову. Это пример расширения категорий услуг, который меняет пользовательский опыт и интерфейс.",
+          "headline": "«Яндекс Карты»: новый поиск мест для мытья головы",
+          "description": "В приложении «Яндекс Карты» появилась новая категория поиска, позволяющая быстро найти места для мытья головы. Это улучшение UI/UX повышает удобство для пользователей, ищущих специфические услуги.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-10",
           "read_min": 2,
           "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVY4R1phRUpwZ0JjUEw4V3BuODBCbVRydFZSZzBBMl95bG1fLWhCamR3WW83OWVGSW1ZS21SMElvREJmaTNLeld1QlpkQ0FIaktGTmVyQ3lHeHN4dzhDOHdLbjBpcTJZb1NJZWdlT3dyM1dES0VNZ1NlVmdQeUk0V2E0ajExN0VMTE54MjZlcGl5MWt0V0pZek9SYXY4NW83ZHhiUjY5NURWZHVDeVFOYmo2OHpzZHNKUnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRjQwZ0V5UTBTNFYyWGJLRWFkN29BX2tiSVJOWTYtdHJfM1FaTl9NNmN1XzRFU3IyTXdmZnhvNmgyR3owMVhTbTBuQmRYYTJwOVhkOWFadEZ5dEQ1UmlKcjVPQ2JnNjdzeDRJOE1tOE9ub0FhMkJNM3IwNGFXbFhIcVNwWXV4VG9EWmtFdlY1VVZhN1hDc2V1QkFyWmNiaWpnb3lXc0tzeHRyY3J2UzJfeXlMY1d1Uk5VOWc?oc=5"
         },
         {
           "id": 8,
-          "headline": "«Нейроюрист» от Яндекса научился отвечать на претензии",
-          "description": "Сервис «Нейроюрист» от Яндекса получил новую функцию для автоматической подготовки ответов на юридические претензии. Это улучшает возможности B2B-предложений Яндекса.",
-          "source": "habr.com",
-          "favicon_char": "H",
-          "favicon_color": "#F60000",
-          "published_at": "2026-06-10",
-          "read_min": 3,
+          "headline": "«Авито Услуги»: тренд на делегирование задач",
+          "description": "Руководитель «Ремонт и строительство» на «Авито Услугах» отмечает рост спроса на делегирование бытовых задач, что формирует новые возможности для сервисных платформ. Это важно для понимания развития рынка услуг.",
+          "source": "incrussia.ru",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-11",
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ySzh3T3NQS0ViVUowbEZpS05GWVJ1T2xPUTVBMVJlNTJlZG1HZWpuRkJkWndqRDA0bFItS0lNVkFLWWhBLXJFZ9IBWEFVX3lxTE5qaGtybjhEaGJPSUNXMU5NSFVEQ29ZbkRFRjB5eWg2TmlHQ1VacHBfbUlvY0ViYVBKV2hNZFZJam1ZSko1d3R4ZHBYaFZXdmExdXgxQURKdU4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM1NxdEQ4VXBPMzRtVGpHd3VSQXkxMlRvZVpkX2dOc0REMGNvSlZCdmlkdF9iSDJVa3ExSVNUR295LV9DenlyM05MZlFFellMZ2dKS1FSdVV5VXlCT2hmMWFnSy1KNEhVX0IzRmlCWnJEanAzWFhNZFpfaUJfTVdLZUpJTnppVWJPVk80UGxPSHU5M1o4dTdFcjFjbFBzYUwyTzNDMzFDQlUxcDhOZjI3akJ0R29PSlpJVlNNd3ExNlJwam5fVmpnaDFvcVEzOG9Gam53MlV0cG1DQUNLYWNZUV9fVnNGX3docVRmRkxXQ0dFV0lkYzBqQnItY1oxeFBzZjlSNWw3cHhmUXdjWlB0ZGFITG9XNU5ab1E?oc=5"
         },
         {
           "id": 9,
-          "headline": "Яндекс запускает доставку продуктов роботами",
-          "description": "«Яндекс» расширяет свои логистические возможности, запуская доставку товаров роботами-курьерами в двух городах. Это может повлиять на ожидания пользователей от скорости и удобства доставки.",
+          "headline": "Каждый 10-й россиянин хочет открыть свой бизнес",
+          "description": "Исследование «Авито» показывает высокую готовность россиян к предпринимательству, что создает базу для роста предложений на сервисных маркетплейсах. Это влияет на стратегию развития продуктов для самозанятых.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-12",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2NkQzB4M3VzV3hhbjBZYXBPVy13aDh0ekUwTlg0OVlQb3EzMVFwSjhqSVhtc19kXzZCcFVvV0JzT09zbjJRWWd6M2ZJaVg5ci1wMnJyQ1g4R0k1M0xtdXdwZU1yOGxkekRjeE5pdDl5MGVTS3JnUFduMHpPblNOeVYtVFEwSkJUaHJLLTU3cjBRVzB6aW9MOUh4MS05aEpnZHhaYmRIcllXYkpodlhpa2Jn?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "«Яндекс» внедряет инструменты для отелей в «Поиске»",
+          "description": "«Яндекс» расширяет функционал для отельного бизнеса, предлагая новые способы продвижения в поисковой выдаче. Это может задать новый стандарт для интеграции поставщиков услуг в поисковые системы.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-11",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0Jnb281ZkRZS0NsSlAyVC1ILTVGdlBNOE9rbEdVdlhlZzd1eFVpbFhNOGhFT3FQZmdPNzBKSnNXSFhYZW9mWDhfdld6ZjVtd1dXRHd6enNKTkNEZWk3Sk5DS0Y3RFl0bnI0V1FmWXpYb3pxaklWTnZLZVNWVXdSdVZjZC1MX3k1WW5YdlpMTnNENVQwbi01dw?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Авито запустил биржу грузоперевозок для МСБ",
-          "description": "«Авито» открыл новую платформу для грузоперевозок, ориентированную на малый и средний бизнес. Это расширяет спектр услуг площадки и привлекает новую аудиторию.",
-          "source": "vse42.ru",
-          "favicon_char": "V",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-09",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1SzZqdzNFOC1meVhfbG5PbTJQbWh5dldaYWRfUDhKWXFfTEhjMjhfT3h1dW5jMjNmZDdhZ3dDT1N0ZlB20gFKQVVfeXFMTlBZN2M0V2llMWFiZ2plbnZ3REhQdXl6RFB3VFJycjVwM3M0NUJveTBCQjhtN3lfSEVXdnUyamRfVWhzZ1JESTg0R3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTNfUTRQQ0QtSEMwekFlT2ZhSzhsS08tVUhxUFZxamZrWTQwUDdTSmY5Skk2R3NIN19wMzFCMW4yaUowVTZxTHYtbDFOVUVzbWNreUw3MTdva01oanduaGw1S1RoZEhLdkhBNjJTVUxId3pmV1otcWY3bzlsbV9fd3FuVVEwSVhZQ3cySFVKRE9TaUhlc1p4RzNqeHFDVFpYU1FNdWI4U1RlMURwcVBNYlVTTVY2anM?oc=5"
         },
         {
           "id": 11,
-          "headline": "Авито представил публичный API и трансляции в Max",
-          "description": "«Авито» обновил кабинет продавца, представив публичный API для интеграции и возможность проводить прямые трансляции. Это улучшает инструменты для профессиональных пользователей платформы.",
-          "source": "adindex.ru",
-          "favicon_char": "A",
+          "headline": "«Авито Работа»: ИИ расширит функционал сотрудников",
+          "description": "Внедрение искусственного интеллекта в «Авито Работа» направлено на повышение универсальности специалистов. Для дизайнеров это важно при проектировании интерфейсов для эффективной работы с AI-помощниками.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
+          "published_at": "2026-06-12",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nVHJodEdyX2VOZWNLZHB0YzRDN2ZMMUJBLV9ESDgwSlFQWndaMWdQejdMZHgxb3pxNVBBeks5b2tKdkJ1TDVTc1ltdnRVcHRsTEVwbS1SbFVVT2x6ZzFQSHo5LVBVVk0?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "«Яндекс Книги» добавили чтение по ролям",
-          "description": "В сервисе «Яндекс Книги» появилась новая функция чтения текстов по ролям. Это улучшает интерактивность и вовлеченность пользователей в контент платформы.",
-          "source": "zamin.uz",
-          "favicon_char": "Z",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-09",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUx4YUNRektSQUlNbTRBWldZZXk1bndqb2szMjhZR1licWJrajhxcjdXUjY0UWo0RldROXJSNFJhdDFWbnY0Unpkdk5ibnhZYmtyVE1ucnVRczNEWG9jTHVaU01qazJaMkMxcTFBVFpadUE1SmY5MlBweGhuREpwYWdTcU4zM2dDSUNMWHhuN0p2NE9vVFFaTENXaG4yZUxyeGcyb3dLX1A4UzVyWGpPVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0Jnb281ZkRZS0NsSlAyVC1ILTVGdlBNOE9rbEdVdlhlZzd1eFVpbFhNOGhFT3FQZmdPNzBKSnNXSFhYZW9mWDhfdld6ZjVtd1dXRHd6enNKTkNEZWk3Sk5DS0Y3RFl0bnI0V1FmWXpYb3pxaklWTnZLZVNWVXdSdVZjZC1MX3k1WW5YdlpMTnNENVQwbi01dw?oc=5"
         }
       ]
     },
@@ -170,76 +158,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 13,
-          "headline": "12 лучших AI-конструкторов сайтов 2026",
-          "description": "Обзор ведущих AI-инструментов для создания сайтов, которые облегчают процесс проектирования. Дизайнерам полезно знать о них для автоматизации рутинных задач и ускорения прототипирования.",
+          "id": 12,
+          "headline": "Топ-12 AI конструкторов сайтов в 2026 году",
+          "description": "Обзор лучших AI-инструментов для создания сайтов, которые автоматизируют процесс дизайна и кодирования. Дизайнерам стоит изучить эти платформы для ускорения рабочих процессов и прототипирования.",
           "source": "memeburn.com",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-11",
+          "published_at": "2026-06-13",
           "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5"
         },
         {
-          "id": 14,
-          "headline": "Топ-5 бесплатных AI-генераторов изображений 2026",
-          "description": "Список лучших бесплатных онлайн-инструментов для генерации изображений с помощью ИИ. Это открывает новые возможности для дизайнеров в создании визуального контента и быстром прототипировании.",
-          "source": "cuindependent.com",
-          "favicon_char": "C",
+          "id": 13,
+          "headline": "Глобальная AI-компания запустила платформу для дизайна интерьеров",
+          "description": "Новая платформа использует ИИ для генерации идей и визуализации домашнего дизайна и ремонта. Это пример генеративного дизайна, полезный для дизайнеров, работающих с пространством.",
+          "source": "finance-commerce.com",
+          "favicon_char": "F",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
-          "read_min": 4,
+          "published_at": "2026-06-12",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUVkUXpOSGZhREFZT2xNcmx3NVgtWFN4RzFCMWc2bUhjUEw0b2hjcXhrSDNPTmZzeTBBbzJpTmowWnlIcWE0OGVOSGNCdFoxYzBCV1dmeFVQbkVYRGFkcV95c2V4aFB6LVRZY0x0LVpyc1I3OXRIUjE3NGlIaXhLaXdR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOTNVaUFwRzZJcXhrRnNIV0pfSDRyaTlyWExyakJMTlpid19qd19FeFZlZ2pxMktEUXVGSnplQk9BUEdYeEpWd1ZVWmJ3LW13d0NTbXRSeEZiRWh6d05uZC1yMnhfUXM1THV1ZkhibmRaUWd3Qi1fakpmR1gtQS1LNU9sbXZadkE?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Notion о дизайне AI-функций: без лишней \"крикливости\"",
+          "description": "Notion делится подходом к интеграции AI-функций в продукты, фокусируясь на ненавязчивости и естественности взаимодействия. Важный урок для продуктовых дизайнеров, работающих с ИИ.",
+          "source": "fortune.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-12",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVEQtWHZjaVloa2Y1czQyNk81eHNoOUdlbk9KUnkyZEdwWmFIZ3NoWkNDdlFsNHNXRVhUdmFVQkIzXzVSai1vYkdURUZPaTBDSEtZNnExaVoxcjhlSkpDNTVQNzByd29XZjFEdjNzZkZLNjZfaUFpYnNkalR1QXNQNEhBOW1RWHlfTW9scklBbkhqTHh5ODNRbzkwdXZEZ09KZDFpdHh2bFlQNklEeGlSMERTdGpOZHpudWhXU3pZejZsSXBhUDk4SkdmZVNvUUtXeW5ydjNNeG5sdnhNSHpGYmUybnJyaU14ZXg5bDRoYlNYZG9XRzZUT0NmRkNvTGdR?oc=5"
         },
         {
           "id": 15,
-          "headline": "Apple представила новое поколение Apple Intelligence и Siri AI",
-          "description": "Apple анонсировала значительные обновления в своих ИИ-технологиях, включая новые возможности Siri. Это важно для дизайнеров, работающих над продуктами для экосистемы Apple.",
-          "source": "apple.com",
+          "headline": "Anthropic выпустил Claude Fable 5 и Mythos 5",
+          "description": "Представлены новые версии моделей искусственного интеллекта Claude, предлагающие улучшенные возможности для генерации текста и кодирования. Это расширяет инструментарий для дизайнеров в работе с контентом и прототипами.",
+          "source": "anthropic.com",
           "favicon_char": "A",
-          "favicon_color": "#000000",
-          "published_at": "2026-06-08",
-          "read_min": 6,
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-09",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXJCVHVtdnRLcWJUbU5yaGZIbnJnaFVfUlFZdUhBYXoxQmRVQTB5a1lTb3lpQktQVHY2TXo3UFRtTFRsSi1Sc3BJcTF6VHhyUlVxNmRESlJFUnMzVkJyMEoxWDAyYndzUXNpbjdHR0ZFMEZJNmp5TTRfSFNGdHlYcEZhaDhiRjFxb0xaaHJKQ0Z0dlZHdHBWdkdvYUpWOGtXem5idjZESElnVkhD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5"
         },
         {
           "id": 16,
-          "headline": "Apple помогает разработчикам приложений новыми AI-фреймворками",
-          "description": "Apple представила новые интеллектуальные фреймворки и инструменты для разработки приложений. Дизайнерам это дает больше возможностей для создания интеллектуальных и персонализированных интерфейсов.",
-          "source": "apple.com",
-          "favicon_char": "A",
-          "favicon_color": "#000000",
-          "published_at": "2026-06-08",
-          "read_min": 5,
+          "headline": "Приложение HomeGPT: редизайн комнат по фото с ИИ",
+          "description": "HomeGPT позволяет пользователям мгновенно менять дизайн интерьера на основе одной фотографии с помощью ИИ. Отличный пример применения генеративного дизайна для бытовых задач.",
+          "source": "stocktitan.net",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-11",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHh5ZUJodXpvNGI2Y09yQ25oNUszam5rendnZ2haX2l2dTMxbWcwU1Jlb0xjdnNRckNkMElCZy02aHhlQUFfNmZTeU1faE1vLW1aRzByektzWFJ4MEUycjJtY1dkRi1DVGN0dWNzdFIyQjlPdWJ2RG5LLTVXelN5SU5BUGZFeFZNSU0zMEpUcUFPLWxySlpSWjA2c0FvZDRxRzlZWWdPNU02M0JMVUVsN1Vfbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2Q2UWF3QWRZTXlQS3JWSUp4X2NRTk16eFlzVjFlQWg0RHlxY0RnaXNBeXlUdEZOQ0ltbU4yLU4wQ3NvVkJVUkNvbUptS0QydTJxMXNMOEhweE9EbE9uLXFIeEwxMEptR1NlOHBVdzJ3eFBaR1pacUR4X1hINjFoTjZqQ1NzYWdldnUwTWNoZWYyNFlqTlNnQ1dtTzItdkJqd2hIRGkzc2dudw?oc=5"
         },
         {
           "id": 17,
-          "headline": "Профессор Уортона высоко оценил Anthropic Mythos AI",
-          "description": "Профессор Уортона назвал новую ИИ-модель Anthropic Mythos \"настоящим прорывом\". Это подчеркивает развитие базовых ИИ-технологий, которые лягут в основу будущих дизайн-инструментов.",
-          "source": "yellow.com",
-          "favicon_char": "Y",
-          "favicon_color": "#FFD700",
-          "published_at": "2026-06-10",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FUXNEVDhJUEpRUElJa2JlTE5mYnNibXBsOHRUZ25hbmdYem5ROGxlNVJDRUF0TExZS0dsZ3hSS213anZCb054YU5XN2tBQ0gwb3VwUjBIeUcwS2prWWpfb2hIS3ZxcExRelNvQzdMWjVvNDlL?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "Pega расширяет AI-платформу, добавляя инструменты разработки",
-          "description": "Pega объявила о расширении своей AI-платформы, включив новые инструменты для разработки и оркестрации агентов. Это может предложить новые подходы к автоматизации и персонализации взаимодействия с пользователем.",
-          "source": "siliconangle.com",
+          "headline": "PTC Creo 13: ИИ улучшает 3D-моделирование и находит ошибки",
+          "description": "Обновление PTC Creo 13 включает AI, который анализирует 3D-модели и выявляет проблемы на ранних стадиях проектирования. Это революционизирует процесс 3D-дизайна и прототипирования.",
+          "source": "stocktitan.net",
           "favicon_char": "S",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
+          "published_at": "2026-06-10",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0N1TUlYWmhJR2l3Nmg1d3lnOHUteWY3VzhqaUFVal9PdDZoNFJaS19LNEhNZk9jcXl5SG9EbVBsVGlwNVZUdXNodjJ6eGFuejVSUWZCalVCdDFLc1MwWm5hTDQtRmdqM0g4WkhrWF9oeHFMUkM4NWdiMHB1ZHJIOWJCendpRmlMVTNscXhDeVNGUkR2enhRNXZ6bGVFQjhvQ3RJLUNudHdZNldEV1pxUHdtV05DOWd6?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWGgyRmJWcFlKT0NoT1hMQkh5d1pSY09MaFJDM2NxX1lJVWxCMzRsZENpTzk2SnZMNlBhNHR0WmxBNnA2UjJmbUZWcDY4aWl0Uk51alFkeGFBUlFERmN6OFMwUS1ZZFBMTTY5ZE5zb0FuY3BNUWxuWkU5TEEzRVNSaVRua1VmQTg1NFN4S1B3MnR3RVNsZkVzeG5GWXJCZXAtSU1yTVFTUXpPYVhpZC13dXh0andGNWlpa0RHcER3?oc=5"
         }
       ]
     },
@@ -250,40 +238,16 @@
       "subtitle": "решения из больших платформ",
       "items": [
         {
-          "id": 19,
-          "headline": "Рост спроса на сезонный персонал в РФ",
-          "description": "В России на 13% вырос спрос на сезонный персонал, что подтверждается миллионами приглашений от работодателей. Это указывает на активное развитие рынка труда, важное для всех двухсторонних маркетплейсов.",
-          "source": "prospect.com.ru",
+          "id": 18,
+          "headline": "Запуск биржи грузоперевозок для МСБ в РФ",
+          "description": "Новая платформа создает двухсторонний маркетплейс для малого и среднего бизнеса в сфере грузоперевозок, связывая заказчиков и исполнителей. Это интересный кейс по развитию нишевых маркетплейсов.",
+          "source": "primamedia.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-10",
+          "published_at": "2026-06-11",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenB0amFCNWJvREl4YmhtRmJjLUZ5Q1RTRTY2TElDWDBnZXdxSVRxUl9xbXJudEdjMmZXWmc4anlFQkl3X2twR0swYVBqNFJNNFNoQTZoamd1QjBvRG9OaWZ4Rm5sdDRRaVV3azVwX3FZTHMyUDBTbHRuRTJBUGxWN0VRdVE5SXRNOHZ0UWVLVmFtVkJBQ3JlVmxpdXl2RVdZWGlSSVJR?oc=5"
-        },
-        {
-          "id": 20,
-          "headline": "В Уфе растет спрос на спортивных тренеров",
-          "description": "Отмечен рост спроса на услуги спортивных тренеров и соответствующую экипировку в Уфе. Это региональный тренд, показывающий потенциал для развития новых категорий услуг на маркетплейсах.",
-          "source": "sterlegrad.ru",
-          "favicon_char": "S",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-10",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk1sNkFlS3FBMlc5a3ZCNTVYNGtQbXc5Y1VBekhDZjFuVWZHeXItZ0dzOWJCZ2dRYjk1cTN2a1FNdDhGZ3hiSkMyai0wMDlMbGpkR0FRZXpqSzF1NmNiVjZUNXh0SlRKVHZReW9fMUxPNzFMRmFGVVF6eW80MFFkbFpBU05mMmhGaGZ1Z1RyZ3NrYWtWejJNckNucw?oc=5"
-        },
-        {
-          "id": 21,
-          "headline": "Россияне тратят миллионы на чат-боты с гаданиями",
-          "description": "Исследование показывает, что россияне активно тратят деньги на чат-боты с гаданиями и прогнозами. Это может указывать на новые ниши для развития двухсторонних маркетплейсов, в том числе в категории \"услуги\".",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-06-08",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVsTVlIdVFnUVZxamFvN1BHUTNyMW1UTHVlNXN4NDE2cVJWTGVLMy16ZkstMUJFR2dMSkcyWWc5MmVYSHJtQWdTOG1idFZmWWctbDRTSDZ1VDRuUU9wUVJKcDJ3TkpRbGFTYVE1VUtyRDh6ZUJNOEl5c3QzeUNGOFY2eTBvYXVqaTlORkJ0aVl2cUhneThCbDdSVTRvS3RH?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bHYzS1lWclNCMXdKcEpDc1gyZlZwb29XNnJ6OFJ3bkxZb2JwRi1XYlhyVTlLMGRrYlp6Y2ZlNFRndzYxSVJXVjNCZlhNZ3M4R18xWm1n?oc=5"
         }
       ]
     }
