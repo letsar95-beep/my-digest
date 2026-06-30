@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T09:27:28",
+  "updated_at": "2026-06-30T05:04:19",
   "next_issue_at": "2026-07-02T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,51 +11,63 @@
       "items": [
         {
           "id": 1,
-          "headline": "11 проверенных инструментов Design System для ускорения работы",
-          "description": "Обзор актуальных инструментов для дизайн-систем в 2026 году. Полезно для продуктовых дизайнеров, чтобы оптимизировать рабочие процессы и поддерживать согласованность в продукте.",
-          "source": "netguru.com",
-          "favicon_char": "N",
-          "favicon_color": "#7B61FF",
-          "published_at": "2026-06-25",
-          "read_min": 5,
+          "headline": "Figma запускает новый журнал «Start Anywhere»",
+          "description": "Figma представила новый журнал о дизайне, предлагающий свежие идеи и вдохновение для продуктовых дизайнеров, расширяя образовательный контент.",
+          "source": "figma.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nQjROTU1FdUVDc0hFVE5ZcnVGdHRtVHpTanFaWVNTa192NU45dmZwQ1Y1dWd0bjFZVnFsVVBtOGJvbVBkTWFlaWw5TkNwSEJuczVyOVZkb19Uc01W?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUenVIS0p5aUZFQTZ6eEhkcmhsZm9qaVhLRGJ3dHJDOU96d0RLNTRpLUZpN0pXbGF0N3V5clRuQUZGNXNjQW5qV2dXVDVCMkRzdmlPMQ?oc=5"
         },
         {
           "id": 2,
-          "headline": "10 полезных советов и навыков Figma для начинающих дизайнеров",
-          "description": "Обзор важных функций и приемов работы в Figma, которые помогут как новым, так и опытным дизайнерам улучшить свои навыки и эффективность в работе над продуктом.",
-          "source": "analyticsinsight.net",
-          "favicon_char": "A",
+          "headline": "7 главных трендов UI/UX-дизайна, за которыми стоит следить",
+          "description": "Обзор ключевых трендов UI/UX-дизайна, которые формируют будущее пользовательских интерфейсов и опыта, помогая дизайнерам оставаться актуальными.",
+          "source": "web.oxi50.com.co",
+          "favicon_char": "W",
           "favicon_color": "#6750A4",
-          "published_at": "2026-06-27",
-          "read_min": 4,
+          "published_at": "2026-06-30",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0l0eTZ0OWhmUXR6RFNaakZ2RTBwcmpwTE0tcW9qSW84bERUNjlkTFdkUTdSakJGVUlaWjVqZ1ZySUhXQjJuWFVhTWtoUENTOF9kR0lOSFZkZDIydEhORDZHbVdXYjV5czA4a1hEd2JoSGwyRWE5aHMyaE9pUFItMXV3TUs1eE5VZlNKVTNoTzh0ejRSbnF3N294NlVPT0dxd29KRHBuTE5UWlHSAasBQVVfeXFMUGdJdHk2dDloZlF0ekRTWmpGdkUwcHJqcExNLXFvaklvOGxEVDY5ZExXZFE3UmpCRlVJWlo1amdWcklIV0IyblhVYU1raFBDUzhfZEdJTkhWZGQyMnRITkQ2R21XV2I1eXMwOGtYRHdiaEhsMkVhOWhzMmhPaVBSLTF1d01LNXhOVWZTSlUzaE84dHo0Um5xdzdveDZVT09HcXdvSkRwbkxOVFpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEhON3l2aGRPcWZHMXFUTDc3cFp2TEg2Qm91c3Y2QmdPSFhiVW41bl9FSmNxTlhKYjI4Um16UzhTOWd1RkVSYU52VEo4aVFQc3NCYkFfUmE2M040NHVsMHl0eDUxRFdXNlFkZ2VKbWJ3QjJOcUgzOUFhUmt2S01Ta29oNA?oc=5"
         },
         {
           "id": 3,
-          "headline": "Почему мы сокращаем количество PDF-файлов на Yukon.ca",
-          "description": "В статье обсуждается, как сокращение использования PDF улучшает доступность и удобство использования сайта, что является важным принципом UX-дизайна для всех веб-продуктов.",
+          "headline": "Отслеживание взгляда помогает оценить безопасность медтехники",
+          "description": "Исследование использует айтрекинг для оценки безопасности инфузионных помп глазами медсестер, демонстрируя важность UX-исследований в критически важных областях.",
+          "source": "medicalxpress.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUNQbDBXQ2gwUVkzcGd6Z0dfNXpYV2s5ODc3U0luWXBhNXZac0JTUmJnUUxhbnZOcXVhMWVjQnBSYzZiSVVTUTJvTlVRXzVpTkMyMEVfZVgzY2JRbEl2M19fVmluaFE2RjBpSUN5MXdiZldIelBIRmNmV3lwdHI5OGl5NA?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Дайджест UX: от темного дизайна до использования ИИ дизайнерами",
+          "description": "Сборник статей от Якоба Нильсена, затрагивающий темы темного дизайна, влияния ИИ на работу дизайнеров и другие актуальные вопросы UX.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rUml2ZUt5Q2U0SEVnbW5OamZvLWU2TF9BcVJtWTlTSnk0S0pVbHdwQmxNM0pNcFBMelhYRmtQQ29rZ3BTdllNaVBZdDJCb3dQcTdWcjhsbUpTLVVhYXhLZzlqRlNkUElsLXc?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Почему власти Юкона хотят сократить количество PDF на сайте Yukon.ca",
+          "description": "Власти региона Юкон ищут способы уменьшить число PDF-документов на своем сайте, что является примером работы над улучшением контента и доступности для пользователей.",
           "source": "yukon.ca",
           "favicon_char": "Y",
           "favicon_color": "#6750A4",
           "published_at": "2026-06-26",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN25iWHA2MnJmd3RWdWlPeGgtS2NaWFhjMExUdEM2a19NMEYyMkNZYlRENXlvNkVKS2VNaUpHQVg0RURNVFJrUnN0MzlrYWNxT2RzQ0N4cld0dDhZeDhiNUdjcVhfWGdTRVlVX19ET0swTkdQY1dNZnBxcw?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Как создавать веб-приложения, которыми люди действительно смогут пользоваться",
-          "description": "Обсуждение фундаментальных принципов проектирования веб-приложений, ориентированных на пользователя. Важно для создания интуитивно понятных и эффективных интерфейсов.",
-          "source": "vocal.media",
-          "favicon_char": "V",
-          "favicon_color": "#54378A",
-          "published_at": "2026-06-29",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZQUlKYVh1V0hCczVVZVdTWHptcFdRdUIzS0VQcm9KWHRxTVpRcXlvOXR2OHN6T0RvSnZmQ0VsVnJZdXVwTnM3ejQ0ZnREWjZ3YTJablBoZkJ1U1VsS203WTFzdjNJYW95bm5pa3JyYVdQMEJsOUl4ag?oc=5"
         }
       ]
     },
@@ -66,64 +78,76 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 5,
-          "headline": "Авито Услуги: 50% россиян готовы переплатить за мастера с портфолио",
-          "description": "Исследование «Авито Услуг» показало, что наличие портфолио значительно повышает готовность пользователей платить больше. Это важный инсайт для Профи.ру в контексте формирования доверия и выбора исполнителей.",
-          "source": "primamedia.ru",
-          "favicon_char": "P",
-          "favicon_color": "#E03C31",
+          "id": 6,
+          "headline": "Яндекс запустил платформу для ИИ-агентов Алисы с вызовом такси и заказом еды",
+          "description": "Яндекс представил платформу для создания ИИ-агентов Алисы, которые могут вызывать такси, заказывать продукты и автоматизировать задачи, расширяя функциональность сервисов.",
+          "source": "comss.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-29",
           "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UDZxdmxKN0NFU3lEcjVKSjNKczloYzB0RVVaYW5qdHphcDI0cHN0a19ydDVQdFdFRVBLRlg5eHQzWFktaFg4RndNWEdtLTg?oc=5"
+        },
+        {
+          "id": 7,
+          "headline": "Авито Реклама вводит ретаргетинг по кликам на баннер",
+          "description": "Новая функция ретаргетинга в «Авито Рекламе» позволит более эффективно взаимодействовать с потенциальными клиентами, что важно для продвижения услуг.",
+          "source": "adindex.ru",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpUWZDQllIY1JYYnRHZTduU0R5QWJxVko5dGo3TVFhLUstQi1YZm5nMDRvaEZLRl9nek5aVTJHSGtsWUF5VmtvMVpNc0NrTGVqUUFYMTMzVDRGQWZqVmJOR19LSFQ0WGhi?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "Авито Услуги: 50% россиян готовы платить больше за мастера с портфолио",
+          "description": "Исследование «Авито Услуг» показывает готовность пользователей платить больше за проверенных мастеров с качественным портфолио, подчеркивая важность доверия и визуального подтверждения квалификации.",
+          "source": "primamedia.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3bldYa3J2RnpxV1pXRXJuYWo4c1ZXbWZjeGRyN3lOMnRfZ0JZcUxXNDdsMmU1R2xUZWhxbTdVUUVIZU1hY1ozd0pMMA?oc=5"
         },
         {
-          "id": 6,
-          "headline": "«Авито Услуги»: россияне чаще вызывают мастеров на дом",
-          "description": "Данные «Авито Услуг» указывают на рост спроса на услуги с выездом на дом. Этот тренд важен для Профи.ру для адаптации сервисов и предложения удобных форматов взаимодействия с исполнителями.",
+          "id": 9,
+          "headline": "Авито Услуги: россияне чаще вызывают мастеров на дом",
+          "description": "Спрос на вызов мастеров на дом через «Авито Услуги» растет, что говорит о изменении потребительских привычек и удобстве платформенных решений.",
           "source": "ysia.ru",
           "favicon_char": "Y",
-          "favicon_color": "#1976D2",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-26",
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGp2Ym5RQVRja0JSb2NtdUxKSUtQcEExY0VENjc2SFlRVU9qWXgwaXFPRHQ5dUh3WmJzX1hlQ0NOcWczN1RLZVM0eVl2N1otQmtnOUVhQ2ZvM01mN09KeVpaT2l2QjBLMFNCeHEweDI1bWUydTk4eVJoVlZ3Z2h3aTR5MA?oc=5"
         },
         {
-          "id": 7,
-          "headline": "Авито тестирует рекомендации соседей для поиска мастеров",
-          "description": "«Авито Услуги» запустили новый алгоритм, позволяющий находить мастеров по ремонту на основе рекомендаций соседей. Это может изменить процесс подбора исполнителей, повышая доверие через социальные связи.",
-          "source": "veved.ru",
-          "favicon_char": "V",
-          "favicon_color": "#3F51B5",
-          "published_at": "2026-06-25",
-          "read_min": 4,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnZjeklWZHllbW9MbGFZMUNhakQtWGo5Zk52RUI5WnBLWk9BUUcwTWxyalBsWG1OT3A0UU8tdGZ3TV9MZmJhdDZ0VUxqTFNvaHY1LUh5SDFMRTB5aVJpT1dmbC13OGlHQWRQMnJiSHdkbGlVVWlqZlJ1OXhNTG44VW5MVG9aN0hSb244eWc1MTBUREJMeHpoNEtzcmhkMW13SXNNVExGMzEwU0otWTk5Uzl3MDJwZ3Z0UERWWFR5TnVkdW5wN0ZxOU5B0gHPAUFVX3lxTE16TXQtcHZkTGpVZVJMR0hVT0dmb1RCVEJ2Vk1TMHV1U2dCWVdsQ0htV3lQSmUwMjVEUUQ5WGVueU5PVGJYa3VLZThBZVNfZ1Y2MFl3THFqN1QyVk8tUUdYTTJramw1elktUl90eUh5WV9EUW1YSHcyV05wZkRCaGtwamtYVWhOU3E4RFZ0R1c4c1J6bTNOOFFyS3lELThYS3IyeHZzSTktb1lJblh2UHN1OTk5MU9mMmxGUXF1c2NZLW1OR0p1cVlWdVAweXdiTQ?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "«Авито Услуги»: рост интереса к вакансиям преподавателей",
-          "description": "На «Авито Услугах» значительно вырос спрос на преподавателей русского языка и литературы. Это указывает на новые востребованные категории услуг, что важно для анализа рынка и расширения предложений Профи.ру.",
+          "id": 10,
+          "headline": "Авито запустил ИИ-сервис для создания объявлений по фото",
+          "description": "Новый ИИ-сервис на «Авито» автоматизирует создание объявлений из фотографий, упрощая процесс публикации для продавцов и поставщиков услуг.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#1A73E8",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-26",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDhYNXF6azVWQkRvTmFFV1VWcW1hWDZyR29CZ21ILU0xUGhGQlc2dnExdHl0S2ozT0dJR1NHMWlnY245RXl2SUdJUm1veUtDODcwTy1Qend6aGNUeTBiYTFDZEtiYU9QY3YtaENEdEMxS0g0MXNjVDVqZUU0V0lTRXVyN1R5Y0JESUV5blotaDJYWkxaRC1EWTEtUFlHN1NWTjk0aE1HZWczZ0Z2bHFWOWNWWXNBOWpYZGxaWFV5ZHA5RWVRMWNzRGpYaklpdzhncjQ5TVdjeTRoQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVUxNEtJUmlQVXdMUWtDeFNqQzJBeFBFbHhkSjBicG80RktwczM0X0NhdnRmUEtla29PN242MXlReDUzaFFVUzF2ZExTbDQxSXlRV0hLOUl2RkNtbXlhWmV5S0N2eG5IOXprMDlxOVlvWnhoUWJFS2txYU1naEVvTHpKNmZxZzZQSEtOX0U4R3VzakttcDJfa3RqOVlNWmlSQnJ2Y1I4MVgtMDQ?oc=5"
         },
         {
-          "id": 9,
-          "headline": "«Авито» запустил ИИ-сервис для создания объявлений по фото",
-          "description": "Новая ИИ-функция в «Авито» автоматически генерирует объявления на основе фотографий, упрощая процесс публикации для продавцов и исполнителей. Это повышает эффективность размещения предложений на платформе.",
+          "id": 11,
+          "headline": "Авито Подработка: спрос на рабочих и специалистов вырос на 72%",
+          "description": "Значительный рост спроса на временных рабочих и линейных специалистов через «Авито Подработка» указывает на активное развитие платформенной занятости.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-06-26",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-30",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbDBadjZYVVFBVFZWS3JaY2g4d3ZfU1lqN29PNzBTWE1GZVlTWDR1cUE3UXV6cHBzcGtDSXV1REpqNjJPOFc1bEVhenJQY3pUbFNZWUV3Y0gyZ1Y4NG9wS3VmUDk2M1hEVHRCM2U3SmZwNWpUbUlVRDdocFFtUzA1LWlkeko0VTd3YzZYb1NqTDAyRE5FWFI1QS1qZEtvY1c3WkR5NFAyRXRWVWZNamg5emxXdnBmSlVZMncwX1RnWEJVQmFZYXBlaTVYMDJUSk1iSV9BZXVzZDJRQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXlwNmFrZE5tZV9Mc0NkeXV4d1MyQUNLQnZNV1Y5Q01wMEFoMXdQaE9fN2o0ZXV1cGtRM1ZIQTlfRjhqNzZRMmNOcXVSYktvbExCOWhqaTIzUjNsY1IxUVlDVGZPcHhxc1lqZWlraDYxbEQzbGtkbmJwSTlJcThTUlFkUmtrMUhaajlYRzczZ1NFRVd3M1BpUUY5THpsdDN4Nk9LWHJEZk50X3pLOFlJelhuSlkwakwtb1hLQVVGSGoxOXZIUWxB?oc=5"
         }
       ]
     },
@@ -134,76 +158,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 10,
-          "headline": "Astryx от Meta: дизайн-система для AI-агентов, способных читать код",
-          "description": "Meta разработала Astryx, позволяющую AI-агентам понимать и использовать дизайн-системы. Это шаг к генеративному дизайну интерфейсов, где AI сможет самостоятельно работать с компонентами.",
-          "source": "techtimes.com",
-          "favicon_char": "T",
-          "favicon_color": "#00A9E0",
+          "id": 12,
+          "headline": "OPPEIN представила ИИ-дизайн, готовый изменить индустрию",
+          "description": "Компания OPPEIN анонсировала прорывные решения в области ИИ-дизайна, способные трансформировать подходы к проектированию в различных отраслях.",
+          "source": "globenewswire.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-26",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNODJzczRDNE5faVh5YjFUdnlJUmJqMW84dklzeFJkbE5VRkEwZEZWa3BEYzM1SzFaYXlPaFN1cDJjdTlLZUtqMGpjdDM1SURMQzFIcXlsc0toODVKWDJUalJwWk5lNnFzSmZoeU9hRGJ5aG9SZ1JBeXhBZWxoZEFncm53cG4yaE1sMjdUUnJoU0VrVW1ZUEVzQWliLUdDVGhhTmRPNDJBNnZQTDZabi15Ty1MeVFMVHRob05ZamhvOWoySHF2YVBTV1d1NVFwYzROZDRCdzJwdw?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Топ-10 ИИ-инструментов для дизайна интерьеров в 2026 году",
+          "description": "Обзор лучших программных средств, использующих ИИ для параметрического дизайна интерьеров, что открывает новые возможности для дизайнеров.",
+          "source": "parametric-architecture.com",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-28",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcU1DTGdTMExzaW1aWXVON0MtRW5FcGRFZnlUSFpxaG5ESEFOZ1QtUjhhczJnaHUwOXhrN0I3NmdYNndmaWc5RWRZYWNLdWtJTkJjREJIb3NuenZRMEdISFpEdVR1QUJsV2kyVkprYmhtSHF0WmZpRk9BemRybWhqRlhfMjk1UThpN1c5ZW85bnhta0xMYWw2UzRGY0Uzekh4b0hlUlVYbnNETjFpZ3F6UkpjWjBtMEJPc2p4RHMyMXI3TlN6SkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUFETlphWXYwbnl5ZGRnMGxtdHNOZGZ6YTE1XzRuRmttZTY0ZWFWRkhFZlZEZlk2QmdHc2tHTW16N2FmRlNOZ3RZOElVVmxndUowa0VqU2YxQmtXVXdCWXR5UjlDRFJWOGN3UWZXR0tIRUFDRVlnLXdRRTAwc1NRVQ?oc=5"
         },
         {
-          "id": 11,
-          "headline": "Adobe Firefly Enterprise: генеративные AI-инструменты для команд",
-          "description": "Adobe представила Firefly для корпоративного использования, предлагая генеративные AI-инструменты, разработанные для совместной работы в командах. Это шаг к автоматизации и ускорению дизайнерских процессов.",
+          "id": 14,
+          "headline": "Дубай запускает конкурс на дизайн первого в мире ИИ-парка",
+          "description": "Дубай объявил конкурс на создание дизайна парка с помощью ИИ, демонстрируя потенциал генеративного дизайна в крупномасштабных городских проектах.",
+          "source": "fastcompanyme.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanJ1MDRHQW5KWmM5YWpLWnh2S0VjRGtlTm43ZGJDMWVsY0Y3aTFFNjlQaWlOYy1PUDVNeHV5QkxWZ0liR3RWVFZpdV9vUHhuR2wwOC1KcG9IZzJ2SG1nRl9uWWNFMXlNeXA5ekNSbkZieFkzWWxvYjh0bzFpMmx2YXZGclhLc1BCaTcyZllmTHA0bmhjekZFMmZTMUZNcEF0bnpWNWJwTFZNd29fejFOLW1na0hJVm9INmdTUg?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Fynd Create — ИИ-платформа для дизайна и производства в fashion-индустрии",
+          "description": "Fynd запускает платформу Fynd Create, которая использует ИИ для трансформации дизайна, поиска материалов и производства в индустрии моды.",
+          "source": "themachinemaker.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-29",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzVfQy0yd2hZMl9sendqY2pFNVdGRFkxaTl2SDg1b0E5a3VuVXpsUWVTLXk0d2NkUkcxeGhZc1F2YXliUjFEV29LeWV1X21IQUdEN2NlUEJYOFMtZ2tBYVNvTU9HRUl6YXZGb2ZaZHpQUm9xc0ZmY3I0MVd1QWlkV0VpZmdWRGVlc3oyeWFZOFoxajJla3NYOFM0cWg4emFaYmkxdjRQSVZCVjhTMy10LTREbzM0N3EtTkkzVA?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "Обзор Replit 2026: ИИ-генератор видео и изображений",
+          "description": "Анализ возможностей Replit как инструмента для генерации видео и изображений с помощью ИИ, что может быть полезно для дизайнеров в создании контента.",
+          "source": "ventureburn.com",
+          "favicon_char": "V",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-06-28",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCYkdUZTNFME9yMjJhdmh2QU1rYnZNcXpEclJSQVp2RTNJT25sb215dkpjenYybUl3anFac1JoS0p2d2lnVmNjMVlvU2IyZlFDZ3FVa3Mzb0t5WXVhcWZXaWxiaXJndkd4bHVr0gFrQVVfeXFMUEJiR1RlM0UwT3IyMmF2aHZBTWtidk1xekRyUlJBWnZFM0lPbmxvbXl2SmN6djJtSXdqcVpzUmhLSnZ3aWdWY2MxWW9TYjJmUUNncVVrczNvS3lZdWFxZldpbGJpcmd2R3hsdWs?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Adobe Firefly для бизнеса: ИИ-инструменты для команд дизайнеров",
+          "description": "Adobe представляет Firefly для корпоративных клиентов, предлагая ИИ-инструменты для дизайна, оптимизированные для совместной работы в командах.",
           "source": "ad-hoc-news.de",
           "favicon_char": "A",
-          "favicon_color": "#007BFF",
+          "favicon_color": "#6750A4",
           "published_at": "2026-06-27",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzQ1QXJkU3NNWV9Zd1dOa1d2RFRkRU16dHhPZDNaQWhraG01TTM2R05DTm1QTmVnRjI0THpuVklkeGFXaEZkbkpRd2ZKMWs5Q2U3eENfS1l1dUtGYWhQVi1fVE1DU09CVGNqTzVGYjRUbUhtR0JYS1pkWEZzVGdtaGdlUEZrblRYS2lQcVJHdG5jOHNVT0ZMZHNzM2N2a3FfelNEdG9ZeVN6bnRzS3k3bmhpNGFQZTFDcVFkaGQycnZyUUlnaUhN?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Топ AI-генераторов изображений «картинка в картинку» для дизайнеров",
-          "description": "Обзор лучших AI-инструментов, способных преобразовывать изображения. Это расширяет возможности дизайнеров по созданию и модификации визуального контента для интерфейсов и маркетинга.",
-          "source": "nerdbot.com",
-          "favicon_char": "N",
-          "favicon_color": "#007BFF",
-          "published_at": "2026-06-29",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd254dzlfbnZlYjVVU05hWjNSS3JLZUFObXN3dmJzS2Y3S1d0SmxVMVVFNk8wTTJ0aC15dmFpRHRjWWdScmdDWEdMVTlIeEo3Smx1cENqcFc5N3RlSnMwbnVGMTRONlU2UFJCd2pDQWhGQW00UGtHSzlxakQ5S1RlR1lBMHQ0M3l3SHB0WlZ2eDNudnM?oc=5"
-        },
-        {
-          "id": 13,
-          "headline": "Обзор Replit 2026: хороший ли это AI-генератор видео и изображений?",
-          "description": "Статья рассматривает Replit как инструмент для генерации видео и изображений с помощью AI. Полезно для дизайнеров, создающих контент и прототипы.",
-          "source": "ventureburn.com",
-          "favicon_char": "V",
-          "favicon_color": "#F8B300",
-          "published_at": "2026-06-28",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJc1hkZGJGWklIWUZNR19PR0pZVmo1ekZyck85bXJqalY4czM0RzJ1SFo0VWY0UHBjOFF1Ym16Q09TV2U0WGUzNGZ1cmVHTE3SAU9BVV95cUxQSXNYZGRiRlpJSFlGTUdfT0dKWVZqNXpGcnJPOW1yampWOHMzNEcydUhaNFVmNFBwYzhRdWJtekNPU1dlNFhlMzRmdXJlR0xN?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "OPPEIN представляет новую AI-систему дизайна, способную трансформировать индустрию",
-          "description": "Компания OPPEIN анонсировала прорывную AI-технологию для дизайна, обещая значительные изменения в отрасли. Это может включать генеративные подходы, которые будут влиять на продуктовый дизайн.",
-          "source": "manilatimes.net",
-          "favicon_char": "O",
-          "favicon_color": "#000000",
-          "published_at": "2026-06-26",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX2tCTjhfWHI5a3RpTkFOcnJuRHJ5eVlOQnYyb2d6bXFhNmVybGw5MXBUcE1Lb0RpbW5UYVNuRTJSZzVIclBTYmhuLVY0WWI5M2pkQjh1RmEzSlVjdi0xM0ozbGdvVWVQR21nbW1JNUtJaVB1NTEwT3FMMjR1V21qTWdlNktrYmFzNVB1clRrU1R2TjFuWktUdkNEX2o0UVFXczNZT3d4a1JpRDg5TkMweDM1cFZRNDV6TEhPQjN2V0sxRUp2WlJGVV9zd1dodG5ZYkdRQWJGU1JHZFZyUHpj0gHfAUFVX3lxTE9fa0JOOF9YcjlrdGlOQU5ycm5Ecnl5WU5CdjJvZ3ptcWE2ZXJsbDkxcFRwTUtvRGltblRhU25FMlJnNUhyUFNiaG4tVjRZYjkzamRCOHVGYTNKVWN2LTEzSjNsZ29VZVBHbWdtbUk1S0lpUHU1MTBPcUwyNHVXbWpNZ2U2S2tiYXM1UHVyVGtTVHZOMW5aS1R2Q0RfajRRUVdzM1lPd3hrUmlEODlOQzB4MzVwVlE0NXpMSE9CM3ZXSzFFSnZaUkZVX3N3V2h0blliR1FBYkZTUkdkVnJQemM?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Robinhood Ventures инвестировал $25 млн в AI-инструмент Canva",
-          "description": "Инвестиции в Canva подчеркивают растущий интерес к AI-инструментам, которые делают дизайн доступнее. Это указывает на развитие рынка AI-помощников для широкого круга дизайнеров.",
-          "source": "fxnewsgroup.com",
-          "favicon_char": "F",
-          "favicon_color": "#000000",
-          "published_at": "2026-06-25",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3hsRWwzd2tQOC1EbWpKemg4S3hTMlh5Q092NXZmaTltbFhaeGJJS1g5eV95X2xKZUJfZVBFa21YZ3FXbXVNMlRKTEt3Z3JKaHdlUkJfd2ZBVDgta3ZEeDZZa1VGNWpYcU5fUjBaSUZ4T1dkMVFuN01SanBrSFYyVXVzQnpyM0haUWVkNmUwRW4wek1GaUFEUXFudUdyd2JRZUJsSGx5QW9qMXlrM3c?oc=5"
         }
       ]
     },
@@ -212,44 +236,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 16,
-          "headline": "UX маркетплейсов: избавление от тревожности при покупке",
-          "description": "Важность UX, который устраняет барьеры и беспокойство пользователей при покупке на e-commerce платформах, превосходит внешнюю красоту приложений. Ключевой аспект для повышения конверсии и доверия на двухсторонних маркетплейсах.",
-          "source": "retail-insider.com",
-          "favicon_char": "R",
-          "favicon_color": "#ED1C24",
-          "published_at": "2026-06-27",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWx2RVpOaTF1aHpzWTZDVER1VUR0TFdJcS15bmZOLVhsYVpZaXNVT01iNlU3MVZ3bkZwb2JnM2hNUFBJcWJyaVFPODA2WlpuV1hIaTVxcTVXaXpCQ3BPVEs4ZS1HRE5taHhuODlzTXdkVkhXNVcwZ2NCTWhVYnJnNjB4V2tGLWZEanlLRkxkajZnbUViNkVPM2V2eUliQnVNbWU2elpXS3BBbGFPUEpzNU93SHVya2U0QUdQbk8tXzhSQ0pRZnlwbg?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "Руководство по платформам Headless Commerce для лидеров",
-          "description": "Статья для лидеров e-commerce о стратегиях внедрения Headless Commerce. Это позволяет маркетплейсам создавать более гибкие и кастомизируемые пользовательские интерфейсы.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#96BF48",
-          "published_at": "2026-06-27",
-          "read_min": 7,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44X2thZmxTLW0xVVFPTDRJZmRFanJVLU90M0c3YjNvOTJGLU03ck0tbFhEM1pMLXExay1WSS03aHZlZXBCMGtDNm1mNndoaDA4ajc0aC1xMHhLWWt3R3pIQlBVSDFLb2JXS3ZfUWowVjVsUDBfT3Fzb05B?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "AI-дропшиппинг: что это и лучшие инструменты для 2026 года",
-          "description": "Обзор AI-инструментов для дропшиппинга, который представляет собой модель работы на маркетплейсах. Важно для понимания новых бизнес-моделей и инструментов, используемых продавцами на платформах.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#96BF48",
-          "published_at": "2026-06-26",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1bGJwNDVBMTZ3WTY4MG5XVkR4WkNKRjlOSzVSWEh0R01IVXVZNVJtTndYYkpsdHpfQzFqYlFuY3psRzlVTS1hYzdYdFRWTE1MOTBvZ1hiUQ?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
