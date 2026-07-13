@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T05:02:01",
-  "next_issue_at": "2026-07-13T10:00:00",
+  "updated_at": "2026-07-13T05:02:40",
+  "next_issue_at": "2026-07-16T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,75 +11,63 @@
       "items": [
         {
           "id": 1,
-          "headline": "Отчет Nielsen: растет усталость продуктовых команд от ИИ",
-          "description": "Исследование показывает, что продуктовые команды все больше устают от внедрения ИИ. Для дизайнеров это сигнал к более продуманному и человекоориентированному подходу к интеграции ИИ.",
+          "headline": "Отчет Nielsen: Растет усталость продуктовых команд от ИИ",
+          "description": "Новый отчет Nielsen выявляет растущую 'усталость от ИИ' среди продуктовых команд. Это важно для дизайнеров, чтобы избегать ненужной интеграции ИИ и фокусироваться на реальных пользовательских проблемах.",
           "source": "news.designrush.com",
           "favicon_char": "N",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-07-10",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfcXc0VVpLQUkyQ0NNMnlxMjljLXdIdDV4c1l2SzVrRWRYdXpGQUJOcVZ5OGpvdWd5TlFhQ1ozVi1xMFdLRUNxNE1oSm4yeTNvS2dTRUtPemxTMFEza0MyczlB?oc=5"
         },
         {
           "id": 2,
-          "headline": "7 трендов UI/UX дизайна, на которые стоит обратить внимание в 2023 году",
-          "description": "Обзор ключевых направлений в UI/UX дизайне, которые продолжают формировать пользовательский опыт. Дизайнерам важно быть в курсе этих тенденций для создания актуальных и эффективных интерфейсов.",
+          "headline": "7 трансформационных UI/UX дизайн-трендов",
+          "description": "Обзор ключевых UI/UX трендов, которые меняют подход к созданию пользовательских интерфейсов. Дизайнерам стоит изучить эти направления для развития своих продуктов.",
           "source": "web.oxi50.com.co",
           "favicon_char": "W",
           "favicon_color": "#6750A4",
           "published_at": "2026-07-11",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEhON3l2aGRPcWZHMXFUTDc3cFp2TEg2Qm91c3Y2QmdPSFhiVW41bl9FSmNxTlhKYjI4Um16UzhTOWd1RkVSYU52VEo4aVFQc3NCYkFfUmE2M040NHVsMHl0eDUxRFdXNlFkZ2VKbWJ3QjJOcUgzOUFhUmt2S01Ta29oNA?oc=5"
         },
         {
           "id": 3,
-          "headline": "Вебинар: кто на самом деле отвечает за удержание пользователей?",
-          "description": "Дискуссия о распределении ответственности за ретеншн в продуктовых командах. Понимание этой роли поможет дизайнерам влиять на ключевые метрики продукта через улучшение UX.",
-          "source": "igamingbusiness.com",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-08",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3pjSVhaUnJ3aVlTWmFjd21rM3hmTTdWeDZoUzV2QWUtd01tdEJuanU4aEl3Qmx0bGpaamcydEdIS0U5ZWlsZElMSnE3dnZtZllVTC1fa2xqc2JlcDdLUDZPdGtGTGdHZXNXRjR4dk9jTTZWSjJkOXhROVJmQ0pDSDdha1hLUHd2bU9zdldYSlhWVVNBU2xTNzl5bHFmNS1FZXVXbnF4MVlVM1RadnkzOC1CQW13SFE?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "2 исследования раскрывают секреты успеха самообслуживания",
-          "description": "Анализ двух исследований о том, что делает самообслуживание успешным для пользователей. Эти выводы критически важны для продуктовых дизайнеров, разрабатывающих интуитивные и эффективные сервисы.",
-          "source": "kioskmarketplace.com",
-          "favicon_char": "K",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-10",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHQ3NzA1QllNWFlPaTRoSWtCbzdEaW90aFE4SUJCcFFGSmdKWE1MV0YyQ2VJYTJrTk9KNnRiQk9RYVg5dVF1NW9FUTZCaExxek00NF9pYjhzUGxOOTdrNGNXdTh0RGZ2VGRQcVVER3J0U3YxYUppQUFnOWFqVmtuWGRKRzJGUFlsc2VodUdQd29zUQ?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Топ-5 UX дизайн-агентств для мобильных приложений в 2026 году",
-          "description": "Рейтинг ведущих агентств по UX-дизайну мобильных приложений. Помогает ориентироваться в рынке экспертизы и понимать стандарты индустрии.",
+          "headline": "Топ-5 агентств по дизайну мобильных UX-приложений 2026",
+          "description": "Список ведущих агентств, специализирующихся на UX-дизайне мобильных приложений. Полезно для понимания рыночных стандартов и поиска потенциальных партнеров.",
           "source": "hardwaresecrets.com",
           "favicon_char": "H",
           "favicon_color": "#6750A4",
           "published_at": "2026-07-10",
-          "read_min": 4,
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5dUU2LWRLYlktbDhSTkRKN05kUjhWUEFYNUUwTk9PQmR4YnlrUlpwMzY2bHNtSzJXOTRsU1F0ZnMwUl9FQTBtY3Zual9iQkU4cXFEWDJQWFl5Tk5OdDNmQjFOT09faWRSajliNXJ6bw?oc=5"
         },
         {
-          "id": 6,
+          "id": 4,
           "headline": "BAFREKA расширяет портфолио цифрового продуктового дизайна",
-          "description": "Компания BAFREKA активно расширяет свое присутствие на мировых рынках, демонстрируя примеры успешных стратегий в развитии продуктового дизайна. Это кейс для изучения глобальных подходов.",
+          "description": "Агентство BAFREKA активно расширяет свое портфолио и географию присутствия в сфере цифрового продуктового дизайна. Это показывает рост спроса на качественный продуктовый дизайн в мировых масштабах.",
           "source": "thisdaylive.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
           "published_at": "2026-07-12",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFRTWjAxQmp1VXJjZ1ZFVlhLajJSRW5BdThhS2tDa285RGs2aUtsZ2IzY1JvcjhMX0NGajFVNmhUdmZBX3hIYk1uNkdiZkRCRU13MS0ta1kyd01SaElrd2NmdUtSQjItcXRyLTJSeWNTTmV6Um1aTmp4Wi0yMnI0bU1jdE5PbkdfbW5ldWlXMTVjbE9kbWd5STdjUWdmNU0wZ1VNdGVvbVlCa1Jad0tJ?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Исследования успеха самообслуживания: что показывают 2 кейса",
+          "description": "Два исследования раскрывают факторы успеха платформ самообслуживания. Это ценные данные для дизайнеров, работающих над улучшением клиентского опыта и снижением нагрузки на поддержку.",
+          "source": "kioskmarketplace.com",
+          "favicon_char": "K",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-07-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHQ3NzA1QllNWFlPaTRoSWtCbzdEaW90aFE4SUJCcFFGSmdKWE1MV0YyQ2VJYTJrTk9KNnRiQk9RYVg5dVF1NW9FUTZCaExxek00NF9pYjhzUGxOOTdrNGNXdTh0RGZ2VGRQcVVER3J0U3YxYUppQUFnOWFqVmtuWGRKRzJGUFlsc2VodUdQd29zUQ?oc=5"
         }
       ]
     },
@@ -87,67 +75,67 @@
       "id": "comp",
       "title": "Конкуренты",
       "chip_label": "Конкуренты",
-      "subtitle": "что меняют YouDo, Яндекс, Авито",
+      "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 7,
-          "headline": "«Яндекс» улучшил ИИ-камеру «Алиса» новыми возможностями",
-          "description": "В ИИ-камере «Яндекса» появились функции, позволяющие распознавать предметы и сцены по запросу. Это расширяет возможности голосового управления и интеграции ИИ в умный дом.",
-          "source": "cnews.ru",
-          "favicon_char": "C",
-          "favicon_color": "#4CAF50",
-          "published_at": "2026-07-09",
-          "read_min": 3,
+          "id": 6,
+          "headline": "Яндекс запустил роботакси для сотрудников",
+          "description": "Яндекс запустил сервис роботакси для перевозки своих сотрудников между офисами в Москве. Это шаг к развитию автономных сервисов, которые могут повлиять на будущие модели доставки и передвижения.",
+          "source": "itspeaker.ru",
+          "favicon_char": "I",
+          "favicon_color": "#FC3F1D",
+          "published_at": "2026-07-10",
+          "read_min": 2,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HMXd1MExab2tGS0lxdHhTNTBDVXowN05RVGc5bFk2QUl6RmkxMGdSNFlhOFhYNFV0ZmRjN3BhQ2pvdHdhTzQ0cndweWtMNEdtMVpEMXlUc0oxWDlDeGxEaF91RXRqek8tQklSVEE1bkM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGllTi1ZSkpTSFZXVTAwQV9qWjRsNEFlR2ljZjAxWnVUSGRYUGdSSjNuVzdNX1VLT0tpV1Nzd2d1VUJTbTNQdFg4RURPOUFjRkpuc0RrY3JUb0hkZ3FqZnY2dkJBU1RaTktsNzVsV3ZzejRhOXdZUEdTR3R5TUNwMG1rYw?oc=5"
+        },
+        {
+          "id": 7,
+          "headline": "Сервисы Яндекса теперь понимают якутскую речь",
+          "description": "Яндекс расширил возможности своих сервисов, добавив поддержку якутского языка. Это улучшает доступность и инклюзивность продуктов для региональных пользователей.",
+          "source": "sakhatime.ru",
+          "favicon_char": "S",
+          "favicon_color": "#FC3F1D",
+          "published_at": "2026-07-11",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XVWo5VV96LURzZDJaVTFOd2Jjd2JQdHY3WWhRRzI1RGUxQ2YzYXNraDBHS0pEV3dnVEw3bS1xUFFpOHk5QWxuVUhadUI?oc=5"
         },
         {
           "id": 8,
-          "headline": "Сервисы «Яндекса» научились понимать якутскую речь",
-          "description": "Расширение языковой поддержки демонстрирует стремление «Яндекса» к инклюзивности. Это важно для регионального развития и доступа к услугам для разнообразной аудитории.",
-          "source": "yakutia24.ru",
-          "favicon_char": "Y",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-09",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEYtQWNNVkpSV2dzbnN3NmdOdzRYekdRNE5COE9qbnYtWGJ1NmV1SUtnUXc2Q3B3UlFsSGItMEhZb2d2RG5XQ0hoNU5ld1VYV0pjcEwyeUEwb1FObElsNFhXVkZMQm8zZXV0cm9UQjl1bEZTY1U5TVVibUozMTBhalI0N3ZTUQ?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "«Яндекс» запустил карту для поиска АЗС без очередей",
-          "description": "Новая функция в «Яндекс.Картах» позволяет быстро находить АЗС с нужным топливом и минимальными очередями. Улучшение навигации повышает удобство для водителей.",
-          "source": "pravda.ru",
-          "favicon_char": "P",
-          "favicon_color": "#D32F2F",
-          "published_at": "2026-07-08",
-          "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qc0pVZmg2c0dmeHk3SF9OMVhXZVl1TWhZWnh2T2c5MkFUSHNVQk9MUUJsVF8yV1pkNi00RWxLVm1wMWczOG4tZHJzRWlmeGM0djFRX2VuV3RYSzlheFFVdndpNXRWV09tWjJtdmdDV3p4czhnS2c?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "«Яндекс.Карты» в Казахстане получили функцию геопозиции в реальном времени",
-          "description": "Пользователи «Яндекс.Карт» теперь могут делиться своим местоположением в реальном времени. Это улучшает коммуникацию и безопасность, добавляя новый интерактивный слой на карты.",
+          "headline": "Яндекс Карты в Казахстане: делитесь геопозицией в реальном времени",
+          "description": "Пользователи Яндекс Карт в Казахстане теперь могут делиться своим местоположением в реальном времени. Эта функция повышает безопасность и удобство координации встреч, влияя на UX карты.",
           "source": "profit.kz",
           "favicon_char": "P",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#FC3F1D",
           "published_at": "2026-07-09",
           "read_min": 3,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTENqQmJsXzNfU0ZiYlBiZHZOWTNySzhSb1Z4NTRjVDhvQWlaT3RnNHdwQjhRWEktdTdOVG1DaFA1M01iNEtNX0ZoYUJxY3pMVXVoVTdQWG1KYXVLNVRSeVp6czQ0bnc5Rl9DSWVHLTBkNDJuLTItMmtzX1hRdnVZeDJHMjYzdjFtekpsNXlxQk44bi0zSVlGVHpSUWVWR3A0YzMzZktiTlQ4R0lmcTlzdmpVQ2hXVDAyclY0?oc=5"
         },
         {
-          "id": 11,
-          "headline": "«Авито» разрешил делиться профилем с близкими без пароля",
-          "description": "Новая функция на «Авито» позволяет делиться доступом к профилю без передачи конфиденциальных данных. Это улучшает безопасность и удобство для семейного использования.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
+          "id": 9,
+          "headline": "Портфолио помогает мастерам получать больше заказов",
+          "description": "Эксперт подчеркнул важность качественного портфолио для мастеров, стремящихся увеличить число заказов на платформах. Это напоминает о необходимости развивать инструменты для демонстрации работ специалистов на маркетплейсе.",
+          "source": "online47.ru",
+          "favicon_char": "O",
           "favicon_color": "#6750A4",
           "published_at": "2026-07-11",
           "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVQ1UVYxZUFvd0twX0E3SVd3X01XdFZ0WGhhX1I4R0xIQzc3c1gzYVdYNE9jRVRGMlZNNXEtUU43VW5xcThteXc4UVNLellaN2VFdXF0bF9HWFQyYzJyWmV1eTYxaS13N2s4Qm9zU2xzNXh2NFNIV2lFZzhMUVk0ZlkxSDJ4ajM2VWNjc3BybEhab0NrdFpSWjl5Mi0yQUIzVDZ1aTJ5b096Sy1CQm5oQWxhWmZCWXZvTTJUM3FfbDlEQXdiUk5rdUpwclNodGMtUUZBVE5PZ9IB3AFBVV95cUxOcjVFOEpENkFhZWhsVEUySjQ5c0FaR2NWb1Jqd0pmNnZpX210M1RpYnFBa0tUMncyRGVxd1FNOGhsN2hPMW1SXzUzd0ctTXZPWjFNbjJtTExSZ1BPMUs4SUc4NWprb25MQ2ZYMGJwbGtWU1l5cnNfbVNNNXVGOTdpYlJkWF9XbFo2dm16TmRJQjAyUUZGaEpaZXZRVUVodFM4dklFd3B4SHJhNl8wSEttcTJhTTNabi1fbFdkeFBHaDZkOVktMnBCcHEzVzJKSTVXQkUwaE1HTWVta2c5?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Авито: делитесь профилем с близкими без пароля",
+          "description": "На Авито появилась функция безопасного обмена профилем с близкими без передачи пароля. Это улучшает конфиденциальность и упрощает взаимодействие в рамках платформы.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#FF5722",
+          "published_at": "2026-07-11",
+          "read_min": 3,
           "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNam5YVWJnWWRKUmt4ZmpkUHBPX1hNSjNRYTlUal9ReUdZVk1hUmxZTl9SQl8waUZ2YW1FT2R4MGlXbk1JZ0prTTMyakc3ejFTNFNIUTItSWJnY0RXT201eHhRREc0WUU5RFpFaVprOXVsaHJBamI4aUNnd1RWNElMMzNrQWZIaVRRM2lLb3N0LThTLWNyQUcxVmpMbkcwLUpvbWJKc1JTdmxmajRCZzJ6d3hvRDRUbVZVUTFMZ05TUkFjbmhVdnlyVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTVEU2VsOTN1QTlCSlFSWXZFLW5zTU13SERRUTVDVWJWUEJQVTBSNmJXUTl0amVEZkRaQzRNMTlIYnBoWWdINzVJb1daOVpRNHRtNHBWT1BGcTJjc29tY2d2UDVZOFFTeEN5eUJQekRVclZXZ1kxbG05eEhRdHlCdkt3RjZyR0tHOUZENzE0NXNGNWQ0QlRzRWx6M0FhYnc?oc=5"
         }
       ]
     },
@@ -158,76 +146,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
+          "id": 11,
+          "headline": "Глава Figma: 'Никогда не был так оптимистичен' по поводу ИИ в дизайне",
+          "description": "Генеральный директор Figma Дилан Филд выражает уверенность в будущем ИИ в дизайне, несмотря на дискуссии. Это подтверждает важность интеграции ИИ-инструментов в дизайнерский процесс.",
+          "source": "tradingview.com",
+          "favicon_char": "T",
+          "favicon_color": "#0ACF83",
+          "published_at": "2026-07-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHhCSlJGYlFQcWZtMm1PVm1na2VpZUNjQVhZY1lNdHB2OW9xeG1XZG1QVEVtdjRhVWVRM01tVnIwMGZpeG43RXROMUpNRE04eVdHYk9IeGk2ZmctSjdLVmNVdnVQSWpRZkp4bFM1bVFCUGZKS29yaF9OZlB1dFBNSl9NUVRWaUFpVDRKVHhYcVo5b0RaVUhJQkxFYjFYZFVWVHRTRmJKUFJCU3Z0MG9MZUdtMlJ5d2lwdjVTTmFkTW9xbnVKZnducDkwemxuMVBjZElIaGxR?oc=5"
+        },
+        {
           "id": 12,
-          "headline": "WordPress 7.0 с ИИ-функциями, новым админ-интерфейсом и дизайн-инструментами",
-          "description": "Новая версия WordPress включает ИИ в ядро, предлагая дизайнерам расширенные возможности и обновленный, современный административный интерфейс. Это важный шаг для веб-дизайна.",
+          "headline": "Figma Config 2026: Будущее ИИ от Дилана Филда и OpenAI",
+          "description": "Обзор конференции Figma Config 2026, где обсуждались перспективы ИИ с участием главы Figma и представителей OpenAI. Дизайнерам стоит следить за инновациями, представленными на таких мероприятиях.",
+          "source": "finance.biggo.com",
+          "favicon_char": "F",
+          "favicon_color": "#0ACF83",
+          "published_at": "2026-07-12",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kdXRYdWN6YWNNZ1p5WThSMDN6am9FS0lMM2t5UVIwdzJ3d3k5VzNkYk5ZVGx4ZUYtelpjdFhRT2N0enRwVW13WW1renZYSk1uWnYtQjNGamR2LVpWZWFR?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "WordPress 7.0: ИИ в ядре, обновленный админ и новые дизайн-инструменты",
+          "description": "WordPress 7.0 включает ИИ-функции, обновленный интерфейс админ-панели и новые инструменты для дизайна. Это облегчает создание контента и управлением сайтами, предлагая дизайнерам новые возможности.",
           "source": "infoq.com",
           "favicon_char": "I",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#21759B",
           "published_at": "2026-07-10",
-          "read_min": 5,
+          "read_min": 3,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwZmpWa0RqS1N1eGhaX1BXVjhhRTV2dHJJRGhPRS1TSEUxUFVQSkpLbUR1aGpGa1VzUms1NFZrSWoySmN0d3pNNEZUdzY0Vlp4Vk91dmZpMHloYmtXNnBr?oc=5"
         },
         {
-          "id": 13,
-          "headline": "10 навыков Claude для улучшения дизайн-процессов",
-          "description": "Руководство по использованию ИИ-помощника Claude для оптимизации рабочих процессов дизайнеров. Это помогает эффективнее интегрировать ИИ в ежедневные задачи.",
-          "source": "figma.com",
-          "favicon_char": "F",
-          "favicon_color": "#9933FF",
-          "published_at": "2026-07-09",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZmtKaE9USjB4b1pmb2lFd3RDVUtaVHR4OHowZGtxY25aTlF2cGlQODV5OGRDT1FEaVlSR0c0Uk9lRktpVkZId3I0bVNsSVRVcmtSMkE1YjFsU3Z5YVJvMU42UG5KTU44TE8wRDBNSjZ3UQ?oc=5"
-        },
-        {
           "id": 14,
-          "headline": "GPT-5.6: новая версия пограничного ИИ от OpenAI",
-          "description": "OpenAI анонсировала GPT-5.6, подчеркивая ее масштабируемость и амбициозность. Эта базовая модель ИИ будет влиять на все сферы, включая дизайн, через улучшенные возможности генерации и понимания.",
-          "source": "openai.com",
-          "favicon_char": "O",
-          "favicon_color": "#00AEEF",
-          "published_at": "2026-07-09",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Canva фокусируется на ИИ в творческих рабочих процессах",
-          "description": "Canva активно внедряет ИИ-функции для упрощения и ускорения творческих задач. Это делает дизайн доступнее и эффективнее для широкой аудитории.",
-          "source": "siliconangle.com",
-          "favicon_char": "S",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-10",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nT3BDWFZSYXgyQThTQktxTzZEdVcwVzNUajFhdXNJWTJneHhfdWZDNlhVWG11VDB5RjRhZ3pMbmlkeEJfdXFyaXBrZlBOaGpnVmN1RlFvLU5PNlVWQWQ3X1hMZjJGMzFydVRHYl8tVW1XMGFQY1VvaVZn?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Отчет Figma 2026 об ИИ: дизайн становится конкурентным преимуществом",
-          "description": "Отчет Figma исследует, как ИИ меняет границы ролей в дизайне и делает сам дизайн ключевым конкурентным преимуществом. Важный материал для стратегического планирования.",
-          "source": "mexc.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-08",
-          "read_min": 7,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBROWRLYnZHMTFWbmYxOWN6YjBvNkcwckZXVHJmUnctT1c2OElFOUY2dDlOakxGUWdZQXZVdURfQ2lrS0RhRGVNaFR6YXFOX1JH?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "NoimosAI запустил конструктор сайтов с автоматической SEO-оптимизацией",
-          "description": "Новый ИИ-конструктор сайтов от NoimosAI автоматизирует SEO, упрощая создание и продвижение веб-ресурсов. Это пример генеративного дизайна, интегрированного с бизнес-процессами.",
+          "headline": "Drafted выпустил крупное обновление V2 для AI-инструмента дизайна дома",
+          "description": "Компания Drafted выпустила версию 2 своего ИИ-инструмента для дизайна интерьеров. Такие обновления демонстрируют прогресс в области генеративного дизайна и его применение в практических целях.",
           "source": "testingcatalog.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
           "published_at": "2026-07-10",
-          "read_min": 4,
-          "is_ui_update": false,
+          "read_min": 3,
+          "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXJRRXY5Mkxzd25mNWtFNlRpaTY4eDlNT09vUG9ReE04LTRsSzFnZ0VsWDQ4VFNJMVZ6a25sem5zVmdnckNoUlJsTEd1WjdqV3dsWXNhQ2FIQVFILVhheGFqMENXQnZoaHgyQWxvYlg0Y0l3cXBoQmVYWEViLVJFZTZfSDdsd3pJZmZpZVM5SGdIVzQxRkFzdkx3?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Meta AI: использование публичных фото Instagram для генерации изображений",
+          "description": "Новый инструмент генерации изображений от Meta позволяет использовать публичные фотографии из Instagram. Это поднимает вопросы приватности и этики использования ИИ-инструментов для дизайнеров.",
+          "source": "thehackernews.com",
+          "favicon_char": "T",
+          "favicon_color": "#E1306C",
+          "published_at": "2026-07-09",
+          "read_min": 4,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEt3NDBPdVBpU2NkeHRJRXUtRWN3Y1paMDN1YmRMeHQyUV9EUFA2VW1va2Vyamdwa2dsakluYlE4cGRRbXQ3YXhPQ3BzOFRBdlpRc0VFRWNVbGZRNkxzOU5RZHhhdVVjM2VTN1JzUVR5eWRiU0hUOXdEeTY3OTNYYVRndnk?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "OpenAI выпускает GPT-5.6 и инструмент ChatGPT Work",
+          "description": "OpenAI представила новую версию своей модели GPT-5.6 и инструмент ChatGPT Work. Эти релизы могут значительно расширить возможности дизайнеров в генерации идей, текстов и автоматизации задач.",
+          "source": "axios.com",
+          "favicon_char": "A",
+          "favicon_color": "#45B88D",
+          "published_at": "2026-07-09",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83b0RiMGtsRGtWT3dmRXh5SGNqcVl1STZuRWJTRVZzdEliY1hENDk2VzVSek5VMnVGa2NGTGZyeV9MYjI5M1NmY1YwN1FQdnhvX2YwSGo5VDdVUXJPSkF6TkFhTDQ?oc=5"
         }
       ]
     },
@@ -236,20 +224,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 18,
-          "headline": "Эксперт: качественное портфолио увеличивает заказы для мастеров",
-          "description": "Согласно эксперту, хорошо оформленное портфолио напрямую влияет на количество заказов у мастеров по ремонту. Это подчеркивает важность доверия и качественной презентации на маркетплейсах.",
-          "source": "online47.ru",
-          "favicon_char": "O",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-07-11",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVQ1UVYxZUFvd0twX0E3SVd3X01XdFZ0WGhhX1I4R0xIQzc3c1gzYVdYNE9jRVRGMlZNNXEtUU43VW5xcThteXc4UVNLellaN2VFdXF0bF9HWFQyYzJyWmV1eTYxaS13N2s4Qm9zU2xzNXh2NFNIV2lFZzhMUVk0ZlkxSDJ4ajM2VWNjc3BybEhab0NrdFpSWjl5Mi0yQUIzVDZ1aTJ5b096Sy1CQm5oQWxhWmZCWXZvTTJUM3FfbDlEQXdiUk5rdUpwclNodGMtUUZBVE5PZ9IB3AFBVV95cUxOcjVFOEpENkFhZWhsVEUySjQ5c0FaR2NWb1Jqd0pmNnZpX210M1RpYnFBa0tUMncyRGVxd1FNOGhsN2hPMW1SXzUzd0ctTXZPWjFNbjJtTExSZ1BPMUs4SUc4NWprb25MQ2ZYMGJwbGtWU1l5cnNfbVNNNXVGOTdpYlJkWF9XbFo2dm16TmRJQjAyUUZGaEpaZXZRVUVodFM4dklFd3B4SHJhNl8wSEttcTJhTTNabi1fbFdkeFBHaDZkOVktMnBCcHEzVzJKSTVXQkUwaE1HTWVta2c5?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
