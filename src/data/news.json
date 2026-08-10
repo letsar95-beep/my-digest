@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T05:02:33",
-  "next_issue_at": "2026-08-10T10:00:00",
+  "updated_at": "2026-08-10T05:01:52",
+  "next_issue_at": "2026-08-13T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,47 +11,47 @@
       "items": [
         {
           "id": 1,
-          "headline": "Тенденции онлайн-шопинга 2026 года",
-          "description": "Исследование Shopify выявило 10 ключевых трендов, формирующих будущее электронной коммерции. Дизайнерам важно понимать эти изменения для создания актуальных и эффективных пользовательских интерфейсов.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#7AB55C",
-          "published_at": "2026-08-05",
+          "headline": "Обзор трендов UX: простота, ИИ, фрейминг, тон голоса",
+          "description": "Ежемесячный дайджест о последних тенденциях в UX-дизайне, охватывающий темы от простоты интерфейсов до влияния ИИ и важности кибербезопасности. Важно для понимания актуальных направлений развития продукта.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXd3UTNwV0xsbXdIQ045cTZLa0VXeFpNZlpScm96bWFuMzhQMjNZWk92VW55VkczWmVYTjRDNUZvWFliSUlaTUJGTDg3cHByUFQ5d3VsWGRKTERvczRxdkhkOVY4WWJLY0lPeXdxVVRjekxtQlNpdC1jZHNUSG9PVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5"
         },
         {
           "id": 2,
+          "headline": "Восприятие UX в онлайн-курсах LMS: удобство навигации",
+          "description": "Исследование о том, как студенты воспринимают UX в системах управления обучением, с акцентом на удобство навигации. Полезно для дизайнеров образовательных платформ и улучшения пользовательского опыта.",
+          "source": "facultyfocus.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdi1xSERuQTBrX0NJVk5YblVaOHh2blZOUjZycmdzNWFZWGVtQWNXVXZ6QkJDdDZ3V2h2N1E0NHhodFc1WVltNkt1RDJ5dWR5YkJuWmJhUFpJYV91VDFUeTV4TklHOVMyMVIzcktQT0RGT28tZHR6Q0ZvYVQ0a1hPWlFZaG1VUl9ZVzlMWkhhVWlWdUhIaTNtTGpHSUJWQm11OWpETENKQjNHLTNvYnE1WWhkcmdvc1F4Y25fR0JTbW1hdF92WU1yZVEzRjhhR3d6eEU3ZmJnbTNpRFFrekZwSlM3dk1RMEdKbmNEaUVrMmJpbG8?oc=5"
+        },
+        {
+          "id": 3,
           "headline": "Одностраничные чекауты: преимущества и оптимизация",
-          "description": "Shopify делится советами по созданию эффективных одностраничных процессов оформления заказа. Это критически важно для UX в электронной коммерции, напрямую влияя на конверсию и удовлетворенность пользователя.",
+          "description": "Подробное руководство по одностраничным чекаутам, их преимуществам для конверсии и советам по оптимизации. Крайне важно для улучшения воронки продаж и снижения отказов в e-commerce.",
           "source": "shopify.com",
           "favicon_char": "S",
-          "favicon_color": "#7AB55C",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-06",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUXRiUVUwSzRvZm9hM1NzOXF6RG5Ua0huX1RROXFTRWJfcDljTDVTUURQVERBWDhxYjFSMFZWZloweXdneUJRUUN6czU3NzV5TDZ3eDZqZk1STDhUTUxJN1I2RmF5cXo4SEcxRQ?oc=5"
         },
         {
-          "id": 3,
-          "headline": "76 открытых вопросов юзабилити ИИ",
-          "description": "Исследовательская статья Якоба Нильсена поднимает важные вопросы об удобстве использования ИИ-систем. Это фундаментальное чтение для дизайнеров, работающих с ИИ, чтобы формировать будущие подходы.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF6B00",
-          "published_at": "2026-08-05",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Lb0FFZGJTd2RkcEJtMjhFcjJabndYS2QxVmdCZnlUSUJNRDByOHlVWTNOTUsxbkdXNnM1ZnNucUZ1VGdxR1REZVk1ekI2YVJpZEVpOFltdFdnekxRcm5mWDRxQQ?oc=5"
-        },
-        {
           "id": 4,
-          "headline": "Человеко-ориентированный дизайн в HR 2.0",
-          "description": "Инициатива модернизации HR 2.0 в OPM подчеркивает роль человеко-ориентированного дизайна. Это показывает важность UX-подхода даже в традиционных сферах, таких как управление персоналом.",
+          "headline": "Человеко-ориентированный дизайн: модернизация HR-систем",
+          "description": "Как принципы человеко-ориентированного дизайна применяются в модернизации HR-инициатив, что подчеркивает важность эмпатии и учета потребностей пользователей. Полезно для применения в любых продуктах, особенно внутренних.",
           "source": "federalnewsnetwork.com",
           "favicon_char": "F",
-          "favicon_color": "#003366",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-06",
           "read_min": 5,
           "is_ui_update": false,
@@ -59,27 +59,27 @@
         },
         {
           "id": 5,
-          "headline": "Обзор UX: простота, ИИ, тональность и др. аспекты",
-          "description": "Еженедельный дайджест от Якоба Нильсена охватывает ключевые тренды в UX, включая интеграцию ИИ и вопросы кибербезопасности. Это помогает дизайнерам оставаться в курсе актуальных тем.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF6B00",
+          "headline": "Доступность и UX: автономия, безопасность и качество жизни",
+          "description": "Исследование пользовательского опыта в доступных пространствах, касающееся автономии, безопасности и улучшения качества жизни для всех. Подчеркивает важность инклюзивного дизайна для широкой аудитории.",
+          "source": "guiaderodas.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-07",
-          "read_min": 7,
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2dkM01OOG5tUnp5LUxMYUJ5NTFKWUhsa0Uwd0R3TDZUeU9KWnVaS092V21XQjRaTEwwLWtEbTFjWkVlNlloY2tBQVB0bE9XbklJSVQxd1VMZXZEbEJCbTFMOGtOR3NzUTNpdUZlR05hNVlJendQVmE3NHN1bnhQNA?oc=5"
         },
         {
           "id": 6,
-          "headline": "Доступность пространств: автономия и качество жизни",
-          "description": "Статья исследует, как дизайн доступных пространств влияет на автономию и качество жизни людей. Подчеркивается важность инклюзивного дизайна для всех пользователей, особенно в сфере услуг.",
-          "source": "guiaderodas.com",
-          "favicon_char": "G",
-          "favicon_color": "#000000",
+          "headline": "Тренд 2026: Человеческий фактор в ИИ-инженерии",
+          "description": "Обсуждение культурных и методологических трендов 2026 года, фокусирующихся на человеческом аспекте в разработке ИИ-систем. Важно для дизайнеров, работающих с ИИ, чтобы учитывать этические и пользовательские аспекты.",
+          "source": "infoq.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-07",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2dkM01OOG5tUnp5LUxMYUJ5NTFKWUhsa0Uwd0R3TDZUeU9KWnVaS092V21XQjRaTEwwLWtEbTFjWkVlNlloY2tBQVB0bE9XbklJSVQxd1VMZXZEbEJCbTFMOGtOR3NzUTNpdUZlR05hNVlJendQVmE3NHN1bnhQNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZ05hME1Fa1c2UDViSk91N3VKVTN2WXRoeXRTaEFuWWo1bUlBSzFueklhSUlfSUVSaUNCSU9zMnQzbl9VWXRkYWFwV2dWTEh4T0xadWYxT1ZKWGVBOEVKN3RBUE5hOENq?oc=5"
         }
       ]
     },
@@ -91,51 +91,75 @@
       "items": [
         {
           "id": 7,
-          "headline": "«Авито Услуги» добавил фильтр для ИИ-специалистов",
-          "description": "На платформе «Авито Услуги» теперь можно искать специалистов по работе с искусственным интеллектом. Это отражает растущий спрос на такие навыки и улучшает поиск для пользователей.",
-          "source": "primamedia.ru",
+          "headline": "Яндекс 360: обновления для совместной работы и Алисы Про",
+          "description": "«Яндекс 360» обновил свои сервисы для совместной работы, а также расширил функционал «Алисы Про» в «Таблицах». Это показывает развитие экосистемы Яндекса и внедрение AI-возможностей в рабочие инструменты.",
+          "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#007bff",
-          "published_at": "2026-08-05",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
           "read_min": 3,
           "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JNEtXRUZIQjNfYkVfQzM2UVpoVi13NmJTaEJvMWZSSWNwOTB6MDk3ejAtdGhPMThHR19UcXFmTWdqNGFwdVRlVjN6aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdE52TTlBb3I5eE9mWW1ZNHhZd0RsbHRDVm5PYzBXRmoxY0twd2dyMUoyclE3ZW1OdDFhUDU3cEZJWFAxbDlsTnZ6ZGdiRTRyWFZfUF9VVmhrelA2N3FQU2JBaHZMQWk2ckE5cWp5a05scDZwVEU0ZFd0c1kzNVE5eXhjQjRqYWFIRTNSVU5yR240Nl9NZmk2WjA0TUl3V2RybXRhNUFxY0Qyb2ZvbTJ1VmhQNnZ5YWs2ZHRrbkFfNWllZGVmS2JKZFpmem5SUQ?oc=5"
         },
         {
           "id": 8,
-          "headline": "Масштабный сбой на «Авито» 9 августа",
-          "description": "Пользователи «Авито» столкнулись с масштабным сбоем, который повлиял на доступность сервиса. Это напоминает о критической важности стабильности платформы для поддержания доверия пользователей.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#000000",
+          "headline": "«Авито Работа»: кадровый рынок достиг пика вовлеченности",
+          "description": "Сервис «Авито Работа» отмечает пик вовлеченности на кадровом рынке во всех возрастных группах. Это важный сигнал о динамике рынка труда и спросе на специалистов, что может влиять на стратегию маркетплейсов услуг.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-08",
           "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZC05Q2ZVTlgwbnN6YXYzcnZGM3NYSXg4RHlUVzhvaVZGSEx1WTBhZ2hzWkFiZ1lzZ1dEWVI1RHpwNE5vWnNSWjNNbGE5Q3oxMzV0YTB6ZDJPTVZJR0pXSXJ0THBWUzhaTWN3dThyR0lXOU5vaDZMU2V4WkpTSXZtU2NLYk91SngxSEtNZWdybXV0RFNsTnc?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Сбой в работе Авито 10 августа: причины проблем",
+          "description": "Сообщается о масштабном сбое в работе платформы Авито 10 августа, пользователи жалуются на недоступность сервиса. Подобные инциденты подчеркивают важность стабильности работы инфраструктуры для крупных маркетплейсов.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-09",
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
         },
         {
-          "id": 9,
-          "headline": "«Авито» о защите пользователей в интернете",
-          "description": "Директор по доверию и безопасности «Авито» Наталья Юматова рассказала о методах защиты пользователей. Это важный аспект для всех маркетплейсов услуг, направленный на укрепление безопасности и доверия.",
+          "id": 10,
+          "headline": "«Авито Подработка» отметила рост предложений для рабочих",
+          "description": "Сервис «Авито Подработка» выявил регионы с самым динамичным ростом предложений для рабочих и линейных специалистов. Это указывает на активность в сегменте подработок, интересное для анализа рынка услуг.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#2196F3",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-08",
-          "read_min": 5,
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3F5QXpQYm9mLV85SWwxMkQ3N3dfd0tXRktSRjBScGFKR2hLTGhYT0JqbDYyN1dKYl9ub0pYTUx0ZUctY3hvUHNBZk5tQVBjU0ctNE1WS1B1cGJYcjM2aDV4VDNZdUt5VE53cWpPV04wMW9JZ3lzRjVMMzRWMVg5Z00yc0dQUmtCdE4yRWJYNjlYNnlUdTdaa2NpSmJ2Z0RkbXJaWkNQdDdodjZ3bG11X2FzVmVQM0QtQ0toZDM3MGo0dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTRURVV4YkpKU3lwVnh2cW04Rm0zZm8wU2o4THczeUprMnFTcEQ1VE9LVXNsR3JqODVmRU9SaDh0S1dWbUpxdXZVUk1tNUxEMFNYY3I3dTByU2lKRm1nbF9nbXZfRVo2bWlxbFpJalZ5bC1sdXprRElkRDZPX0hZRU9lWFFBMHRJSkxmY25nQjVzX3FoVk1wdTNaeGp5TnpiQUpVQlF1a3NmX0luUGtjWW84LWFGNEtSNGs0NHdNRjM?oc=5"
         },
         {
-          "id": 10,
-          "headline": "Рост предложений на «Авито Подработка» в регионах",
-          "description": "«Авито Подработка» отметила динамичный рост предложений для рабочих и линейных специалистов в различных регионах. Это указывает на расширение географии и категорий услуг на платформе.",
+          "id": 11,
+          "headline": "Авито о защите пользователей: борьба с мошенничеством",
+          "description": "Директор по доверию и безопасности «Авито» Наталья Юматова рассказала о методах защиты пользователей в интернете. Это подчеркивает приоритет безопасности на платформах и методы борьбы с обманом, важные для поддержания доверия.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#2196F3",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-08",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjRMNkhxcmNfRkJZR2tIdWVTem43OUd3dHBRNU5iRllNY1NJdmYycEtocmFFTnJjV2Zhc2RWSnRUUUdGcElJTlJ3VFhDdEZYeWYyTTROOTRSR1dwcTlObGEtUzlnTlFqamJ4QnRlQklPUktESkZmd2lXUEc0YzZpMnFwRndBbm45aFlTZUl6QWRhYW92bnNBMTB5YUFZa2VTQWctaFhwVjNIeU9LX3Fz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2g4dzBZVjJnMUVwRTRNUllMY1J4eEhBS1c2YWhiQ25MTThwdmM5Nkc5QThVdV9SSG9aYXIzN1MwbGF5cjBVbVM3V2k1Z0hfdXdZZVpIajM0MjREcEVuZlNvZDRVUG9aQVlMNllHLWxPdXh4ZmFrYWptbklMZ0xSLXR3cUNhS3ZwZHdHU1R1RHJNbmhpTTZ3dzB3ak9DcXpNSWEyUVFXekdyWXRRbUpIV29tcmIyRENSMTZUUmJUUlNMaVFRUGc5bWRhb293eDR4bnI2OFRxQXZkZw?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Масштабный сбой затронул крупные российские сервисы",
+          "description": "В Рунете зафиксирован масштабный сбой, повлиявший на работу Ozon, Wildberries, Яндекс, Авито и других крупных платформ. Событие подчеркивает риски инфраструктурных проблем для всех цифровых сервисов.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-06",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNU0xZjB5Qy1KdDVGcWJDZ2tPYjF5Z3RiRjAtMHBEQ2ZGZjdCdzBDMzZmTWhhQ25ORXgyWmU3UFdwbHNkUm52SVNIQlRsdGtfRGkyQTBCVHZFc0xrbUNra3puVzNOMlgwa0llZm5zRFd6OUJQOVpNUkljdm8zTFhnRzJXMVZBNFBVb01nNG9zQXJUcUx3UGw1cUllX1pFcjVrdk5sREs1N1gwRV9oWHQ2S1cydW85VnZzRUFOcjNZX1pqMXQ2S1EzRzNBamplbXY1MXQ1QTB0R0ZKQQ?oc=5"
         }
       ]
     },
@@ -146,48 +170,24 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 11,
-          "headline": "AI Image Maker: бесплатные инструменты для визуала",
-          "description": "Новая платформа AI Image Maker предлагает бесплатные инструменты для создания и редактирования изображений. Это полезный ресурс для дизайнеров, ищущих ИИ-помощников для ускорения рабочего процесса.",
-          "source": "trendhunter.com",
-          "favicon_char": "T",
-          "favicon_color": "#337ab7",
-          "published_at": "2026-08-08",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWlE4dWNoUi1pY2FuaW9NUHY3X2ZNTmRtUEJ0XzI3amQtdFlpREVEM1JOZUlZOGFrWWZ1Z3B1VGR3TFJvbWZseW40UkVNaXd0cThqaDRR0gFbQVVfeXFMUHB3UFFPLVlRMWpLVFVQajhPR2pfUW9MVlhDWDJWb3dmNGlhMHdGVUYtZnMtTFJraTdoWkh4ZkZQd1F3Mk5RRGNsWmk5dkttTk5UWGIyYjhuNTNWRQ?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Creo интегрирует «Triple A» AI в свой продукт",
-          "description": "CAD-программное обеспечение Creo активно внедряет ИИ в свой продукт, что сигнализирует о будущем генеративного дизайна в проектировании и инженерии. Это показывает развитие ИИ в профессиональных инструментах.",
-          "source": "develop3d.com",
-          "favicon_char": "D",
-          "favicon_color": "#000000",
-          "published_at": "2026-08-06",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUFBjekVYRS1STmcyVVJ6VFdqcng5dWtOUWQzeUpUd1ludHBJcUo5YlVScFVQOUVYUkMtd2hKcmcyZnI5QzNVbGNURF8ybEVvbFNGbVFrZ0VaVEFYYjRyNmlNQmF3WnlzZC1F?oc=5"
-        },
-        {
           "id": 13,
-          "headline": "Adobe интегрирует ChatGPT для работы с контентом",
-          "description": "Adobe представил интеграцию с ChatGPT, позволяющую создавать и редактировать контент непосредственно в чат-боте. Это открывает новые возможности для дизайнеров в автоматизации рабочих процессов и создании текстов.",
+          "headline": "Adobe интегрируется с ChatGPT для создания и редактирования",
+          "description": "Adobe представила интеграцию с ChatGPT, позволяющую создавать и редактировать контент непосредственно в чат-боте. Это открывает новые возможности для дизайнеров, упрощая и ускоряя рабочие процессы за счет ИИ.",
           "source": "blog.adobe.com",
-          "favicon_char": "A",
-          "favicon_color": "#FF0000",
+          "favicon_char": "B",
+          "favicon_color": "#E61711",
           "published_at": "2026-08-06",
-          "read_min": 5,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEttMzdFVnphVjFqTFVNZFN5SERINkluYWN3UTNoVDluWnd0V2pkS1NuYUFRTEIzakZLZlJQVjQ1RjNKbXpzc3htaTNRTUFZRHRDQjlGcHBCOVpGUU0yN04zMWhONnhobVAwUndTMjJ3eDU3cldPRHNlQkpSbTFpZ2lwWDgteUZId1dKbjJEbVpiS3d2UFdGOXpzb1dNaGZ1RHlNYmI1WHdTZXlSaEhBcg?oc=5"
         },
         {
           "id": 14,
-          "headline": "HitPaw FotorPea v5.6.0: умное улучшение изображений",
-          "description": "Новая версия HitPaw FotorPea V5.6.0 запускает улучшенную систему ИИ для интеллектуального обнаружения и креативных инструментов. Это расширяет возможности дизайнеров в редактировании графики и обработке визуала.",
+          "headline": "HitPaw FotorPea 5.6.0: умное улучшение изображений с ИИ",
+          "description": "Вышла новая версия HitPaw FotorPea V5.6.0 с улучшенной системой ИИ для обработки изображений, включающей интеллектуальное распознавание и расширенные творческие инструменты. Отлично подходит для ускорения работы с графикой.",
           "source": "weny.com",
           "favicon_char": "W",
-          "favicon_color": "#008000",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-07",
           "read_min": 4,
           "is_ui_update": false,
@@ -195,27 +195,51 @@
         },
         {
           "id": 15,
-          "headline": "Nvidia инвестирует в дизайн-инструменты с ИИ",
-          "description": "Nvidia делает ставку на ИИ-ориентированные инструменты дизайна, что подчеркивает растущую значимость искусственного интеллекта в графическом проектировании и разработке продуктов. Это подтверждает общий тренд в индустрии.",
-          "source": "finance.yahoo.com",
-          "favicon_char": "F",
-          "favicon_color": "#7B0099",
-          "published_at": "2026-08-06",
-          "read_min": 5,
+          "headline": "Imagine Image 2.0: новая версия инструмента для создания изображений ИИ",
+          "description": "Выпущено обновление Imagine Image 2.0, предлагающее улучшенные возможности для генерации изображений с помощью искусственного интеллекта. Это важный шаг в развитии генеративного дизайна и создании визуального контента.",
+          "source": "x.ai",
+          "favicon_char": "X",
+          "favicon_color": "#000000",
+          "published_at": "2026-08-08",
+          "read_min": 2,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1NSV2F4d1Ftck5ZeDFFSElXREhWdkt4LUF4aEJTY3FHOEZ5STR6cGRxaDEzOHFra0JoSXhMeDdPc0ZaWDcwU24zbWlSWG96dU16UWFwWm16bG5FREhxQ1RqQ3ExN3VMVXAzQ0FkVjhWOWNNd3JPSVhvaEtqY2dWcW8xMEJwc18wUlEybl80cUpvSnBoMU5MQg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5"
         },
         {
           "id": 16,
-          "headline": "ИИ-нативные дизайн-инструменты: взгляд эксперта",
-          "description": "Эксперт Стивен Хейни из Paper делится мнением о развитии ИИ-нативных дизайн-инструментов. Это дает представление о будущих направлениях в создании дизайна и рабочих процессах.",
-          "source": "startuphub.ai",
-          "favicon_char": "S",
-          "favicon_color": "#000000",
-          "published_at": "2026-08-07",
+          "headline": "AI Image Maker предлагает бесплатные инструменты для работы с графикой",
+          "description": "Новая платформа AI Image Maker предоставляет бесплатные ИИ-инструменты для создания и редактирования визуального контента. Отличная возможность для дизайнеров тестировать ИИ-функции без больших затрат.",
+          "source": "trendhunter.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-08",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWlE4dWNoUi1pY2FuaW9NUHY3X2ZNTmRtUEJ0XzI3amQtdFlpREVEM1JOZUlZOGFrWWZ1Z3B1VGR3TFJvbWZseW40UkVNaXd0cThqaDRR0gFbQVVfeXFMUHB3UFFPLVlRMWpLVFVQajhPR2pfUW9MVlhDWDJWb3dmNGlhMHdGVUYtZnMtTFJraTdoWkh4ZkZQd1F3Mk5RRGNsWmk5dkttTk5UWGIyYjhuNTNWRQ?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Creo получил тройную A-оценку для ИИ в дорожной карте PTC",
+          "description": "Программа для 3D-дизайна Creo от PTC получает высокую оценку \"Triple A\" за свои ИИ-функции. Это демонстрирует растущее внедрение искусственного интеллекта в профессиональные инструменты 3D-моделирования.",
+          "source": "develop3d.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-06",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmVFbFlMUUotZGlDZ1FSc1RDM1pPZE55ME5vNldFcTZqbHplaFhGanRUN3diMW13S2JuNFlpeXRtYnZlY3BVTVV0X2RMQlBscjRCYzRrV3dpNVBzVkVGcmFaRHpkQ3NDTmwwZkkxcGpRLXFKZmRyeHlUd0RqWjlyOUNINWxmV1dCYkdJem5RSUpXUWFMN054akpYS3VPM19CWEZDZlRvU1BtblFDN2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUFBjekVYRS1STmcyVVJ6VFdqcng5dWtOUWQzeUpUd1ludHBJcUo5YlVScFVQOUVYUkMtd2hKcmcyZnI5QzNVbGNURF8ybEVvbFNGbVFrZ0VaVEFYYjRyNmlNQmF3WnlzZC1F?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "ИИ-дизайн интерьеров в Архитектуре 3.0",
+          "description": "Искусственный интеллект активно внедряется в сферу дизайна интерьеров и архитектуры, предлагая генеративные решения и новые подходы. Это открывает перспективы для дизайнеров в создании уникальных и функциональных пространств.",
+          "source": "parametric-architecture.com",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-06",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFV4X3RHaUotRzBJSjhZYkpSMG5hVWlwdGtsT0FRampEdm9VOWhvTG1RX1ZWWndGajRQc0hCdWZsWm9YV3RJWVRnc0t3ME85S205ODRLT0VjUmJ1dFE3enFmM2V5aU92LTkzbV9RUEEwelM5dkM2R0t5Ym9aVE1BOXBSWmZ1U204Z2ZV?oc=5"
         }
       ]
     },
@@ -226,28 +250,16 @@
       "subtitle": "решения из больших платформ",
       "items": [
         {
-          "id": 17,
-          "headline": "Маркетплейсы и бигтехи заинтересовались НСПК",
-          "description": "Крупные маркетплейсы и технологические гиганты проявляют интерес к доле в НСПК (Национальной системе платежных карт). Это может повлиять на платежные системы и финансовые операции в экосистемах маркетплейсов.",
+          "id": 19,
+          "headline": "Маркетплейсы заинтересовались долей в НСПК",
+          "description": "Крупные маркетплейсы и бигтехи проявляют интерес к доле в Национальной системе платежных карт (НСПК). Это может привести к значительным изменениям в платежных системах и финансовых операциях на платформах, что важно для развития их бизнес-моделей.",
           "source": "expert.ru",
           "favicon_char": "E",
-          "favicon_color": "#337ab7",
-          "published_at": "2026-08-09",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qZVZEMDJnWGpXb25TSTVrMEtpMmVLNnBsUUNFSEdDcXdCRVJsRkFBNVhCX0VjQXdhcHE1RmRUYS1DbXpfbWRfUjJ1M3pibG5yWmZkdTIxRTBYMF9jcTJITmplTE5iLWM?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "Масштабный сбой в Рунете затронул Ozon и Wildberries",
-          "description": "Крупные российские маркетплейсы Ozon и Wildberries, наряду с другими сервисами, столкнулись с масштабным сбоем. Это подчеркивает уязвимость инфраструктуры и важность надежности для больших платформ услуг.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#2196F3",
-          "published_at": "2026-08-06",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTRURVV4YkpKU3lwVnh2cW04Rm0zZm8wU2o4THczeUprMnFTcEQ1VE9LVXNsR3JqODVmRU9SaDh0S1dWbUpxdXZVUk1tNUxEMFNYY3I3dTByU2lKRm1nbF9nbXZfRVo2bWlxbFpJalZ5bC1sdXprRElkRDZPX0hZRU9lWFFBMHRJSkxmY25nQjVzX3FoVk1wdTNaeGp5TnpiQUpVQlF1a3NmX0luUGtjWW84LWFGNEtSNGs0NHdNRjM?oc=5"
         }
       ]
     }
