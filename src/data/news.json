@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T06:11:23",
+  "updated_at": "2026-08-11T05:06:48",
   "next_issue_at": "2026-08-13T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,68 +11,20 @@
       "items": [
         {
           "id": 1,
-          "headline": "Обзор UX-трендов: простота, ИИ-интеграция и новые паттерны",
-          "description": "Свежий дайджест от Nielsen Norman Group охватывает ключевые тренды в UX, включая интеграцию ИИ и простоту интерфейсов. Это помогает дизайнерам оставаться в курсе актуальных направлений.",
+          "headline": "Обзор UX-трендов: ИИ, прогресс-бары, синтетические персоны",
+          "description": "Новый обзор от Якоба Нильсена анализирует влияние ИИ на скорость диффузии, важность прогресс-баров и использование синтетических персон. Это ключевые инсайты для продуктовых дизайнеров, работающих с ИИ-интеграциями.",
           "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF6B00",
-          "published_at": "2026-08-07",
-          "read_min": 8,
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmc3haWWNtUENfVFRKVHFzZk45MXJwVHVZUUQ5TG40NmU1Q2lCVlF0czk1MWM2M2hrRFVqUmw0cGRmc1VBY0I2N0wzdmFaVjVXdWE4ck9qZFNaenhPR2dWN0JEUWVJSzdGdmc?oc=5"
         },
         {
           "id": 2,
-          "headline": "Одностраничные чекауты: преимущества и советы по оптимизации",
-          "description": "Shopify делится рекомендациями по созданию эффективных одностраничных процессов оформления заказа. Это поможет улучшить конверсию и пользовательский опыт на маркетплейсах.",
-          "source": "shopify.com",
-          "favicon_char": "S",
-          "favicon_color": "#95BF47",
-          "published_at": "2026-08-06",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUXRiUVUwSzRvZm9hM1NzOXF6RG5Ua0huX1RROXFTRWJfcDljTDVTUURQVERBWDhxYjFSMFZWZloweXdneUJRUUN6czU3NzV5TDZ3eDZqZk1STDhUTUxJN1I2RmF5cXo4SEcxRQ?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "Человеческий аспект AI-инжиниринга: тренды культуры и методов",
-          "description": "Исследование показывает, как человеческий фактор влияет на разработку ИИ. Дизайнерам важно понимать это для создания более этичных и user-friendly продуктов с ИИ.",
-          "source": "infoq.com",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-07",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZ05hME1Fa1c2UDViSk91N3VKVTN2WXRoeXRTaEFuWWo1bUlBSzFueklhSUlfSUVSaUNCSU9zMnQzbl9VWXRkYWFwV2dWTEh4T0xadWYxT1ZKWGVBOEVKN3RBUE5hOENq?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Дизайн для людей: человекоориентированный подход в HR 2.0",
-          "description": "Пример применения человекоориентированного дизайна в инициативе модернизации HR-систем. Подчеркивает важность эмпатии и понимания потребностей пользователей.",
-          "source": "federalnewsnetwork.com",
-          "favicon_char": "F",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-06",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGUwVnczeDdNMVhRcDlhaTJsd0ZqZmZseVd4TlBPcno2eHg5OTVmbkJiY1gzMHd0b1VrcGZub3htODFUaV9vNWg0UEVmRXhnNU1NbWNDODFLWEtGMHppQ1RrcEYzVk45LVBqV2RkYUpqRHlfZlR6WXhlWjFnOVJtclJBeF90S3JoeXNrd0dMaWVUbEZWRzFrZXlfNU1NSXB3Yksybl9iWmNfX2dOY0F2M1lJZVlETjlzWWc5cHlnSFlwQUxFbzJwNjRBVUxLNDA?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Доступный дизайн: автономия, безопасность и качество жизни для всех",
-          "description": "Статья подчеркивает значение создания доступных пространств, которые обеспечивают автономию и безопасность для всех пользователей. Ключевой аспект инклюзивного дизайна.",
-          "source": "guiaderodas.com",
-          "favicon_char": "G",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-07",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2dkM01OOG5tUnp5LUxMYUJ5NTFKWUhsa0Uwd0R3TDZUeU9KWnVaS092V21XQjRaTEwwLWtEbTFjWkVlNlloY2tBQVB0bE9XbklJSVQxd1VMZXZEbEJCbTFMOGtOR3NzUTNpdUZlR05hNVlJendQVmE3NHN1bnhQNA?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Восприятие UX в онлайн-курсах: как студенты навигируют LMS",
-          "description": "Исследование о том, как студенты воспринимают UX дизайн в системах управления обучением. Дизайнерам важно учитывать эти выводы для создания интуитивно понятных образовательных продуктов.",
+          "headline": "Восприятие UX в LMS: Как проектировать удобные онлайн-курсы",
+          "description": "Исследование восприятия UX-дизайна студентами на курсах LMS показывает, как создавать онлайн-курсы, по которым действительно легко ориентироваться. Это важно для улучшения пользовательского опыта в образовательных продуктах.",
           "source": "facultyfocus.com",
           "favicon_char": "F",
           "favicon_color": "#6750A4",
@@ -80,6 +32,54 @@
           "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdi1xSERuQTBrX0NJVk5YblVaOHh2blZOUjZycmdzNWFZWGVtQWNXVXZ6QkJDdDZ3V2h2N1E0NHhodFc1WVltNkt1RDJ5dWR5YkJuWmJhUFpJYV91VDFUeTV4TklHOVMyMVIzcktQT0RGT28tZHR6Q0ZvYVQ0a1hPWlFZaG1VUl9ZVzlMWkhhVWlWdUhIaTNtTGpHSUJWQm11OWpETENKQjNHLTNvYnE1WWhkcmdvc1F4Y25fR0JTbW1hdF92WU1yZVEzRjhhR3d6eEU3ZmJnbTNpRFFrekZwSlM3dk1RMEdKbmNEaUVrMmJpbG8?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "UX-обзор: Простота, ИИ-интеграция, персоны адаптации ИИ",
+          "description": "В этом раундапе рассматриваются принципы простоты в дизайне, вопросы 'затопления фактами' и методы интеграции ИИ. Дизайнерам полезно изучить создание персон для адаптации к ИИ и управление тоном голоса в продуктах.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 8,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JeENmcWdxMXBDOWNJckI5cEJ2LW5neUt5eGk5bk43Q0Rmc1BidWo3bExMakxwS1FUTG9iUWliQm5ybFdMS014M2pzSzVxUGZfVk5fUmJfSlJLQ20yZmw5NWlVQTYtSkVLUmc?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Пользовательский опыт в доступных пространствах: Автономия и безопасность",
+          "description": "Статья подчеркивает важность обеспечения автономии, безопасности и качества жизни через доступные дизайн-решения. Фокусирование на инклюзивном UX обеспечивает лучший опыт для всех пользователей.",
+          "source": "guiaderodas.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2dkM01OOG5tUnp5LUxMYUJ5NTFKWUhsa0Uwd0R3TDZUeU9KWnVaS092V21XQjRaTEwwLWtEbTFjWkVlNlloY2tBQVB0bE9XbklJSVQxd1VMZXZEbEJCbTFMOGtOR3NzUTNpdUZlR05hNVlJendQVmE3NHN1bnhQNA?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Тренды культуры и методов 2026: Человеческий фактор в ИИ-инженерии",
+          "description": "Обзор трендов в культуре и методах разработки на 2026 год выделяет человеческий аспект в инженерии ИИ. Это помогает дизайнерам понять контекст и этические вызовы при создании ИИ-продуктов.",
+          "source": "infoq.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QZ05hME1Fa1c2UDViSk91N3VKVTN2WXRoeXRTaEFuWWo1bUlBSzFueklhSUlfSUVSaUNCSU9zMnQzbl9VWXRkYWFwV2dWTEh4T0xadWYxT1ZKWGVBOEVKN3RBUE5hOENq?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Мастер-класс по юзабилити-тестированию для стипендиатов EdTech",
+          "description": "Палата ИКТ Руанды запустила семинар по юзабилити-тестированию для стипендиатов Mastercard Foundation EdTech. Это подчеркивает важность практического исследования UX для улучшения образовательных технологий.",
+          "source": "techreviewafrica.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWs4dTlidmN6TkprdHRIdXBtMDV4VWd4OWZWdWlJWVZaSGZCZldmZWhvdVdZRExteUdJZ01sV0lFZlBwSk5NTi1jU29UYnBMXzE4S0MyZ1U5Z05fRjZheDdPUVJVVTM0eEMyd2RHWlk0clJwN0JhcVBHZUZQZEltMXREY0RFN1BjMERfc21ZOS1MSlYwdVliR2x4ZkR4X0d5ekhQNXBXRWgwNVZULVlVX2ZmQUVzRDlESDFuR0hURjI1MGF3RFVnNjZGT2M?oc=5"
         }
       ]
     },
@@ -91,75 +91,63 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс 360: обновления сервисов и Алисы Про в Таблицах",
-          "description": "Яндекс обновил свои сервисы для совместной работы и интегрировал «Алису Про» в «Таблицы». Это показывает, как конкуренты развивают свои экосистемы и ИИ-возможности.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-08-07",
+          "headline": "Яндекс Go и Заправки: Оплата парковок в 15 городах России",
+          "description": "В приложениях Яндекс Go и Заправки появилась функция оплаты городских парковок в 15 городах. Это значительно расширяет удобство использования сервисов для автомобилистов и меняет сценарии взаимодействия.",
+          "source": "rb.ru",
+          "favicon_char": "R",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
           "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdE52TTlBb3I5eE9mWW1ZNHhZd0RsbHRDVm5PYzBXRmoxY0twd2dyMUoyclE3ZW1OdDFhUDU3cEZJWFAxbDlsTnZ6ZGdiRTRyWFZfUF9VVmhrelA2N3FQU2JBaHZMQWk2ckE5cWp5a05scDZwVEU0ZFd0c1kzNVE5eXhjQjRqYWFIRTNSVU5yR240Nl9NZmk2WjA0TUl3V2RybXRhNUFxY0Qyb2ZvbTJ1VmhQNnZ5YWs2ZHRrbkFfNWllZGVmS2JKZFpmem5SUQ?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1F3UkZOblpyQTFYSnpsaFF3eFY5WEV1SzJMNHd1NldXallrQkRyQndZUFNhbmM5WjlmOHVIY2ExTHp4TmowSTZfaW9zU0JUNzB1QThSbFJ1eXF2T3czX3FqaldWdVZJcUUwLWdQVnZHekZLcHpTZUtfSXBZbTVpZWVoc0EwVjk0WnVQQ1hOQlRDNnpOSmFGcGJiN05FY1BLWllONXQwcTNyVnNGTldtVjJFLWpQd21PVmVyQ0Y3d0M4Unh5azFGaDFqbFFkc3g5VHc?oc=5"
         },
         {
           "id": 8,
-          "headline": "Авито: защита пользователей и безопасность в интернете",
-          "description": "Директор по доверию и безопасности «Авито» рассказала о мерах защиты пользователей. Вопросы безопасности критически важны для формирования доверия на платформе.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-08-08",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZC05Q2ZVTlgwbnN6YXYzcnZGM3NYSXg4RHlUVzhvaVZGSEx1WTBhZ2hzWkFiZ1lzZ1dEWVI1RHpwNE5vWnNSWjNNbGE5Q3oxMzV0YTB6ZDJPTVZJR0pXSXJ0THBWUzhaTWN3dThyR0lXOU5vaDZMU2V4WkpTSXZtU2NLYk91SngxSEtNZWdybXV0RFNsTnc?oc=5"
+          "headline": "Авито: Запуск оплаты товаров частями через Яндекс Сплит",
+          "description": "«Авито» внедрил новую опцию оплаты товаров частями через «Яндекс Сплит» по всей России. Это делает покупки на платформе более доступными и улучшает конверсию для продавцов.",
+          "source": "gosrf.ru",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 4,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTy0wRHVNcGRDajJZQmdMTm9jb09tVE5hQmpxTVZ6Yy04VlNJWXp5cFBSMF82c2l3dWc5Rkp3YzA3MlJNcnJFQUhsZGdmSTZhZTd2MlMzd3Y3NTNUaF9COUw3MGhlVHpuNzM4TVFTMmF0OEF0TjZFb0lWc2NrYXhfUTkxTllpcHUyRTZxTDhxbDFES0pZZVFxRFVqZmE?oc=5"
         },
         {
           "id": 9,
-          "headline": "Масштабный сбой в работе Авито 10 августа",
-          "description": "В работе платформы Авито произошел масштабный сбой, что вызвало недовольство пользователей. Такие инциденты подчеркивают важность стабильности и надежности сервисов.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#FF3366",
-          "published_at": "2026-08-09",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+          "headline": "Яндекс 360: Обновления для совместной работы и Алисы Про",
+          "description": "«Яндекс 360» обновил сервисы совместной работы и расширил возможности «Алисы Про» в «Таблицах». Это свидетельствует о развитии корпоративных инструментов и интеграции ИИ в офисные продукты.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 5,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2Fpa2hqT2I4ZUpvdGRMRE9XWVZ1SmFfbVFXczVNdlpvX2w0bFl5VlY5SFNQbFdDaEx2aGpueEMzU3dXdE9Bd1Z3VFBRQkFweVViTmZ5WFd6cVpWQmx1MFRRWGY2OE1GMzBrR0VaM1B6dk1SQ2EyanhzdDZYMUdXTFFqaUhKbFpIVG1PRXpTZmZLSmVOVXEzSlllakZ6MlY0QWhCWFBZT3JWQQ?oc=5"
         },
         {
           "id": 10,
-          "headline": "Авито Подработка: рост предложений для рабочих по регионам",
-          "description": "«Авито Подработка» выявила регионы с активным ростом предложений для рабочих. Эта аналитика помогает понять региональные особенности рынка услуг и потенциал для расширения.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-08-08",
+          "headline": "Авито Реклама: Введен таргетинг по ключевым словам",
+          "description": "В кабинете «Авито Рекламы» появился таргетинг по ключевым словам, что улучшает эффективность рекламных кампаний. Это дает продавцам больше контроля над продвижением и повышает релевантность объявлений.",
+          "source": "adindex.ru",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTRURVV4YkpKU3lwVnh2cW04Rm0zZm8wU2o4THczeUprMnFTcEQ1VE9LVXNsR3JqODVmRU9SaDh0S1dWbUpxdXZVUk1tNUxEMFNYY3I3dTByU2lKRm1nbF9nbXZfRVo2bWlxbFpJalZ5bC1sdXprRElkRDZPX0hZRU9lWFFBMHRJSkxmY25nQjVzX3FoVk1wdTNaeGp5TnpiQUpVQlF1a3NmX0luUGtjWW84LWFGNEtSNGs0NHdNRjM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lT2NtYXRqRUtfZHQyTkJTaWJtc0JtcWxqZ1V5UHg0MkM2MzM4VWNCMDZuVE0tNFp2ZTIwNzZER3I0aXBVMDhKVlVDaVYtQ0V4SlFFMTVaWng0Q2dzM1RFZXV2NDZtUVEy?oc=5"
         },
         {
           "id": 11,
-          "headline": "Авито Работа: тренды в онлайн-обучении и росте зарплат",
-          "description": "Анализ от «Авито Работа» и GetCourse показывает, какие специалисты востребованы и какие направления обучения популярны. Это ценная информация для понимания рынка услуг.",
+          "headline": "Авито Авто: Новый директор по развитию транзакционных сервисов",
+          "description": "Дмитрий Иванов назначен директором по развитию транзакционных сервисов «Авито Авто». Это указывает на стратегическое усиление направления платежей и сделок на одной из ключевых платформ конкурента.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-08-07",
-          "read_min": 4,
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2g4dzBZVjJnMUVwRTRNUllMY1J4eEhBS1c2YWhiQ25MTThwdmM5Nkc5QThVdV9SSG9aYXIzN1MwbGF5cjBVbVM3V2k1Z0hfdXdZZVpIajM0MjREcEVuZlNvZDRVUG9aQVlMNllHLWxPdXh4ZmFrYWptbklMZ0xSLXR3cUNhS3ZwZHdHU1R1RHJNbmhpTTZ3dzB3ak9DcXpNSWEyUVFXekdyWXRRbUpIV29tcmIyRENSMTZUUmJUUlNMaVFRUGc5bWRhb293eDR4bnI2OFRxQXZkZw?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Авито Работа: кадровый рынок достиг пика вовлеченности",
-          "description": "Исследование «Авито Работа» показало рекордную вовлеченность на кадровом рынке во всех возрастных группах. Это демонстрирует динамику сегмента услуг и занятости, ключевую для маркетплейсов.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A73E8",
-          "published_at": "2026-08-08",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNU0xZjB5Qy1KdDVGcWJDZ2tPYjF5Z3RiRjAtMHBEQ2ZGZjdCdzBDMzZmTWhhQ25ORXgyWmU3UFdwbHNkUm52SVNIQlRsdGtfRGkyQTBCVHZFc0xrbUNra3puVzNOMlgwa0llZm5zRFd6OUJQOVpNUkljdm8zTFhnRzJXMVZBNFBVb01nNG9zQXJUcUx3UGw1cUllX1pFcjVrdk5sREs1N1gwRV9oWHQ2S1cydW85VnZzRUFOcjNZX1pqMXQ2S1EzRzNBamplbXY1MXQ1QTB0R0ZKQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHBXUGpyMk9QOWQzVUJBY0FZblpiQ1pkQlU4N2wwVFJsZjlPR1ByREhoX2NsU21jQl9JOEJzX3VFSHd0RDRZYU1jSEhDMlBoN054dHVMZ2ZENE40ZHV3bTE3RmRiYkRNbktXMzhhMDB3b0xFa0ZzMkZJYnlYaTF5d3JXZnphT0FPVi1RS0FQZ28wa2hrRTNlaFJYZVpob01TcnEwZS01LXozNmlw?oc=5"
         }
       ]
     },
@@ -170,48 +158,60 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 13,
-          "headline": "Adobe в ChatGPT: создание и редактирование контента через ИИ",
-          "description": "Adobe интегрирует свои инструменты в ChatGPT, позволяя дизайнерам создавать и редактировать контент непосредственно через чат-бот. Это значительно упрощает рабочие процессы и открывает новые возможности.",
-          "source": "blog.adobe.com",
-          "favicon_char": "B",
-          "favicon_color": "#FF0000",
-          "published_at": "2026-08-06",
-          "read_min": 4,
+          "id": 12,
+          "headline": "Будущее ИИ в Figma: потенциал и текущие ограничения бета-версии",
+          "description": "В статье обсуждается будущее интеграции ИИ в Figma, отмечаются ее потенциал и текущие ограничения бета-версии. Дизайнерам важно понимать, как эти изменения повлияют на их рабочий процесс.",
+          "source": "trefis.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEttMzdFVnphVjFqTFVNZFN5SERINkluYWN3UTNoVDluWnd0V2pkS1NuYUFRTEIzakZLZlJQVjQ1RjNKbXpzc3htaTNRTUFZRHRDQjlGcHBCOVpGUU0yN04zMWhONnhobVAwUndTMjJ3eDU3cldPRHNlQkpSbTFpZ2lwWDgteUZId1dKbjJEbVpiS3d2UFdGOXpzb1dNaGZ1RHlNYmI1WHdTZXlSaEhBcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTRLa0xVWkdDOWRNMllJcTJoeHFUN1Fqc1hGTVpIOU5aZ1A0TWRIVGVLZi1sZzJfSFE5S25NNGJYR05sVXFXQlUzVll4UDYyc0FZQkk3cldoVWpEdWhGNTRKSF9vT0dwQW52emE3ajJuMzdFMmFGWG9yclhnLUZYQU5NUklNMl92Rkd0dGROeVdnT0VaMnY1SHBZYmlNSFRRNUhXYzFwZUFNRHV1UFltSkhGenRVczYwZkt5UTN3UElkczFSTjRF?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "CapCut Design Studio: ИИ-дизайн для всех с Seedream 5.0 Pro",
+          "description": "CapCut Design Studio расширяет возможности с новой экосистемой навыков и моделью Seedream 5.0 Pro, делая профессиональный ИИ-дизайн доступным каждому. Это демократизирует процесс создания визуального контента.",
+          "source": "manilatimes.net",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-10",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYTRHYTZMci1iSUNzbk54ZHYzUkZiRHRNQ3ZVUDhQeVVvZk5fLXlHTTJpTkotbW9FS0J6VlMzRGJscEZ5QU13NnZGd1pVVmc4cmQwN1NVYUdQQTJWQ2YtbFVBam5LU1RFQ1Q5LWJUM1ZJMl8zdmlSeVV2c0xFa3hYS2R1QmMySzBaVTlXbGVTM090Z3dDSWgxbTliYW5JVzY1MVlGM0tqODJlelJ2em5RTWlDUklQWHoxeEoyYTczaWozNEFtTDZDQmFxWE9YQXB6c2ItM2R0ZW95a1RqbWfSAeMBQVVfeXFMTVcyVDZIR19ETndyb0o2TDdDeUpLY2lPckJkaGZONFVPVVVuSVl1a1B1T0JwQzRDT2daRVkwWlNGY3VHWWl2dkkxb05BRXVCUktubWdyYlhyM3R6ZU1XTkt0OEItcEt6bkpDQk02bkNXX3BxMjdjM3oyNjVObzlLNzJjVDhZX1RGNHdwb29QdWpQTHJPeWFYUmcwT29XN2ZXMVpkdF9IaU0zS0pFUG1FVnFJd3poZUEwTFd1Q2VMUlhPVDJRQkRDVTFIOUt2eVN0TVpKWTlCWTZwejBPMlJKZ0FrY0E?oc=5"
         },
         {
           "id": 14,
-          "headline": "ИИ создал новые вирусы, демонстрируя потенциал генеративного дизайна",
-          "description": "Ученые использовали ИИ для генерации абсолютно новых вирусов, что открывает как перспективы в медицине, так и вопросы безопасности. Это показывает огромный потенциал генеративного дизайна ИИ.",
-          "source": "cnn.com",
-          "favicon_char": "C",
-          "favicon_color": "#CC0000",
-          "published_at": "2026-08-06",
-          "read_min": 5,
+          "headline": "Обсуждение ИИ-нативных дизайн-инструментов от Стивена Хейни",
+          "description": "Стивен Хейни из Paper делится мыслями об ИИ-нативных дизайн-инструментах. Это предоставляет ценные перспективы для понимания того, как ИИ меняет фундаментальные подходы в дизайне.",
+          "source": "startuphub.ai",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTUpGN2hnUkdISjR6WWd3REJqWWtWVFBjZVBmM2VPUVF1ajBoNzdkVEZWVHl1T2RfaTJCZFF5am5YMlZJUUdkNzEwX19fMnJYMlVleEtPakZJY1JZWXBTNVdhVVo4NFpaR25Jc0JSSTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmVFbFlMUUotZGlDZ1FSc1RDM1pPZE55ME5vNldFcTZqbHplaFhGanRUN3diMW13S2JuNFlpeXRtYnZlY3BVTVV0X2RMQlBscjRCYzRrV3dpNVBzVkVGcmFaRHpkQ3NDTmwwZkkxcGpRLXFKZmRyeHlUd0RqWjlyOUNINWxmV1dCYkdJem5RSUpXUWFMN054akpYS3VPM19CWEZDZlRvU1BtblFDN2c?oc=5"
         },
         {
           "id": 15,
-          "headline": "Дизайн на смертном одре? Будущее дизайна с приходом ИИ",
-          "description": "Статья от Fast Company размышляет о трансформации роли дизайнера в эпоху повсеместного внедрения ИИ. Важно для переосмысления профессии и адаптации к новым реалиям.",
-          "source": "fastcompany.com",
-          "favicon_char": "F",
+          "headline": "15 лучших ИИ-инструментов для дизайна, которые стоит знать",
+          "description": "Подборка из 15 ведущих ИИ-инструментов для дизайнеров, предлагающая практические решения для автоматизации и улучшения творческих процессов. Поможет выбрать подходящие инструменты для ежедневной работы.",
+          "source": "builtin.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-08-06",
-          "read_min": 6,
+          "published_at": "2026-08-07",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYV9VYTJXN2tDazJMOGR0Z19IaXRHZlBFWmNIVEhySFZWNUxWREdMZExuYnotbTNseE45bkV3U25IdDRhc1ZFcmF1WEkwMzFDMU45VXE3LVNjUlNVX3VKbm55M2NqZFVDVktDVlM1RmJVQlplQWR1VW9ZRV9fcVRYYlNmak9PUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQURBMHZDQms4RmZlZktGYV9ETXpQSUtMNktOX0I1MjJ0VGl0UFEtZE1jNnF5bC1FNl8zUU5TZUxXVEZrVUxtMEh0eWlUdnNtdFkxSk9qSQ?oc=5"
         },
         {
           "id": 16,
-          "headline": "Imagine Image 2.0: новая система генерации изображений от x.ai",
-          "description": "Компания x.ai представила вторую версию своей системы генерации изображений Imagine Image 2.0. Это расширяет возможности для дизайнеров в создании визуального контента с помощью ИИ.",
+          "headline": "Imagine Image 2.0: Обновление ИИ-генератора изображений",
+          "description": "Представлено обновление Imagine Image 2.0 от x.ai. Новая версия ИИ-генератора изображений предлагает улучшенные возможности для создания визуального контента, что важно для графических дизайнеров.",
           "source": "x.ai",
           "favicon_char": "X",
-          "favicon_color": "#000000",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-08",
           "read_min": 3,
           "is_ui_update": false,
@@ -219,27 +219,15 @@
         },
         {
           "id": 17,
-          "headline": "Обзор лучших бесплатных AI-генераторов изображений 2026",
-          "description": "Детальный обзор 11 лучших бесплатных инструментов для генерации изображений с помощью ИИ. Полезный ресурс для дизайнеров, ищущих новые креативные инструменты.",
-          "source": "ventureburn.com",
-          "favicon_char": "V",
+          "headline": "Google Flow: Руководство по ИИ-инструменту для видео",
+          "description": "Гайд по Google Flow, ИИ-инструменту для работы с видео. Он может быть полезен дизайнерам для быстрого прототипирования анимации или создания видео-материалов, упрощая процесс продакшена.",
+          "source": "simplilearn.com",
+          "favicon_char": "S",
           "favicon_color": "#6750A4",
-          "published_at": "2026-08-06",
+          "published_at": "2026-08-10",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMGZRQkUxaGd6ZUhUeS1rZThXalFFVENNT0dRLVlvWk5vUEpXTzllTFZ1aW9ya2drNjdiS2YyS193VzJyUnE1ODNtaGgyUllmZS12VUE2dEw1bG44RXpOeF92U1_SAWRBVV95cUxPZjBmUUJFMWhnemVIVHkta2U4V2pRRVRDTU9HUS1Zb1pOb1BKV085ZUxWdWlvcmtnazY3YktmMktfd1cyclJxNTgzbWhoMlJZZmUtdlVBNnRMNWxuOEV6TnhfdlNf?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "ИИ в дизайне интерьеров: Architecture 3.0 и генеративный подход",
-          "description": "Применение ИИ в дизайне интерьеров в рамках концепции Architecture 3.0 демонстрирует возможности генеративного дизайна. Это вдохновляет на использование ИИ в других областях дизайна.",
-          "source": "parametric-architecture.com",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-06",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFV4X3RHaUotRzBJSjhZYkpSMG5hVWlwdGtsT0FRampEdm9VOWhvTG1RX1ZWWndGajRQc0hCdWZsWm9YV3RJWVRnc0t3ME85S205ODRLT0VjUmJ1dFE3enFmM2V5aU92LTkzbV9RUEEwelM5dkM2R0t5Ym9aVE1BOXBSWmZ1U204Z2ZV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NZUpiNUNnMFpqd2RiZHBKa3d6Mm40MU5ySW9RQWtjR2hRbWtwMEc2NkduRmwtWmEzb2s4TWtPWTZPemQtRWRhVFBmQy0zRmI1aXZVRUpDaXF5SGc5c3NJaXE0YjdFUQ?oc=5"
         }
       ]
     },
@@ -248,7 +236,68 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 18,
+          "headline": "Авито: Защита пользователей и борьба с мошенничеством",
+          "description": "Директор по доверию и безопасности «Авито» Наталья Юматова рассказала о защите пользователей. Для маркетплейса это ключевой аспект для поддержания доверия и безопасности, влияющий на пользовательский опыт.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-08",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazR1SVJ3bzRPd1VnU3lXX2d5c0piU1JxZzB2RU1KMlN2STc1bVl3MFlEVTdwX2d1YldkanhUOWpLVWFwajhta0p4RmhRQmU5LXVRRmZiQ05tZ0dzZmFzZ2hhZ0tQUVZIQ0tJMnR6TVVmQWtBdFRZa3BQZW1tS05CQW5OT3dFTklmYjlsNjgxcUNHN2VlMm1VQy1SQ3RwMy0wSVh6cnVvQjloTTQ?oc=5"
+        },
+        {
+          "id": 19,
+          "headline": "13 лучших платформ электронной коммерции 2026: Сравнение",
+          "description": "Глубокое сравнение 13 лучших платформ электронной коммерции в 2026 году. Помогает понять тренды, функционал и бизнес-модели, применяемые в современных маркетплейсах.",
+          "source": "hostinger.com",
+          "favicon_char": "H",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-07",
+          "read_min": 8,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4UFNsNk45Y3I4M0JxNU44ZTREMTVoYXE1LUs3QVRsR3NRUWNtdmhXRUJZZnlWVTV0MXZuRU1rbGdJWlBVZW05SEpIdjdQczF2U0xaSVpRNml5eHJyYndSQ09qcFM0bHh6THFPbA?oc=5"
+        },
+        {
+          "id": 20,
+          "headline": "Авито: Рост спроса и предложений на ИЖС в Хабаровском крае",
+          "description": "На «Авито» в Хабаровском крае за год вырос спрос на индивидуальное жилищное строительство на 18%, а количество предложений — на 98%. Это демонстрирует динамику рынка на платформе и возможности для масштабирования услуг.",
+          "source": "amurmedia.ru",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-11",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wWkRpQ1hicl9tbktMdUFpTHdMdE9pcUZOWmRMdXZGYmY0TjYtOWhTbFZ6UmdlY0hnOHlFcVVxQ1F3Z2xlVmFNMTlB?oc=5"
+        },
+        {
+          "id": 21,
+          "headline": "Авито Работа: Пик вовлеченности на кадровом рынке",
+          "description": "«Авито Работа» отмечает, что кадровый рынок достиг пика вовлеченности во всех возрастных группах. Это важный сигнал для платформ, работающих с услугами и наймом специалистов.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-08",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdE52TTlBb3I5eE9mWW1ZNHhZd0RsbHRDVm5PYzBXRmoxY0twd2dyMUoyclE3ZW1OdDFhUDU3cEZJWFAxbDlsTnZ6ZGdiRTRyWFZfUF9VVmhrelA2N3FQU2JBaHZMQWk2ckE5cWp5a05scDZwVEU0ZFd0c1kzNVE5eXhjQjRqYWFIRTNSVU5yR240Nl9NZmk2WjA0TUl3V2RybXRhNUFxY0Qyb2ZvbTJ1VmhQNnZ5YWs2ZHRrbkFfNWllZGVmS2JKZFpmem5SUQ?oc=5"
+        },
+        {
+          "id": 22,
+          "headline": "Авито Подработка: Рост предложений для линейных специалистов",
+          "description": "«Авито Подработка» отметила динамичный рост предложений для рабочих и линейных специалистов в регионах. Это отражает изменения в сегменте услуг и временной занятости на маркетплейсе.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-08",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX25kUklEXy10a285WHdSV2RqZk9FTFdsRVJ3cER4Tm0zWFhUUXdhOUFZRjJpdXdxTzd3aFdRV0hYS0FDNGtHVmNVOGdsS2pkYkVVQmVjeDVTcWxBdGNFQ0I2cV9Pa2hWRDI5clVIeF9zNlJKMmJKYnBiM0xjOHE1WVdCUUh3N05USTVpTmYxRzE3MmhIQ3Nxc1Y5NTJVTzNjOV8zd0dqOXZGckJEeXdwSjY2Q0d3VHJnc2kyWWJ3?oc=5"
+        }
+      ]
     }
   ]
 }
