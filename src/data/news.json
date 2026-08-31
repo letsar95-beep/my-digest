@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T05:03:26",
+  "updated_at": "2026-08-31T11:24:51",
   "next_issue_at": "2026-09-03T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,8 +11,20 @@
       "items": [
         {
           "id": 1,
-          "headline": "Создание первого мобильного онбординга для Shipaton 2026",
-          "description": "Подробный кейс о разработке процесса регистрации в мобильном приложении, что важно для понимания лучших практик UX и увеличения конверсии.",
+          "headline": "Дизайнеры исправляют ужасные ИИ-флаеры",
+          "description": "ИИ генерирует креативы, но графические дизайнеры все еще нужны для их доработки. Это подчеркивает важность человеческого фактора в дизайне, работающем с ИИ.",
+          "source": "creativebloq.com",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUklwekZxTXJqMkhldVo2YVJvSnNCcUU0OW12TWhjc0ZOMVA5dFR0MHNXcTlJSzVTbmFiR2puRC1YVzZOWGdodno4TkNtcWlqb3BSZXRUNXJFNnpGbUw5dGQ1ZzJ6UDIzVTNXd1FyeEwydUl6QkZVYWlUWlFwak5oVHFMN3JWQVNaNlp0Sk1rUjJyR1Y4QUJSaEtjY01HRjRzSGN6ODZlQ1dXNlp1VmxEc3Rzaw?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Как мы создали первое мобильное онбординг-решение",
+          "description": "Кейс о разработке процесса онбординга для мобильного продукта. Важен для понимания лучших практик и этапов создания пользовательского опыта.",
           "source": "hackernoon.com",
           "favicon_char": "H",
           "favicon_color": "#6750A4",
@@ -22,28 +34,28 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUNEU3IyMVltbTFWb2pYV0hyN3JvTU5EakQ1Y2dNa2x6YkVNWmMwU1B3clRtMDUxbTZPM3dBbzRzLTNWYUtBVWVRSnFTOWlrQWFxRFFIZm5zbVc1NFhhMVRIMDFhQVgzdGdqOXF6VEJYc1ZpQUh4dU9sYnpyTkVxMGYwU1RpS0RVWUU3aXBVOA?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Студенты New Media Design вышли в финал премии ZGDW Award",
-          "description": "Новости о признании инновационных работ студентов в области медиадизайна, что указывает на новые тенденции и подходы в сфере дизайна продуктов.",
-          "source": "rit.edu",
-          "favicon_char": "R",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-27",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGRjTU0wQlRHQUZCZVBjRFRHdHVza1FIUTlPaE5pWFBOdV9zYlNjNmdSOWVoMmlTendGak5jeThqZXYxaU1RZ3k1ZmQ5NHdhbnZxd3FwbWVoMnR6NXVhOWZ1ZmtVSURsWGJnZV9MYWxCdG5Tb1E2TnVFbkdiSktIN0V0aTJCd3NHRk14YkstOHpBeTZLS0pWS2pEN2JCQ18yQTZ6MGNyQ2dLSEk?oc=5"
-        },
-        {
           "id": 3,
-          "headline": "Как 2D-арт ускоряет итерации в прототипировании игр",
-          "description": "Изучите, как использование 2D-арта в прототипировании игр помогает быстрее тестировать идеи, что полезно для дизайнеров продуктов, работающих с интерактивными решениями.",
-          "source": "geekvibesnation.com",
-          "favicon_char": "G",
+          "headline": "UI UX Pro Max стандартизирует ИИ-выбор в дизайне",
+          "description": "Обсуждение стандартизации дизайнерских решений с помощью ИИ. Это может быть важным шагом к автоматизации и унификации дизайн-систем.",
+          "source": "blockchain.news",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-08-28",
+          "published_at": "2026-08-31",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saUN4RXJnOVFPc3dRY0VkQ2JmX0NZay1mMFVYUE5ob2d5Qk82LTdqb25DdnVscS0yOFU0OWk4eV9yTVhNNU5SLVJxMmJ2MmdvbTRyOGhiY1R1OU54UjNiU1V6azFPdzBLRDlnbHNR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3hHeDhtWEFXbTJpVnF2NlFaNHNQSFZXNU83U1llQmtMRXBtLWkxZTVoQURIdlRXdmcwNy1NeGVFejhWeGNvVTkwZkltXzJfNU84VzdMQ0tkam05MndaTlUxd0tWWktQREdZYmY1MXVVRGFVNDZXLWozRzlaRmNkTw?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Почему бизнесу нужны услуги UI/UX дизайна в 2026 году?",
+          "description": "Обзор актуальности и значимости услуг UI/UX дизайна для современного бизнеса. Помогает оценить рыночные тенденции и спрос на компетенции дизайнера.",
+          "source": "community.nasscom.in",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQi1aVURwdWVIY0xNQXJMTVk3X0ZBWmQxUkpIU2o5U2l2UDhjdGZjVDZkMFpXaHdVMms3NnVPUVVHNzVqMWlPRzd3eTVoNzBJYzUxdkFwMlJaUUstd1drY2dIaVFycDhfcXRtaVNEZkhVSlgyMDhvNS0tb3VXNlRpVWR1bndmN3VkN0ZjbjIwc2JzVGtBbE1jVVNxejMyUEVHZG9EeUtSQ2JMQXljNm5Bbl9GeEVhXzJCaVRGV2hTX05XTV8w?oc=5"
         }
       ]
     },
@@ -54,21 +66,21 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 4,
-          "headline": "Яндекс запустил виртуального оператора «Яндекс Сим» с ИИ",
-          "description": "Новый мобильный оператор от Яндекса со встроенными ИИ-функциями и уникальными тарифами расширяет экосистему и возможности конкурента.",
+          "id": 5,
+          "headline": "Яндекс запускает виртуального оператора «Яндекс Сим» с ИИ-функциями",
+          "description": "«Яндекс» расширяет экосистему новым мобильным оператором со встроенными возможностями искусственного интеллекта. Это показывает стремление к глубокой интеграции ИИ в сервисы компании.",
           "source": "finam.ru",
           "favicon_char": "F",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-28",
-          "read_min": 4,
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVZ6Y0ZOZTdjVXlvaV9Na3pXN1RBUE5SWVlqSklqdG9FNHFvU3U2VFF1REtJcDM4akZHZkwzUWlZQTNzWVgwT0hVNTJvVWVtV09VWVBBS0ZGMFRiOENEYXBPeXYxN211bV8zTW1LNnFhTm9iN1c2REdhLTJfbnJWQVVPQUg2UVNHYXBNR0ZXS1kxNWtkMXRIOS00UjhyQ3dtaEZIUjk3b0dueUtXQ3FqcUpHQ3R0cENEV0VtUVJsQXluaU1qNzJtT0pBRmFBdw?oc=5"
         },
         {
-          "id": 5,
-          "headline": "Пользователи «Авито Услуг» организуют «киберклубы» на дому",
-          "description": "Отчёт «Авито Услуг» о росте спроса на организацию домашних киберклубов указывает на новые ниши и потребности пользователей в сфере услуг.",
+          "id": 6,
+          "headline": "«Авито Услуги»: россияне собирают «киберклубы» дома",
+          "description": "Исследование «Авито Услуг» выявило тренд на создание домашних киберклубов. Это отражает новые потребности пользователей, которые платформа может удовлетворить.",
           "source": "nsn.fm",
           "favicon_char": "N",
           "favicon_color": "#6750A4",
@@ -78,16 +90,52 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2N6VFFfNW5vNWFyQl9xaDdzcVBRT2ZvTVpLMGVKZ1dXZ19xSmdhdDgwT0Q1eW1BMVVsQ1VUOEg0aTdpY2QydlN2LUg5dHU3d0JTblFjMmNSbWM5Sm5xX3F0Y1oxSkswRkFsVGx6Sy1EVmxINmo2Z1RNWVBrMExTatIBhgFBVV95cUxQbVg1MDFmamlZc2Rpa2I1MkY2RUZZNGZ1MXBScFBOZnlSaEowTS1PTnJtVDE1WGFTZ3hQdG5HU045anpvUjlSUVNiV1RxNEl5ajBSdGNORFlBdmdkMHozSnNkWjlOV1FOQVJ6N1JNdWljcnM5NjNHM3N0UUk3UlZRN01ZNUhzUQ?oc=5"
         },
         {
-          "id": 6,
-          "headline": "«Авито Авто» добавила данные о ремонтах из Казахстана и Беларуси",
-          "description": "Расширение информации в отчетах «Автотеки» на «Авито Авто» улучшает доверие и прозрачность сделок, влияя на качество данных маркетплейса.",
+          "id": 7,
+          "headline": "Авито: владельцы посуточного жилья инвестируют в комфорт гостей",
+          "description": "95% арендодателей на «Авито» вкладываются в улучшение комфорта для гостей. Это показатель качества сервиса и стремления к повышению лояльности на платформе.",
+          "source": "gazeta.spb.ru",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-28",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDUtOUl0NTVUWEx0RTVfV3ZxRC1Yc2ktUlJCX01fTUxBdjhDOC1pWjVpQ2hRaTVJODk4NVVKQjdiMldya2RyYVYtUWwzYW5qR0xITFRhUmVxMGNmOUw4N01CNDhZMms1N2IyOXpEMjdxbUNva1d3S2YzMlpxc3JoOE5YeXpsZjNVeUloNnF4VkdJamFfTkJqMl9rTmVjcHNlQm9ybQ?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "«Авито Авто» расширила данные «Автотеки» о ремонтах из СНГ",
+          "description": "Теперь отчеты «Автотеки» содержат информацию о ремонтах автомобилей из Казахстана и Беларуси. Это улучшает прозрачность и доверие к сделкам на платформе.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-29",
-          "read_min": 5,
+          "read_min": 4,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm82SUpHbG9Od1NYc3hqNlpEUWVLLUdWTDA2eW1Nd1UzUEhRNVFqaXdFQmZvVlNMeENMTWdGNFd6VzQteHJXdndCTUlMY0laTGxXYzlLZGFkYk1EaU9uMUNZUk81dXlUWW9zMGZHY3I3QUNpTWtNNHlDRlhQeUt0azU0bHZITXgyTHZXMlJyZ1FRSGxBTGZFZ01jMUIwU3g3dTQ3SGtTbThkTnBfYlE?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Сбой в работе «Авито»: пользователи жалуются на недоступность сервиса",
+          "description": "Крупный российский классифайд столкнулся с массовыми жалобами пользователей на недоступность. Это напоминает о важности надежности инфраструктуры для крупных платформ.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 2,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZERZSzljVGVzNXB2RElYWGFHTlZNVHhpWTFudnFzSG53OHltMWVxX2FpNjBlUjNaS1BRMnRTZm1YRjBqZ2Z3dGxoS1drc3lRekx3X3ZZcjB5bFJEOFhxMDBwQlBWWE9kUVBLeXlKRDk3OTZva3EydlVUV2Zsc01hYWV3cmRlNkhlTmVUdnhDaE1MSTlpelFKSmQyMFFpS281N09qR3JNQ2xiTGtvTlBWSUtpQldCYkF3ZFYweFRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "«Авито Авто»: цифровые инструменты меняют рынок б/у автомобилей",
+          "description": "Платформа «Авито Авто» активно использует цифровые инструменты, трансформируя рынок подержанных автомобилей и роль дилеров. Это показывает влияние платформы на целые отрасли.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-28",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFJURFlRNmltWjVWdllGWlA5d2hpSzJleU1GaE8weHA4VWFybDdWUllBb0hmaXhSTTNId0p6cHdFelZBMG5yTVZqMTN1TUI2NThKTkVJd1AyeWY2dGJkTlowalpFU21sVWpEZnhHSnVBdzF2M19nei01c1c4N2JWZnhhMUZ4aTlNSElzcmw2Mm9CaEM3dDh6VFhWanIwU1RRbVB0QWd2R0w1Y1F0dUpIc1drVE1vZnE0YmxycFRzZw?oc=5"
         }
       ]
     },
@@ -98,76 +146,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 7,
-          "headline": "Фанаты создали футбольную форму с помощью ИИ для сезона 2026-27",
-          "description": "ФК \"Манчестер Сити\" и Puma использовали ИИ для генеративного дизайна новой формы, позволяя фанатам влиять на процесс создания продукта.",
+          "id": 11,
+          "headline": "OPPOLIA запускает ИИ-платформу для мебельных дилеров",
+          "description": "Новая платформа с ИИ для дизайнеров мебели. Демонстрирует углубление применения ИИ в нишевом дизайне и автоматизации рабочих процессов.",
+          "source": "theglobeandmail.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUjl4UXkyTkItZlY3NnhIUkNJWXRhcFY1eVRFRDBhbTVZeXNPa1BHYnFYUG1vMDVGU0JWUEM4dk5sQnZIQ1JYUTRSeXhhWG9JX1AxX2JuS05xU2NaUHBqbmJpd1pFX2JuNXhpSllzTU5jWlJQbmxHZkJhX0syd1VNT1VDeGhGWWtMM3JlVTJwbzFnYkN6VXUySUJ5RzBMa2VCY3d5R2Fyd0FnYVlfQV8wSFM5a09rVi1yVlpJdTk1NWJqYndJekJvZlJrNmgzUlJWSWg0NmVMeGpDaTkyUEhwdzZRU3dwQW5Kb283ZTh5dw?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Man City и Puma используют ИИ для дизайна формы 2026-27",
+          "description": "Футбольный клуб и производитель одежды привлекают фанатов и ИИ для генеративного дизайна спортивной формы. Это пример совместного творчества человека и ИИ.",
           "source": "espn.com",
           "favicon_char": "E",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-27",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk1TY042RFBIOHBoMkZCcHBfcHcwNnVsYU0zZXF5RXlnMXd0YVdWbjBuajVPdUJxa1NOeElRaDNic2FkUWU2dTVaRGVtZmF5cmYxNVhvckNDU2dIbUJxZnItSEdoOVBrbFJWTkl2Z21pdTYxY1ZYdkV2aTZsUE5ra3hnTTVMWno3N0RjNUpmcVlxQXBTZ1VFcWtYV0lHaXFSa3dLSm5GNTFtams?oc=5"
         },
         {
-          "id": 8,
-          "headline": "В университете Огайо запустили первый курс по AI-дизайну",
-          "description": "Открытие нового учебного курса по ИИ в дизайне свидетельствует о растущей потребности в специалистах на стыке этих двух областей.",
-          "source": "thelantern.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-28",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUElsemVEMFZqb3dvNF82Zlo4b0pxOC1vbjlIMXpCZEZOQnRlbHdsSWRJUzB6SG9Qczlnb0p1UWVqa2hDZWtULWxsbE5HRG1mWUpYNHhIbnhYLUFBRF9BNXU3WWN2dDdsdTl4ekVmM2Y4Ni1Qc3NsX3BkSFRvamtqTUxxekNvZkF4X09iazM4RWtFbEJaMHBzVnlR?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "8 лучших AI-генераторов инфографики 2026",
-          "description": "Обзор топовых инструментов, которые используют ИИ для упрощения создания инфографики, что может существенно повысить продуктивность дизайнеров.",
+          "id": 13,
+          "headline": "8 лучших генераторов инфографики с ИИ-помощью в 2026 году",
+          "description": "Обзор инструментов для создания инфографики с использованием ИИ. Помогает дизайнерам визуализировать данные быстрее и эффективнее.",
           "source": "technology.org",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-27",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHNneC1RdGtUU1FkaEZ4dkZucUhEWTF6MlVwOUY0UEN4YmVubldObmpUb3M3bU02SmUzNVBNaXcyRzdmOVN3RUp3QnlfeGNVU3ZEcERJTTBtNmNKOHBycWdUOVAxeUJfeFlENE1LWUg2NDJvR3dUMnVGOGdNcEwtQzM3U1pKdXdWREFvdWI1QVpYamw1TzJBS0ZTQWNQZEZhbnl3TWdB?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Figma растет на фоне интеграции ИИ в софт для дизайна",
-          "description": "Отчёт о росте акций Figma, так как ИИ становится драйвером развития, а не угрозой для дизайнерского ПО, что подтверждает важность AI для отрасли.",
-          "source": "247wallst.com",
-          "favicon_char": "2",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-27",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeENBTjFKNkJjMnI5MmlHMlRnOHNPaHlnNGh4Rmdka0lBUnZMeUtCb1NMejZGNFRBU3ZySXdzM0hWT3U1cjN3UjFoZ2dob3Z0X01zcGQtb2dHY0tHeHFYZF94U2dSaVFOdklEMDVxY2NhTFcwc1JtZEdkMHJCcWdfTUI2NTM5ZG9oa281MDJTZ2ozWUlXQmNmTTNsVGZSUXFPWWlVTHpVa0NlcGlmSjM2V3k3X0NOSVpyZl9VY1k3WVQ1U0lBVmhTMUZ6cjN4cFNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHNneC1RdGtUU1FkaEZ4dkZucUhEWTF6MlVwOUY0UEN4YmVubldObmpUb3M3bU02SmUzNVBNaXcyRzdmOVN3RUp3QnlfeGNVU3ZEcERJTTBtNmNKOHBycWdUOVAxeUJfeFlENE1LWUg2NDJvR3dUMnVGOGdNcEwtQzM3U1pKdXdWREFvdWI1QVpYamw1TzJBS0ZTQWNQZEZhbnl3TWdB?oc=5"
         },
         {
-          "id": 11,
-          "headline": "ChatGPT Images: воплощайте идеи в жизнь с помощью ИИ",
-          "description": "Обзор новых возможностей ChatGPT для генерации изображений, позволяющих дизайнерам быстро визуализировать концепции и идеи.",
+          "id": 14,
+          "headline": "ChatGPT Images: воплотите идеи в жизнь",
+          "description": "Использование ChatGPT для генерации изображений. Инструмент, который может ускорить и упростить создание визуальных концепций для дизайнеров.",
           "source": "startuphub.ai",
           "favicon_char": "S",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-29",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWZaend1TjZlVFRfa051dzdzNkZvWUpvX3NhN01lUVE5emlCb1plRWJzYl9lN1ZaYnVhOEJ2VXhoQ2FiRmNydkdLQ1NhS1ZWTTNqYXlIWkVLdThrdGFyM005TUZFRXU0U1R3bFpXc1loY0x3RFYxNWVQQTBRTFBQQzNWYmFxczRlQTR3SlBoVzdRVGd2N3VmU29Gc3RhdnpJdDY4Rw?oc=5"
         },
         {
-          "id": 12,
-          "headline": "Дизайн-паттерны улучшают взаимодействие с ИИ",
-          "description": "Статья о том, как применение дизайн-паттернов в промптах делает работу с ИИ более эффективной и предсказуемой для дизайнеров.",
-          "source": "technology.org",
+          "id": 15,
+          "headline": "Акции Figma растут благодаря ИИ как драйверу роста дизайн-ПО",
+          "description": "Figma демонстрирует рост, поскольку ИИ становится движущей силой для программного обеспечения для дизайна. Это подтверждает важность интеграции ИИ в профессиональные дизайн-инструменты.",
+          "source": "247wallst.com",
+          "favicon_char": "2",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-27",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeENBTjFKNkJjMnI5MmlHMlRnOHNPaHlnNGh4Rmdka0lBUnZMeUtCb1NMejZGNFRBU3ZySXdzM0hWT3U1cjN3UjFoZ2dob3Z0X01zcGQtb2dHY0tHeHFYZF94U2dSaVFOdklEMDVxY2NhTFcwc1JtZEdkMHJCcWdfTUI2NTM5ZG9oa281MDJTZ2ozWUlXQmNmTTNsVGZSUXFPWWlVTHpVa0NlcGlmSjM2V3k3X0NOSVpyZl9VY1k3WVQ1U0lBVmhTMUZ6cjN4cFNw?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "Style3D развивает ИИ в моде от генерации до рабочих процессов",
+          "description": "ИИ в индустрии моды переходит от простой генерации контента к интегрированным рабочим процессам дизайна продукта. Это показывает комплексное применение ИИ в креативных областях.",
+          "source": "tradingview.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
-          "published_at": "2026-08-30",
-          "read_min": 7,
+          "published_at": "2026-08-31",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHd0ZkRzTkJtNi1tUlVqUGR6TkxpMmtpZWI4MFk2dVhlOWJfRGRRZUEzTmd2bnpVaXV2WXBqYzMwSTlGVTI2bHplNWhER3ZjT1E5cS1aSVpGVVBwbE9acm9qSzVsOGFqQkZmbFhFZDVrYWZMMDcxNklEODdBVVdQSUJRbmFCRGlISXhyeE54VE1rUWpaWmUxbGZYalFrbDYzR0xVdnF5aFIzdmQ5Zm1jdk1HUEZtQUF6a2NnV2thbVJBQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPemlaXzY0Vy01NEFfQUYzc1RQTzFKSmlVZDhiblQ0UWhlT19nallLeXQ3OWpvWFAxcWpBQ3BkSzQybERfcHBYTXJ1U015U28yZFNUU090VjdYNWk5Y214VUJiR2F5em9hMTRPOWNOQThYakZZeVl6YV9OMXQwejJMYzB4clNrLWtGSmM2SXZwMGZaendHejhKeFBRbU4xLWhQYW5naHZ0amRLeWNGeVFJZ1d0bUowWllCYVZ0SGY2MXh0T2JpTExiLVRweTBvajlUb0E?oc=5"
         }
       ]
     },
