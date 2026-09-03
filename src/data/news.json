@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T05:03:49",
-  "next_issue_at": "2026-09-03T10:00:00",
+  "updated_at": "2026-09-03T05:01:41",
+  "next_issue_at": "2026-09-07T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "UX-обзор: юзабилити улучшается, ИИ убедителен, фичеризм и закон Фиттса",
-          "description": "Ежемесячный дайджест Якоба Нильсена анализирует текущие тенденции в UX, влияние ИИ на убедительность интерфейсов и проблему фичеризма, что важно для понимания эволюции пользовательского опыта.",
+          "headline": "UX-обзор: юзабилити, ИИ-персуазивность, фитюритис и закон Фиттса",
+          "description": "Nielsen Norman Group обсуждает актуальные тренды в UX, влияние ИИ на убедительность и проблему избытка функций. Это важно для продуктовых дизайнеров, чтобы понимать, как улучшать пользовательский опыт и избегать ловушек.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#E871BA",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-31",
-          "read_min": 5,
+          "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yQVpKaS1mbHh2VWJMWGQ1UEtVaUFBbXZ1d3NlcFFvbE9UbjFFNmgwN3RkcHgwRV92MlpqVTFtaWx2US1oWUp5aXN3T19fSVdtbGwwSTE4cWhSV3NRbWVjSGV2dVlhcHRCWXc?oc=5"
         },
         {
           "id": 2,
-          "headline": "Графические дизайнеры исправляют ужасные ИИ-флаеры",
-          "description": "Дизайнеры активно переделывают некачественные рекламные материалы, сгенерированные ИИ. Это подчеркивает важность человеческого надзора и открывает новую нишу для специалистов, работающих с контентом от ИИ.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#E30613",
-          "published_at": "2026-08-31",
-          "read_min": 4,
+          "headline": "Тренды, на которые стоит обратить внимание в сентябре 2026",
+          "description": "Обзор ключевых трендов на сентябрь 2026 года от O'Reilly. Поможет продуктовым дизайнерам быть в курсе новых технологий и подходов, которые могут повлиять на разработку продуктов.",
+          "source": "oreilly.com",
+          "favicon_char": "O",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-01",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUklwekZxTXJqMkhldVo2YVJvSnNCcUU0OW12TWhjc0ZOMVA5dFR0MHNXcTlJSzVTbmFiR2puRC1YVzZOWGdodno4TkNtcWlqb3BSZXRUNXJFNnpGbUw5dGQ1ZzJ6UDIzVTNXd1FyeEwydUl6QkZVYWlUWlFwak5oVHFMN3JWQVNaNlp0Sk1rUjJyR1Y4QUJSaEtjY01HRjRzSGN6ODZlQ1dXNlp1VmxEc3Rzaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tb01kbW5Rci1lUmM1Mk13UHgxbHotaHBpZ3FaRUF6QkplLTVTdGFMM2NHa09CMnVGNV9ZMmZ2cG1jYUt4SWVya3R1b3BRMTVQSDNPRVd2ak5ZYU5vSkFjUWxiNWRlNjZSd0dzakpETlRxU1EwRHc?oc=5"
         },
         {
           "id": 3,
-          "headline": "Почему UI/UX дизайн-услуги нужны бизнесу в 2026 году",
-          "description": "В статье обсуждается растущая потребность компаний в профессиональных UI/UX дизайн-услугах. Подчеркивается их критическая роль в создании конкурентоспособных продуктов и обеспечении положительного пользовательского опыта.",
-          "source": "community.nasscom.in",
-          "favicon_char": "C",
+          "headline": "UI UX Pro Max стандартизирует ИИ-выбор в дизайне",
+          "description": "Новый стандарт UI UX Pro Max направлен на унификацию выбора в дизайне, сделанного с помощью ИИ. Это может значительно упростить и ускорить процесс проектирования, обеспечивая согласованность решений.",
+          "source": "blockchain.news",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-31",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQi1aVURwdWVIY0xNQXJMTVk3X0ZBWmQxUkpIU2o5U2l2UDhjdGZjVDZkMFpXaHdVMms3NnVPUVVHNzVqMWlPRzd3eTVoNzBJYzUxdkFwMlJaUUstd1drY2dIaVFycDhfcXRtaVNEZkhVSlgyMDhvNS0tb3VXNlRpVWR1bndmN3VkN0ZjbjIwc2JzVGtBbE1jVVNxejMyUEVHZG9EeUtSQ2JMQXljNm5Bbl9GeEVhXzJCaVRGV2hTX05XTV8w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3hHeDhtWEFXbTJpVnF2NlFaNHNQSFZXNU83U1llQmtMRXBtLWkxZTVoQURIdlRXdmcwNy1NeGVFejhWeGNvVTkwZkltXzJfNU84VzdMQ0tkam05MndaTlUxd0tWWktQREdZYmY1MXVVRGFVNDZXLWozRzlaRmNkTw?oc=5"
         },
         {
           "id": 4,
-          "headline": "Лучшие бюджетные приложения 2026: обзор и рейтинг Forbes",
-          "description": "Forbes представил рейтинг лучших приложений для управления личными финансами. Это дает продуктовым дизайнерам ценные инсайты в успешные UX-решения, функциональность и подходы к вовлечению пользователей в финтех-продуктах.",
-          "source": "forbes.com",
-          "favicon_char": "F",
-          "favicon_color": "#0D162B",
-          "published_at": "2026-08-31",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Back2School использует дизайн для прозрачности образования",
-          "description": "Кейс Back2School демонстрирует, как дизайн и технологии помогают сделать поддержку образования более прозрачной. Это подчеркивает роль продуктового дизайна в построении доверия и улучшении взаимодействия с пользователями в социальных проектах.",
+          "headline": "Back2School использует дизайн и технологии для прозрачности образования",
+          "description": "Кейс Back2School демонстрирует, как дизайн и технологии помогают сделать образовательные услуги более прозрачными. Это пример того, как хороший продуктовый дизайн может решать социальные проблемы и повышать доверие.",
           "source": "techcabal.com",
           "favicon_char": "T",
-          "favicon_color": "#1a1a1a",
+          "favicon_color": "#6750A4",
           "published_at": "2026-08-31",
-          "read_min": 4,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdi1GWm43NTVya0NWOW9NUE80RG51ZWxYWkc5aDE4TUIyS2N5N05kazV5ZW4zNV94VjkyUjNQTXUyT3Fncnh4b19RM0tXMlR1OUZLV1hIVHJaYTFQS2Rvc3EzR1FyUGEzaW93VWEtdEF2V3p1MWFGLXVXYkZxYTNWc3AwbWJlNUxlQ1dfdzJJVXd2NHdncFVFWS1DVXl2Si1JQWN3V2VnN1ZoejhudjI0WHdxd0RqRk5KMlpYd0tMTm4?oc=5"
         },
         {
-          "id": 6,
-          "headline": "Названы победители A' Interaction Design Awards 2026",
-          "description": "Объявлен ежегодный конкурс A' Interaction Design Awards, признающий выдающиеся достижения в области интерактивного дизайна. Это событие помогает дизайнерам следить за лучшими практиками и новыми направлениями в индустрии.",
-          "source": "natlawreview.com",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
+          "id": 5,
+          "headline": "Лучшие приложения для бюджетирования 2026: тестирование и рейтинг",
+          "description": "Forbes представил рейтинг лучших приложений для управления бюджетом в 2026 году. Изучение успешных решений в этой нише дает ценные уроки по UX, функциям и стратегиям вовлечения пользователей.",
+          "source": "forbes.com",
+          "favicon_char": "F",
+          "favicon_color": "#E0212E",
           "published_at": "2026-09-01",
-          "read_min": 2,
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU1Tam1lMjdpVFc2S3N2V2h4c2NxVGRmVUdKNW13QmpvWmtqS3ZJUjhJbGxmck5iS25wTWo4aDVVU0tOUlJUY3V1VlE3MW15bzBHUFl6Ym5EU2JlaU50SWJBZjk0TWV0ZVhXX1VZMjlZdWZRMDQyVW9hM1k3Y3J5SnFYcEp3RVozTVRfd3VROFFTUTg2ekVNRA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Зачем бизнесу UI/UX дизайн-услуги в 2026 году?",
+          "description": "Статья объясняет важность UI/UX дизайна для бизнеса в 2026 году, подчеркивая его роль в конкурентоспособности и удержании клиентов. Помогает понять ценность своей работы и аргументировать ее перед стейкхолдерами.",
+          "source": "community.nasscom.in",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQi1aVURwdWVIY0xNQXJMTVk3X0ZBWmQxUkpIU2o5U2l2UDhjdGZjVDZkMFpXaHdVMms3NnVPUVVHNzVqMWlPRzd3eTVoNzBJYzUxdkFwMlJaUUstd1drY2dIaVFycDhfcXRtaVNEZkhVSlgyMDhvNS0tb3VXNlRpVWR1bndmN3VkN0ZjbjIwc2JzVGtBbE1jVVNxejMyUEVHZG9EeUtSQ2JMQXljNm5Bbl9GeEVhXzJCaVRGV2hTX05XTV8w?oc=5"
         }
       ]
     },
@@ -91,51 +91,63 @@
       "items": [
         {
           "id": 7,
-          "headline": "«Авито» запустил оплату через СБП вне платформы",
-          "description": "Avito внедрил возможность оплаты покупок через СБП за пределами своей платформы. Это упрощает транзакции для пользователей и расширяет финансовые инструменты, доступные продавцам и покупателям.",
-          "source": "iguides.ru",
-          "favicon_char": "I",
-          "favicon_color": "#007bff",
+          "headline": "Авито тестирует оплату через СБП за пределами платформы",
+          "description": "«Авито» расширяет возможности оплаты, внедряя СБП для транзакций вне своей платформы. Это может значительно упростить процесс покупки/продажи услуг и товаров, улучшая пользовательский опыт и привлекая больше продавцов.",
+          "source": "primamedia.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-01",
           "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2o5LTdYOXVCTjNUUFZQNENGRVM3S3dlWkdlNFdPV1VmZWs0T2E0eUNmdlZJX1YtY1UxWTYtLVhaek5mcGRWUnpBUW5GZ21FYzVNaHVwOGRiUVRqSEpYOWZRS3RPeXpEbjd0OTY5djdKUDdFLWgtd0F4LWxZbTVTeVpUXzlMVGVwUjBZdlU0ZkZ4X3hRWHEyaFJTWWZMYW5h?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wMXZKTFhzdlBVS2NRTUdyQUxSd2lvZGFZbTBmU0lxb180ZWNuNjBHcnNROVBYUFZfOXVfWGw2bXhxZHhrMmJxbFJ4aw?oc=5"
         },
         {
           "id": 8,
-          "headline": "«Авито» набирает на Design Bootcamp для UX/UI-специалистов",
-          "description": "Avito открывает набор на годовую программу Avito Design Bootcamp для начинающих дизайнеров и UX-специалистов. Это указывает на инвестиции компании в дизайн-экспертизу и развитие кадров в индустрии маркетплейсов.",
+          "headline": "Авито запустит программу для начинающих дизайнеров и UX-специалистов",
+          "description": "«Авито» объявляет о масштабной программе для молодых дизайнеров и UX-специалистов. Это показывает стремление компании к улучшению качества своих продуктов и пользовательского опыта, а также инвестиции в развитие дизайн-комьюнити.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-01",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOERuelZJUmJ1YjBSUGJudWs4Ulc2MVhQQzJRZ1RMMFBsUUhBb2pWcWRjbDBWNWZPc3dURXd1RmoxM3lwNFdoT28xeS03eHZZRzNJbWJoMHhCVlVWOXV3QmJ1dzJ4R1pPZlhvR1lDQnctMWlhTkNLR3JNWWJKRTlmTVBMRE1jNGN6cmZBWEt3OHViVlN5Rm5uOUgxd29JOFZGR1BteWl2ZTF0c2paa3BJR3U2N3BLYmY2REE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMV9PaTZrbE5tNE5XazFuMndpNVF4WjVEYWpSaXpqTTRlZ3ZRcFlyVDUwbXJaR2F5bUQ3NWFFVzJFcTU4cW9NSzMyd3pTLVR5cHBNUUJuN1FUOUp1Z1M0N2xsLW9wRDdNeTdpb2xsTk1fd193TzZ3UEdndVlWUzRZQzlLdU9NZUpKeUNYRWR6YlZzc0kycVkzd0FVVXNLQmtfNXVOMU51dzU?oc=5"
         },
         {
           "id": 9,
-          "headline": "«Авито Услуги»: россияне создают «киберклубы» дома",
-          "description": "Отчет «Авито Услуг» показывает, что россияне активно создают домашние игровые зоны и «киберклубы», массово арендуя оборудование. Это отражает изменение потребительского спроса на услуги и потенциал для новых категорий на платформе.",
-          "source": "cnews.ru",
-          "favicon_char": "C",
+          "headline": "Минцифры обсуждает расширение прав ИИ-помощника «Яндекса»",
+          "description": "Минцифры рассматривает возможность предоставления ИИ-помощнику «Яндекса» расширенных прав при предустановке. Это может усилить позиции Яндекса на рынке и изменить взаимодействие пользователей с предустановленными сервисами.",
+          "source": "gosrf.ru",
+          "favicon_char": "G",
           "favicon_color": "#6750A4",
-          "published_at": "2026-08-31",
-          "read_min": 3,
+          "published_at": "2026-09-02",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wNzUtZngxckVwcUdRbjNJQkNIUGRSbWRJR1ZWbU1jUklrdHFMeE5rRG5WQTZwUW9uUXlhR0pWSEYzcEtoZnVTMTlaYmlweHU5LW9xakpSSVcxNTdSbXJ5dmFzeDJ5dWwyN3ZmQTVHWGlLZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWVueU9GRjZJTE9sLWI0TjhrUWd4R0llRFl6bHRWaWRvRlVWTDJfbTlELWhkY1ZqMEtYZzh1LWhMQktKeHF0YnE3S09fODBsMlRyQ1hLX090TGJsbFU5QS0yWUx0eVp5QXVTWUMxbTNCeGowcng4M1Vyc2hGbHRWN1VKb0NHOGgzNUEyNllvZnluWklxNW03YkdWWnlwSUFvSFQ2UA?oc=5"
         },
         {
           "id": 10,
-          "headline": "«Яндекс» запустил виртуального оператора «Яндекс Сим» с ИИ",
-          "description": "«Яндекс» представил нового виртуального оператора «Яндекс Сим» на базе сети «Билайна» с интеграцией ИИ. Это является стратегическим шагом по расширению экосистемы и может повлиять на кросс-сервисные интеграции.",
+          "headline": "Поиск Яндекса покажет ближайшие АЗС с топливом",
+          "description": "Поиск Яндекса будет отображать информацию о ближайших АЗС с наличием топлива. Это обновление улучшает функциональность карт и поиска, делая сервис более полезным для пользователей в повседневных задачах.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-03",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmdHeGRPMnRZOFFST1c0Wm9EcUNDQ2xMWXpnYm5oeF9xNzVHN2NGUUZRUU1nNUh3ZExPMmxSbzl1ZHMxOGRuTjNEd1JHMDlpQWt4WmlyaXJ6NkNfRnp3WkhlWlUySHZkb3hqajRsMms3QnE3TkJmTV9OUjdiQnJfTEZydkNtY1dRYWw4N0Zvb2pNSGM3Zm9DdWZSUjZCVnZpZDdQdld0Q0pvUm44Z3pfNEZCaVFxSnU0eEdGT0hMMVliU1poaU40ZzdrUQ?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Авито Авто и Кион запустили кино-рубрику об автомобилях",
+          "description": "«Авито Авто» в партнерстве с «Кион» представили новую кино-рубрику, посвященную автомобилям из фильмов и сериалов. Это шаг к повышению вовлеченности аудитории и предложению уникального контента, выходящего за рамки классического маркетплейса.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-08-31",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0x0dDh2WHlLa21CVHhza3BnZjhwRVdtLWI3Tk5KclRPNGIwd3FSb3d5UFBzZjhhVzVFeWtza1MwM2J4QWZDNjdaU0JlVktHM1lGbTYxck5ka1hSMWplTzU0dTBaNWFTTmllMVYtQl80SWNTMG5zZHlZTThyTUxZTEp6WHlUMm14OW5RR3F0cjBQaGZIemMwQ0N6MXRVVERYT2RoT1BsTDEzXzB2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkV2NVNEZWdRbkJaRGFEdjhwRDRGdTlsRVNtdTNQT0U4aTlMMzB0UHFReURvQW0tVGVkYmxTenRkbnVsNEtrUkpxMEpqa0NLaGNYMElqSC0tR2ZSMFFZazJ0Zmx3cGFZMzFubmpQN2RleUVQeU4xV25JQ05WeUNNVjVlTUttVXNmVHVrb3JkMUsybVl1Z0FLM3c5cTB5ZVZDdndlNVR3UEFlZ2szS1ZMQzhMd2Y2dmhBOWNwOUVENFVaT28?oc=5"
         }
       ]
     },
@@ -146,76 +158,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 11,
-          "headline": "Google запустил ИИ-инструмент для дизайна как конкурент Canva",
-          "description": "Google представил новый ИИ-инструмент для Workspace, который позволяет создавать дизайны по текстовым запросам. Это значительно упрощает процесс прототипирования и генерации идей для дизайнеров.",
-          "source": "techcrunch.com",
-          "favicon_char": "T",
-          "favicon_color": "#00B100",
-          "published_at": "2026-09-01",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEpTdDB1MXpBQ0JJVjA2NmJpb1FwOEZfN0wwM0dxdnF4c29rY1lkclVLN1h4dXkwLUtiVkw1YnhTcmxnOXVhc3Y3WDFUSmVZWUQwUm5mSzMtVjJmdnF2d2lEWlMzV3NPY0ZrcTdFcmFacThKQ2JRcXpWZUMxRVRvcXQ0NFdsQS1HaENydUhzWTB1NXlieDZnMVZBZ0h4bW9teUpxNFVvcW10SEk?oc=5"
-        },
-        {
           "id": 12,
-          "headline": "Adobe предлагает бесплатный доступ к ИИ-инструментам в Саудовской Аравии",
-          "description": "Adobe в партнерстве с MCIT предоставляет бесплатный доступ к своим ИИ-инструментам миллионам пользователей. Это способствует демократизации креативных технологий и расширяет возможности дизайнеров.",
-          "source": "news.adobe.com",
-          "favicon_char": "A",
-          "favicon_color": "#FF0000",
-          "published_at": "2026-08-31",
-          "read_min": 3,
+          "headline": "Google запускает AI-дизайн инструмент Google Pics против Canva и Adobe Express",
+          "description": "Google представил Google Pics — новый AI-инструмент для дизайна, который конкурирует с Canva и Adobe Express, позволяя создавать изображения по текстовому запросу. Это открывает новые возможности для дизайнеров в генеративном дизайне интерфейсов и ускоряет процесс создания контента.",
+          "source": "businesstoday.in",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-02",
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXowOFNuckZrT1ZIUmFlTUxYYnlIUGlWY251RjRYXzQ1Y1RkeE84X1VNbm1QS0tlLWlGVGpmRkU0MTYxMEYza2lIeUVjcEJwbWxLdWg5Yzc5bDBUcHN1OVRMUGpmRnZ0OE5DaTJ0Q1ZKR3VScWpXMUxNNnVmekVoQk5R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVpTTzlET1Q5dFVTdGs2Ym16YnZiM3djZHBVQlpQV28zalFKOGJUbkFqREVod1BCYWlPdngtbzQ0Ukp5SlROS2g5Nk0wT01ITWctdHpSSF9vS3EwNDBBaWhqOTVhTWQ3d1hzaDZ4dXNiaFZ0b2UxekpmRXNkZS1LU1dUX1JGWkd6ZFJGV3NMTVJiY1FGZnFUakdGZ3VRdjhIVEx3NkkwMzZZRkNLRnZuMmlhTGhuMHJwREloM3VjMkVWb2hOV3dXM2tzQ2FKV0daUHB2cFJsbm5jUkc4VVZwdl9sQXPSAeQBQVVfeXFMUGVaU085RE9UOXRVU3RrNmJtemJ2YjN3Y2RwVUJaUFdvM2pRSjhiVG5BakRFaHdQQmFpT3Z4LW80NFJKeUpUTktoOTZNME9NSE1nLXR6Ukhfb0txMDQwQWloajk1YU1kN3dYc2g2eHVzYmhWdG9lMXpKZkVzZGUtS1NXVF9SRlpHemRSRldzTE1SYmNRRmZxVGpHRmd1UXY4SFRMdzZJMDM2WUZDS0Z2bjJpYUxobjBycERJaDN1YzJFVm9oTld3VzNrc0NhSldHWlBwdnBSbG5uY1JHOFVWcHZfbEFz?oc=5"
         },
         {
           "id": 13,
-          "headline": "Как использовать Recraft AI: пошаговое руководство по генерации изображений",
-          "description": "Опубликовано подробное руководство по использованию Recraft AI. Это позволит дизайнерам освоить новый инструмент для генерации изображений и элементов дизайна, повышая эффективность работы.",
-          "source": "tech-insider.org",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-31",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ySWdxMS01UjJqUGZvbTFjdTJYYm96VmRvb0RuWnEtWVV0OUtQZ08zN3pxUDh1djRMbXNxSFBlUXU3VC0wSGhKZDVxUnJJYXdaN0pUX01OcXVnYVpfdWdtbU5B?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "Тест ИИ-инструментов для создания презентаций: выявлен лидер",
-          "description": "Проведен сравнительный тест ИИ-инструментов для Google Slides, PowerPoint и Claude Design, который выявил лидера в генерации профессиональных презентаций. Это помогает дизайнерам выбрать лучшие решения для автоматизации рутинных задач.",
-          "source": "androidpolice.com",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-31",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTdrSldaYWltYnhIOFl3TjdLOHY2allSSWtzX3hJZ3VwREpTN3RDa2pXNUpGMHRDaXJySlFLd01FVjNyYm5tcVZSX1JUaVBLZFRFRkR4Z3VNclg0ckZBd2FKQzVnWnhDMU1iS2dGSHN0YWVfN1Q3TWhJZVpPQnRjbW52NWFyTHpkZmRsS01rNWdFMFpIZ0k3MEo3UTZ0ZjByQU9PdjZaN0RPMjM3UlBNS3c2czg0Q3JT?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "UI UX Pro Max стандартизирует ИИ-дизайн-выборы",
-          "description": "Новая платформа UI UX Pro Max предлагает стандартизацию дизайнерских решений, генерируемых ИИ. Это может помочь в создании более когерентных и эффективных дизайн-систем с использованием искусственного интеллекта.",
-          "source": "blockchain.news",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-08-31",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3hHeDhtWEFXbTJpVnF2NlFaNHNQSFZXNU83U1llQmtMRXBtLWkxZTVoQURIdlRXdmcwNy1NeGVFejhWeGNvVTkwZkltXzJfNU84VzdMQ0tkam05MndaTlUxd0tWWktQREdZYmY1MXVVRGFVNDZXLWozRzlaRmNkTw?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Как использовать Qwen-Image-3.0: пошаговый гайд",
-          "description": "Опубликовано руководство по использованию Qwen-Image-3.0, мощного ИИ-инструмента для создания изображений. Это дает дизайнерам возможность быстро интегрировать передовые генеративные возможности в свой рабочий процесс.",
-          "source": "tech-insider.org",
-          "favicon_char": "T",
+          "headline": "Adobe предоставит бесплатный доступ к ИИ-инструментам в Саудовской Аравии",
+          "description": "Adobe в рамках партнерства на 4 миллиарда долларов предоставит бесплатный доступ к своим AI-инструментам 27 миллионам пользователей в Саудовской Аравии. Это значительно расширяет доступность передовых дизайн-инструментов с ИИ и может способствовать массовому внедрению технологий.",
+          "source": "cairoscene.com",
+          "favicon_char": "C",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-01",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96d25jb0ZZUE90LVdFdjFOZ0JCVDlKc1VsaG52VHdrVURSb0hSc1lhd3QzbUdla3RnUjJnaTNKMHVDMkwxRXBIWktZNzBHNkg3aTlnTWhjNDJNa01YZnhPa0l1c3BBeEk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHVXWUNGc1hDY3gxdzhtNFRtT1VEOEdVdU5KUjZmbHdyOFlQanA1dDdaUlV6bklTaVNSTlJmdUZZelJOeVlqSWVaWlpIN29wcGRSd3dSWTB0cWxIaXRsd1N1X2RTalNiUUFidk4tVXVjR1drcXNjSldzYzdOcFZmOWhOWGZBWW5KLXVnMlpHM2VrMEE?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Перелом в дизайне: почему побеждают ИИ-инструменты «арена-стиля»",
+          "description": "Статья анализирует сдвиг в индустрии дизайна, где набирают популярность так называемые «арена-стиль» ИИ-инструменты, предлагающие комплексные решения. Это указывает на новый вектор развития AI-дизайн инструментов и их потенциал для продуктовых дизайнеров.",
+          "source": "financialcontent.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-01",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRC1tWE45SHJ1V1luaERIMGhSREVHbWRfcFg0Z3FSNm9zSThQUXBHSElMaG1veWFvZUhZMFNRWVJZRW5ma05qQTgzQ1pvbERTQjg2T05nWHpqX2xTSl9GSzZHeTlXUE1VZURLQ2xBZnJ2MVN6dVh1OTc5UFl0YTktMnhBNnJGQXpUNHVOVTNMeUM5REdqM1NwRURWWXNQbVhrWmpkQXk4a1dMX3UwTUptWXZPMHdVVGs4R2ZqTEV3dk4ydmJEV3BxX0xkdzV4WlRGYXJ3LVU0M2pBSE9r?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Как использовать AI-генератор изображений Leonardo AI",
+          "description": "Руководство по использованию Leonardo AI — популярного инструмента для генерации изображений с помощью ИИ. Помогает дизайнерам освоить новые технологии для быстрого создания визуального контента и прототипов.",
+          "source": "tech-insider.org",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-02",
+          "read_min": 8,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS3V3UDYyZERnR0dpcmNEcGxILW9wMnQyR1N4MEtrenh4YjVNbkRxTlNzRURwUVV2c0hiWDBIWFVkbnByN1pNV1NhaHpsamd5cGdxbzNIYnFOWnR1Wi1yd1BqdU5kNUk5cmlvdW54NXhaVFgxMWc?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "OPPOLIA запускает ИИ-платформу для дизайнеров кухонной мебели",
+          "description": "OPPOLIA представила AI-платформу для поддержки дилеров кухонной мебели, предлагающую автоматизированные дизайн-решения. Это показывает углубление ИИ в специализированные области дизайна, что может быть примером для других нишевых продуктов.",
+          "source": "digitaljournal.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-08-31",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlFNTHVucExRLVIzQktuU3JMczJybkpYdUpxNDZjcjJIUng2M3lMVU5VWmIycVhNTU16VGZhc1NyOXVGeFR4ck1KZ01fUzhrWmdvVkVLZjFhMy16aVNRZ0hKVG1WcHNkaTBIQXhLMDlvX3ExZWJnSGlVQVI3UVdlajV1WFN4SFVaZDBQcmdQMGRFd0QzTVFwUVdTaWQxNC1UaF9nbmQwaElublU?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Фрилансеры утопают в «бездушной» работе по очистке ИИ-генерированного контента",
+          "description": "Статья поднимает проблему «очистки» низкокачественного контента, сгенерированного ИИ, с которой сталкиваются фрилансеры. Это важный аспект для дизайнеров, использующих ИИ, указывающий на необходимость более совершенных инструментов и контроля качества.",
+          "source": "theguardian.com",
+          "favicon_char": "T",
+          "favicon_color": "#005689",
+          "published_at": "2026-09-02",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzhxV0drQ0hqVmk1ZGd4M3ZfT2hGMEY4LVZNdDJJQkhGMVA2d2lJQTZkeDIwbTUtV2NyUzJEVlZ4b0ZtSkRDbjJzTjZIWExvV2JHdEZ1QmFyTnVjUVNNTmFqNkRWaTd0NWd4Qnp4ZDVxZW1RN3lNcDFUOGlkMjRWY1pR?oc=5"
         }
       ]
     },
