@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:59:10",
+  "updated_at": "2026-09-08T05:03:11",
   "next_issue_at": "2026-09-10T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Автоматизация дизайна с Claude Code: от Figma до UI",
-          "description": "Исследование показывает, как использовать Claude Code для ускорения процесса проектирования, автоматически генерируя UI из файлов Figma. Важно для дизайнеров, стремящихся к эффективности и сокращению рутины.",
+          "headline": "Регулируемые воронки как проблема дизайна",
+          "description": "Исследование сравнивает подходы к регулированию в UK, Германии и Бразилии, показывая, как нормативные требования влияют на проектирование пользовательского опыта. Важно для дизайнеров, работающих в регулируемых сферах.",
+          "source": "igamingbusiness.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-07",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhtbUlheXBZY2FfRFR6N09PVnl4SXN0RjdEVU1CMW1ISDRzYUNLMDVESVVOa1ZDbTZLZl9vbGU2UUlCakFTLVM2YTY4Zmw3M2NxRHJXdzdsQmJ6WGljdkY0VWltWWJXdjJRN21SRDRVVTZsTThhb3hPdjYzaGd0cjlEMVo2RjlrVy1hYkZIN29rNHRXeTd3UnI0a1RVN21TaU9OMXc0YWtERW1sZkMyaVd2bTlPcFNJcVE?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Автоматизация дизайна из Figma в UI с Claude Code",
+          "description": "Использование Claude Code для автоматизации дизайн-процесса, превращая файлы Figma в готовый UI. Это показывает потенциал AI в ускорении разработки интерфейсов.",
           "source": "medium.com",
           "favicon_char": "M",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#292929",
           "published_at": "2026-09-06",
-          "read_min": 5,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbG5Nd25FaU5vTHFLQkZMQXREbGk1aTRiT3I4aDF2S3ZOcHhUX3psZk9qUFlXOU9XUWdGcl9IRjhTRXZoeWxDRk16dHVmSjVSeWs0T1NSc09FRlRPTnJ0TUk2RHI0cHp1blpwNWpyZnAzNVh3b1c1N1ZWWlB1aFQ1ZWhuNzdJX3pnV2JPS3RiZnBSN1NpT2xGOHAwQm11MjZVUGhFTGVQV1FhWjIyUXZLOWgyN1BydERjZFdDV0dZU3ZWZUFHS3BBR3V3?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Проектирование профиля водителя на основе телематических данных",
-          "description": "Кейс-стади о создании пользовательского профиля на основе телематических данных для персонализации услуг. Показывает, как данные могут улучшить UX и продуктовые решения.",
-          "source": "hackernoon.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-04",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYjlmWm0yaHI3Z01seC03MXRsbUl3c3JDNWgzelVLNVNubEpGZ2VtSVBUVUNtZG8xMzdSTy05Y1hUZFJob1dhUmc5LWxwelBoUy01bGtiUEl2bjJBTWNLV3g2VjVHYXVUcnZCWnRmbHRua0dKTjJoazdEQQ?oc=5"
-        },
-        {
           "id": 3,
-          "headline": "Обзор UX: простота, AI-трафик и этика",
-          "description": "Подборка исследований UX от Якоба Нильсена, затрагивающая важность простоты, влияние AI на поведение пользователей и этические вопросы. Поможет дизайнерам глубже понять поведенческие паттерны.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-04",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZTdKS3Y1OWtpc1NPOGJveFpwZGprOUtuaWhmTmhwM3VJQXpuUXBpTnJwUzBrVWlHc1cyNnBUdm8tV2RyT0dIZElPemZaSDdBQjNlcWg2alhCRHM1azdvSEphWEppajg1eFE?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Интерфейс платформ как источник рисков конфиденциальности",
-          "description": "Анализ того, как дизайн интерфейсов в платформенной экономике может непреднамеренно создавать угрозы конфиденциальности пользователей. Критично для продуктовых дизайнеров маркетплейсов.",
-          "source": "devdiscourse.com",
-          "favicon_char": "D",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-05",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkFwT040c2JhZVBqNnhNS3JSU2FNRFpiSWF4dURBYUZfVVFXY2NpVjlZU1pwRkZZbGdtdFRpTDFFMWxWaWx1cGg0TjR6NUpRQWZEc0tLaU90S1k2VVlvckVnUnJXQm52QWdCSk45MmpaS05jTFh2c0ppVmduMWs4SjNYV2NkbDFkeDBDU05mSWhCLWVtRTdKbHFZRTRoYzBSRmhBM3o5NmRfbWVDLVZGbldtbGlhdVU4Nl9tMy1ydDbSAcYBQVVfeXFMTl9PcHdRRy1QeTY3ZHc1cmNNSDAzM1dsYlBQUGlGSlJlcDNkZE1veDBwOFVyVU5FQV9POGRxZ05LYzFsWldHeDhoRlNBTFduQVZxTFl3YjZPWVIxZENBdFZaV2ZYdjVITVpXaVhLYXVLSjFneUZWNzZHTFp0TTZPS0xZNzRmb292Ul93TmlqVUVSSEdYS1A4Zi0yZ1p2THZqVlpUSFlsaXFNbzc2azBRd1VibDdEQmI2M2FaT2dmbzdjcnUxX0NR?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Соответствие Section 508 и доступность в UX",
-          "description": "Исследование связи между соблюдением требований Section 508 (доступность) и общим пользовательским опытом. Напоминает о важности инклюзивного дизайна для всех пользователей.",
-          "source": "techbullion.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-05",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0psaGFzaDFHTDRyWGRjR1lwR3BnNFdVWHQ3bWxrX0c3cUlZWThSTDA1cDVkNTJVZkNlTVNqX1hpU0pDRTMxN2pnNEV1TF9uYVZWT2FqN2hkUnpIMHBNYmdSZUZLQUd1alNaRlRXbVJhWGRfSVF4RnJlN05ETHA5b012U0xaVk1aV2xaTldNM29VT2RDZVdDOWl0RTFrN1NqRGtoLVhvaFRWa2pI?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Разработка концепции человекоподобного AI-телефона",
-          "description": "Обзор концепции AI-телефона, который стремится к человекоподобному взаимодействию, демонстрируя новые подходы к дизайну пользовательских интерфейсов с искусственным интеллектом.",
+          "headline": "Телефон с человекоподобным AI и его тон",
+          "description": "Новая концепция телефона с искусственным интеллектом, который имитирует человеческий тон. Это указывает на тренды в эмпатичном дизайне и голосовых интерфейсах.",
           "source": "designcompass.org",
           "favicon_char": "D",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-07",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUVU1TnZHcmlNOENuQlNzTlE5RFRIdmNqVXBiVUUtbVBCOE1hUmdjbXBFY2Y5dXFncmdoV01hS0NfZHpia1VldEUtVWtwNk9aZnhUamNJbjVaUlk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZdXFjMFAtRGx0LUFuaWRwUVp1NDdxZ3pyeEw0TG1jTGNRRlo3aDZxY0NZdlNPZHNOR3lnZ2NTYzFvdGNEbkxYMVhKTG1VQUhTZlh3TklaRWthMzZpc2p2ZlAxMWtscVNTbXc?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Обзор UX: Graph UI против чата, AI как инструмент и др.",
+          "description": "Обзор различных UX-тем, включая сравнение Graph UI и чатов, а также обсуждение роли AI в дизайне. Это ценные инсайты для текущих дизайн-задач.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-07",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FSkppaUQ0M3gxb0RRdXVoUUI1T2J2enZJUkFpQkJYb3lILVlQNzlBQnFiSVBVMGVsa0tJVHVLbjR2alhXNnhFRzRqWDdueGpiTk56dWxkcm5tdUVISGJUaUJOampVWGtRRkE?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "UX-дайджест: Простота, AI и психология команды",
+          "description": "Сборник статей о важности простоты в UX, роли AI в привлечении клиентов и психологических аспектах работы дизайн-команды. Актуально для улучшения продуктового дизайна.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-04",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZTdKS3Y1OWtpc1NPOGJveFpwZGprOUtuaWhmTmhwM3VJQXpuUXBpTnJwUzBrVWlHc1cyNnBUdm8tV2RyT0dIZElPemZaSDdBQjNlcWg2alhCRHM1azdvSEphWEppajg1eFE?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Дизайн интерфейсов платформ как риск для конфиденциальности",
+          "description": "Статья анализирует, как особенности дизайна интерфейсов в экономике платформ могут создавать риски для конфиденциальности пользователей. Критический взгляд для продуктовых дизайнеров.",
+          "source": "devdiscourse.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-05",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkFwT040c2JhZVBqNnhNS3JSU2FNRFpiSWF4dURBYUZfVVFXY2NpVjlZU1pwRkZZbGdtdFRpTDFFMWxWaWx1cGg0TjR6NUpRQWZEc0tLaU90S1k2VVlvckVnUnJXQm52QWdCSk45MmpaS05jTFh2c0ppVmduMWs4SjNYV2NkbDFkeDBDU05mSWhCLWVtRTdKbHFZRTRoYzBSRmhBM3o5NmRfbWVDLVZGbldtbGlhdVU4Nl9tMy1ydDbSAcYBQVVfeXFMTl9PcHdRRy1QeTY3ZHc1cmNNSDAzM1dsYlBQUGlGSlJlcDNkZE1veDBwOFVyVU5FQV9POGRxZ05LYzFsWldHeDhoRlNBTFduQVZxTFl3YjZPWVIxZENBdFZaV2ZYdjVITVpXaVhLYXVLSjFneUZWNzZHTFp0TTZPS0xZNzRmb292Ul93TmlqVUVSSEdYS1A4Zi0yZ1p2THZqVlpUSFlsaXFNbzc2azBRd1VibDdEQmI2M2FaT2dmbzdjcnUxX0NR?oc=5"
         }
       ]
     },
@@ -91,37 +91,73 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс усиливает AI-направление в ключевых продуктах",
-          "description": "Назначение новых технических директоров в области AI, Поиска и Умных устройств указывает на стратегическое усиление Яндексом своих позиций в развитии ИИ-технологий. Это может повлиять на будущие функции в его сервисах.",
+          "headline": "«Яндекс Go» запускает опцию «Такси дешевле, если подождать»",
+          "description": "«Яндекс Go» вводит новую опцию, позволяющую получить такси дешевле при готовности подождать. Это интересное изменение в бизнес-модели, влияющее на ценообразование и UX ожидания.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-07",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalF2WHhReUF1NEV1TE9NT1ctSTJSejhtaFBRUlBHR3dJMWRRNWJjTnVzODhKNUFxZkZpTjZRcHFKUnFpX3N0bG5wZ3JONkRjc0UzTUtrT1NvU0tXd1pOZ1E4UlQ1S3VQOUY0eWJIOVJrQWFfVXQtNDBPVXBJQWk3MHdxZTZjZGFRd1ppRFJ3em9tRV9rRTg0M24yVUFGM1RWWTJwSXlyOGlqSzB5aDhwV2lvV2FnT3NOZnlXMEo0eHg?oc=5"
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWl5NWZTVEhMV2Y1cVZtS2NpUjRrUXVMRERoeXB4QjZOLUxadzhoVlpfSHJhNThlQWtPRW1yekxiZk9uMDdCQWI5Tld6OGF1RkxTS2NqY25MbnZwYXZxcnVObDBBaFEtcVQtSnBDSnZzS3lmWm1GSW11SURLM2FpanlxZ2N6Tl83ZmMwZVdSTk9oTXlBSHc4bEZldEhYaGFuamlCa0ZjR2lVWVA4NGtfRTl2ejJNc0FaSkZEMGhYMUM?oc=5"
         },
         {
           "id": 8,
-          "headline": "StarLine интегрирован с умным домом Яндекса",
-          "description": "Интеграция систем управления автомобилем StarLine с экосистемой умного дома Яндекса расширяет возможности пользователей, позволяя управлять авто через голосового помощника. Показывает тренд на сближение цифровых сервисов.",
+          "headline": "«Авито» открывает доступ рекламным агентствам к самозанятым",
+          "description": "Теперь рекламные агентства могут продвигать объявления самозанятых через «Авито Промо». Это расширяет возможности монетизации и профессионального продвижения услуг.",
+          "source": "vedomosti.ru",
+          "favicon_char": "V",
+          "favicon_color": "#013243",
+          "published_at": "2026-09-07",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFByaXBnVjlWNDFFY3VhMExrS1VXd1A4bjFmX2JGVl94Y2s5UGp2TzN6czNwSW1fWUs4LTB4UGVfbXFqUy04aU5KZUpSZ180YzJjcW9GajV4M1NzSEd5NGM1Z1lEdG14N0ctOTVBb3dmaXJNUEx6Qmh2NTRYQWNoN29NaHNWQmJULWtJUTBsR3RtRmdyeFZuUXRIUEFNWHc?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Сбои в работе «Авито» 8 сентября: причины и последствия",
+          "description": "8 сентября наблюдались масштабные сбои в работе сервиса «Авито». Это показывает важность стабильности платформы и влияет на доверие пользователей.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-08",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "«Авито» и НИУ ВШЭ запускают специализацию по высоконагруженным системам",
+          "description": "«Авито» сотрудничает с НИУ ВШЭ для подготовки специалистов по разработке высоконагруженных систем. Это инвестиция в инфраструктуру и будущее развитие платформы.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-09-04",
+          "published_at": "2026-09-07",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUtuRTBOZG1lNUVubU9pekwxVEZCU2ZzWURCSWMzc09MTW93aHZmbklndmxnSDVSbWRHdDJJYlJaVU50YldheEt1T0laZWh0NkJNaHZFQkdQRWZObGxRTW5WcXNpeXUwSjF3eC1EUDhrRnY1Yk5TdUhzbWZmZkYzSmNhaWV5NEd2b0hDVnVob1A0TENyQUJZaG02akFnSHBWM0R4M2JOS2hTdw?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "«Авито Работа»: спрос на горных мастеров удвоился",
+          "description": "Аналитика «Авито Работа» показала двукратный рост спроса на горных мастеров и операторов в нефтегазовой сфере за год. Это демонстрирует динамику спроса на рабочие специальности.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-07",
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYV9yTjl6WXhZcmpaQ0J2b2QwYXUzVmFHdFA1RDNRMWdRaWl6WkRoV0wwSUE5LWhPWTlxN2NJbnRVMjlKXzBDdVlHZ1NCcWlMSkcxWEZUenZHeUNtdVNRNzlJOXpIWTZIYmJ4LVB3VEVzS2duaDhiUWt6R01yR0pLYlVIUHFqY2RDbVZVTXAxR3hpdw?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Авито Промо открывает рекламу для самозанятых",
-          "description": "«Авито Промо» предоставило рекламным агентствам возможность продвигать объявления самозанятых, что упрощает масштабирование услуг и привлечение клиентов для частных исполнителей. Это важное обновление для сегмента услуг.",
+          "id": 12,
+          "headline": "«Авито Работа»: регионы с самым быстрым ростом зарплат",
+          "description": "«Авито Работа» представила рейтинг регионов России с наиболее динамичным ростом заработных плат. Эти данные могут быть полезны для понимания рынка услуг.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-09-04",
-          "read_min": 3,
+          "published_at": "2026-09-05",
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlk2WWpQeXBuMlVEd3g0blBLU0ZzZldXVTJVWmRQMlB6UW1aVTY2Y3FiSElxOTR1OXEzemtzOUZMcEpCSDNuWm5WMTQ5TFBXNXZ0dmNiRWRLdUE1X21RTUNGTDd3ellqOTZkMHhaMDh1Mmw3bHhsUlpIRzRNTzlhX2x2SUVKOVJzTWZSU1F5UUd1MzY1LUp4aVQxQk80Q1RNYjdzNjVaQzJUZ3dxUEM0?oc=5"
         }
@@ -134,76 +170,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 10,
-          "headline": "OpenAI представила GPT-6 Astra: новое поколение ИИ",
-          "description": "Релиз новой модели GPT-6 Astra от OpenAI обещает улучшенную производительность и новые возможности, что потенциально расширит сферу применения ИИ в дизайнерских и творческих задачах.",
+          "id": 13,
+          "headline": "OpenAI анонсирует GPT-6 Astra: новое поколение AI",
+          "description": "OpenAI представила GPT-6 Astra, обещающую новую эру в развитии искусственного интеллекта. Это ключевое событие для понимания будущих возможностей AI-инструментов.",
           "source": "openai.com",
           "favicon_char": "O",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-07",
-          "read_min": 3,
+          "favicon_color": "#00A67E",
+          "published_at": "2026-09-08",
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
         },
         {
-          "id": 11,
-          "headline": "Google запускает AI-инструмент для дизайна Google Pics",
-          "description": "Google представил новый инструмент Google Pics, разработанный с акцентом на ИИ, который призван упростить и ускорить процесс создания визуального контента для дизайнеров.",
-          "source": "thedailystar.net",
+          "id": 14,
+          "headline": "Лидеры индустрии: AI не заменит дизайнеров",
+          "description": "Ведущие эксперты утверждают, что дизайнерам не стоит бояться замены искусственным интеллектом, скорее использовать его как мощный инструмент для усиления креативности.",
+          "source": "theguardian.com",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-06",
-          "read_min": 4,
+          "favicon_color": "#005689",
+          "published_at": "2026-09-08",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmdYN2VBM0lkRzMtTngxRDlWZG5YcWl1YW81bnV2NUlLNFVoU0JwalV5M1lRTkEtZFg2Z2o0RGJvWFotUlhObWhDQ0ZTaEpsV1RZajdFN2w1R0l2QXFWWGhEdElmeHdRb0hoX3ZxS1lBMVBzbV9hVDFYSWJhc3VXMjZobDhmRUphN2Z1U1l2VUppWlhZYTlDMmJPeTROX3VpelY5cUlKa25YQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWNIbWpubmNXc0ZHcHJmQ0I2WmtpaEdMbnJfWWxtWTBTTC1FcUpBRFAxUzFtaENZcmJySjB6TTRJcjRHbnQ5T0NHbHRiMVBaT2pRMWpVbUpVUVcxS2c2U0stNHJEQ3RPS1JLOUswUnMzaWxMdkJadXBaT0gxenkyRW11VWxnZEpKLTVmZmZ6d1pEY3B3NmdveXhlSzBmODJmSFE0RnpxTWVlQTdEQUcyTFhudlNLZw?oc=5"
         },
         {
-          "id": 12,
-          "headline": "Xelta.ai – универсальная AI-платформа для креатива",
-          "description": "Платформа Xelta.ai расширяет свои возможности, предлагая комплексные AI-решения для создания изображений, видео, голоса и контента, что делает её мощным инструментом для мультимедийных дизайнеров.",
+          "id": 15,
+          "headline": "Wavespace представляет новый дизайн для AI-агентов без чатбокса",
+          "description": "Wavespace отходит от традиционного интерфейса чатбокса для AI-агентов, предлагая новый дизайн. Это важный шаг в развитии более интуитивных AI-интерфейсов.",
+          "source": "usatoday.com",
+          "favicon_char": "U",
+          "favicon_color": "#000000",
+          "published_at": "2026-09-08",
+          "read_min": 6,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWZVZ1pyZS14OG9Zbk5rSXRNbVFqaTZNQlotcG9vTGRlZHF1dEZkZmM4SFJZNUxBSE9MLU9QOW53WGUyTWNfajFGM1ZrVEVDNXIyamJOaDhYb1pNLTVkMDc4bmVyS1A0eXhEc1pBdmJjNlR4UEdFY21SZXM1VUZ3RlZ4OGhPaV9nczZNbDcxbEd1N2lfZHoxN3BOT2V2MlhsOTVyNkhQeDZfS1E0enoydXRTeDFySkFZcnUzM1ZDV2hzRzdRRVZ4MnU2TQ?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "Canva AI-инструменты бесплатно для МСП в Дубае",
+          "description": "Торговая палата цифровой экономики Дубая предлагает бесплатные дизайн-инструменты Canva с AI для малых и средних предприятий. Расширяет доступность AI-дизайна.",
+          "source": "tradingview.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-07",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQkNsS0pwT2Nzd0dwWUVPN2RXWnlfR2Y0QnhZYmlJNi0xZEtzaDJrcVZ4MXJVcWduOVVHT2h6WTN3UXdIN2FKNjhFS1lNR3I2TGxiaGJjUmxXRVJFQ0ZlMmlfa3gyTGhRTGNhN2hCazRuSTQzY29ZRjM4R1BvVXR3bTQtQ1poT3lvbnR3VjdKRk9tQ2t2aVFqMWdEeTdGRGFHZUdUQ3hvbm9haWdMRDhpeUk1V3FxaWp6M0h2clg3eGNmeFpFdnlPUFRKQW1sYklSRkFIZU4zZld6czZBMnpWX0J1TkFEVDdpOGN0WlhsWnRseEpzMi1N?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Nvidia анонсирует локальные AI-инструменты и RTX Spark ПК",
+          "description": "На IFA 2026 Nvidia представила RTX Spark ПК и новые локальные AI-инструменты, которые будут доступны с октября. Это открывает новые возможности для дизайнеров работать с AI.",
+          "source": "gadgets360.com",
+          "favicon_char": "G",
+          "favicon_color": "#333333",
+          "published_at": "2026-09-04",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlRINHJHTTBnOTdkZkp6dldZcUNob2tjNndlbUlzNGtoZTNuaVdndjB6ZlVyazBicFRsRzRlSVZSYkthcHFwb0pqeXptZlF1TzFjdElXejB4eDBxNHBGWnlvRDFFX1Z3ZWp0R29uNkF0NVJ0cGloUHRSU21mRDk5Q2lCTVpQdGozSzlPRVpuYWpyd01KWm1LNXVqUTBweWdzNnRJVmpna3hWNTBIdDQtTDNzc9IBuAFBVV95cUxObHRaWkdSZXJaZ0JyU19zY005T2lJaGgwVGVqbXZqSVB3eXlOcVRXQlp0UlFuTFBBbWRWa1owZ0M4R1lCQ21hWC1CSlVCWno5eGlQWWZsZXUweFBLakVJSlpYTG9sX0pDVXFPbThpcnhNcjVQMVBUVmdlMDAyS0o1SEw3SUhSOTRsN3puY1N0NDRaandfLUlUMW1CdUE5LWtLb1pHOW5GNTFXakJhaXo1eHJWVG1CMzM4?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "Xelta.ai расширяется как единая AI-платформа для медиа",
+          "description": "Xelta.ai превращается в универсальную AI-платформу для создания изображений, видео, голоса и контента. Это мощный инструмент для дизайнеров контента.",
           "source": "indiagazette.com",
           "favicon_char": "I",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-04",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2p6UVBSVnFsTnRPWU56ekxIUHdONFVja0JOTlFiRUVBZjd3Sk1zRm1Oanlrd1cyMTFFVG5UenUyQThYR2d4YjlPQlIwODh1cnh4ZExrNXlEc2RtczZZUkJpVHBpMktlMFg5N2RZWjllRnFENk1tem1WbDlWd0paMlNTU3NPVjFVUERPSlhYU3hYaFVBZkRVOVdqaFcydHdmVXlESUd1dHIyTUw5Wm84ZkZjTkhtSWQxeUlFQ1I0NHBQeW5EUWRj?oc=5"
-        },
-        {
-          "id": 13,
-          "headline": "Обзор 10 бесплатных AI-генераторов арта",
-          "description": "Практический тест и сравнение десяти бесплатных приложений для генерации AI-арта, дающий дизайнерам возможность выбрать наиболее подходящие инструменты для экспериментов с визуальным контентом.",
-          "source": "perfectcorp.com",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-04",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTNLcVRYWmZkVDl6S0JfZHdVOW5HbGVwMldVOXdwX1pxNmFrRkw0ak5rRTBHdE5PUFBvelZBbjRaM1pLZmYzZlBCWi1jcmNMaEFEeExGRWhWZUZHLWl2VVRPbmE4Vk5kU2V2Z2ZJOEtWcEFiNHU1R0JOd1ZiazZrS0p1R0RzQWVoenFUUzFKcw?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "Сможет ли ИИ проектировать работающие печатные платы?",
-          "description": "Обсуждение возможности использования ИИ для автоматического проектирования печатных плат, что демонстрирует потенциал генеративного дизайна в сложных инженерных и, по аналогии, продуктовых задачах.",
-          "source": "hackaday.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-06",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WVVlzd1FaQV9xTVN1Y2R1eElGVjg3VHZyN2NJTTQzT0xOTDZoa2JyWWFZUVY4M25EVDNLZXpUdmNuWVM4WDhQTjZLdzFFSXU0VnN3TWNGZzAyU25tOVNKaTAwZXBFRkpzclNXbkpwVG1fTm0zemhwN0Nn?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Лидеры индустрии: дизайнерам не стоит бояться ИИ",
-          "description": "Ведущие специалисты утверждают, что ИИ не заменит дизайнеров, а станет инструментом для повышения их продуктивности и креативности, изменяя, но не устраняя профессию. Важная дискуссия для будущего дизайна.",
-          "source": "theguardian.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-07",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWNIbWpubmNXc0ZHcHJmQ0I2WmtpaEdMbnJfWWxtWTBTTC1FcUpBRFAxUzFtaENZcmJySjB6TTRJcjRHbnQ5T0NHbHRiMVBaT2pRMWpVbUpVUVcxS2c2U0stNHJEQ3RPS1JLOUswUnMzaWxMdkJadXBaT0gxenkyRW11VWxnZEpKLTVmZmZ6d1pEY3B3NmdveXhlSzBmODJmSFE0RnpxTWVlQTdEQUcyTFhudlNLZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2p6UVBSVnFsTnRPWU56ekxIUHdONFVja0JOTlFiRUVBZjd3Sk1zRm1Oanlrd1cyMTFFVG5UenUyQThYR2d4YjlPQlIwODh1cnh4ZExrNXlEc2RtczZZUkJpVHBpMktlMFg5N2RZWjllRnFENk1tem1WbDlWd0paMlNTU3NPVjFVUERPSlhYU3hYaFVBZkRVOVdqaFcydHdmVXlESUd1dHIyTUw5Wm84ZkZjTkhtSWQxeUlFQ1I0NHBQeW5EUWRj?oc=5"
         }
       ]
     },
@@ -212,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 16,
-          "headline": "Ozon, Wildberries и Яндекс Маркет ввели новый способ оплаты",
-          "description": "Крупные российские маркетплейсы внедрили новый, пока не уточненный, способ оплаты, что может повлиять на пользовательский опыт, конверсию и финансовые модели платформ. Важно для понимания динамики развития маркетплейсов.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-03",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlNvVHdlNm9Ob2c2QnFyZlgzbFJ0LVNlQ24xQXJCX1R6WkVNcHZkUVF6U0xGcm5KS2gteXhpTy1iLTd2MjJZbGYtR21kLW5ITWF1S2RBeDZOUUZ2d2VZVVV6NzJPRVJERWNHdW16b3RLRy1sMG0tRzJLbmZPRm9VeGZKc2hUUEJla0t2MVEwa3UxV1pBTUZvYUNB?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
