@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T05:09:09",
+  "updated_at": "2026-09-14T10:29:37",
   "next_issue_at": "2026-09-17T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,8 +11,20 @@
       "items": [
         {
           "id": 1,
-          "headline": "Обзор UX-трендов от Нильсена: ценность опыта, рост AI, рефлексивный дизайн",
-          "description": "Новый дайджест от Якоба Нильсена охватывает ключевые темы UX, включая важность опыта, влияние AI и принципы рефлексивного дизайна. Дизайнерам стоит изучить эти тренды для будущего развития продуктов.",
+          "headline": "Userlytics ускоряет UX-исследования с помощью ИИ-инструментов",
+          "description": "Новый функционал Study Pulse и ИИ-анализ данных помогают дизайнерам быстрее получать инсайты и оптимизировать процессы исследования пользовательского опыта.",
+          "source": "markets.businessinsider.com",
+          "favicon_char": "M",
+          "favicon_color": "#E44D26",
+          "published_at": "2026-09-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMUw5N1BFVVlQSEw4TVBqendGZTN3S0Z3ZU53NlNzWENvVndMcFdtMEZsV0xJM3FheDdHMTdzeGRSQWtMa2VJUDl4dlFDZGtEcFYtalF1UXRtMko0c3plcFB5ZmhycTNDeDJEUDBKSHhIQlk0cnRDbEs2Nkw3RW55MnJtLVFqeGRCNjByWmdXb2w4bkIxVzIteTlMUzBqLW5PV21FN2g2TUxoRUN5RTZ0aG5yTExZTXpTRFZ2bkxLYjVMREtjS1RuVmYtRUhKdVhVSDl1bUVpSnpTNHhLalN1OVZxU191bWFxRmUtby1WRQ?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "UX-обзор от Якоба Нильсена: опыт ценнее навыков, рост ИИ, рефлексивный дизайн",
+          "description": "Дайджест ключевых UX-трендов, подчеркивающий важность практического опыта, распространение ИИ в дизайне и концепцию рефлексивного дизайна для создания продуманных продуктов.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
           "favicon_color": "#6750A4",
@@ -22,21 +34,9 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92SFhCTnJKQmVUSE9iUkZ6TnV2RzJtVVhscGN3dGNodVU0c1Y0MGVIY25tNjlPWGNFUURmS3pyb0U4S1J0RnlUaVFIc2liSFY4dnJLcEpPRm9FbmRWZ2EtTGtaaXpYM2x2RXc?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Userlytics запускает AI-инструменты для UX-исследований",
-          "description": "Платформа Userlytics представила новые AI-решения, которые ускоряют анализ данных UX-исследований и помогают выявлять скрытые паттерны. Это позволяет дизайнерам быстрее получать инсайты и принимать решения.",
-          "source": "markets.businessinsider.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-10",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMUw5N1BFVVlQSEw4TVBqendGZTN3S0Z3ZU53NlNzWENvVndMcFdtMEZsV0xJM3FheDdHMTdzeGRSQWtMa2VJUDl4dlFDZGtEcFYtalF1UXRtMko0c3plcFB5ZmhycTNDeDJEUDBKSHhIQlk0cnRDbEs2Nkw3RW55MnJtLVFqeGRCNjByWmdXb2w4bkIxVzIteTlMUzBqLW5PV21FN2g2TUxoRUN5RTZ0aG5yTExZTXpTRFZ2bkxLYjVMREtjS1RuVmYtRUhKdVhVSDl1bUVpSnpTNHhLalN1OVZxU191bWFxRmUtby1WRQ?oc=5"
-        },
-        {
           "id": 3,
-          "headline": "Проблемы дизайна iPhone Duo для левшей вызывают критику",
-          "description": "Новый iPhone Duo может быть неудобен для левшей из-за особенностей расположения элементов управления. Важно учитывать инклюзивность в дизайне, чтобы продукт был доступен всем пользователям.",
+          "headline": "Дизайн iPhone Duo создает проблемы для левшей",
+          "description": "Анализ эргономики iPhone Duo выявил значительные неудобства для пользователей-левшей, что поднимает вопрос о более инклюзивном подходе к мобильному дизайну.",
           "source": "consequence.net",
           "favicon_char": "C",
           "favicon_color": "#6750A4",
@@ -47,39 +47,39 @@
         },
         {
           "id": 4,
-          "headline": "Лучшие компании по юзабилити-тестированию для повышения качества UX",
-          "description": "Обзор 7 ведущих компаний, специализирующихся на юзабилити-тестировании, поможет выбрать партнера для глубокой оценки пользовательского опыта. Это критично для выявления проблем и улучшения интерфейсов.",
-          "source": "gearbrain.com",
-          "favicon_char": "G",
+          "headline": "Человеческие факторы в MedTech: требования FDA к безопасности",
+          "description": "Новые требования FDA к электронным заявкам (eSTAR) подчеркивают, что человеческие факторы и юзабилити становятся критически важными для медицинских технологий.",
+          "source": "medtechdive.com",
+          "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-09-13",
+          "published_at": "2026-09-14",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaklUSS1JSmRPU3FlM1IxS3REY1VER2RudlFqcEZNZ09vZXNpMDU4RTFvcmw0WmdZWHhWbFB4ZTJPVm9odWVuRi1mQ0RkYjZXWnZZVDVpUzZpZldvNTB6UGh1VDNTdC10RVQ5Zkh4MnpuZ3pOQ3E1aFZaWFl0RWNaWDlCTEhhS1VrOXfSAYoBQVVfeXFMUGpJVEktSUpkT1NxZTNSMUt0RGNVREdkbnZRanBGTWdPb2VzaTA1OEUxb3JsNFpnWVh4VmxQeGUyT1ZvaHVlbkYtZkNEZGI2V1p2WVQ1aVM2aWZXbzUwelBodVQzU3QtdEVUOWZIeDJ6bmd6TkNxNWhWWlhZdEVjWlg5QkxIYUtVazl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTV3MG43NEQxdG1uR2FUZ1JWOUVsemNYMkxzaHFpM3c4QW5wc1NTTDVHN0lETk8xdjhLOUZSODBMWkxhTmNvX0E1YzNlQWxrbFhoQ3dYVllxYWNNUl9YUGR3bHRRTFBRTlFtbGtMSDdyYkhSaGhwSU1HNnp3OVA2V1huSkhYWDR5dTM3Nmdjel9MWW9SQzMyU2JRUzVqSUNlUmlKeXJMR0RnUDlnRjV2MFpsSWk?oc=5"
         },
         {
           "id": 5,
-          "headline": "Исследование: как предсказать намерение покупки онлайн-курсов",
-          "description": "Новое исследование предлагает интегрированную модель для прогнозирования намерений пользователей приобрести онлайн-курсы, основанную на доверии и поведении. Дизайнерам полезно понимать эти факторы для оптимизации воронки продаж.",
-          "source": "link.springer.com",
-          "favicon_char": "L",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-11",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80UkJZVWlRT0VfbnYyazlCZzJ6bmwwcEI5a3U4TGN1bFExTENVcDBqZHFtQ3VQaDdmbTFkN3BZeDI4WWxFRzF6MmZrLUtPT2lMTHZ3V1RBYkd1c19Iai1vblRsaVJOTUFmUXRsRg?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "5 удачных дизайн-решений iPhone Duo, которых нет у Samsung",
-          "description": "Анализ показывает ключевые преимущества дизайна iPhone Duo над устройствами Samsung, касающиеся эргономики и эстетики. Продуктовым дизайнерам стоит изучить эти примеры для создания более конкурентных решений.",
-          "source": "yankodesign.com",
-          "favicon_char": "Y",
+          "headline": "Uniblock: исследование пользовательского опыта ведущих криптокошельков",
+          "description": "Обзор исследования UX, которое выявило ключевые аспекты и болевые точки в работе популярных криптокошельков, важные для дизайнеров финтех-продуктов.",
+          "source": "tipranks.com",
+          "favicon_char": "T",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-12",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHBkaXZ4eGpMX0d5aHIwa1dNTkxxVDNXbWczempkd1ZVYi0yTU80ZGxTSlRpZkMtdUFyTldKWUxDa0Y0SjZnWnFYdTZOek9US05WanZFY3h0bmZfT0RNQllXZ1A0MVlCQWVoMW1wWFJFLXZmQUZTZVdkU2l0U3lPYVRJSnU0bmZ5Q0E2bHhlc1AyaEQwOWI2S2dTeXlUbnp4RmtxOF94Yjk5LTZhc2UyY01wOWY1R0XSAbcBQVVfeXFMUDRwZGl2eHhqTF9HeWhyMGtXTU5McVQzV21nM3pqZHdWVWItMk1PNGRsU0pUaWZDLXVBck5XSllMQ2tGNEo2Z1pxWHU2TnpPVEtOVmp2RWN4dG5mX09ETUJZV2dQNDFZQkFlaDFtcFhSRS12ZkFGU2VXZFNpdFN5T2FUSUp1NG5meUNBNmx4ZXNQMmhEMDliNktnU3l5VG56eEZrcThfeGI5OS02YXNlMmNNcDlmNUdF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU92NFR1TkVZSjZOeUxMTVd1RFVpUnZ1RVExZHA0emNVTldTT3A1SndKOTNUQk5TLTdtSWJhVDFJRmQzWENtUmppbVRnc283Vzd0WTNxR2hJbkVvdG44ckxrRFp5cW0xOHlvR0RwbWNQTjVhWE5DTDJkWkpJdC1xeWlCcVVoZFRxYTRuVkh4R2MzN2x4eUo2aUdNNThaam1PTk1xTnU4QTVKaTZ0bmNwOXJzdFBnQQ?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Топ 7 компаний по юзабилити-тестированию",
+          "description": "Список ведущих компаний, специализирующихся на юзабилити-тестировании, поможет выбрать партнера для глубокого анализа пользовательского опыта продукта.",
+          "source": "gearbrain.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-13",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaklUSS1JSmRPU3FlM1IxS3REY1VER2RudlFqcEZNZ09vZXNpMDU4RTFvcmw0WmdZWHhWbFB4ZTJPVm9odWVuRi1mQ0RkYjZXWnZZVDVpUzZpZldvNTB6UGh1VDNTdC10RVQ5Zkh4MnpuZ3pOQ3E1aFZaWFl0RWNaWDlCTEhhS1VrOXfSAYoBQVVfeXFMUGpJVEktSUpkT1NxZTNSMUt0RGNVREdkbnZRanBGTWdPb2VzaTA1OEUxb3JsNFpnWVh4VmxQeGUyT1ZvaHVlbkYtZkNEZGI2V1p2WVQ1aVM2aWZXbzUwelBodVQzU3QtdEVUOWZIeDJ6bmd6TkNxNWhWWlhZdEVjWlg5QkxIYUtVazl3?oc=5"
         }
       ]
     },
@@ -91,51 +91,75 @@
       "items": [
         {
           "id": 7,
-          "headline": "75% заказчиков Авито Услуг выбирают специалистов по безопасности",
-          "description": "Исследование Авито Услуги показало, что безопасность является ключевым фактором для 75% онлайн-заказчиков при выборе исполнителя. Это подчеркивает важность функций доверия и безопасности на платформах услуг.",
+          "headline": "Авито Услуги: 75% заказчиков ценят безопасность при выборе специалиста",
+          "description": "Исследование Avito Услуги показало, что безопасность и доверие являются ключевыми факторами для 75% онлайн-заказчиков, что важно для продуктового дизайна.",
           "source": "primamedia.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-11",
-          "read_min": 3,
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zUC1tY2FaVm1FY1lZNVZFTjh3Z2dTMGZCQTZwY2wzSHAxZExHcEhIUmtINmNNVk80WkZoMXNrTVRtZVB2ZzZpNGhPcw?oc=5"
         },
         {
           "id": 8,
-          "headline": "Авито столкнулся с масштабным сбоем 14 сентября",
-          "description": "Платформа Авито испытывала серьезные проблемы с доступом, что повлияло на работу множества пользователей. Стабильность и надежность работы сервиса критически важны для пользовательского опыта и доверия.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-14",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Авито Работа ускоряет найм благодаря данным и автоматизации",
-          "description": "Платформа Авито Работа внедрила решения, использующие данные и автоматизацию, чтобы сократить время найма на 30%. Это демонстрирует, как улучшение внутренних процессов может повысить эффективность двухстороннего маркетплейса.",
+          "headline": "«Авито Работа»: автоматизация найма ускоряет процесс на 30%",
+          "description": "Использование данных, автоматизация и гибкие форматы занятости в «Авито Работа» позволяют работодателям нанимать персонал на 30% быстрее.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-11",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdG5IVlFQMFFvaWJJZXZaSm5SSXdfZy1RN1JRYk1vT3F1N2h6VTdleC1NODdqdWJaVTUzU2RIV1FEd0dJdmZCYWQwOFlUOVV1bmZzQ0Iya0ZhUlNuZ0ZyYURHY0FOOXRRWnhhcHo5ZUluODFXYTMzWF9mdTlsSEtlZDhXYUJ3Mm9ROFlsWTJPNG1Zb05tbGpUa3pueC0xZHhyRjI0YnAtdzM1cnVIQXNPRGdralRlb3k0YWM4TzBBXy0xTEJJYmNDcWlsWV9XSWVxOFlJ?oc=5"
         },
         {
+          "id": 9,
+          "headline": "Авито Услуги дали рекомендации по выбору репетитора",
+          "description": "Avito Услуги поделились советами о том, как выбрать надежного репетитора, что помогает пользователям принимать информированные решения и укрепляет доверие к платформе.",
+          "source": "primamedia.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-12",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uT2FoN2xjaF9RM1Vxck5ReXo1QTh2QldDZGhZT2txQ0FXYTNQZGlvWGpXXzFDTGdiNjh2ZnBhU0RoOE5fZkVIb20zQQ?oc=5"
+        },
+        {
           "id": 10,
-          "headline": "Авито Подработка выявила самые прибыльные ниши для временной занятости",
-          "description": "Проект Авито Подработка определил наиболее высокооплачиваемые направления для временной работы в розничной торговле. Для дизайнеров это может быть сигналом к развитию новых категорий услуг.",
+          "headline": "«Авито Подработка» назвала самые высокооплачиваемые направления в ритейле",
+          "description": "Аналитика «Авито Подработка» выявила наиболее доходные сферы временной занятости в розничной торговле, что помогает исполнителям ориентироваться на рынке.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-11",
-          "read_min": 4,
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbkJPd0JvQ3c5Sm5qVldKSTBJYUhRemhXS1JVTVNjVkhLbi01eG5vV05VRDlxdjA2N09EckQySjZDZVh2VTJLbzhrRDI3dmFqU3E4dktlc01DQTIxN3o2NnVfYkJ1Q19hcHRRRk8xZjQ5WHlsOFJ2TlEyd3FTcDU3WTUtSmM0eW84c1RtQURPOFlvVTRxeTJudjJqTHZ6NS1VNjYyYWtOZmN1STFqX1AtSXFJYi1WUVVlNGlxUHJPc3pOVFpIcnRlcEhrTFBEcndrbnc?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Сбои в работе Авито 14 сентября: причины и последствия",
+          "description": "В работе сервиса Авито зафиксированы масштабные сбои, что привело к временной недоступности платформы для части пользователей.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-14",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Кинопоиск станет основной ТВ-платформой Билайна",
+          "description": "Яндекс.Кинопоиск расширяет партнерство с Билайн, становясь основной ТВ-платформой, что укрепляет позиции экосистемы Яндекса на рынке развлекательных услуг.",
+          "source": "bloknot-krasnodar.ru",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-10",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2oySE5PSXNSR1ZiYVp6TW1nOTNKUGROODVLTjF5TWpPVGxJTzhXXzRpQW43X2ZfeU1rRi1xMmxaanZkdTNNWl9OV3dueHJVM0tZLVBGUmk0cEY4UEM2R0N4NW5vb3FNQ3BJelRQSnNVVXB2TGdJNWx0czNrOWZuaWowZjFkS24yQ196UFNBZU45ejg?oc=5"
         }
       ]
     },
@@ -146,57 +170,69 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 11,
-          "headline": "Graphisoft представил AI-платформу для дизайна и Open BIM",
-          "description": "Компания Graphisoft анонсировала новую платформу для дизайна с интеграцией AI и технологиями Open BIM. Это открывает новые возможности для генеративного дизайна интерфейсов и автоматизации проектных задач.",
-          "source": "marketscale.com",
-          "favicon_char": "M",
+          "id": 13,
+          "headline": "Запуск GPT Image 2.5 от OpenAI: двойная модель генерации изображений",
+          "description": "OpenAI представила GPT Image 2.5 с функциями Flare и Sunburst, инструментом для скетчей, многоступенчатым редактированием и выводом в 4K, что значительно расширяет возможности дизайнеров.",
+          "source": "usatoday.com",
+          "favicon_char": "U",
           "favicon_color": "#6750A4",
-          "published_at": "2026-09-11",
+          "published_at": "2026-09-12",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1JqS0lRTWdSSzJpSzZjc1FGZ1N6Q2hBSVJwVDhLckU3NndPdmtuczVpWFFaTi1nVGx6ZWNsdGxuU25ndDljZG5MZ0lBMjRBd19sX0Y1MDUxSG9LQVZHeFlvOTlwNENTR1hNZHpOcHYwaDZXcjBnWkdGOVhDRFJ2V3Y3Z3RyNGZsTVc1cVRwSjZPNHkwYWdweWlxM3drdG0wSzBPWGNPNFhFM1ZhOXV6ZVZDUUlZMHZJN1otZXo0aTlsVndpYmVFTFRDWDNDRWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPeXRGSUJ0OGlrX2JpWUp1ZXk5cWRfNmRaRzNpMHQ5aWQ5NXBBU0U2b1d4bmVXd1VJQXoxTU5aajBqbmJzSnN5UTMwVzV2T2RhVk1jYnlRYnR6RkVuVVgwU0V0dDV3R3JVR25HckhzdmphSFNkTzF4Q2tMYkZzVTJTLTB6S1JWRTBfYlp1c0llVjBDckZFekZOak5jcV85Y2M1VU0zbk5uM0s2Ujd3ZmN6RVBBOXJGVllzb1hjZU9SMDd4U0FZVXhfbk1zQ0FkbWVucjFQTHFiRzVpNUJPQmNPVkNvalR5REk1aC1PaE94Y0hFdnlnc2JLSTBOZF9nNlF3LUs5ZjZjbnFhbGg4ZlE3ZDU4V3NYaWVlRnBldQ?oc=5"
         },
         {
-          "id": 12,
-          "headline": "Botpool Create запускает AI-конструктор сайтов с помощью SEO-экспертов",
-          "description": "Новый AI-конструктор сайтов Botpool Create обещает упростить создание веб-ресурсов для малого бизнеса, сочетая искусственный интеллект с человеческой экспертизой в SEO. Это важный шаг в развитии генеративного дизайна.",
+          "id": 14,
+          "headline": "Botpool Create: AI-конструктор сайтов при поддержке SEO-экспертов",
+          "description": "Новый AI-конструктор сайтов позволяет малому бизнесу быстро создавать ресурсы, объединяя возможности ИИ с человеческой экспертизой в SEO для лучшего результата.",
           "source": "markets.businessinsider.com",
           "favicon_char": "M",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#E44D26",
           "published_at": "2026-09-12",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmRkQUtpblFKcDg3QllRZ24tRmZtSmlkaEEyZWs2UFRMNmxLTE91UGRJUDJ5STlxMkNxVjl3WUtXRTNGU2xIaHlHYnpIalQxR2dxS2NuZ2I2al8xODVLVTd2RWJ4SUNIbFVOQkNHV01peXJabVRDZWRxbVMwU0dCUWxBcC1hLUJ0ekxFUUhBc2h3TDdWUEJnVVA2TlVsMm5hOE41WlBRbHNaT1lOdlp2U2NfYk9uTVVOeEFJckRkSkN5cVVnWTNlQmk4am9nR3daRE8yLXJKRllFTmVpYWJRSlA5cFk?oc=5"
         },
         {
-          "id": 13,
-          "headline": "Centric Software представила Centric AI для умных продуктовых решений",
-          "description": "Centric Software запустила Centric AI, инструмент, который помогает принимать более обоснованные продуктовые решения, используя анализ данных. Это критически важно для дизайнеров, стремящихся к data-driven подходу.",
-          "source": "3ds.com",
-          "favicon_char": "3",
+          "id": 15,
+          "headline": "Graphisoft анонсирует AI-платформу для дизайна",
+          "description": "Graphisoft представила новую AI-платформу Open BIM Layer, которая обещает улучшить процесс проектирования и моделирования с помощью искусственного интеллекта.",
+          "source": "marketscale.com",
+          "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-09-10",
-          "read_min": 4,
+          "published_at": "2026-09-11",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVRBM1hHaWd1RlpoaFhqZVRUT3AtOGxLTTBNVnNVUERJaHZUZk83ZS1TYzRROFAtRmZwb0tERkRISkE3cHc0TEl5TzB1V3ZVLVo1TnBrM0NDS2xGTnF6UHhSYlB3VmItVWR6Y0NhY3RpNlNCOXJZeE1vakswdnRrRXNWMEFFMXMyX0VUdm9NNmxkSENORG1TVGVpNHpMU1dUa1FpV1VCMDVYYnNIaExMQXBjWERRRkRJTDNqRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1JqS0lRTWdSSzJpSzZjc1FGZ1N6Q2hBSVJwVDhLckU3NndPdmtuczVpWFFaTi1nVGx6ZWNsdGxuU25ndDljZG5MZ0lBMjRBd19sX0Y1MDUxSG9LQVZHeFlvOTlwNENTR1hNZHpOcHYwaDZXcjBnWkdGOVhDRFJ2V3Y3Z3RyNGZsTVc1cVRwSjZPNHkwYWdweWlxM3drdG0wSzBPWGNPNFhFM1ZhOXV6ZVZDUUlZMHZJN1otZXo0aTlsVndpYmVFTFRDWDNDRWc?oc=5"
         },
         {
-          "id": 14,
-          "headline": "Blink.new назван лучшим AI-конструктором мобильных приложений 2026",
-          "description": "Сравнение AI-конструкторов мобильных приложений выявило Blink.new как лидера 2026 года, предлагающего эффективные инструменты для создания прототипов и интерфейсов. Дизайнеры могут использовать такие платформы для ускорения разработки.",
+          "id": 16,
+          "headline": "Лучшие AI-конструкторы мобильных приложений: Blink.new признан лидером",
+          "description": "Сравнение AI-инструментов для создания мобильных приложений выявило Blink.new как победителя, предлагающего эффективные решения для дизайнеров и разработчиков.",
           "source": "wkow.com",
           "favicon_char": "W",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-12",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMjVFT1ZtQWRqcGJtNVFtVXpaTnNaYkgwLV85ZGxpYjZrYkctbG1VT0F5V2lmZS1iT0pSa0xRMTdOblJrVkE1eldZaXl0Y1dkeGJiNnlCSy0xSzZjc3VQWndEck5GRVNjMTF2U3dPR0MtQ19BODRMT0hMbXVoZ205cHd2ay1VUnQ2Z1JMekFKcjFKMUFGTTZMRmwta0tsVVVlTklWLXZhSU84bG5WdFM3Sm5uWEZLVzFIRnZSM3ZWZ1ptRnBGZFMwaVV6V1d1V0Jpank4M3FJczFseUZ1R1VxZ0l5anJDOWVkRzdidUNneENCQ25ray01X3dxZW9Vdw?oc=5"
         },
         {
-          "id": 15,
-          "headline": "Сравнение более 15 платформ для AI-агентов",
-          "description": "Обзор ключевых платформ для создания и использования AI-агентов предоставляет дизайнерам широкий выбор инструментов. Это поможет в автоматизации задач и создании более умных интерактивных систем.",
+          "id": 17,
+          "headline": "ИИ как помощник в дизайне интерьеров: возможности и ограничения",
+          "description": "Статья исследует роль ИИ в дизайне интерьеров, подчеркивая, что он может служить мощным помощником для генерации идей, но не заменит полноценного дизайнера.",
+          "source": "boston.com",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFRVNGw0Rlp3M2tLRzY5cGY5U0NkZnVVZ29nWTBUbVFaZk50OFNNRVVfY3piX3FidVZWbVZoRk5Tcm9HV1Ayalhfc2djOTIta0VuVzRDRjFlNW1wN0NCdlZJcVptRzh4Z05Od3BndFhrX1FROC1jeGVZdDZBZkhmSFBXWXlNVEJKaWxtVHMxZHFCdDFSZFNnakZRSzllbkw1cE1HQ21tNA?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "Сравнение 15+ платформ AI-инструментов для агентов",
+          "description": "Подробное сравнение более 15 платформ AI-агентов поможет выбрать оптимальный инструмент для автоматизации задач и улучшения рабочих процессов дизайнера.",
           "source": "aimultiple.com",
           "favicon_char": "A",
           "favicon_color": "#6750A4",
@@ -204,18 +240,6 @@
           "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Id21adEZYcW8tRkkwWDhVcXpLWWVWejFoWTQxX2ZaVHJveVhfNFpIQ3FuMHpuLTZxLXdlM2szS1pOeW1RSGt3emk5aVpDQQ?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Будущее AI-инструментов для написания текстов в 2026 году",
-          "description": "Анализ развития AI-инструментов для создания контента предсказывает их дальнейшую интеграцию в процессы дизайнеров. Это позволит автоматизировать копирайтинг для интерфейсов и маркетинговых материалов.",
-          "source": "aicerts.ai",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-11",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BUlVYb1NadmpYS3BVTGJBaVU5YnhVRjBOZGVLSEZ0cTRtMThiVER3Ykh2N25QQjRBT2xoeFJOVUtIdE9QZkVqSnctcm53eE5ZRy0zZkZyR3UxVHlpOEpVTVZUYnI0di10NWNoaQ?oc=5"
         }
       ]
     },
@@ -224,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 17,
-          "headline": "Топ-10 компаний по разработке маркетплейсов недвижимости",
-          "description": "Обзор ведущих компаний, специализирующихся на создании приложений для маркетплейсов недвижимости, демонстрирует тренды в этой нише. Это может дать инсайты для развития функционала и UX в сфере услуг.",
-          "source": "whatech.com",
-          "favicon_char": "W",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-11",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS01iQTM2ZFFKRy13OExNWWdoaEFUMGZSWHpaM1FIdHFOQnBjajhPa0N6NXlCeVAyakxWUkc2S25ZRjhGOWl6VlRnMTBGUzNLc21YMmlHMGdBMVZuWi16TkZZMDRsdklWVndfZlU1N185LVFMQkZwR3JrQmt5R1hBcXk2Vl9EdjZGMUVpeVY3U2oyd0lHazVmOC1ZbC1pWHZzWDRrU0wyTHA2bjFXeG5hUnZGQ1VCNDB2VVpVaFNPdjJPUdIBwgFBVV95cUxOS01iQTM2ZFFKRy13OExNWWdoaEFUMGZSWHpaM1FIdHFOQnBjajhPa0N6NXlCeVAyakxWUkc2S25ZRjhGOWl6VlRnMTBGUzNLc21YMmlHMGdBMVZuWi16TkZZMDRsdklWVndfZlU1N185LVFMQkZwR3JrQmt5R1hBcXk2Vl9EdjZGMUVpeVY3U2oyd0lHazVmOC1ZbC1pWHZzWDRrU0wyTHA2bjFXeG5hUnZGQ1VCNDB2VVpVaFNPdjJPUQ?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
