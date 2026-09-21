@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:01:23",
+  "updated_at": "2026-09-21T10:26:54",
   "next_issue_at": "2026-09-24T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Путь в продуктовый дизайн: от психологии к ИИ",
-          "description": "Изучите, как психология и искусственный интеллект формируют карьеру в продуктовом дизайне, предлагая новые перспективы для развития.",
+          "headline": "30 лучших примеров eCommerce-сайтов 2026",
+          "description": "Изучите лучшие практики и тенденции дизайна в eCommerce, чтобы улучшить пользовательский опыт и конверсию. Это поможет найти вдохновение для создания привлекательных и эффективных интерфейсов.",
+          "source": "hostinger.com",
+          "favicon_char": "H",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-18",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lakp4ME1XWDh0YUF1T2NGZWtEcWZUd0pqc3BWblp1cWZpZ1JWb21JNDFHSWROSXdUMzduMjUwbUlWT2pmOHlPYWlOeFJoT1RZcFJINVF2VFJhOVVnUUJocEotS1B4TmNmaEFuT2xIM0U?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Путь в продакт-дизайн: от психологии к ИИ",
+          "description": "Интервью с Ицзин (Табитой) Хан о ее карьере в продуктовом дизайне, сочетающем психологию и искусственный интеллект. Полезно для понимания междисциплинарного подхода в дизайне.",
           "source": "ritzherald.com",
           "favicon_char": "R",
           "favicon_color": "#6750A4",
           "published_at": "2026-09-20",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2lGUXRnTjhTb1pZZlJ6MVp4T25oZ1RLbkJGcjAwYWxTbXI5cDRVV1VObDlhMzU4V21pcUFpaXNqQ1Z4b0N4Yy12TlNnX1FLZjVfYndCb0FFOFdEOTJ1TW1qc2dlOW9FMFotMzFLWGxjQzVNbElXV3c5cnFoY1gwem1kQ3NMNXpYVWZWT1FQeG1UVm45QW44VWZBRFBlc1hsRHY3SFhwOXFWYmlTU2c?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Руководство по карьере UX-дизайнера в Африке",
-          "description": "Практическое руководство для начинающих UX-дизайнеров, желающих построить карьеру в быстроразвивающемся африканском tech-секторе.",
+          "id": 3,
+          "headline": "Практическое руководство по карьере UX-дизайнера в Африке",
+          "description": "Обзор карьерных возможностей и практические советы для начинающих UX-дизайнеров в Африке. Это расширяет понимание глобальных перспектив и требований к UX-специалистам.",
           "source": "techbuild.africa",
           "favicon_char": "T",
-          "favicon_color": "#4CAF50",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
           "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yX1U3UHVwU0YxdEtEQ3p4NVFZN1hFb24wSUhRd1FIcmphX19FdVNJRlVtN1o0RlZiQ2prdk5SdVg1OUlmTmRHRDJGWFpESDFfTTB0d1ByVDl3Nk5nSklqa0V3?oc=5"
         },
         {
-          "id": 3,
-          "headline": "20 лучших шрифтов Figma для использования в этом году",
-          "description": "Обзор лучших шрифтов для Figma, которые помогут улучшить ваши дизайн-проекты и соответствовать современным трендам.",
-          "source": "designmodo.com",
-          "favicon_char": "D",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5WHFIMWFsTFFlbXdGN1FzbmV3SndyYk01SE5WWmpoUVFuVWpEQ3VqY1hpYU5oVnlrUWxRYnVjME1RNHVRclBRcHk0bw?oc=5"
-        },
-        {
           "id": 4,
-          "headline": "12 лучших конструкторов email-шаблонов на 2026 год",
-          "description": "Изучите лучшие инструменты для создания email-шаблонов, упрощающие процесс дизайна и повышающие эффективность коммуникаций.",
-          "source": "designmodo.com",
-          "favicon_char": "D",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 4,
+          "headline": "Язык дизайна мобильных казино-приложений: что делает их эффективными?",
+          "description": "Анализ того, какие элементы дизайна мобильных приложений для казино обеспечивают их успех и вовлеченность пользователей. Применимо для изучения принципов создания захватывающих мобильных интерфейсов.",
+          "source": "thegww.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-20",
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWXdkU1lJdmY1MldWTkVWMzAyTTNuaEtWS19xZEluUFBZNGVZYXI1ZG93NTVIUkhUNkprVlQzWEpWX25zSFVoSWItam43U1FOV1g4em5LSHhZTVVfVXdYZnN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW1MVVBLV3NyRXRkbUVHdGRRbHVsTEpJWkxYOWZxU1lZX281enVlWGEtUVhaeEZ6dDAtNXBLTGZlRGZoRVF5WWNwVHNFRFJJd1JpbTdmQVh1aE43NWxUbXJoWUgteHZrdHI5dWxjenotN2oxdFZSMWNVLVRGaDZjUHoxQVNsczFiOXhPU2RXR0tzTTNoRl9TVFFSd0ROb19HSWZFODdOcE9xOU1nS2fSAbMBQVVfeXFMUHFTRGtra01mcnZwWmFKWTh0a0tzMFdYTnNSZGl1enh3RVAwT1pJV1JuQVdkZ09DS2VJYkZPZHhCeGt1Uk1NMUhBeHgwb2kwQlVaU2xMRF9rUHdGbF96cm9vbmgyTm9qZFRGZG9RZnBzckN1eDgwSlB4dWJqWTBvX2l2RFViSk9XcmFYVHF1dFg5ZW03QzFOcG5QSnFRR3lCaTg2T2s5UFpVVDVRN3IzMHEtUkU?oc=5"
         },
         {
           "id": 5,
-          "headline": "Лучшие конструкторы сайтов 2026 года: более 80 платформ протестировано",
-          "description": "Сравнение более 80 платформ для создания сайтов, помогающее выбрать наиболее подходящее и простое решение для ваших проектов.",
+          "headline": "UX-обзор: адаптация ИИ к пользователям и советы по дизайну",
+          "description": "Статья Якоба Нильсена о характеристиках прибыльного использования ИИ и рекомендациях по интегрированному дизайну с его участием. Важно для понимания роли UX в разработке ИИ-продуктов.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-18",
+          "read_min": 8,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdmtlLTQ3bnJsQnJ1by1iMWVKZ3ZBMnF4b1VEc1d6bkRyOHBOZW9zMk95ZTJjWlBtVXg1dWhub3Q0akJoamtkZlhpd1Y0d1pUaGdsekY3ZndFVk0tUzFZMUs4b0xreklJUFE?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Лучшие конструкторы сайтов 2026: 80+ платформ для простого создания",
+          "description": "Обзор самых простых и эффективных платформ для создания сайтов. Полезно для дизайнеров, ищущих инструменты для быстрого прототипирования или создания сайтов для малого бизнеса.",
           "source": "techradar.com",
           "favicon_char": "T",
-          "favicon_color": "#FF0000",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-17",
           "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VzdoUlYxWVdUR0g4ZHpjYUJ1S2N2N2VkemFBb3RncnlIZ2ZoMjFLV2dRZ3VHaGI0dzhVOGNSQVFfTll2bEZkTVJMcUJPeFRKM2ZMeVBZaHZObWwxcWlaNlZwZzNzZw?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Компании по разработке суперприложений в США",
-          "description": "Обзор ведущих компаний по разработке суперприложений, отражающий тренды в создании многофункциональных цифровых платформ.",
-          "source": "whatech.com",
-          "favicon_char": "W",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-19",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS21udHFhYjlaRUlIaUM2VkJwc1VGeFhSZUFoOWZhRC1STF83cXMzTkpBeFplMUVaMVhpV25QQ2MyanM1ajdVbmh6ZTN6Y2dRTVFabWVTZXdEbGdoTXNEMGpLNWhiR2paN243Vk9yMTQ5Y2lNYVAtaVVCTWx6bWltX1RUWWRTcjVCNHpnUnNXeEtXUmdmeWpSUHJCNkxyMl9hQ0xoWGp1TG9ua0Fyb1RlMEpDLXdNUkxCSXNybFFvd294WXRFckxmamM0MFdJLVdhaHpyekswVF9hLWhZM2xNRTdLbEUyMklrQmfSAeoBQVVfeXFMTkttbnRxYWI5WkVJSGlDNlZCcHNVRnhYUmVBaDlmYUQtUkxfN3FzM05KQXhaZTFFWjFYaVduUENjMmpzNWo3VW5oemUzemNnUU1RWm1lU2V3RGxnaE1zRDBqSzVoYkdqWjduN1ZPcjE0OWNpTWFQLWlVQk1sem1pbV9UVFlkU3I1QjR6Z1JzV3hLV1JnZnlqUlByQjZMcjJfYUNMaFhqdUxvbmtBcm9UZTBKQy13TVJMQklzcmxRb3dveFl0RXJMZmpjNDBXSS1XYWh6cnpLMFRfYS1oWTNsTUU3S2xFMjJJa0Jn?oc=5"
         }
       ]
     },
@@ -91,75 +91,39 @@
       "items": [
         {
           "id": 7,
-          "headline": "«Яндекс Go» распространит верификацию через «Госуслуги»",
-          "description": "Сервис «Яндекс Go» планирует внедрить верификацию пользователей через «Госуслуги» во всех городах, повышая безопасность и доверие к платформе.",
+          "headline": "Яндекс Go расширит верификацию через Госуслуги на все города",
+          "description": "Яндекс Go планирует внедрить верификацию пользователей через «Госуслуги» по всей стране. Это повысит доверие и безопасность в сервисе, что является важным аспектом для маркетплейсов услуг.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTdLeGdmNmtORkJwLTM0bkJyWGFsYmpvZUxBc1Z5cEhlUjFxdkdFVGtvSEd4WXY5eTBRajZtc1kxT0NyYmlmaFZYSGxSWF9UX2lCSXEySk5VMmFOOHRwRTgzLTA5cHo4SGtvZnhEZ1QxWmVES2NTVXJlUlc3QkdWaFJqNlg4WWIwYV9qTThFMUFxeW15bkFZYUhxZUp6TGlkcUJsRTJ2d0trU0w5M3FEX25vQUgxbDJm?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONnJjUzVnMzhTRkUwckttTXpYZG1ONTlqSmZyWmRFZksxai1ZbFJOUVdTcTJlckpScFJtNDlVbXNLM0htdVk2aTF4Z1ByWFdrVDBiOWlfSnBpVHVWdFdDYUF2V3VnRFZyT3R3NVlvNUd0bWlDWDZfTGVvcG8wWTQtRzJHYVl5bmdGRmozOGQ0YlRkWl9LeVZObFpuOEFDUjRoeW1rLWV4UEpGdk5qbWNXMG93bm5qOFVpX3hueTEtRFRnOTQzN0x2bS0xSXlCbndVeHFMTTBlSS04Zw?oc=5"
         },
         {
           "id": 8,
-          "headline": "«Авито Авто» обновил сервис оценки стоимости автомобилей",
-          "description": "«Авито Авто» расширил возможности своего сервиса оценки стоимости подержанных автомобилей, улучшая пользовательский опыт при продаже и покупке.",
+          "headline": "Авито Авто обновил сервис оценки стоимости подержанных авто",
+          "description": "«Авито Авто» улучшил функционал оценки рыночной стоимости автомобилей с пробегом, предлагая более точные данные. Это помогает пользователям принимать информированные решения о покупке и продаже.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3AzZDRubHlvWnN2Zmh4enFCTUp0Sk9GdHpxcHNiVkpnSUVyRGZ0V3FCNDk0emtkQTBiSVpGYXRrM0xQRzFNazhqT1E0bE5DN0hGaUhGcGlYTE0zcmVCSHRWb1hoS21LYXZaRVAwZElVVWtra2xvZTdzM3NYVElMQmh2T2dmZEhidDJOVjlOdEp5LXliOTNBdWhJajhhRjY0VkNTTW5WUlFfY2tHMzRpMEtn?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "«Авито» и ИТМО: ИИ-помощник для проверки домашних заданий",
-          "description": "Магистранты ИТМО разработали для «Авито» ИИ-помощника, который автоматизирует проверку домашних заданий, демонстрируя возможности AI в образовательных услугах.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-19",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRy16VUVYTXhLT1RrTGY3U0xpOG40X0hROFRkdnQ2ZDlWSmZoUXo1U2VfNjBrdWdNdGEtbWtGRXFoaC05R1RUWWVJMWstZkstMS13U1pJdnBmb1R1REgxcHJBUkRaaVNJRUlrRTBiNjl4UnhLT0dNZ2VBVG9TQldhNldXTnlxa1BwMUtFa1I4eVozdEtmcEJTSjZtdVVNWUZpTGs0UmN4Z0dSWFN4VUhfRjZkY28wUmp1RUNadWJucEpuVnc?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "40% россиян используют ИИ для подготовки к собеседованиям",
-          "description": "Исследование «Авито Работа» и «МТС Линк» показывает, как искусственный интеллект меняет подход к подготовке к собеседованиям в России.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelZvVm9qZWZLZFp6aHlCdm1KQnotQ2hHVV9kbkVaVTF2cmh5UlIyZjNLWDRjNXpSd1VpbW9aX2VZb3RLOUtvV2FTTnFkTzdXWVVCamR6dHotSmJFTXJJUUlwZUtzS0I3UFJidVBfUXU3bmJrLWU3OXlyYTlRWUZlZTFwbGRycDlISXdpN3NnZGFDQk9SazFwM0RsWHNFU1hzV3NETUVUVEFKSGFISE1xakR5a1ZYM0tRUEljWjhkVkNiVDFhWUNaRWZ5VS1XQm8xdGwza3pDQ2Z1dw?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "«Авито» и «Сколково»: разработка «Урока ИИ»",
-          "description": "«Авито» активно участвует в создании «Урока ИИ» от «Сколково», внедряя ИИ-ассистентов и рекомендации в образовательный процесс.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTBmQnFFT2R1bFl6NlMxdFhIUGt2dDI0Z2JmNm15UjJkb09lU3ZyU3Ffcl9FME5NVHZrM29TbUo0Qkh2WGtfcWVNYTZIdlpsdlZQam43MkdBaVhvaGpqYlVydXVKU3lRMXlkckJNSHFhZDRmVFlJa2VoQlpMS2NwTHFNcW94RnFSZWFYWDBjcl9aaDRwZGJvMTJnT0xoZk8xcDVJTk0tTnczbldjZ0JBVXVlVkx1T2Jv?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "«Авито Авто» обновил сервис оценки стоимости с пробегом",
-          "description": "«Авито Авто» объявил об очередном обновлении сервиса оценки стоимости автомобилей с пробегом, улучшая точность и удобство для пользователей.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
           "read_min": 3,
           "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcFVtMWtWWnMwN3JpZzZjX2VfM19UZ0p6M1FZNjUzVTVRTzMwR3ZGeDlWWGd1SDJLbzFreVVYMDdkWERlQUxzQzRrOFFmMkdVQkRyYVh3R19mSGd0Snk5dnJIVGxZZW9HTjVmRFZGSE1oZGNQYVNXSHZJcTczUHFGWE4xOF9ma3JzTnFPWkNpRlRYN3hRMXpGR1lfb3JXckQya2prVXlyVG9mdnR2QUJBakJlUTJSMlRGSDNndUdKREJIMWN6TEZZczhkVVB4YmhCQVJNdnBfM09iQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTdLeGdmNmtORkJwLTM0bkJyWGFsYmpvZUxBc1Z5cEhlUjFxdkdFVGtvSEd4WXY5eTBRajZtc1kxT0NyYmlmaFZYSGxSWF9UX2lCSXEySk5VMmFOOHRwRTgzLTA5cHo4SGtvZnhEZ1QxWmVES2NTVXJlUlc3QkdWaFJqNlg4WWIwYV9qTThFMUFxeW15bkFZYUhxZUp6TGlkcUJsRTJ2d0trU0w5M3FEX25vQUgxbDJm?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "ИТМО разработал ИИ-помощника для Авито для проверки домашних заданий",
+          "description": "Магистранты ИТМО создали для «Авито» ИИ-помощника, предназначенного для автоматической проверки домашних заданий. Это показывает внедрение ИИ для повышения эффективности образовательных услуг на платформе.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-19",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3AzZDRubHlvWnN2Zmh4enFCTUp0Sk9GdHpxcHNiVkpnSUVyRGZ0V3FCNDk0emtkQTBiSVpGYXRrM0xQRzFNazhqT1E0bE5DN0hGaUhGcGlYTE0zcmVCSHRWb1hoS21LYXZaRVAwZElVVWtra2xvZTdzM3NYVElMQmh2T2dmZEhidDJOVjlOdEp5LXliOTNBdWhJajhhRjY0VkNTTW5WUlFfY2tHMzRpMEtn?oc=5"
         }
       ]
     },
@@ -170,76 +134,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 13,
-          "headline": "Как агентский ИИ оптимизирует рабочие процессы",
-          "description": "Изучите, как агентский искусственный интеллект может значительно улучшить инженерные рабочие процессы и задачи проектирования.",
+          "id": 10,
+          "headline": "Агентский ИИ оптимизирует инженерные рабочие процессы и задачи дизайна",
+          "description": "Исследование, как агентский ИИ (Agentic AI) улучшает рабочие процессы в инженерии и дизайне. Показывает потенциал ИИ для автоматизации рутинных задач и ускорения циклов разработки.",
           "source": "designnews.com",
           "favicon_char": "D",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
-          "read_min": 5,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTZWZl9KVmpGaXdfdzRDczZxZ3dTS3JuemNzWGVPc0VRNlJSZURmTXg4VDFzTWh1cHQwY2xUTkl4T1laZDR0QzN5TnM2WUNUa0V0NEdZSUFqNUVfSUJld19pTFJYRnFiRzJMTmp0cm9YbHJWYnhwdVpRcVYyNXR2LUdoODVQZHZOMllXQ0RNaExUdmI2OEhIbjZiYld5OFlhd0JhRjhSRU81RmdyTEwtU1F0VQ?oc=5"
         },
         {
-          "id": 14,
-          "headline": "Старт международного семинара APEC по AI-дизайну",
-          "description": "Начало международного семинара APEC в 2026 году, посвященного инновациям в дизайне, управляемым искусственным интеллектом.",
-          "source": "prnewswire.com",
-          "favicon_char": "P",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-09-17",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRTZSaV9kUWlHcGRzbGc3YjBwWmlRbFpBV0ZINEItbnpzQ281bTVYLTQtY215M3c1azhZaWNRS2ZMUlNUOHZQWUQ0ZUJXQXBSbGtFM2E2a0tyUWxneTVqbm1XTGFHbU1iT2NmR0JNdFUwM2c5T3d4cjNvd19zU3BLeFdkc3RJV3E5OTk3Si1POTFPVGkzMmVwUzUyMHpWWVlvcUtaZHdvN01rbWxXclBENUFNNXZkLWJJSGU1TThpUk4zNWlQeldlcEdoMlNYUQ?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "ArchyBase добавил AI-визуализации фасадов домов",
-          "description": "Инструмент ArchyBase для проектирования экстерьеров теперь использует искусственный интеллект для генерации рендеров фасадов домов.",
+          "id": 11,
+          "headline": "ArchyBase добавил рендеринг экстерьеров домов на базе ИИ в инструмент дизайна",
+          "description": "Инструмент ArchyBase теперь предлагает AI-генерируемые рендеринги внешнего вида домов, что ускоряет процесс архитектурного дизайна. Это демонстрирует возможности генеративного дизайна в реальных продуктах.",
           "source": "usatoday.com",
           "favicon_char": "U",
-          "favicon_color": "#FF0000",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS2RjNWJlRVNQdFBhbzIxRloyeThkVVptV0hiN1NQcTdkN0NSRHBRUURKTGtfMmtDeUd1SnJyWXBuYy00Rk10c3dzNDlQUUlSMXNXNC10V0xGTnJfS3JRenI3TlhRZ09DUHBWdE1MNGdrZi1qa1FGT1R4cjFqWVA1Nk1OdzBrRk5KMGQtNlhsMmNZV2h3QndtNE91Y1JJYmZsSHUzQWc5aVlfU0Iza3haVDlSdDQwNHg2Nk5mWjdWMTJ0M1VlZ0pycERfMi0tenV1RjZUMVBR?oc=5"
         },
         {
-          "id": 16,
-          "headline": "ИИ-флаеры вредят брендам малого бизнеса",
-          "description": "Анализ того, как флаеры, созданные с помощью искусственного интеллекта, могут негативно сказаться на узнаваемости брендов малого бизнеса.",
-          "source": "financialcontent.com",
-          "favicon_char": "F",
+          "id": 12,
+          "headline": "Pinterest тестирует функцию «Restyle» для редизайна комнат с ИИ",
+          "description": "Pinterest представил новую функцию «Restyle», позволяющую пользователям перепроектировать свои комнаты с помощью ИИ. Отличный пример применения генеративного ИИ в пользовательских интерфейсах.",
+          "source": "techcrunch.com",
+          "favicon_char": "T",
           "favicon_color": "#1CB0F6",
+          "published_at": "2026-09-17",
+          "read_min": 4,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak9pa0xNWmI5VUlqd1ppZzI5SHliZG1iVUxQYzNOQmhBQ0JpT0dyTFZCUm1CQVduc0YweldMSFkxYWtrYkx4TnMzR0VoRkJyWXktZ3FuZDktY0x0LV9DT0xPU3FxdVFuSDN4VkJzY3JvdGVBQXJZRWs5VHl1anBIMlFaMTRWN05hM0RaTzlWMUhTU0NsUkM2RGJvYlNBbDNMTjR2YUxvejhhaU5IVTlWd21KTm0?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Семинар APEC 2026 по ИИ-управляемым инновациям в дизайне",
+          "description": "Открытие международного семинара APEC 2026, посвященного инновациям в дизайне, движимым ИИ. Это подчеркивает растущую роль ИИ в формировании будущего дизайнерских практик.",
+          "source": "en.antaranews.com",
+          "favicon_char": "E",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2dqUllaY29wXzFZZ2xJNEF3ZGkzLUtmVXFMMHZuMnNlQk5IOGtmMzJKOGl2LUw4OHZTUnRKZ09JNVlZb0hpY1NMRmtrVEtReGhZUVhaMVhSRVZ4SUtIYUpMc2NJVGRnODl0d01zeHZCOUQ1UTJVdXhhNGFRMExiMGI1bXhrZXFhN2tQcUF3TTlndXhUYVp6bVpmUVFaaEpGSF82MFNMLU5wMFdWTGhDV1BYbDAzQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVU8ycVJmZGR3OV9nUVRmOE9DSGk1X3hzY1dSa29jQTNFM0Jwem13MlE4SkpYMUhDOElNRUlDR09qVlRyNFdZV0ZLbGRrakZBSlhiQjB4Z3UtMVZIQW1XSkRTMGE3NFUyZkJmMmFITF9mNE14OUVkcm40RjNmRkFFTnhhc2VJWDZZZTZXZkZsMHJzaVltTUxFNk1IRFUzdzN3VngtaVdIdDhCQUx3NkNR0gG0AUFVX3lxTE5nODJFd3oxVExGbm1Gdk1DdUpDaS1xOTJaemhPSGFhT2NUb3FTTHB6bThvTFRGUURtYkN6U0Fsa2c3dDE4UThKajdZWkUtTXBUTmVVNVFWRmE3MmNWeWpGYm1CTWhXUjBXXzVQaC0wRFZteWhxUThadE5CZTVCa0M5THJHXzBjaDl4a2YxazJmam1Ebl84U0tHMDk3ZkFqUWtEbHp3M01EOFhDUzRza3VEYS1wZg?oc=5"
         },
         {
-          "id": 17,
-          "headline": "Google готовит Gemini 4 Pro для создания контента",
-          "description": "Google готовится выпустить Gemini 4 Pro в октябре 2026 года, предлагая новые возможности для создания контента с использованием ИИ.",
-          "source": "geeky-gadgets.com",
-          "favicon_char": "G",
-          "favicon_color": "#4CAF50",
-          "published_at": "2026-09-20",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRmVFUU9na1lXODAzRDhqdDR3MWRIa3JSRjgzaFZiTW9iSjB6NVlBX1ZpelBZbUtHeDAwNnRlcWhxVlc2WWxqRWNWNG1KWVZjcm1xNVVLRGxIbXBKOGc3VjRGMGxHWWM?oc=5"
-        },
-        {
-          "id": 18,
-          "headline": "iKKO MindOne: AI-смартфон с двумя ОС",
-          "description": "Представлен iKKO MindOne — смартфон размером с карту с Android и выделенной AI-ОС, демонстрирующий интеграцию ИИ в мобильные устройства.",
-          "source": "usatoday.com",
-          "favicon_char": "U",
-          "favicon_color": "#FF0000",
+          "id": 14,
+          "headline": "Дальнейшие шаги в Fashion Tech: как новые инструменты поддерживают творческую работу",
+          "description": "Обзор новых инструментов и технологий в индустрии моды, включая ИИ, которые помогают дизайнерам в их творческой работе. Актуально для понимания внедрения ИИ в различные креативные сферы.",
+          "source": "apparelnews.net",
+          "favicon_char": "A",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-18",
-          "read_min": 4,
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEh6U200NmwzVUVsT3JyTklaNDhSY0VWUVJBQTYyS25CZE5wdVlvemlpODdfNXlITkFOdDVqT0NxTDJ2aml3azBSdlRRc3lfdWtjOWdTQkhFdk5ZVlJtWHlYbE5qNjI1ODJVZENFa0JIVXZuZ0NsQTdUYTgyTGlxWUh6Vkd6X21sX201Um5SblpjRmp4b3BJdVZCZVhvTzcwakUxWFptZ2hjcjgxYUtnZGVUSG5UbGZLTG5NYjJEWTlNNnBlY2FSa0pFcGtjaG1KSkJWUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFTZjlpU1NJdkR0TWFrcEZkREZfUmkwWjdxSVNleVJvazJVVDJmLUMtOGxGVl9jSG1jQVpCaWR4SzFNall1Mzg0MUw4dWpDNU5zLWZpM1hpX1o5dmVFQWk4Z3J1Y3NQbVVzS2JBX0IzRW1Wbkk3UFRnM2tidmE4YTdHY0dCbXZEZ1ZBd29sc19WbE9pSnU1SHRMYnVNVl9GcV9sYzN3WHlscnRU?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "DaVinci Resolve 21.1 использует MCP для управления редактированием через ИИ",
+          "description": "Новая версия DaVinci Resolve 21.1 внедряет технологию MCP, позволяющую ИИ-ассистентам контролировать процесс редактирования видео. Это демонстрирует эволюцию ИИ в инструментах для креативных специалистов.",
+          "source": "ymcinema.com",
+          "favicon_char": "Y",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-17",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU1UN1VhRlM1OFYtdm5fZkdWalNGV1dZcEVtdDA2NjdBR016bXM5THFKZ09xSW9YZkQ3RUY4bmJPZzNQLVhEOHk3bGlzNjlteWw1V25ib0VvOTRQbi1GTlBnQnk4WUFJOFAxaGVvaERZaFZZTlB6T2UzaE9QWG1kVHNWWVZfTzhPYlJtTA?oc=5"
         }
       ]
     },
@@ -248,7 +212,80 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 16,
+          "headline": "SEO-аудит eCommerce: 5 основ для крупных ритейлеров",
+          "description": "Фреймворк для аудита SEO в крупных eCommerce-компаниях, охватывающий пять ключевых направлений. Полезно для понимания, как оптимизировать маркетплейсы для лучшей видимости и привлечения пользователей.",
+          "source": "shopify.com",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-20",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlSzMwcDBDUC1mNDJQTlp4a0NBYXhLeW4wSG5Sb3JMdmdqSDR3cFJ1UThva3ZpMWdqMkZ6cDlQa09WbTRmanViMG5uSWdheWVfa2k2dklESjIxYXJjWmdOUENDWDlLZS1TR3RYeQ?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Будущее маркетплейсов: изменения для покупателей, продавцов и платформ",
+          "description": "Обзор грядущих изменений на маркетплейсах, затрагивающих все стороны взаимодействия. Важно для понимания эволюции бизнес-моделей и пользовательских ожиданий в сфере онлайн-услуг.",
+          "source": "garant.ru",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-18",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWNENNcnBvcnNSZjRybl84cWhvbHJkbjZpTVRqdURpanA5dHJ4Zk1reWliMFlXYXhaajc1QkNIN1dvLVhmWWVMY2FtM1kySHM?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "Суперприложения: топ компаний-разработчиков в США",
+          "description": "Список ведущих компаний, специализирующихся на разработке суперприложений в США. Суперприложения представляют собой сложную экосистему маркетплейсов услуг, что актуально для Профи.ру.",
+          "source": "whatech.com",
+          "favicon_char": "W",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-19",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS21udHFhYjlaRUlIaUM2VkJwc1VGeFhSZUFoOWZhRC1STF83cXMzTkpBeFplMUVaMVhpV25QQ2MyanM1ajdVbmh6ZTN6Y2dRTVFabWVTZXdEbGdoTXNEMGpLNWhiR2paN243Vk9yMTQ5Y2lNYVAtaVVCTWx6bWltX1RUWWRTcjVCNHpnUnNXeEtXUmdmeWpSUHJCNkxyMl9hQ0xoWGp1TG9ua0Fyb1RlMEpDLXdNUkxCSXNybFFvd294WXRFckxmamM0MFdJLVdhaHpyekswVF9hLWhZM2xNRTdLbEUyMklrQmfSAeoBQVVfeXFMTkttbnRxYWI5WkVJSGlDNlZCcHNVRnhYUmVBaDlmYUQtUkxfN3FzM05KQXhaZTFFWjFYaVduUENjMmpzNWo3VW5oemUzemNnUU1RWm1lU2V3RGxnaE1zRDBqSzVoYkdqWjduN1ZPcjE0OWNpTWFQLWlVQk1sem1pbV9UVFlkU3I1QjR6Z1JzV3hLV1JnZnlqUlByQjZMcjJfYUNMaFhqdUxvbmtBcm9UZTBKQy13TVJMQklzcmxRb3dveFl0RXJMZmpjNDBXSS1XYWh6cnpLMFRfYS1oWTNsTUU3S2xFMjJJa0Jn?oc=5"
+        },
+        {
+          "id": 19,
+          "headline": "Рост цен на такси в Москве: как не разориться?",
+          "description": "Анализ причин роста цен на такси в Москве и советы по экономии. Отражает динамику ценообразования на сервисных маркетплейсах и влияет на лояльность пользователей.",
+          "source": "banki.ru",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-18",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5N2I0b2s4ZzAybjFiQjRPenlPckh4dnFsWlVKbGdwTWc5LTFwRFRhWTBSLTV0dFpHWjFBaFM3dkUxLUhaeFlWNmctRG14RjVlZ1BqLXBB?oc=5"
+        },
+        {
+          "id": 20,
+          "headline": "Авито: средний доход мастеров красоты в ДФО достиг 4,5 тыс. рублей за смену",
+          "description": "Статистика по среднему доходу специалистов в индустрии красоты на платформе Авито в Дальневосточном федеральном округе. Полезно для анализа доходности категорий услуг на маркетплейсах.",
+          "source": "ysia.ru",
+          "favicon_char": "Y",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-20",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVpZckZiR1U5MHppTjJxUVRldjliT01XQ1pUNmVJclVNYkx1Y3hiakNXNk9QZl9NSU5qUVRnT1pzajV3d3VfQmVweGg5czVxTWZQV0otTWE0cFpvSGxkWVg1MFhneEdBRG05cDZ5Vkhab0pGTTYtdEdLVmVWLU9hWDJQeThCeTZBdDJhMFlUZUwtd1I2UW90bA?oc=5"
+        },
+        {
+          "id": 21,
+          "headline": "40% россиян используют ИИ для подготовки к собеседованиям (Авито Работа)",
+          "description": "Исследование «Авито Работа» и «МТС Линк» показало, что значительная часть россиян использует ИИ для подготовки к собеседованиям. Это указывает на меняющиеся пользовательские привычки и возможности для ИИ на маркетплейсах труда.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-17",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRy16VUVYTXhLT1RrTGY3U0xpOG40X0hROFRkdnQ2ZDlWSmZoUXo1U2VfNjBrdWdNdGEtbWtGRXFoaC05R1RUWWVJMWstZkstMS13U1pJdnBmb1R1REgxcHJBUkRaaVNJRUlrRTBiNjl4UnhLT0dNZ2VBVG9TQldhNldXTnlxa1BwMUtFa1I4eVozdEtmcEJTSjZtdVVNWUZpTGs0UmN4Z0dSWFN4VUhfRjZkY28wUmp1RUNadWJucEpuVnc?oc=5"
+        }
+      ]
     }
   ]
 }
