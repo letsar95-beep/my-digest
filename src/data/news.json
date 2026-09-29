@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:30:00",
+  "updated_at": "2026-09-29T05:03:10",
   "next_issue_at": "2026-10-01T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Использование ИИ в UX-дизайне: тренды и инструменты",
-          "description": "Обзор примеров, инструментов и текущих тенденций применения искусственного интеллекта в области пользовательского опыта. Важно для понимания развития и возможностей AI в работе дизайнера.",
-          "source": "coursera.org",
-          "favicon_char": "C",
-          "favicon_color": "#0056D2",
-          "published_at": "2026-09-24",
+          "headline": "UX-обзор: Исследования обесценивания навыков, проблема жаргона и отношение к ИИ",
+          "description": "Обзор важных тем UX: от критики методик исследования и проблем жаргона до влияния ИИ на отношение пользователей. Актуально для понимания трендов и улучшения коммуникации в дизайне.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-28",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tWmQ3SFRlbGRvYkQzcWVoTEp6Q3JkaUNzMzJuM056MzZUcFZfaGttU2JjOWZHQlczY3E1ai16LTUyaWpvUUdCTmloYnhuSUdSVEFjWTJCYXQtLWg0M1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIdE9VaEd5QUhSLTg3UDZJOWxyRzZFSl9BVnozVE1IaGFkcTRla2xnZmVYRUtWOW1KQzZIeVNzdkZUREdpUW8zWno2SjdVcXpZTmFZclJVM242Q1czNWVmWnpRMVBHdVpURHc?oc=5"
         },
         {
           "id": 2,
-          "headline": "Opus 5.5 генерирует видео для моушн-дизайна по заданному коду",
-          "description": "Новая версия инструмента Opus 5.5 создает анимированные видео, программно рисуя каждый кадр. Это открывает новые возможности для автоматизации и кастомизации моушн-графики.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-28",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2dsUC14WGNVeTVfdlpGNWpleGhzbWNob3E3MVJJQjFhdkZLMzJLYXYzcUtNTkZveWhZVERvVi1RZWN4dzlSeER3OGczNnpmZV9HblMtdG5pN0VUMDhkWENBbjMyTVR0Yl9rb3A4bkY1NC11OGdURFNSakQ1aWhRQQ?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "74 ошибки в дизайне продуктов, усложнившие жизнь пользователям",
-          "description": "Подборка из 74 примеров неудачного продуктового дизайна, которые создали проблемы для пользователей. Анализ этих кейсов поможет дизайнерам избегать подобных ошибок в своей работе.",
+          "headline": "74 примера провального продуктового дизайна, усложняющего жизнь",
+          "description": "Анализ 74 ошибок в продуктовом дизайне, которые создали проблемы для пользователей. Ценный кейс для дизайнеров, чтобы избежать подобных промахов.",
           "source": "aol.com",
           "favicon_char": "A",
-          "favicon_color": "#2196F3",
+          "favicon_color": "#E4011E",
           "published_at": "2026-09-27",
           "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnBEVGUtLTZMZFlRalJNSlgyeTVBNFptdVkyNlUzX3JDdWk1aXJ3QmFQalBnN0g5Z2RHemZ1WXZENWRzNkRwc2dwank5NU5HRURjeVBXczdsclROQzFwWGFkR1FzN0tZeVJSQzU1TzRXVUY4LWxjeDZ2Ukh6azBjeWlOR3ZnQQ?oc=5"
         },
         {
+          "id": 3,
+          "headline": "Нужны ли продуктовым дизайнерам навыки UI/UX?",
+          "description": "Обсуждение необходимости UI/UX навыков для продуктовых дизайнеров, определяющее ключевые компетенции для успешной карьеры в индустрии.",
+          "source": "thenewsminute.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-26",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEYtMld5dnRpYVZRUmdqV2Y2b28tU2ppdFRyQXJ5cWdZT2xsLWtrRGFlQ1JESEo2T0pfQUVZRjd1N2R3Z0tjLXJnd05YNXRsNk5IMEFQVl8tVng2bnh0RW1JN3V5V1NPaEdJZUJGQW9YeWlwT01DR2tYSnFZdGpOQ3MxY0hla0JIbGFhMW5n0gGOAUFVX3lxTE50Ri0yV3l2dGlhVlFSZ2pXZjZvby1Taml0VHJBcnlxZ1lPbGwta2tEYWVDUkRISjZPSl9BRVlGN3U3ZHdnS2Mtcmd3Tlg1dGw2TkgwQVBWXy1WeDZueHRFbUk3dXlXU09oR0llQkZBb1h5aXBPTUNHa1hKcVl0ak5DczFjSGVrQkhsYWExbmc?oc=5"
+        },
+        {
           "id": 4,
-          "headline": "Сводка UX: ИИ помогает незрячим, синтетические пользователи и другие исследования",
-          "description": "Обзор актуальных исследований UX, включая использование ИИ-агентов для помощи незрячим пользователям и применение синтетических пользователей в процессе проектирования. Помогает быть в курсе последних тенденций и подходов в UX.",
+          "headline": "UX-обзор: ИИ-агенты для слепых, исследование стилей, синтетические пользователи",
+          "description": "В новом обзоре Нильсена – как ИИ помогает слепым пользователям, методы исследования стилей и роль синтетических пользователей в процессе дизайна. Фокус на инклюзивности и новых инструментах.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#FF6600",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-25",
-          "read_min": 7,
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIdE9VaEd5QUhSLTg3UDZJOWxyRzZFSl9BVnozVE1IaGFkcTRla2xnZmVYRUtWOW1KQzZIeVNzdkZUREdpUW8zWno2SjdVcXpZTmFZclJVM242Q1czNWVmWnpRMVBHdVpURHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOEU0ZnJNbHNKT1FFa0xjZzFGZzZKT2VPd0F2b0dvbkYzZk8xb21sNGU3bTlBNnB6OWV0STZ4RjFiNVNLVnF3TlNfZmFZZENMcXI4R0FGejBJRGxJenBMcHhuMEhmcWtHLUE?oc=5"
         },
         {
           "id": 5,
-          "headline": "Inail модернизирует доступные цифровые сервисы с Adobe",
-          "description": "Итальянский национальный институт страхования от несчастных случаев на производстве (Inail) обновил свои цифровые сервисы с помощью Adobe, повысив их доступность. Это пример улучшения инклюзивности в госуслугах.",
-          "source": "business.adobe.com",
-          "favicon_char": "A",
-          "favicon_color": "#FF0000",
-          "published_at": "2026-09-24",
+          "headline": "Почему «полезность» — это дисциплина дизайна, а не функция",
+          "description": "Статья объясняет, почему стремление к полезности должно быть основополагающим принципом в дизайне продукта, а не просто одной из функций. Важно для стратегического мышления дизайнера.",
+          "source": "ceoworld.biz",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-27",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96UnZLenNBOFRHeEx6TlJuTFhURHFpbnJhSkQzVUUzVlJXSGIwSWxTbGJvamRyd3h1ZDBkMGRGVWwxbUJUTHk4T2ZRaTFvMHF1V20wRHB5VVJ2aHlJU3RjeUp2cEJmN1Z6aV9tMF9Qcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFVuaFRtOVZQVmVOMUZnVEtNdGd2YWdtQ0t1MTJMNllKZXhpV0w0UlJnRE1Ra0w0STZwSGNYOERnSnQ4QUhtX0txZDBtdVNzclJLUHcwOGZudXVrTWlxRTlXa3JFUkpjbFp6UXhFX2ZMXzV5b0RzUTllUXhsaEp1NlkzYVJqcjQ1UU9MOVJn?oc=5"
         },
         {
           "id": 6,
-          "headline": "«Полезность» как дисциплина дизайна, а не отдельная функция",
-          "description": "Статья утверждает, что полезность должна быть неотъемлемой частью всего процесса проектирования, а не просто добавляемой функцией. Это меняет подход к ценностям в продуктовом дизайне.",
-          "source": "ceoworld.biz",
-          "favicon_char": "C",
-          "favicon_color": "#2196F3",
-          "published_at": "2026-09-27",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFVuaFRtOVZQVmVOMUZnVEtNdGd2YWdtQ0t1MTJMNllKZXhpV0w0UlJnRE1Ra0w0STZwSGNYOERnSnQ4QUhtX0txZDBtdVNzclJLUHcwOGZudXVrTWlxRTlXa3JFUkpjbFp6UXhFX2ZMXzV5b0RzUTllUXhsaEp1NlkzYVJqcjQ1UU9MOVJn?oc=5"
+          "headline": "Новая мышь Surface: теперь для обеих рук",
+          "description": "Microsoft выпустила новую мышь Surface, спроектированную для обеих рук, что улучшает эргономику и доступность. Пример важного UI/UX-изменения в аппаратном дизайне.",
+          "source": "yankodesign.com",
+          "favicon_char": "Y",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-25",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzdhR3lNS0hOajdyVVpLZm0yTWl0d0hfUGJSLVJYcUZpWUJfWF9MX2ZfZ2xRd2Yxb04tc1AzdllzVUZaUWhGNmpUb0hkYU9xOWJqNEtqWFlpUzN5Z003NGNxVlpVQ2wySVoxbVh2TFIwR2gtZ2tKdlVXQWh4MGhJNmRCSjJodmFZRVV6YjZOU25mb1huZ1dtY0FjMFpyaEdtM292ZFJrUjJLd25FaWpxY0dQNA?oc=5"
         }
       ]
     },
@@ -91,51 +91,15 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс: AI-агенты в мессенджерах без программирования",
-          "description": "Яндекс запустил тестирование инструмента для создания и публикации ИИ-агентов в мессенджеры без кода. Это может упростить интеграцию умных помощников в различные сервисы.",
-          "source": "techora.ru",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-25",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDhhT2hmSEJHNG40dUR4WlczTEZ1TzV2TVVlTGRjTGdOVTN3cGFjbm9sSUZyZjNlaTNNNkhvemN2eEs0cmxPRXBvaU40R2RxbWtuMkoxUmZISURxTWJnbHRKM2prMURmOEh3NUVHTlVISFZlRW92a2pHLVgzWW8yNE5XWQ?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "Авито обновил «ХвостРадар»: ИИ ищет питомцев по фото 24/7",
-          "description": "Обновление «ХвостРадара» на Авито теперь позволяет ИИ автоматически искать потерявшихся питомцев по фотографиям. Это улучшает пользовательский опыт и эффективность сервиса.",
+          "headline": "«Авито» обновил «ХвостРадар»: ИИ теперь сам ищет потерявшихся питомцев по фото",
+          "description": "«Авито» улучшил свой сервис «ХвостРадар», добавив ИИ для автоматического поиска пропавших питомцев по фотографиям. Это значимое обновление функционала и пользовательского опыта.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
-          "favicon_color": "#2196F3",
+          "favicon_color": "#6750A4",
           "published_at": "2026-09-25",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFNoUFZSSTZuTERUMGNjb3hsZXQ0Yjk4elljR0hPWW1lcEpQbEJ3NGotQkU0S2E0M3FJY0pHM2liQjF2YVlYb0NLb3FOVkpTZW9KM2JJUU9lelpXNDE2Q0JHemlJUV8wNU56QVpLVVVZQkRNbzdSVzc0UjdOVEN4a2xYbTZmRFl2cXU3NXVHWFBJajJ3NFNnMFRSNEhTTHFkU1FuRDhKZVVPVmZ6bHpCb0U2U2lTSWdPWW5ZVg?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Спрос на услуги переезда в Подмосковье резко вырос",
-          "description": "Зафиксирован значительный рост спроса на услуги по организации переездов в Московской области. Эта тенденция указывает на потенциал для развития категории услуг на маркетплейсах.",
-          "source": "regions.ru",
-          "favicon_char": "R",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-26",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTl6VEZjWlZWWUoxXzBIRHY2TVBaWDFhRVl6aFpFTWxUUVlfdzRldXFhMUdzNDRQdmRwb3JaX3FBS3lhNkdWX0RERFVaR0NoVlY5cEVKckVkVm1SWHF6Z0ZVTTBfMnBIM3dHQ2hCekY5X0xmUVQ3S0J4cmxEa3EyWjMtTUJtWlQ4djh2VXotR1dhNDhLdnpFVnRWXzZXY3p3a3czQVhRenAyWk0?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Жители Тюмени чаще всего ремонтируют бытовую технику и авто",
-          "description": "Исследование показало, что жители Тюмени чаще всего обращаются за ремонтом бытовой техники и автомобилей. Это подчеркивает востребованность этих категорий услуг на местных площадках.",
-          "source": "province.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-26",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVpjdVhybnRGTVdMUmROZ2QzbTlWdnRCeG9EcHlqaDE1NkFCUC1Od2R5eUdkYWc2YXNOMWtvSlNLcVV4S29ZNmUtQjJmaTd1cnFwSnFvVTdBOENWWS1sYkhMV1FtbjktUlRQUmhMYTkzXzl0d2RILWtfckozZVBta0I1MHo3Q3pfM3d3em1CTmd2S2QxSGo1X1gydHplVzB0WGZGYmxSbUpxZW84VDAzaVhtNmZjOW80WFpJY3k5Z3p2cW5IbV9CT1RqTmFraTA1VWYwSHZ3NzR0RHM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONVFEdnNjbnBaOHgyZUFrTHhXZ051dVB0RkItNzVyYkRZemU4M3pvX01FSXpSVHVfRTg4cXJkRjFFMFp0Y0piUUZSdTdfVWt4eUdxb0JYMm1nRk5lV21XZy1jXzR5NHRyVjNEakFYb2p0OTdsU2xjXzRwWjVEa3hBc053WGlLTjlySnVhRjdHVzYzbDZYSmN6NE9TeFgyaDBRdWwzUWx2V0NnSGVNck92RnFCMHZsNzdZTnpuRmtiYkZOOVhmOXh2MjhJeTlYaDlvMEhLcUkzOTZ4dw?oc=5"
         }
       ]
     },
@@ -146,9 +110,57 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
+          "id": 8,
+          "headline": "Google Stitch использует Gemini 3.8 Flash для создания UI-дизайнов из бренд-активов",
+          "description": "Google Stitch на базе Gemini 3.8 Flash способен генерировать UI-дизайны, используя существующие бренд-активы. Это мощный инструмент для автоматизации и ускорения процесса дизайна интерфейсов.",
+          "source": "techgenyz.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-25",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb1JYZnlGcVA1MnhadjlSYm4tSEdScHE2YkJjWktjaXhiNHYzZEI2YVlJbXNEdVVWMC1kLWx5TEI2TWNldV9pNlZrLVNpRF8yQmhYMDFuRV8xSE5Tb3FDSlMzOVViZWJHQjZMYmttcWllQ0xVcC1nTA?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "5 лучших ИИ-генераторов мультяшных видео в 2026 году для дизайнеров",
+          "description": "Обзор лучших ИИ-инструментов для создания мультяшных видео, оцениваемых по согласованности персонажей и качеству анимации. Полезно для дизайнеров, работающих с контентом и анимацией.",
+          "source": "streetinsider.com",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-27",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnRBT1V4dVBUUFY5NURjcFIxT2pFSnl0dTlpLWUzWDFPM0V0REZTeFRKU0hxYjNhOWV6R0JtYVRCUUt4SFFDcDdtYXptZVJXbF8xbWZrQzZJWXlHX2I4VndmM3lMOHZkRWhKVDF0aTd5clRQOTVGWkZkcGZKeG5aUzhnUWEzVUdGQjhfVll5T0VDNWRxM3lBcU50UWZWck1tVngtc3ZpREcyanZ4VVZYT1dXQ3hLSmR3YmMwWFh0Qlc0UzJhRmswQ3BsclhiV2JTQWdyaE5aZGppcjVDbmllNURDUDNVeVoxWUNLSFNQdU92V3dVbVZmQjItN3hrbHNWTUFnUWgtMTF0bVhGRndUYUx3V0tIX3k0dGRza3JjYm5XbGk1MU1FX0Z6RC0?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Constructor AI: бесплатный инструмент для создания 3D-компонентов из идей",
+          "description": "Constructor AI — это новый браузерный инструмент, который превращает идеи в печатные 3D-компоненты. Открывает новые возможности для продуктовых дизайнеров в прототипировании.",
+          "source": "indexbox.io",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-25",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2tPbGQ2TmFHWlJPYjRQMW92dVBDTHg0ZmZ6bkNnekwxTWYyRFR4M2gzZFBBbk5JRzlfWHRxLUhZbWVEVWFTbk5mMThyODRmanNtNFlUNVJkWC1RaU9mR2JZQ25WNmhteFNMcVBzSjZyQzhWcFJMN3duNnRjRVdLLVIwX2I5cEJjRm9Ba3FJRzA4cVI2WUhacV9lWGdMbFhyN3Y2a3JCcEpzZWthQnVPaGRPUkYwakpQZnpFQWhMcFhTQXJuLWpIMHNkYTFoVzAtajFsSDdZcEdOcTA?oc=5"
+        },
+        {
           "id": 11,
-          "headline": "Claude Opus 5.5: контекст 1M токенов для разработчиков",
-          "description": "Новая версия языковой модели Claude Opus 5.5 теперь поддерживает контекст до 1 миллиона токенов, что значительно расширяет возможности для работы с большим объемом кода и текста.",
+          "headline": "Представлен новый Copilot с функциями Home, Code и Autopilot",
+          "description": "Microsoft представила обновленный Copilot, который расширяет возможности ИИ-помощника в работе с кодом, навигацией и другими задачами, что может интегрироваться в дизайнерские рабочие процессы.",
+          "source": "blogs.microsoft.com",
+          "favicon_char": "B",
+          "favicon_color": "#F25022",
+          "published_at": "2026-09-25",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Claude Opus 5.5 теперь с контекстом на 1 миллион токенов для разработчиков",
+          "description": "Claude Opus 5.5 предлагает увеличенный контекст в 1 миллион токенов, что полезно для разработчиков, создающих сложные прототипы и интерактивные решения, с которыми работают дизайнеры.",
           "source": "shattered.io",
           "favicon_char": "S",
           "favicon_color": "#6750A4",
@@ -158,64 +170,16 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VVVET0l2MnlIM0JrY3V3ZWtfX0o2djdrYUpfd0NUXzZyYTRhVUhxellyelRPQmFVbkhtNHBEdFpvWXdIeDBVLS1rWUg3aTJHVU1hMkdGQkpENWRZU1Q2bnZYcld3SDBHeFpKTWRHVE9JWmdQ?oc=5"
         },
         {
-          "id": 12,
-          "headline": "Представлен новый Microsoft Copilot с режимами Home, Code и Autopilot",
-          "description": "Microsoft анонсировал расширение возможностей Copilot, включая новые режимы Home, Code и Autopilot для различных сценариев использования. Это упростит взаимодействие с ИИ-помощником для множества задач.",
-          "source": "blogs.microsoft.com",
-          "favicon_char": "B",
-          "favicon_color": "#0078D4",
-          "published_at": "2026-09-25",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5"
-        },
-        {
           "id": 13,
-          "headline": "Adobe интегрируется с Gemini и расширяет возможности Claude",
-          "description": "Adobe улучшает интеграцию с моделями Gemini и Claude, что позволит дизайнерам использовать возможности генеративного ИИ непосредственно в продуктах Adobe. Это открывает новые перспективы для креативных процессов.",
-          "source": "blog.adobe.com",
-          "favicon_char": "B",
-          "favicon_color": "#FF0000",
-          "published_at": "2026-09-24",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDk4a000c3RTd1ctY2lGZy1wRGpVdVBWTDBMRUFkZktLck9nVVJkdkw1UmRoTE8yNlBDQ2ZfNnhnLTc3Ry0wTXU1TkYzYVRsYVdaVlRELUhZTXI1UGlVbmQ0cnR0ZDJPMC1VQUJPcjFTMzIyX1dxSklYZERPc0UwNDFsalpnRWZwUHNNWGlEVEZmSndIcUNoeDF4YWpNei1Pa3c?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "Топ-5 ИИ-генераторов мультфильмов в 2026 году",
-          "description": "Обзор лучших ИИ-инструментов для создания мультяшных видео с фокусом на консистентность персонажей, редактирование сцен и безопасность для детей. Эти инструменты могут быть полезны для создания анимированного контента.",
-          "source": "streetinsider.com",
-          "favicon_char": "S",
-          "favicon_color": "#003366",
-          "published_at": "2026-09-27",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRnRBT1V4dVBUUFY5NURjcFIxT2pFSnl0dTlpLWUzWDFPM0V0REZTeFRKU0hxYjNhOWV6R0JtYVRCUUt4SFFDcDdtYXptZVJXbF8xbWZrQzZJWXlHX2I4VndmM3lMOHZkRWhKVDF0aTd5clRQOTVGWkZkcGZKeG5aUzhnUWEzVUdGQjhfVll5T0VDNWRxM3lBcU50UWZWck1tVngtc3ZpREcyanZ4VVZYT1dXQ3hLSmR3YmMwWFh0Qlc0UzJhRmswQ3BsclhiV2JTQWdyaE5aZGppcjVDbmllNURDUDNVeVoxWUNLSFNQdU92V3dVbVZmQjItN3hrbHNWTUFnUWgtMTF0bVhGRndUYUx3V0tIX3k0dGRza3JjYm5XbGk1MU1FX0Z6RC0?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Constructor AI: бесплатный инструмент для 3D-моделирования",
-          "description": "Новый бесплатный браузерный ИИ-инструмент Constructor AI превращает идеи в печатные 3D-компоненты. Это упрощает процесс создания прототипов и элементов для 3D-печати.",
-          "source": "indexbox.io",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-09-25",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2xaXzBXMlZnMjVfNXRKc3o5QlFSRmJibnY3Nkk3RTNGczJJbERpaGIyYUgyUi1GbDMyQXFqaHRoVVhMbE10V2pNVjQwS1IwcFA0czh1N1FmZVFGUHNlVXcxWjRUWGhpSlJBSUNZRm56YnVmQkhfM19yU05xVDNIc251V1JPMVFyRWNuRXlRY3hyTmFXTXhTNUtPay1NeWpPUHByTUZLMTJrekNlY1lQbFdVZVlKOE9SYjZzamYtUWRYV1ZMZ2xwMFNn?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Google Stitch преобразует бренд-активы в UI-дизайны с Gemini 3.8",
-          "description": "Google Stitch использует модель Gemini 3.8 Flash для автоматического преобразования бренд-активов в готовые UI-дизайны. Это может значительно ускорить процесс создания интерфейсов на основе фирменного стиля.",
-          "source": "techgenyz.com",
+          "headline": "Инженерная школа обновляет программу медиадизайна, добавляя требования по ИИ",
+          "description": "Инженерная школа пересматривает свою программу цифрового медиадизайна, включая обязательные требования по искусственному интеллекту, что отражает растущую важность ИИ для будущих дизайнеров.",
+          "source": "thedp.com",
           "favicon_char": "T",
-          "favicon_color": "#4285F4",
-          "published_at": "2026-09-25",
-          "read_min": 4,
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-29",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb1JYZnlGcVA1MnhadjlSYm4tSEdScHE2YkJjWktjaXhiNHYzZEI2YVlJbXNEdVVWMC1kLWx5TEI2TWNldV9pNlZrLVNpRF8yQmhYMDFuRV8xSE5Tb3FDSlMzOVViZWJHQjZMYmttcWllQ0xVcC1nTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakl3RkV0Y083S29uN3VqZlVRUDNBaXZpNy1CUlczbW9rTllySGkxVmxnLW1nM3gxWFlzdlNRZFF5RWVKdWdxUmpZX2RSTW1BTGhJd0FicVpjQU9UMGZkeXRTSlZYWTFiVXUwMTJNSnBBMm1CemVXYmoyNWlpc0pmMU5hblRVa2IxaUdFSS1rSEhtWE1rZ2NVdlZKa2JmUEZtVW8wLU1HM0VleHR3NVp0d0xTTnJ5WmhjQWlvZmxR?oc=5"
         }
       ]
     },
@@ -224,7 +188,20 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 14,
+          "headline": "Ozon добавил новый способ оплаты для пользователей без карт",
+          "description": "Ozon внедрил новый метод оплаты для клиентов, не использующих банковские карты, расширяя доступность сервиса и охват аудитории. Это важный кейс по улучшению онбординга и пользовательского опыта на маркетплейсе.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-09-28",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdUhCQUtyMDc0aF8zRWZlTk42ZktKTDE3WmtNNERBcjA2UGRhdmZ3ZjZ1MmRRTWJyUDQwbjJqQXNiS1RFb1ZGdVRmUDIyX20wOVVqblNFNUNpYWdSLUFqbWJwSlpOMTJFcVlDLU5LV29zLVZpblNjZEpwUEZ2b3M3UVBDSjNGWDJoSnFrV0xkRzJDVHdibzVnNnB0d2VneUFmc3RUV0g4eGJSV3FWVmhrN3c2VWVIWjBsZ1dPaXJlVDFESlc1VmZUMEd2QTlxMUpRZTFEWlY3UG9YUQ?oc=5"
+        }
+      ]
     }
   ]
 }
