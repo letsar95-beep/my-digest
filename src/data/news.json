@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T05:03:47",
+  "updated_at": "2026-10-11T05:02:59",
   "next_issue_at": "2026-10-12T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,32 +11,32 @@
       "items": [
         {
           "id": 1,
-          "headline": "Обзор KeyShot 2026: быстрый 3D-рендеринг с полезными ИИ-инструментами",
-          "description": "Новая версия популярного инструмента для 3D-рендеринга KeyShot 2026 получила улучшения скорости и функционала, а также встроенные ИИ-инструменты, которые могут быть полезны продуктовым дизайнерам для визуализации.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#FF7043",
-          "published_at": "2026-10-08",
+          "headline": "Поколение Z отказывается от бежевых интерьеров в пользу дофаминового декора",
+          "description": "Новый тренд в дизайне, обусловленный эмоциональным состоянием, влияет на предпочтения пользователей. Важно учитывать психологию цвета и эмоциональный отклик при проектировании интерфейсов и продуктов.",
+          "source": "fortune.com",
+          "favicon_char": "F",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-10",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGdxdTI3c1Z6eS1DVmQ5RXV5eEtIU0hTN242Z29pVV84cDkzYlhuX0ppZFg5dGt6di1CUFRScmV0TWdWVEVVSnVIUWZZM0FyMG9VRDZwd0ltbXQxejV4aFJqWWJBZmYtZ2h1bll3WkFFbmgtc0dZNjdEay01SERHXzh5aWpXdmJkcVE3Q0lTb0ZHTkNiVS1MM00tSGt0WHN2QUt5b2o3TWZKWW0xT3o2MXRKOUQ5UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGFKS1VuUEVKUlVFYm9IVGlhS1lKcll1MzFLaGpaRTV3bk1IM0phOEp6RjhyT0FYR1hpWVYwWVhibXl6NzR6MzNYcmdHanNqZTBTMnZEX0JCYkl6V1ZGbm5QOE9FR2xOUDlmZ2lmYUNPeXA4QWdQazhQT192bjdRWEN3ZU9namNPbzlJVjhoLXFCN0ky?oc=5"
         },
         {
           "id": 2,
-          "headline": "Лучшие графические планшеты 2026 года для цифровых художников",
-          "description": "Обзор лучших графических планшетов 2026 года, протестированных для разных типов цифровых художников и бюджетов. Информация полезна для дизайнеров, выбирающих инструменты для эскизирования и иллюстрации.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#FF7043",
-          "published_at": "2026-10-08",
+          "headline": "GPT-6 и интеллектуальный UI для всех",
+          "description": "OpenAI представила видение будущего интерфейсов, где ИИ играет ключевую роль в создании адаптивного и персонализированного пользовательского опыта. Это указывает на сдвиг в сторону генеративного дизайна UI.",
+          "source": "openai.com",
+          "favicon_char": "O",
+          "favicon_color": "#4CAF50",
+          "published_at": "2026-10-07",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40eVVwdXNtVnMwLW05U0Jwc0NONWd4dWMwUHdDaVUwbTFISGw1TC1WVG0yU1p3bkNlTWkwcU9Tb1dTZVFOZ0prUHZyZmlUTXc2X2VVdnZic2lvZUFTM3dHYUJxSjVtVFRu?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5"
         },
         {
           "id": 3,
-          "headline": "Обзор UX-исследований: скроллинг, списки желаний и тестирование юзабилити",
-          "description": "Якоб Нильсен представил новый дайджест по UX-исследованиям, затрагивающий важные темы, такие как оптимизация скроллинга, эффективность списков желаний и подходы к юзабилити-тестированию без предварительных гипотез. Это ценный материал для продуктовых дизайнеров, углубляющихся в UX-метрики.",
+          "headline": "UX-дайджест: анализ ИИ, скроллинг, списки желаний и юзабилити-тестирование",
+          "description": "Якоб Нильсен делится актуальными исследованиями в UX, включая применение ИИ для тематического анализа, принципы скроллинга, влияние списков желаний и подходы к юзабилити-тестированию без выявленных проблем.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
           "favicon_color": "#6750A4",
@@ -47,11 +47,11 @@
         },
         {
           "id": 4,
-          "headline": "Редизайн Radar от Cloudflare: баланс глубины и юзабилити",
-          "description": "Cloudflare поделилась кейсом редизайна своего продукта Radar, показав, как им удалось совместить техническую сложность с интуитивно понятным пользовательским интерфейсом. Это отличный пример продуктового дизайна для сложных B2B-сервисов.",
+          "headline": "Редизайн Radar от Cloudflare: баланс технической глубины и удобства",
+          "description": "Кейс-стади о том, как Cloudflare переработал свой продукт Radar, улучшив его юзабилити при сохранении технической сложности. Это пример успешной работы с дизайн-системами и сложными интерфейсами.",
           "source": "blog.cloudflare.com",
           "favicon_char": "B",
-          "favicon_color": "#F38020",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-10-08",
           "read_min": 6,
           "is_ui_update": true,
@@ -60,24 +60,24 @@
         {
           "id": 5,
           "headline": "Поведенческая экономика и UX: дизайн для иррациональных людей",
-          "description": "Статья от Якоба Нильсена исследует, как принципы поведенческой экономики могут быть применены в UX-дизайне для создания продуктов, которые лучше соответствуют реальному поведению пользователей, а не только их рациональным ожиданиям.",
+          "description": "Статья исследует, как принципы поведенческой экономики помогают дизайнерам создавать более эффективные и убедительные продукты, учитывая человеческие предубеждения и иррациональность.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-07",
-          "read_min": 8,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZV2tFeGlRZ0diLUZ3RjZIcFo3aEZSNy1OQkk0VEs0QmpEWW5KM08ydnctcnVkam11ZEtvcTJjQU8tYkJFcVUycHBQamlpT0RmdkREOFJLMXBIR0l4ZC1aYW9YbFB3NVRDQWFn?oc=5"
         },
         {
           "id": 6,
-          "headline": "Коллаборативный дизайн приложения для людей с нарушениями интеллекта",
-          "description": "Исследование демонстрирует, как люди с ограниченными интеллектуальными возможностями участвовали в совместном дизайне приложения для упражнений на равновесие, фокусируясь на безопасности, простоте и чувстве принадлежности. Ценный кейс по инклюзивному дизайну.",
+          "headline": "Совместный дизайн приложения для людей с ограниченными возможностями",
+          "description": "Проект по совместной разработке приложения для балансировочных упражнений, ориентированного на безопасность, простоту и чувство причастности. Подчеркивает важность инклюзивного дизайна и UX-исследований.",
           "source": "bioengineer.org",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-07",
-          "read_min": 5,
+          "read_min": 6,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdlpNbUF2ZjhQdnU5V3ZnRXVudkJrMERjZC1EejlScTBHTXRBbmE2ZzJ4T1hFV1lwdVBFSl9NNEphYVZZY0p5c3V2SDlmUl9EZGpGVFlqbElBRHJPMnk3ZnVvNEhaaGxOcXVmQVNKbm5JbUdSeEV5SVkxTF9qZEljNHZfRkZ6TjA1V3lCYTdZMFpkUjRKc0RSWi1LclJZWEFsUjB3MWYtckp5TUt1S1ljazgxZkJmU1R4NUhR?oc=5"
         }
@@ -91,75 +91,75 @@
       "items": [
         {
           "id": 7,
-          "headline": "Сервисы Яндекса испытывают сбои после атаки на дата-центр",
-          "description": "После атаки БПЛА на дата-центр под Рязанью, ряд сервисов Яндекса, включая потенциально \"Яндекс Услуги\", столкнулись с перебоями в работе. Это может повлиять на пользовательский опыт и доверие к платформе конкурента.",
-          "source": "dp.ru",
-          "favicon_char": "D",
-          "favicon_color": "#FFCC00",
+          "headline": "«Яндекс» сообщил об инциденте в дата-центре в Сасово",
+          "description": "Произошел крупный инцидент, затронувший инфраструктуру дата-центра «Яндекса», что привело к массовым сбоям в работе его сервисов. Это показывает уязвимость критической инфраструктуры.",
+          "source": "habr.com",
+          "favicon_char": "H",
+          "favicon_color": "#00B341",
           "published_at": "2026-10-08",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vX2liSDM1Yl9mT3B6U0xPdG9YN1RJdm1KNEI4ZUlSTGNRbFBZYmoyS0twcGNRd2cxR3RNNkxYX2ZVT1Y2NGFrNm5hY0FmM2otYmNRZ3FxWXFhczRQT3NnOHVpRFllTzNnQW1CZ9IBd0FVX3lxTFBGUThSM0tuYU11UE5XclBqRm84cTJyWWd5a0tBX0oxanRBR3ZWOW15Q0g3Y1Qyc0xHMDM1UG1XWVNLY3p6MG9hWlJ3WjFQblhSaWxVcFphbFZjYTdtZWNpZlhRRmprSWh1ZERUVkxWWkJmaTFsN2k0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc3QtUlpoLXpUUGc3ZlBpdDA2eGhfT0FfcTVtaDRhUUpDbnNIdVRYeGwzWFpIcHhxTldZWDVjSTRJdi1sQXlvdtIBWEFVX3lxTE5ha05JN1BLc09nLXNlVWY3eldDZ1pseUpWSDN4SUdsQXJVR2RxY3c2eFl4X0ZyN1VGaDdlQm8yLUFmMEdxTVZXalozNFBTMG9DUU10SFpSbWY?oc=5"
         },
         {
           "id": 8,
-          "headline": "Нейросеть «Алиса» от Яндекса работает с перебоями",
-          "description": "Пользователи сообщают о сбоях в работе ИИ-помощника «Алиса» от Яндекса, что может негативно сказаться на взаимодействии с продуктами экосистемы, включая те, что связаны с \"Яндекс Услугами\".",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-10-09",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUdPVUZZTE1RcU1aZFdXakJyb2NXNTh2d252bGtEWUlweXJuaHF3d1dXQjlWTTZVZHh6Yjl1Vjh3NlVNM0I5RFkwREp3LWdiZkt5TGlWUVZmVDBMaW54ZjJVQ25SOXFBTmtBOUJrVnk1X3Y3U2FQQm54eW1seEVUV2dhRVN4eUZ3UjE2N1diVnRtWGY2Z1V6LWtSZzFyN3NBRHFVdUpn?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Сбои в работе сервиса Яндекс Go в России 9 октября",
-          "description": "9 октября пользователи столкнулись с масштабными сбоями в работе Яндекс Go, что повлияло на доступность такси, доставки и, возможно, других услуг. Это демонстрирует уязвимость инфраструктуры конкурента.",
-          "source": "cybersport.metaratings.ru",
+          "headline": "Назван неожиданный виновник гигантского сбоя Рунета, не связанный с БПЛА",
+          "description": "В ходе расследования причин масштабного сбоя в Рунете, затронувшего и «Яндекс», был выявлен другой фактор, не связанный с атаками. Это важно для понимания рисков и обеспечения стабильности онлайн-сервисов.",
+          "source": "cnews.ru",
           "favicon_char": "C",
-          "favicon_color": "#FFCC00",
+          "favicon_color": "#D32F2F",
           "published_at": "2026-10-09",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmI0NHZkMDNWazZ4MFEtZUZITnFFTG5GVGZXNmxkUnI1WmJxaGN2VmtUandMSmRoTHJDdW9uZkJnOUNEbk9NYjBXNTQ3Q1NHby1YV3NsTnhZNzFHZHdFV1ZDNl84WmJpd0tOWE5laFkwTFF2Q3JQZG1hUkJwLTRoZzlnY3ZUcnlvaU9QVjhsVVlDcVBDZ3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mTlNNRENSQWxDcUlrSExwYmtlekphZU1QLVRFTXBsd3hJUmtjblk2WEFzQXEtYk9VeDlCTTF4WEhVNGVaeTV5dHlDSnBnT2JyZXdIdGdKZ1A3ZFhsRklwb0J5N3Q4eFNiVUdGUzNqc2FHV1JYTEhONg?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Авито Услуги и PIM Solutions запустили сервис отправки посылок",
+          "description": "«Авито Услуги» в партнерстве с PIM Solutions представили новую функцию по отправке посылок через пункты выдачи. Это расширяет возможности платформы и добавляет новый вид сервиса для пользователей.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-07",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xnMnZtZU01RzZEQ1ZpSVgtTnJGQ0gwS0ZTYUpPMXN2NjhqSWcyMXktX2tDMkM0M3l1Mm8zd3JMY3FTSXptdm05UTMtLTF5ODNjQWNBU1hpWWZNN2JpeXNqQk1QeFZYblZHTlkzSThydmlzSFRYcHVuYUw0OTcwSXpLZkNxVldHSklDdHZCem9xV0FibkU3S0djcjRYeDRBbGxybl9tR3ZjMEFXR2NTUQ?oc=5"
         },
         {
           "id": 10,
-          "headline": "«Авито Услуги» опубликовали руководство по выбору няни",
-          "description": "«Авито Услуги» представили советы для пользователей по безопасному и эффективному поиску няни. Это показывает их активность в поддержке ключевых категорий и повышении доверия к сервису.",
+          "headline": "Авито Услуги выпустили рекомендации по выбору няни",
+          "description": "Платформа «Авито Услуги» опубликовала статью с советами по найму няни, что свидетельствует о работе с контентом для привлечения и удержания аудитории в этой категории услуг.",
           "source": "primamedia.ru",
           "favicon_char": "P",
-          "favicon_color": "#1A92F1",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-10-09",
-          "read_min": 2,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02M0l5US0tSE0yR1NfNGpJbE1peUQtU2tEU3lMa0NfWG5HZ3hBN3NpT1RRdzgtTUhuZ1FOZmVzaUFQZUk4NWdsWF8wNA?oc=5"
         },
         {
           "id": 11,
-          "headline": "«Авито Услуги» запустили сервис отправки посылок с выбором службы",
-          "description": "«Авито Услуги» совместно с PIM Solutions представили новую функцию по отправке посылок между пунктами выдачи, позволяя выбрать службу доставки. Это расширяет их логистические возможности и привлекает пользователей.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A92F1",
-          "published_at": "2026-10-07",
-          "read_min": 4,
+          "headline": "Yandex Qazaqstan помогает бизнесу создавать цифровые продукты с ИИ",
+          "description": "«Яндекс Казахстан» активно сотрудничает с местным бизнесом, предлагая решения на базе ИИ для разработки новых цифровых продуктов. Это показывает стратегию развития B2B-направления с использованием передовых технологий.",
+          "source": "digitalbusiness.kz",
+          "favicon_char": "D",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-08",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV0VfSkRSWXZ1TXU5UGxkb29EU0hoVUVRQ1ZHLUs4YVh1OGw2ME5CYllCS28tc0piYWpDelRReEZZU1JiLUtzbnRwTkwxd2FQazc1NkkyUW5OZDM2a0hxeTMyb3VFT3VtczdfUmNXQ2F1VmkwU04wYU5RWFp4cnZzN0FuSzl2SzZaZnpXeEFjdHVZT0Z5Y2Y5eEVHd2RUU2tFQ29SbU1vOXpFM1pmOHE5bmRDRW9zVUhpT01UUEstTktHQTBV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0dycy1wRjdpOHR1WEN2SGlsdHNjaXhmWl9rYTltbkJ4TVlNSXlyZ0hDUGIwTmt3cEc1WUE1bzRjVmN0ZVpLaE9fRlBQZTZNOTlobnUxMGxnZGZLRmx4MlpZVVhWRFFBRjBBMWVFMl92UDBaVTNWVDZhUHN1NWtQdkx5VllKcm5wNmY3V2dacEduM0ROVEtYeHNjM0R1aHVjaWoyRkw3MFZfZm5NLW93bGZjcnpPOHFYd0J3Y2ZEZnNyTThreFVKdnBn0gHPAUFVX3lxTE1wRk5VT2N3dUVjTFJ2bV9XbVpOeTZTQVpxcU5FMHU0bXdBMWhyTExvaHRUaVFCZ3Riamc0NkhxNGFhWDRqNTF4aHAxeU9famltd0JCZDlVanZXalQtOGloNWt1MDJybnZBWUdkM3N6eGVMcXBGdWl0QjJkRHpaaUYwd1lGWnB1aWVwWm9lODdPRU9BX0NqSjJod3B3NkJqOHFaXzFtalZIMHFFbkZScEozejBmOHpXTHBlcV9pSlFUTVdYcl9FMzBtUUVrdHZFMA?oc=5"
         },
         {
           "id": 12,
-          "headline": "«Авито» предупреждает о риске обхода платформ через ИИ-агентов",
-          "description": "Руководство «Авито» выразило опасения, что платформы могут столкнуться с обходом их систем пользователями через ИИ-агентов. Это поднимает вопросы о будущем взаимодействия с пользователями и необходимости адаптации бизнес-моделей маркетплейсов.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#1A92F1",
-          "published_at": "2026-10-06",
-          "read_min": 5,
+          "headline": "Масштабный сбой в работе Авито в России 11 октября",
+          "description": "«Авито» столкнулся с перебоями в работе своих сервисов на территории России, что затронуло пользователей платформы. Это подчеркивает важность стабильности работы крупных маркетплейсов услуг.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-11",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcE13bUxySW5ZVW5famxFZVVqMVlLckhFTWNyNWRZRGZWbV9CR3R4dTNYa240WDd4VjFESEo5U3E4UGpXcXVrTVhvb01rSUo4SjdqNFFyelVFZXVOeEpUQ21zeE9fc1BUdnFKMVl2VmNGX3BzZUFtQlJrMGRBaS0zTzZNWXJIbXRYSEtDYS1Qbm9iMVBWRnNENUN5RlVxUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
         }
       ]
     },
@@ -171,75 +171,75 @@
       "items": [
         {
           "id": 13,
-          "headline": "Graphisoft представил Archicad 30 и дорожную карту по ИИ",
-          "description": "Graphisoft анонсировал новую версию Archicad 30 и поделился планами по развитию ИИ-функций в своих продуктах. Это дает представление о будущих возможностях генеративного дизайна и автоматизации в архитектуре.",
-          "source": "aecmag.com",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-07",
-          "read_min": 5,
+          "headline": "Graphisoft представил Archicad с ИИ-функционалом для дизайна",
+          "description": "Компания Graphisoft анонсировала новую версию своего продукта Archicad 2026, включающую интеллектуальные функции на базе ИИ. Это открывает новые возможности для архитекторов и дизайнеров в автоматизации проектирования.",
+          "source": "nemetschek.com",
+          "favicon_char": "N",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-08",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFdKbFNmU2E4Z0FEeGRGOU8wcFFCREx2aDF6elpZcWh4bWF3SXN0UG5yclVGWUNuc0lXOWtLcGl2WThsc3lnT0NoUzdKQl8yS09tdmlUT09vNmYwajFaR1ZPN1lIMWRPcHBrR2VaYm4weElyLURiTnV4OC1tdEZrdnpR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF91VG04a1BxX3REY1JCay10TWZGQnVXNFJpdFlSalVMZmduNGdVZEdkUS1xZXdPNmtMRHNBOVFacFc3THBqRkJkVVFuOHV1N1poN0xTcjdMT1I0b2o0QUxqRnI0aTBZTEtLYjlUR01OcllHNzRSUzJMdzRSTXZXNmdQVzNBVmVhN2t1ZEtqX1NmSlJCYTR1Z3B5amIzOHQySnJwb1pZdEVWUUhtZHpBMFpSamZSNXBQ?oc=5"
         },
         {
           "id": 14,
-          "headline": "CorelDRAW 2026 получил новые ИИ-функции для генерации векторных изображений",
-          "description": "В новом обновлении CorelDRAW 2026 появилась функция генерации векторных изображений из текста с использованием ИИ, что значительно упрощает создание графики. Это важный шаг в развитии генеративного дизайна для иллюстраторов.",
+          "headline": "Топ-10 онлайн-инструментов ИИ, делающих работу более «человечной»",
+          "description": "Подборка лучших ИИ-инструментов 2026 года, которые помогают создавать контент и изображения, выглядящие более естественно и менее «роботизированно». Важно для дизайнеров, работающих с генеративным контентом.",
+          "source": "techbullion.com",
+          "favicon_char": "T",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-10",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaU1aRFlXVFZETzBuUWZ0Si1iU1RiQmctRU0zZWZSeS0xNW42NXZoWm80OFJpXzBkdkVFVFBuNGhQWGtxYXZYNkxZT0JPM0VZb2pMSElUQUl5bUtRMV9WOVRNM3RsMVZQQ2lLNF9MQmlwVGNpXzNlLUg5MV9Ram0taE9peVF2VkNr?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "CorelDRAW 2026 с ИИ-генерацией векторных изображений",
+          "description": "Вышло сентябрьское обновление CorelDRAW 2026, которое включает новые функции ИИ для генерации векторных изображений из текста. Это значительно упрощает и ускоряет процесс создания графики для дизайнеров.",
           "source": "finance.yahoo.com",
           "favicon_char": "F",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#6A0DAD",
           "published_at": "2026-10-08",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTdHczcyZC0yWnRKVE1VaTBiTUdEYUJJYk5iYjJlZlZkclVKS1ExTEM2dHRvTWRGTTV0Q2EtNGlvbzNqZk9ubC1OMFllbm5hd2FObXdzSV9fYmxpWHBFZHQzQzBTdGJRQjFOSTcxTDNXc2xpb3ZBMGJuUEUxY1BJa2xBeVA3YlhqbXNaU3kwcnVKc0dwQmFV?oc=5"
         },
         {
-          "id": 15,
-          "headline": "Обзор 8 лучших ИИ-инструментов для создания и дизайна электронных книг",
-          "description": "Статья представляет рейтинг из 8 ведущих ИИ-инструментов, способных помочь в написании и дизайне электронных книг. Это расширяет возможности дизайнеров по созданию и оформлению контента.",
-          "source": "southfloridareporter.com",
-          "favicon_char": "S",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-09",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3c4MkxkbUpaU1VSWFNrWFRITzJPMHhJUmFZS0FNMm1rVFhwYzVueUo4OFdpU0luS3BPLV9tN3h5dWY5Vlc2Z3hkdk1Db0JqNXhhSFpKdjRsNmlELVhmRlpvd0YweW5xWEU5WWZONFd0UlhlVzF4ZEZtTGpxYVJkYVBONzdDNHprOFJ1eUFLTmpDby1sUmJjWk9laEg?oc=5"
-        },
-        {
           "id": 16,
-          "headline": "Adobe Creative Cloud воссоздали с помощью ИИ и выпустили бесплатно",
-          "description": "Неизвестный разработчик воссоздал ключевые функции Adobe Creative Cloud с интеграцией ИИ и предоставил их бесплатно. Это подчеркивает тенденцию к появлению мощных и доступных ИИ-инструментов для дизайнеров.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#FF7043",
+          "headline": "Anthropic представила дашборды и инструменты анимации для Claude",
+          "description": "Anthropic расширяет возможности своего ИИ-помощника Claude, добавив функции для создания интерактивных дашбордов и анимаций. Это открывает новые перспективы для использования ИИ в создании динамичных интерфейсов и прототипов.",
+          "source": "reuters.com",
+          "favicon_char": "R",
+          "favicon_color": "#D32F2F",
           "published_at": "2026-10-08",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlIXzlKZkZvZ29DQ0d2M3plTXF4TzJORFZIaDJxVXd1Q0ZsTlE1ZkVFOFE0WV9aaWE5Q1l1akYwX1RMSHdOVFpVWlJjUGhKbWdxMEx4alhIUW9wREhEd0F5Y0NOaDZSWjRpbmJkR29JX1ZuT182eGhvTElnS2JRck94S284dU52NzlwTnYxekl0M05EcHc3UUxrN1M5RDE5M2UtWkhFcFduSDJScC04VUdTVS1uNEJoS0xCUV9pT2Q5a0x1cUtV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5"
         },
         {
           "id": 17,
-          "headline": "Сравнение лучших ИИ-инструментов для создания логотипов: Design.com, Canva, Adobe",
-          "description": "Обзор и сравнение ключевых ИИ-инструментов для создания логотипов, включая Design.com, Canva и Adobe. Эта информация поможет дизайнерам выбрать подходящую платформу для быстрого и эффективного создания брендинга.",
-          "source": "tech-insider.org",
+          "headline": "Одиночный разработчик пересобрал Adobe Creative Suite с ИИ бесплатно",
+          "description": "Энтузиаст использовал ИИ Claude для создания бесплатной альтернативы Adobe Creative Suite на Rust, стремясь к полной функциональной идентичности. Это демонстрирует потенциал ИИ в разработке мощных дизайнерских инструментов.",
+          "source": "tomshardware.com",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-06",
-          "read_min": 5,
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-08",
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRcS1pdG5mM2RjT2dXMi05MjZCdWNtVHV4VkExajROeHNsRFNMS2NSbmtBVXhoZzJxb1Fxa3FVcUJLUzR3Y210ZFI4c2d6d0JablRXVVAwbC1sRWRFeTNCWHI4S1VVRXRMNURfVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWGpVS2pvbWZ2U3VRWDY3MjMyWDlHQ0NKX3NoOWRBQkdMTkk2VUIwMjNCR1NLR3ZvRUZuUmJXT2pURUdfbTBLYlBLOV9ab3puSXcwNElORE54SVZDaF9CTUhsRlFEZUxySl9PVDJfQVJGZ3BfZk01ZE04SkZYelpwTzhhQU9IWDBUNW1IeGF2eU81a0Rrc1RlMGdhQ2l6VzVicGxDaDluaFdUaE92X0NValpuY1E4ZjFNeHFIalh1Q1JKbHVKMHZta3RLOHl5M0szNWVmWmthMExNWE50LUc2cWRVWW9rUDJhT2VZNDNGbXVvdFo2VTVQckpFTWJsWTQ3ZnM5UGxseFpfZ2R0eEhLSDh4UE5lN1pKWGE1end0SjI0TlNySlRRS25yb2JrV1FNOEZ6bFVNY2RubUtWQ2kxUTZMQjFpeXMwWk10WHZZbVh6aWVZcGpLdDVR?oc=5"
         },
         {
           "id": 18,
-          "headline": "Claude от Anthropic: дашборды и бета-версия инструментов для анимации",
-          "description": "Подробный обзор новых дашбордов и бета-версии инструментов для анимации в ИИ-ассистенте Claude, включая спецификации и влияние на дизайн-процессы. Эти функции расширяют возможности дизайнеров в прототипировании и визуализации.",
-          "source": "kingy.ai",
-          "favicon_char": "K",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-09",
-          "read_min": 6,
+          "headline": "Unity представила ИИ-инструмент Unity Spark для Google Playground",
+          "description": "Unity анонсировала новый ИИ-инструмент Unity Spark, предназначенный для создания игр и интерактивного контента в среде Google Playground. Это усиливает возможности генеративного дизайна и прототипирования в 3D-пространстве.",
+          "source": "gamedeveloper.com",
+          "favicon_char": "G",
+          "favicon_color": "#4CAF50",
+          "published_at": "2026-10-07",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHJhRDgwOVd3TUtWWWtFMUpYSVBDNGMyNFh1TWFuOTQtNnlRM1VRV255UTByajljdDR4M3BVLTdOenRCNWZnTUttVzVUQWV0T0dqUlNCM2pxYzFaZHhKQ0FVSThFemRLOWtKUG9pTTlmZjZSTzVvVmpJNk0tYm9saGgtVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEhHbFVOUUZfc294UjBnSU5FMlp6NVVtZUtJdWpWSFdxUE1fSncwcmcwQnZYdVg5MFVJaHNfa243WTBZLUhVRTJjcENMVDFBazFjT3VEa1UyU1E3THBVbVY4NmhBazlYelZuQWlFQ194bk9NWVhSRkRVaUpXbTgyOFIxS1JoSzlseW9IeFVfdzlhLXFTU0hwaE50Zl9OUXhoOHpYTF9fMWtJMkNyRWZDUFlIdDBBMndGaWJV?oc=5"
         }
       ]
     },
@@ -248,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 19,
-          "headline": "Wildberries, Ozon, «Яндекс Маркет» о платном возврате товаров",
-          "description": "Крупные российские маркетплейсы Wildberries, Ozon и «Яндекс Маркет» выступили с заявлением о платных возвратах заказов. Это изменение политики затрагивает бизнес-модель и клиентский опыт на двухсторонних платформах.",
-          "source": "pnz.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-08",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFlpOTBfZTVEVlNGVkNCS2dJTDJLWUN0bEJ4Y1p0a3RSSjBOODZVM1dDVEpvN1Fkb2UtSHFHLXFUVVNuN2xYOS0tZ0xhRHYwM0UxU2FoNVlFTGsyVEptYnhmSnJLZ01OWVI4UFluNVBtZmtfZGVrQzRqajdkLVFpMkZ0T3ZsVEU3MGthcENqbzRPRlY0UkZyT1FhT1RDSTdZZDI2X2E4ZzNDY1ZxZDR0dTQxQklKTFVGYWtmdVpTQ1UtRGVl?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
