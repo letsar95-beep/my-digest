@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T12:49:22",
+  "updated_at": "2026-10-13T05:02:43",
   "next_issue_at": "2026-10-15T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,11 +11,11 @@
       "items": [
         {
           "id": 1,
-          "headline": "Рынок труда для продуктовых дизайнеров: юниорам всё сложнее",
-          "description": "Анализ 50 вакансий показал, что лишь 2 были открыты для начинающих дизайнеров. Это подчёркивает растущую конкуренцию и потребность в опыте на рынке.",
+          "headline": "Рынок найма: только 2% вакансий продуктовых дизайнеров для джуниоров",
+          "description": "Анализ 50 вакансий показал сложность трудоустройства начинающих дизайнеров, что подчеркивает необходимость углубленного портфолио и узкой специализации.",
           "source": "medium.com",
           "favicon_char": "M",
-          "favicon_color": "#000000",
+          "favicon_color": "#6750A4",
           "published_at": "2026-10-11",
           "read_min": 4,
           "is_ui_update": false,
@@ -23,51 +23,63 @@
         },
         {
           "id": 2,
-          "headline": "UX-дайджест: CAPTCHA, отмена действий, роботакси и юзабилити ИИ",
-          "description": "Свежий обзор UX-исследований от Якоба Нильсена охватывает широкий спектр тем, включая безопасность роботакси, юзабилити образовательного ИИ и паттерны взаимодействия с элементами интерфейса.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF6B00",
+          "headline": "Лучшие приложения для ведения бюджета в 2026 году",
+          "description": "Обзор и рейтинг финансовых приложений позволяет анализировать лучшие практики UX/UI в категории личных финансов, полезные для продуктового дизайнера.",
+          "source": "forbes.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
           "published_at": "2026-10-12",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XZlNBelVWN3NTeUpMUHlydlhTdVdqQjBRRUtKbmdlWDRYSWt4OC1yNThxc0JldTZZVE5HRmxuMzl3R3EzTmdYRm55eGJOQktZUU5DM0F0YWlDLWZUTVZ2ZUxGaEhPVGF2NVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5"
         },
         {
           "id": 3,
-          "headline": "UX-дайджест: анализ ИИ-тематики, скроллинг и тесты без выводов",
-          "description": "Очередной UX-дайджест от Якоба Нильсена, где, помимо прочего, обсуждаются возможности тематического анализа с использованием ИИ и влияние искусственного интеллекта на навыки пользователей.",
+          "headline": "Поколение Z выбирает «дофаминовый декор», отказываясь от бежевого",
+          "description": "Тренды в дизайне интерьера могут влиять на визуальные предпочтения пользователей в цифровых продуктах, отражая стремление к ярким и эмоциональным решениям.",
+          "source": "fortune.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzg5UDZLSllYcWp1V0IyOXNleGFxOUhoSGRvcVE0Rnk5d2EtTVgxaXhaVEl1QkwzemlJLXhET0daVVF1UXUzcmpiN3hic0Rxc1lhVUFSWUpNMzg5QzFaLXpXYkZ5UDBZbGs5SENrNE54anVPbUlCWTRQRVgyUDlhbGJBcFJFa0NNR2RXeGJPNHZZbVE?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Запущена программа по дизайн-мышлению для UX в IIT Delhi",
+          "description": "Новая образовательная программа подчеркивает растущий спрос на специалистов по UX и систематизацию подходов к дизайн-мышлению в индустрии.",
+          "source": "ndtv.com",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-13",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORy1vV1NUVGZxWFZkUU9NZ0Q0RUNKY1pDakRMd2huQVUyZ1VHdDVXTjhzcFlSYUsxakl0VVgzXy1VZTh0VEtvS0tJNkcwMTRzTWthQjFGSEVEalJBSDc2UjQtSzhhSHNqV09qVDRaREhBNExOVmtONzJqcjA4U25Mb2FwelJPVTJnYjJvd2Z1b3RYLXRlR2FUblliUzBJZEFFdVhBV0ZqS0JwMDM0VXJVQzJpSTVBSVJBYVI40gHDAUFVX3lxTE5TVFlJZ3pCb0hudV9jV3FWN1Q1Rnp4Q1l0SjdEdlpFLWpQaUxQTGtZdVhPYmc4S0x2VW9YZFR5WGwyZEM4cEVGUVNVTnA2NUl0QmhqVDFsZEFBUjR0Yzl5UFpYNnMzWWNJZmlCM3NnTXlnUDRrak1Tb0tlN1IwZzJXUktRWmt3M1IwUFRseng1aHdSVDVkbmYyWmlxT0M4MHpHWm5nV2xtT3d6VU9hbk11THJaeW5OckwxR2E1WkktR0RJSQ?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Обзор UX-исследований: скроллинг, вишлисты и AI-анализ",
+          "description": "Подборка коротких заметок о различных аспектах UX, включая механизмы прокрутки, списки желаний и использование ИИ в анализе пользовательского опыта.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#FF6B00",
+          "favicon_color": "#6750A4",
           "published_at": "2026-10-09",
-          "read_min": 5,
+          "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OY0FZeFEyczRWS2V4RC1Cc0JESFJabXNfaC1qSWhZME8wbW5mN1ZEVG8wanExdkF6NDZ2cW1lR1lIT1hOeWFVclAyelRqTXAyVjMybjNwTzdydE9RcUFXckV2dXdpNjhRVUE?oc=5"
         },
         {
-          "id": 4,
-          "headline": "Редизайн Radar: как Cloudflare улучшил удобство и техническую глубину",
-          "description": "Кейс-стади о редизайне платформы Radar от Cloudflare, демонстрирующее, как команда смогла совместить сложную техническую функциональность с улучшенным пользовательским опытом.",
-          "source": "blog.cloudflare.com",
-          "favicon_char": "B",
-          "favicon_color": "#F38120",
-          "published_at": "2026-10-08",
-          "read_min": 6,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NeTZ6dW40Yk15UUlhMml5ejI4Zk00UnA2N2lGSjg4NURVeUpkTzRvRHZFZDc1V3VIRmdTXzBkZC1DNEw1NDNkVEQ1ZjBTeWRva3Vfc0N3?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Лучшие графические планшеты 2026 года для художников",
-          "description": "Подробный обзор и тестирование лучших графических планшетов, актуальных для цифровых художников и дизайнеров с любым бюджетом. Выбор подходящего инструмента важен для продуктивной работы.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#0056D6",
-          "published_at": "2026-10-08",
+          "id": 6,
+          "headline": "UX-дайджест: CAPTCHA, отмена действий и плавающие кнопки",
+          "description": "Обзор ключевых аспектов UX, таких как реализация CAPTCHA, функция отмены действий и использование плавающих кнопок, важных для улучшения взаимодействия.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-12",
           "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGdxdTI3c1Z6eS1DVmQ5RXV5eEtIU0hTN242Z29pVV84cDkzYlhuX0ppZFg5dGt6di1CUFRScmV0TWdWVEVVSnVIUWZZM0FyMG9VRDZwd0ltbXQxejV4aFJqWWJBZmYtZ2h1bll3WkFFbmgtc0dZNjdEay01SERHXzh5aWpXdmJkcVE3Q0lTb0ZHTkNiVS1MM00tSGt0WHN2QUt5b2o3TWZKWW0xT3o2MXRKOUQ5UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XZlNBelVWN3NTeUpMUHlydlhTdVdqQjBRRUtKbmdlWDRYSWt4OC1yNThxc0JldTZZVE5HRmxuMzl3R3EzTmdYRm55eGJOQktZUU5DM0F0YWlDLWZUTVZ2ZUxGaEhPVGF2NVE?oc=5"
         }
       ]
     },
@@ -78,76 +90,76 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 6,
-          "headline": "Удар по третьему ЦОДу Яндекса: компания снимает ответственность с себя",
-          "description": "После атаки на третий центр обработки данных Яндекс изменил свою политику, снимая с себя ответственность за перебои сервисов из-за внешних атак. Это серьёзно влияет на пользовательское доверие.",
+          "id": 7,
+          "headline": "«Яндекс» ограничил работу сервисов из-за атак на дата-центры",
+          "description": "Из-за ударов по дата-центрам «Яндекс» вынужденно ограничил часть сервисов, что критично влияет на доступность для пользователей и стабильность бизнеса.",
           "source": "cnews.ru",
           "favicon_char": "C",
-          "favicon_color": "#336699",
-          "published_at": "2026-10-12",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QZ1B5TTFhS05GbFJ6UTB6Ni14cE1pV0FXQWRMVzI2MEJ5Y2FnUC1TczFZMTNFVjFrVnJBd0pEX3BPT3MzRWxqNkotUEhWZGxsWlo5UVE5MXpXaVJsU2VRTEtjYVpsLU5jTjU3XzZzOVBGNFk?oc=5"
-        },
-        {
-          "id": 7,
-          "headline": "Восстановление оборудования Яндекса может занять до полугода",
-          "description": "Атаки на дата-центры Яндекса привели к серьезным повреждениям, и полное восстановление инфраструктуры займет до шести месяцев. Это означает долгосрочные ограничения для многих сервисов.",
-          "source": "vot-tak.tv",
-          "favicon_char": "V",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-12",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wTTd4eUJDSWFMYlA1a1AyaXlqNThFd29pdzlUbWp1dzRhZjBQNnhMVEk4cDFkWk9ONUhMRWk4ampQU0lHVHBkbDQza2U0a0xFMWxIMmJ2TldCR3QyeUJoQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84M3hHRGlUbGxVOFZKLWRaSWN4V0Q1bHN5X0F5cWFKTXBxVVRWbmtMY3RqYVBJV2IzWm1EdE9WcUpteERmbUhMazlYRGVVOXRNVXlpUWY4eUJoWkd1eXV1VXpDWVZJNUxxRDJ6bTI3a1hmYl9qa09r?oc=5"
         },
         {
           "id": 8,
-          "headline": "Яндекс ограничил скачивание папок с Диска для стабильности других сервисов",
-          "description": "В целях сохранения работоспособности ключевых сервисов, Яндекс временно отключил возможность скачивания папок со своего облачного хранилища. Это вынужденная мера из-за проблем с дата-центрами.",
+          "headline": "Восстановление дата-центров «Яндекса» может занять месяцы",
+          "description": "Эксперты прогнозируют длительный период восстановления после атак на дата-центры, что ставит под вопрос стабильность работы сервисов до конца года.",
+          "source": "dw.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-12",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUc2UWRYWFFUWDZsUnc2dVV0Z25sUVphbi03U3VwWDZGWU1WbHhCbXJFR2VXWnlreWVhM293TmgyUVRrcXEzVkNXUGZ5MEwxZUlPekxlc212ck5GaUs0SjdWVkVJLWczTjM4VWpVb0U1S1lrakp0Vl9iNlZZSG5uem5UN2ZkSnN6eFBRSjZ3RDBmQXhyMEdjRUF30gGaAUFVX3lxTE1aUjVubTVObnAzd1hFeFRiTHI0MHdiWUg3cUVkMU5GSUx2bTBjaDltWGFFQmJ4TFdaMTcyNFg2VkJBWVkzV0ZIWTdNZnh5TnF1UUI4N3JpajVsM2RqQmpUSVJYMjFNdjdzQmRZU05LUW5pUGNsbE9mTC1Dd3lWMWFEb3JJQTRjY0lOOHN2Sl9LdjZ0SmI5RHEycGc?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Атакованы три ЦОДа «Яндекса»: детали и сроки восстановления",
+          "description": "Атаки на три центра обработки данных «Яндекса» затронули ключевые сервисы, восстановление которых потребует значительных усилий и времени.",
+          "source": "habr.com",
+          "favicon_char": "H",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-12",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96UkV2NVBEeUgyZFlyd3JrR0JIVnJFZlE4anYxa0J2RUR2OGluM0F6VU9CUlBfQ19IcVgzcjRnS3haaWdqRmdRN0RqUmdnZ9IBWEFVX3lxTE5RSFlFOUtJa3hMVk9kOWxRZERHdTZOdm5IVThIWWVOZEpxSUZYbVRKLXlKYVJ4UUpuTlRDTHBjYXd1U05vUGh6Tmp2cElFQWFvWmJTNXJiYm0?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Атаки на ЦОДы «Яндекса» могут поднять цены на облачные услуги",
+          "description": "Сбои в работе дата-центров «Яндекса» могут привести к росту стоимости облачных сервисов и оборудования, влияя на бизнес-модели и ценообразование.",
+          "source": "kazanfirst.ru",
+          "favicon_char": "K",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-12",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHdEcXRPbG90YWlnYlpsemE2QVVxWWtzbmt5WENxQklSbkM0R3JrRUttajlLNW5iOG4wLTRDSU1OMVU3eHQ0emFjUGpzOVFGbGpneFJEUnczN1cwaG0wOGN6UV9sdTVuamxWMDg0ajFSbERsdUl6eFAtVHJZX1lDeHB2SDJMZlEtdTNhVnZvZnVqWjF5dHRobnNwd3RKRGg5Q0FN0gGrAUFVX3lxTE5Sc09KSG9IQzZzQUNLNG9LdF9RcWxUWmtpX3BPcnM3ZVBrNGhmc2hQSllFcFUxRWtFcHA3QnNCQllrMmlmeVNQeFpXTThtUzNnbWZVNXAzZnk4TlZKX1VVdWdxclBMTEcxNGFucVE4OUp6VGZiWkt0clZ4NUFsNXBvX195Rk52XzNDeHhia2txM2tTMm1ZMVM2d0FGMmFHN242LWdkSWRlVHI2Yw?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "«Яндекс.Диск» ограничил скачивание папок для стабильности других сервисов",
+          "description": "В целях поддержания работоспособности ключевых сервисов, «Яндекс» временно отключил возможность скачивания папок с «Диска», влияя на продуктовый опыт.",
           "source": "ru.themoscowtimes.com",
           "favicon_char": "R",
-          "favicon_color": "#005696",
+          "favicon_color": "#6750A4",
           "published_at": "2026-10-12",
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRjJmem1SQWcxek9mY0tscEE4WWdzZXFjRzV3MDU1NWpMRVNZdzlyN3dReTBHb0p6VHhYcm9ZVXBNeDJYT2ZSTGNoVFQ1bDgtd3l6a29vWC1FUjVzaGlMZ2NFME5oaU1IbktQb3B2MlZpOTlXSW9zUm1nNVAzc0dNcHZJWnpPOVhCMlp2dXRmdXAtNjVyQ09NSFU4M2FxVkx2YkloaFFoS1FGcFRLLVhKZGxyZWVKcEdFQVdWZUc1NmtBVDRpQm5LZTI0MUpNdw?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Яндекс объединился с облачными провайдерами после атак на ЦОДы",
-          "description": "В ответ на атаки на дата-центры, Яндекс заключил партнерства с Selectel, К2Cloud и VK Cloud для обеспечения отказоустойчивости. Это стратегический шаг по перераспределению инфраструктуры.",
-          "source": "anti-malware.ru",
-          "favicon_char": "A",
-          "favicon_color": "#40A040",
-          "published_at": "2026-10-09",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0czhBeXgtdlpZQktjYU56ajVyVlpqNlhoZXU1dElNdzg2eWhVUDNRZF81c2lfRGk1RElpNzVwTXdzdzdJNEs3Ykx3a0NjU0hYUk12cDZ6VF9CcW5fZmlSSlBGQWNIQTQ?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Сервисы Яндекса постепенно восстанавливают работу после атаки БПЛА",
-          "description": "После масштабного сбоя, вызванного атакой беспилотника на дата-центр во Владимире, сервисы Яндекса поэтапно возвращаются к нормальному функционированию. Пользователи наблюдают частичное восстановление.",
-          "source": "m.seonews.ru",
-          "favicon_char": "M",
+          "id": 12,
+          "headline": "«Яндекс.Пэй» не будет штрафовать за просрочку платежей во время сбоев",
+          "description": "«Яндекс.Пэй» объявил, что платежи по кредитам, пропущенные из-за недавних сбоев, не будут считаться просроченными, что важно для поддержания лояльности пользователей.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-12",
+          "published_at": "2026-10-13",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnBnZDhKX2lXeWR5T1Fta2xlZjlCUXFFNVJKakpUYk9CeVlCQU80SWl1amJLM0YxNDBnSHgxaU0zVVBBTEZwQ1d0eDFkS3hHbUhqSVFHU1hwU29qLVFNT21ydC1MY1hGclk1OWU3aFp3cThtZ1pENXpSYmVhLW9xU3JSQnY3dUdUM1lDN2ltam9EUHN0Q0pNVE1QRUFveXJrcEQ0T3hLTm41QzNrWmQ1dmd5LWwwLUpHUFJ0UUpwYjdpRTVvbmJWS1lNMk_SAcwBQVVfeXFMT0pwZ2Q4Sl9pV3lkeU9RbWtsZWY5QlFxRTVSSmpKVGJPQnlZQkFPNElpdWpiSzNGMTQwZ0h4MWlNM1VQQUxGcENXdHgxZEt4R21IaklRR1NYcFNvai1RTU9tcnQtTGNYRnJZNTllN2had3E4bWdaRDV6UmJlYS1vcVNyUkJ2N3VHVDNZQzdpbWpvRFBzdENKTVRNUEVBb3lya3BENE94S05uNUMza1pkNXZneS1sMC1KR1BSdFFKcGI3aUU1b25iVktZTTJP?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Новые сбои в Яндекс Алисе и умных устройствах после атак на ЦОДы",
-          "description": "Помимо основного сбоя, Яндекс сообщил о новых проблемах в работе голосового помощника Алисы и умных устройств. Это влияет на ключевые пользовательские сценарии и экосистему умного дома.",
-          "source": "ura.news",
-          "favicon_char": "U",
-          "favicon_color": "#D02B21",
-          "published_at": "2026-10-11",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55NF8wWnZLaFdGZ2JYR2ExdTVSaGNDRTFfd3YwV2lRbHNXaURKUWt2TjZyemI5bVR1OHV3OTY5NElFMTNrQ3hERzhJU2Q?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczg1SWI0TFByMW9vOXBad2pFMGpOd3hsUFNwQXdPdWxLYzg3OFppd0U1QTRqR0ludjJaeWtZNEdDRk9YdzkzS3czel9pQTlXQkNjd09kVkJyR1NnQlR3WnJzRXJ6OGNFRkZCSWtObFpDdWVJZjlRdFVTUlY1WnVzVTBsS1hEYmhTaVhCVE9YWl9Bd2lwTDZCT0dlNE1tTHdTOGRQWENpREZlX2psLVkxWmhSQXd2S0JHZzlXa2NCNkJILWZ3bnVvYVc5LW0?oc=5"
         }
       ]
     },
@@ -156,88 +168,14 @@
       "title": "AI для дизайнера",
       "chip_label": "AI-инструменты",
       "subtitle": "инструменты, релизы, бета",
-      "items": [
-        {
-          "id": 12,
-          "headline": "UX-дайджест: анализ ИИ-тематики, скроллинг и тесты без выводов",
-          "description": "В новом UX-дайджесте от Якоба Нильсена, среди прочих тем, подробно разбираются возможности тематического анализа с использованием ИИ. Для дизайнеров это открывает новые подходы в UX-исследованиях.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF6B00",
-          "published_at": "2026-10-09",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://jakobnielsenphd.substack.com"
-        },
-        {
-          "id": 13,
-          "headline": "Обзор KeyShot 2026: 3D-рендеринг и полезные AI-инструменты",
-          "description": "KeyShot 2026 предлагает быстрый и простой 3D-рендеринг с новыми инструментами на базе ИИ, которые действительно полезны в работе. Это значимый шаг для дизайнеров, работающих с 3D-графикой.",
-          "source": "creativebloq.com",
-          "favicon_char": "C",
-          "favicon_color": "#0056D6",
-          "published_at": "2026-10-08",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40eVVwdXNtVnMwLW05U0Jwc0NONWd4dWMwUHdDaVUwbTFISGw1TC1WVG0yU1p3bkNlTWkwcU9Tb1dTZVFOZ0prUHZyZmlUTXc2X2VVdnZic2lvZUFTM3dHYUJxSjVtVFRu?oc=5"
-        }
-      ]
+      "items": []
     },
     {
       "id": "mp",
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 14,
-          "headline": "Сбои Яндекс Go в Центральной Азии выявили цифровую зависимость",
-          "description": "Масштабные сбои в работе сервиса Яндекс Go в Центральной Азии продемонстрировали высокую зависимость пользователей от маркетплейсов услуг. Это поднимает вопросы устойчивости платформ и их критической роли.",
-          "source": "operativmm.az",
-          "favicon_char": "O",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-12",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVpJYkV0R2habVBXSDg2QWZLQ2s4X2VGYWZELUlhTFg5NWZIV0lTWjJFTnA4ZEZ3NVVublF2LVJiNHF1SGxWN0hGTnNNdnNGNTlrRnlOTnBSVmpUYURMcFlNU1lxUm1iOUpyRXFlNkxhQ3FBaTNuVjMyNnVvSXNxSnQzUFNUMkZLcjI0X2p4TFdZUXU5ZFNYMXRKNndhX0N4ODVZc3V3?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Яндекс Пэй: заверения о безопасности средств после атак на ЦОДы",
-          "description": "После атак на дата-центры, Яндекс Пэй заверил клиентов в безопасности их денежных средств. Для любого маркетплейса обеспечение доверия и сохранности финансов пользователей является критически важным.",
-          "source": "moika78.ru",
-          "favicon_char": "M",
-          "favicon_color": "#407BD4",
-          "published_at": "2026-10-11",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0dqTS1zVVptMHY3dWZ2TU5vTEN0YmFrTHpFN1MxS1dXU3JWeHgyVUxNUS10LXNIR3BEY0U5QU1DWWtHMDNHOFp3VHRqNENVeDVyVmMtMFdndjMtU0JlazRZUDhnekVxaXo3aWtnTEF1enctT1hxVzVuVEJZZmlDUmdZdXdOMkM4Tkxhc1FPS3pvdHBQVF82TUpGaGFocGVYaVZfdnNvaXhjU0hWUEdLRS1fMUM3XzJ3bEZnaHN4Vm5FYTA?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Массовый сбой интернета 11 октября: влияние на сервисы и маркетплейсы",
-          "description": "Масштабный сбой интернета в России 11 октября затронул сотни сайтов и сервисов, включая многие маркетплейсы. Это подчеркивает уязвимость цифровой инфраструктуры и важность надежности для платформ.",
-          "source": "gogov.ru",
-          "favicon_char": "G",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-11",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oMy03OVg0MWNoS2NmeEZYTGdGQVlYV2RNNS1pSEJBNjVpc1BaMGNZV3E1VHdpRVlqaVB2R2pMc3NRdw?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "Авито Услуги: рекомендации по выбору няни для повышения доверия",
-          "description": "Авито Услуги выпустили рекомендации о том, как выбрать няню, что помогает повысить доверие и безопасность на платформе. Это пример работы маркетплейса над аспектами 'trust and safety' и онбординга новых пользователей.",
-          "source": "primamedia.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-09",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02M0l5US0tSE0yR1NfNGpJbE1peUQtU2tEU3lMa0NfWG5HZ3hBN3NpT1RRdzgtTUhuZ1FOZmVzaUFQZUk4NWdsWF8wNA?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
