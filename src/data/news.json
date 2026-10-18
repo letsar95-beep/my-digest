@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T05:02:54",
+  "updated_at": "2026-10-18T05:01:34",
   "next_issue_at": "2026-10-19T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,11 +11,11 @@
       "items": [
         {
           "id": 1,
-          "headline": "Ключевые тренды и статистика веб-дизайна 2026",
-          "description": "Обзор важных статистических данных и инсайтов в области веб-дизайна. Поможет дизайнерам понять текущие тенденции и будущие направления развития.",
+          "headline": "28 ключевых статистических данных веб-дизайна на 2026 год",
+          "description": "Изучите важные тенденции и инсайты в веб-дизайне, которые помогут продуктовым дизайнерам принимать обоснованные решения и следовать актуальным направлениям развития UX.",
           "source": "hostinger.com",
           "favicon_char": "H",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-10-14",
           "read_min": 4,
           "is_ui_update": false,
@@ -23,20 +23,44 @@
         },
         {
           "id": 2,
-          "headline": "Лучшие бесплатные альтернативы Figma в 2026 году",
-          "description": "Гайд по бесплатным аналогам Figma, включая инструменты на Rust. Актуально для дизайнеров, ищущих новые или бюджетные решения для прототипирования и коллаборации.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
+          "headline": "Редизайн Google Gradient 2026: Иконки Workspace и уроки брендинга",
+          "description": "Анализ обновленного дизайна иконок Google Workspace, дающий ценные уроки по брендингу и визуальной системе для продуктовых дизайнеров.",
+          "source": "brandvm.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-13",
+          "published_at": "2026-10-14",
           "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yV0Yzclpyb1V3cFVZdVplVXM5RVFGSlNwWXluVWJsMHVSdFdiSGxYLUdndjJQMFhsRDh4UXNma3BqVXdwMnN2XzNSdE5Nc3N3LUsza1pVVkw0dXd2US1lT3BmdjlsOG0xYV9Kb0dWVUFYZlhWb21CblNUcFI?oc=5"
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWlVwYS1qcVdJOS1oaVNEWjY1UVhRMDlDdWhXcWNJWHh0R2NsNzhvYXBQRjBLSkVsY0NXbW55YU05WjUzMkFod2t4bUNMcXdvMFlvQTFZUjJlUEp2NEE2Um5uU3lzZVVP?oc=5"
         },
         {
           "id": 3,
-          "headline": "Обзор UX-трендов: использование AI, доступность и новые паттерны",
-          "description": "Дайджест ключевых UX-тем, включая вопросы применения AI, проверки результатов, написания текстов и автозаполнения. Необходим для понимания современных вызовов в UX.",
+          "headline": "Лучшие веб-дизайны из Великобритании: вдохновение и кейсы",
+          "description": "Обзор выдающихся примеров веб-дизайна из Великобритании, предлагающий продуктовым дизайнерам свежие идеи и лучшие практики для реализации собственных проектов.",
+          "source": "designmodo.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbklPNGRCWHduVUpTTFRnV1lodWJlMFhoby0wTDBlVEdtcFZ3M3FVdmp1YWExWlhSVElOOHlhRkJZTDY4V3Z6WVVkdGtvTU1tMDg5TExVVWVSNnc?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "8 лучших компаний по оптимизации онбординга приложений",
+          "description": "Исследование ведущих компаний, специализирующихся на улучшении первого опыта пользователя в приложении, что критически важно для удержания и активации новых пользователей.",
+          "source": "techbullion.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMzBkcDktRGdYRGIxd002c2dPc3UwY2txbmZBOHl2WlhBWm0wSTNQck5xeTV4S2w0alNMZTNuUmotZjhySUJYcjI4TzhfcDhqOWxDemE4UmdXT1BfbERRa3NvR0xPU2xNa3EtREZwMXdJSkZ4OHl3QlhoNXpzNDA?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Обзор UX: Использование AI, потеря данных, автозаполнение и другие аспекты",
+          "description": "Дайджест ключевых UX-тем от Nielsen Norman Group, включая этические вопросы использования ИИ, способы предотвращения потери работы пользователя и оптимизацию интерфейсов.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
           "favicon_color": "#6750A4",
@@ -46,40 +70,16 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTm9LT3dpRUFEdFJnUlo2LWZRc1U2ZV96SHRGRFF3UmlzMFd3aTlSX2kzR1ZBbXRISGQ5MHIzSVI1N1d4SVlMUHRVc3k0Yk03T0RjM0JQN2l6UlYxWW1ObGZZU192bWFuLVE?oc=5"
         },
         {
-          "id": 4,
-          "headline": "8 компаний для оптимизации онбординга приложений в 2026 году",
-          "description": "Список ведущих компаний, специализирующихся на улучшении первого опыта пользователя в приложениях. Полезно для поиска подрядчиков или изучения лучших практик в онбординге.",
-          "source": "techbullion.com",
-          "favicon_char": "T",
+          "id": 6,
+          "headline": "3 стиля взаимодействия с ИИ: пошаговый, агенты и постоянное включение",
+          "description": "Анализ различных моделей взаимодействия с искусственным интеллектом, что помогает дизайнерам проектировать более интуитивные и эффективные пользовательские сценарии.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-15",
+          "published_at": "2026-10-14",
           "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMzBkcDktRGdYRGIxd002c2dPc3UwY2txbmZBOHl2WlhBWm0wSTNQck5xeTV4S2w0alNMZTNuUmotZjhySUJYcjI4TzhfcDhqOWxDemE4UmdXT1BfbERRa3NvR0xPU2xNa3EtREZwMXdJSkZ4OHl3QlhoNXpzNDA?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Могут ли умные автомобили быть интуитивно понятными?",
-          "description": "Исследование интуитивности пользовательского опыта в интеллектуальных автомобилях. Статья важна для понимания вызовов и возможностей проектирования сложных интерфейсов.",
-          "source": "cardesignnews.com",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-13",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGhRV2FpS0FJS08taFZLaUNIWTZMQ25lVXh4WXJieno5VzhZLXZ2RzVqYjQ1VVFpRDM3VllKbjM0NVJCV2FzdmQzeVF5WUFIN2tFbldoTHRrZ0pJNS1DbDQycHJEVS1uWEhjcnZncG5iVFExYllub3hHQjh4RnB0R1pB?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Хироши Ишии награжден за вклад в дизайн и HCI",
-          "description": "Признание заслуг Хироши Ишии в глобальном дизайне и человеко-компьютерном взаимодействии. Это важная новость для вдохновения и понимания долгосрочного влияния UX.",
-          "source": "news.mit.edu",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-13",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbXlwN0w0VEFHSE85T0pJbGJGbFZLd0VGLXQxNWliaUNXYWRvTDdBdUEzOHZLbWw0TjdZSFBQN1k4RU52ZEdMUlpHWmVqRGZROVNwdXg4b1ZLeUV1a1o0NTZfQXNzVk5EYlhROTNwLVcwMmxIXzIzWDJVdnAwSzVuN2FJbWdpRGM2QUludDFUT0pVRmluRlc2Q2hPcTlremY2aFNZSUppWnFoZkN4RmljSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5WmJzZHBxcXEyV1VjNTU3Tm5ySkZlak9wYVd3eUs2eTdScGthR1E5TEJVRkpBV3VCSV80enpkY0M1YUhzUkF0SjB6VE5Cb0ZqSDhuTHUtMVZ0emdoNjFhUWZNYVVucjlRWXhUTA?oc=5"
         }
       ]
     },
@@ -88,7 +88,44 @@
       "title": "Конкуренты",
       "chip_label": "Конкуренты",
       "subtitle": "что меняют конкуренты",
-      "items": []
+      "items": [
+        {
+          "id": 7,
+          "headline": "Сбой «Яндекса» после атак на ЦОД: восстановление сервисов",
+          "description": "Вследствие кибератак ряд сервисов «Яндекса» столкнулись со сбоями, что привело к временной недоступности и задержкам. Это подчеркивает важность устойчивости инфраструктуры для онлайн-платформ.",
+          "source": "ru-bezh.ru",
+          "favicon_char": "R",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeERDUHhBMV9Cb1NzOExXU2NjWkRKcTRQZjNpMkZQUjh4YW10ZW9Mb2ZCY0tQODBMVmE4SjMtd0V4TVVxbU9YZEtnWFprMVBzYzFBcGNxeW0yX2FaajFaSlFGQ1V6eTVldG9fdjNiSWx1NGtnX2lJYWxTc2dpRzlXdGJhUGJpUVA1QXY4bjd4a1dOVHB1WHdtTFJXbWJHdGZnbjhJWEtzRGl4cDFyMzlILVZR?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "Альтернативы сервисам «Яндекса» на фоне недавних сбоев",
+          "description": "Обзор существующих аналогов для ключевых сервисов «Яндекса» (такси, карты, облачные решения), что актуально для понимания конкурентной среды и потребностей пользователей при переходе на другие платформы.",
+          "source": "habr.com",
+          "favicon_char": "H",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TVWp0aEgtMmdkcGRoSDI0VTlhZVJRTzNsN3NlX2tsQk9iS1ROZmh6V2MyNTl1NERvS1dGMnVBaGZzQU1PN3pHb21MTU9VUdIBWEFVX3lxTE1RVWtHc3ptVG90V0lDQjRhMlRLZnhhXzhlRHVZcmJSc2dTbzNfTGhqSW1VTXVqRGlrUzY5ZVd6YVFGUDllcUhZNHFyVlpKYVBmSEFzbHlsQks?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "«Яндекс» пятый день работает со сбоями в Ростове-на-Дону",
+          "description": "Продолжительные сбои в работе сервисов «Яндекса» в одном из регионов указывают на системные проблемы и могут влиять на лояльность пользователей, создавая возможности для конкурентов.",
+          "source": "donday.ru",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1RCM3UwZDE2RE1NMXVDSTdMM252QzFNTWswblZfREdfbUpYSjRfUkVuVkdCMDlBWHJUWlRiZm0zNExNN3dNbzVMZTFMTS0wcUxLNlQ5ck1BMnBTQTBjdklKaWpvNE9kc1EyUjZtR0w2Vkdla0JHVWlpLXVPOEZYdHVzcUVIa2tQa1RiQS0xZFZrYldqU25qcjhBa0NFVzVo?oc=5"
+        }
+      ]
     },
     {
       "id": "ai",
@@ -97,76 +134,64 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 7,
-          "headline": "Microsoft представил MAI-Base-2 с 2,8 трлн параметров",
-          "description": "Анонс новой мощной AI-модели от Microsoft с огромным количеством параметров. Дизайнерам стоит следить за такими релизами, так как они могут лечь в основу будущих дизайн-инструментов.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-15",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUZJUDRtbXNXN1U1a3FQVWdGMmJjWXVLc21FQmFKS0wwbHRrd2tNZUpaR2U5OHRmcXNrMC03LTQwM2dwdGN4RXJxdGRPdVFhY19PMnBrMkphS2VuNzBaa1RYaTVEUHJEWlpLNl9tWVJ0cHZHcWRaVUM2b3FpT1RXWkh2MlA2TnFJTlE?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "Сравнение лучших открытых AI-моделей октября 2026",
-          "description": "Обзор и сравнение доступных AI-моделей с открытым исходным кодом. Полезно для понимания текущего ландшафта AI и выбора технологий для интеграции в дизайнерские процессы.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-15",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2gxRVE2a3NJSFlseUFXaFNRdmFNQ0dwcEdNSDRTYlJZb3E1ZTJ3Z19SczJOVmdsSTFCelFwMGtxT194bHZVM2l5S1ZLY3ZiWkd1QmR5NWhWYXV3d1ZXRjhuQW0wUE1vdDR3d3RFZGp5TjhDWlo1WmJBVUNIc3BPTEFkaTR1SW5yazkzTWFvODBCaHBIb2Jj?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Полный гайд по бесплатным AI-подпискам для студентов 2026",
-          "description": "Руководство для студентов по получению бесплатных подписок на AI-инструменты. Актуально для освоения новых технологий без лишних затрат.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-14",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0g3YWJncVB3RWhrbnFFdk8teEdGcURsSU9aemlOYUdUUXpiRGlNMVVMV1E1MnMtam9lajJab3FlZ1RmOGZKM0JUNHh2eFhCMWdoR0I5alJjYmpzX1daOHpDX1BQVVRaN0ZlckFQd201UkZCd3IyQzdFd1JGdGdtUEZLaHhkZzNKSTBGSno1eFh0SENXOWFYSVZGanVBRkk?oc=5"
-        },
-        {
           "id": 10,
-          "headline": "Character.AI объявил о банкротстве на фоне сделки с Disney",
-          "description": "Новости о крупной AI-компании Character.AI, которая подала на банкротство. Важно для понимания динамики рынка AI и перспектив специализированных AI-сервисов.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-13",
+          "headline": "OpenAI представляет GPT-6 Sol и Luna",
+          "description": "OpenAI анонсировала новые мощные ИИ-модели, GPT-6 Sol и Luna, которые могут значительно расширить возможности генеративного дизайна и создания контента для дизайнеров.",
+          "source": "openai.com",
+          "favicon_char": "O",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-10-15",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU82d0c3bVRqUExvcFRYdVpEak9PbTJrZExPREF1ajlZNHpCQTM2NkRKci1uMzBRa0d3TmlKVm5Qb2VERmlxN0kxVENWM0N5dzVrSl9ZbW5GWDhZSTE4eFJMWmtkd2dmUDhKTGUyTVN4dDZIRmlEWTdEYk1IZENpV3Z1Ul9xZDJPVnNyajZGVFVpa0g4b01SNHVNT2MzT3doZXFCS0t4OA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
         },
         {
           "id": 11,
-          "headline": "Последние новости и релизы в AI-маркетинговых технологиях",
-          "description": "Обзор новейших разработок в области AI-инструментов для маркетинга. Полезно для продуктовых дизайнеров, работающих над ростом и вовлечением пользователей.",
-          "source": "martech.org",
-          "favicon_char": "M",
+          "headline": "Claude Code для десктопа: вложенные сессии и среды",
+          "description": "Обновление Claude Code desktop предлагает вложенные сессии и сохраняемые среды, улучшая рабочий процесс для дизайнеров и разработчиков, использующих ИИ для прототипирования и кодинга.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-15",
-          "read_min": 6,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlZLdlBrMzNwNGc5aWNMSlk4aV8wSlZEY0s4WTFxLW1jakVxSG8yQVlVLVJtcWMtUWhhSjhxM0RtRDZkSmZ0dkVmUFZmaVVSU3ptOTZwN1BFMVRYR2JhMnhHM2dBbzJTVklGdENNb0JGRnBTOC1sa1dpR1FDc3RuMjY4VlNqZ0N1WmYtcXNOVQ?oc=5"
         },
         {
           "id": 12,
-          "headline": "AI трансформирует страховую отрасль Австралии: тренды 2026",
-          "description": "Анализ возможностей и вызовов применения AI в страховой индустрии. Показывает, как AI влияет на различные сферы, предоставляя инсайты для дизайнеров, работающих с новыми технологиями.",
-          "source": "appinventiv.com",
-          "favicon_char": "A",
+          "headline": "170 статей для изучения GitHub Copilot",
+          "description": "Обширная подборка материалов для освоения GitHub Copilot, полезная для продуктовых дизайнеров, желающих улучшить навыки прототипирования и ускорить разработку интерфейсов с помощью ИИ.",
+          "source": "hackernoon.com",
+          "favicon_char": "H",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-14",
+          "published_at": "2026-10-17",
           "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SVU5RU0ZNOXdCdkozS0ZYSnhzbTRrOXE0MEk1c2VJenBScVMwZ1U0eldNVnU1ZGo2alpKOUhINlYySWxuZ3BvWWRTLWRERzZyQmt3aWJ6czQtblJSb2xGTk9jMTFWNG1xYXZpUFV4Mmp2QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTzNFSTU1N0Fkb2pxYV82dDNxSlNEXzNzZ1dxamtZblU4TzZxNzJxamMxR0NsUVVrME5MQjRXQ21LRzJXdklnWktCbVJ5RnI1WjNGZWhMTVZhLWd3N0J5WE9hZDBwQi1LUF9YZFFVX2dJdnhGN1E?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Microsoft представляет MAI-Base-2 с 2,8 трлн параметров",
+          "description": "Microsoft анонсировала новую масштабную ИИ-модель MAI-Base-2, которая может открыть новые горизонты для создания сложных и адаптивных дизайнерских инструментов и генеративных решений.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFNQNU54amJacVlLT09qTk8tRHJSNEZfWDk5WlhtMGJBc0IzN3NHOXVNcEVRcGt3SUc2VVNiUGxBTU0xNEk3dzRnY3NraVZfNjFYR1hQLWlpTTZmZExOMUlHQkNIYlpIU1pzODVOSC1MX3c3M28zRU4yTThwUVRXd2F3M1BDZE9MN3lzM0RpaHJXZDRG?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Запуск Nemotron 3.5 Bolt: 74 млрд параметров в 24 ГБ",
+          "description": "Выход новой ИИ-модели Nemotron 3.5 Bolt с впечатляющими характеристиками указывает на быстрый прогресс в области больших языковых моделей, что может быть использовано в будущих дизайн-инструментах.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-15",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmZtZExVSS1WQXVPeEtrcG1rRWZqcUVObGhXcXQzendxMG5VZlo5bWh2dmxoS0F4a3ZtMGd2UDVaVzA3SVJNMVpLYzBwMV9VdFhaT2NYNnJ5bnZuemg1TlQyWjVjNkUzVzFTT2dyaGFPd2lNLXJ6TFdXNnV5SXBmWFRUQkdHc3ZtVE1jelpiRGxEQmo2Rm5mNzJR?oc=5"
         }
       ]
     },
@@ -175,7 +200,68 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 15,
+          "headline": "Amazon возвращает $600 млн тарифов, только при возможности отслеживания",
+          "description": "Amazon проводит масштабные возвраты тарифов, акцентируя внимание на прослеживаемости транзакций, что подчеркивает значимость систем отслеживания и управления спорами для крупных маркетплейсов.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-17",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkhZcUpQTVNIaVZleTQ3eEJjdkVGdFdXeEFoLTdPTnZ5TDdVNjF2T0dIcWh6ZS01bDZSUFR1OGVfWVBLdEdJdnBGSy0wNlRCdHRzUFB3SmNoTTlENWFQS2RJRnJadVBJY0VZaDY0OUlIVUhPVzR2dXRUZlRmcDFNZUVVUDI?oc=5"
+        },
+        {
+          "id": 16,
+          "headline": "Влияние платформ на рынок труда в России",
+          "description": "Анализ того, как двухсторонние маркетплейсы и другие платформы трансформируют российский рынок труда, что важно для понимания развития сервисов по поиску специалистов.",
+          "source": "expert.ru",
+          "favicon_char": "E",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-14",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oY3ZTUkZlRlJJaVpLUWRNYWt2WDRPZHRZeEh6cEhtNXMtcEMzamNtWk5aVlV4d21aX1dKWGxQT2ljbGs4TTBDWWVuTGdyRC0tTGprMVhZcTNHQW91cHdaMw?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Как запустить бизнес по печати по требованию в 2026 году",
+          "description": "Руководство по созданию бизнеса в сфере печати по требованию, актуально для понимания нишевых маркетплейсов и их операционных моделей.",
+          "source": "hostinger.com",
+          "favicon_char": "H",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-14",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzZYWThYZTFSRmlBN1NZdzc2SVdPY0hGX0VwcnpQY3N4OXZVcnYtTEF1X2FydUJVOUZubnJ3bUYtdlBmc1R6ZEotV3l6d3NtVVJlaVAyd1lPMmhFOVNfSS1kdFh5TUstU2FsQWpZc0JkcTQ1U3NwRlY0LURSangwckxB?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "Лучшие компании по разработке аукционных приложений в США",
+          "description": "Список ведущих компаний, специализирующихся на создании аукционных платформ, что полезно для изучения подходов к разработке специализированных маркетплейсов.",
+          "source": "whatech.com",
+          "favicon_char": "W",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-14",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOREg3ZmlFdVUzUVlGT0M1MnZlcVRlVjdfT0Njb0xPRWE2a2tBRGZxZHlCOGJwTTQ3LW9Wa3hJVFJaN3ExWUhTbGFrTFg2Y21zeG5xdkR0RHdJSG51QldQTFZmb3ZVYzdnN0J2VW9LZExTWmd5b3dXcVEwSXRyMEhwQVFlMUZvVE9ubi1FSXU2SDh0QkM0SlpCdGRRNTBvWFR3bjRSOExDbmF6ZHZYc1lZ0gGvAUFVX3lxTE5ESDdmaUV1VTNRWUZPQzUydmVxVGVWN19PQ2NvTE9FYTZra0FEZnFkeUI4YnBNNDctb1ZreElUUlo3cTFZSFNsYWtMWDZjbXN4bnF2RHREd0lIbnVCV1BMVmZvdlVjN2c3QnZVb0tkTFNaZ3lvd1dxUTBJdHIwSHBBUWUxRm9UT25uLUVJdTZIOHRCQzRKWkJ0ZFE1MG9YVHduNFI4TENuYXpkdlhzWVk?oc=5"
+        },
+        {
+          "id": 19,
+          "headline": "Поддельные товары: университеты Нигерии борются с контрафактом",
+          "description": "Вызов университетам Нигерии для разработки инноваций против поддельных товаров, что напрямую связано с проблемой доверия и безопасности на маркетплейсах.",
+          "source": "thenigeriaeducationnews.com",
+          "favicon_char": "T",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-17",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZW1GV0daUl9BdTh3ZERqaE4td1dyQktWOS01OVV4UXpYSnJKY2c1LUw1dHRQZUZ2amRORUFmaUhONy1MX0ZCa1I1SlMtb1ItWmRHdmtfT1BqNEUteEpvamxfYjAzZEVHWFJoTWV4WU1UdTdmQUVCNWJHMzA3LTBMQjRFbXJETmdoMkdTcUo2WVMtYmpsVElnZkR3N014cVVwSG9zN0MtRE43RUkzTUVjQlhMTWdLRFIwSEZCOXVvd2I2WkhPYmVQdnJOa1ZFUHRadGpfeENyNzNkdWpxX2NCLTYzUTdHbjJRUmVqN1R5WQ?oc=5"
+        }
+      ]
     }
   ]
 }
