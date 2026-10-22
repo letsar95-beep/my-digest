@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T05:02:51",
+  "updated_at": "2026-10-22T09:52:40",
   "next_issue_at": "2026-10-26T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,73 +11,73 @@
       "items": [
         {
           "id": 1,
-          "headline": "UX и дизайн как конкурентное преимущество в финтехе",
-          "description": "Исследование показывает, что продуманный дизайн и пользовательский опыт становятся ключевыми факторами успеха для банков и финтех-компаний. Это подчеркивает растущую важность UX-специалистов в финансовом секторе.",
+          "headline": "Тренды UI-дизайна 2027 года: что выживет, что убьёт AI",
+          "description": "Анализ долгосрочных UI-трендов и влияния ИИ на их развитие. Поможет дизайнерам Профи.ру ориентироваться в будущем интерфейсов.",
+          "source": "medium.com",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-18",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3ZKOWtEcUt5bkZxS2U0YU44X0ZBYVF6QTI5V2ZNUF96eTJRbEZtLUc2cU56ck9QRFZRN25kNnRyWFUxN3ZsUkVYVXJ0Q0hXZ2w0ZGtZWVZ1ZkJaUi1RN01VNlUtS3MtQWJwUy13cWNnYXhjanhDbTdZeUxGSWYwT2M0VzRMSWV1N1ItZEVDNzV1SVo3c2R4VW5YWE5XNVU1WmRwNg?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Видео о поиске работы дизайнером в 2026 году вызвало дебаты",
+          "description": "Обсуждение актуальных стратегий для поиска работы дизайнерам в условиях меняющегося рынка. Важно для понимания навыков, которые востребованы сегодня.",
+          "source": "creativebloq.com",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-20",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzNjNkdkZ3hHb3NvSkhLMTVBVVZfM3F0eFhVcEdvdjctYkdkYXJpSElaZ0g1Vk1pWWducDlkSE1FZm9fZ2tLSzFVeEVaWTl2dE5sRkp3WE0zUUJhOFZYaEd6NDktSXdLR3k5ekFRWUtRWV9zUUljNi1PZUNqY3A1Z0YxSkthbVlFQ3ZTRlU1RDN2OXZNYTF5cTh0T28tR2NkbWxpVUUwblNLY1djR2VCZmU2RU54X1RNUWVBZGpscWJCSWVBeGZGR21DYzJYeXhFQkE?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "20 новых технологических трендов на 2027 год",
+          "description": "Обзор ключевых технологических направлений, формирующих будущее. Полезно для стратегического планирования развития продукта и навыков.",
+          "source": "simplilearn.com",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-20",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Понятие \"потока\" в UX",
+          "description": "Статья от Якоба Нильсена о важности концепции \"потока\" для создания бесшовного пользовательского опыта. Применимо для оптимизации пути пользователя в Профи.ру.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-21",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kS3lSX3hMOHlPQmFuTEE2UmNQSmtfTXJDS3BCU2VjT3RtU1o3VVZVSFJ0LU13VEJIOFFpZWFrUGZCYWpWLWJLajIwdzZLTGFURDJYOGtn?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Дизайн и UX как конкурентное преимущество для финтеха",
+          "description": "Объяснение, почему продуманный дизайн и пользовательский опыт критически важны для успеха в банковской и финтех-отрасли. Подчеркивает ценность UX-экспертизы для любого сервиса.",
           "source": "consultancy-me.com",
           "favicon_char": "C",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-20",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTkxWUs5cHlTdWZwemhOUVZHeC1MbFpLS1Q2el9sZHIyZHctemp5eVJ6RFJzSkg3UlpDVWd4Sy1CN1E2S0hUcWJuQXNFckVicTJQSTFQQm1ob2VEODlKTUxBWnVrV28wWm5tVktEWGlpeldNR0tRRl9jclNKWHZOOHc3cXZLRTF2VnlETUMwNkJpejdHOHhvRDFhNmY2N21Zd3FrOG9EaFpwaVJobWdnNUtjcXJDYXBQZFZURDhB0gHDAUFVX3lxTE1FU3NHbWZqUm9IYnI5NXdoaXlSWmdzYVV3Y0FycWprTUZNT3lzbzU3T2hCSU1vdE9NVXpsNXJoOXNFTDd0OHdBSUM0YXpNYk8yWnRheFMwcm1WRjd1dG0weVJ6VlNTcjBqbHRuNEhxTVVTb1d4bk5oQ0VFOC1mLVhsbFNUX19TSmNaUWR6RXYzUWR5Wkd4NmNDUFRzRjRJUl9jOGxLVnlUcHVCMVFzaEFwYmJSX1A0ZjdCajhMWUJCWkdjRQ?oc=5"
-        },
-        {
-          "id": 2,
-          "headline": "Принцип потока в UX: как создать бесшовный пользовательский опыт",
-          "description": "Анализ понятия \"потока\" в пользовательском опыте, который позволяет пользователям оставаться вовлеченными и продуктивными. Для дизайнеров это ключ к созданию интуитивно понятных интерфейсов.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-21",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kS3lSX3hMOHlPQmFuTEE2UmNQSmtfTXJDS3BCU2VjT3RtU1o3VVZVSFJ0LU13VEJIOFFpZWFrUGZCYWpWLWJLajIwdzZLTGFURDJYOGtn?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "Эволюция UX в системах управления производством (MOM): что изменилось",
-          "description": "Обзор того, как развивался пользовательский опыт в системах MOM, и его критическая роль для повышения эффективности. Это важно для дизайнеров, работающих с корпоративным ПО.",
-          "source": "automation.com",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-20",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeE9CYzM2ZzFsakk1Q1RuQnlYVC1xWkRydG9tVFIwbGt5UTJPdWJERXczYVNjVHpWVUtUNVFUdDRMRVZkSTFDendhTUtuYVd4THZGcnhyajEwTU9IdVZzT0NtTDBKT0NwNmJGQjF1M3hVenZXZXdjMjZIblZRY0VUNVRxMDFqZHBHeUc0UThQcDNqR0U?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Стартапы Лондона улучшают CX с помощью UX-дизайна",
-          "description": "Лондонские стартапы активно используют UX-дизайн для улучшения клиентского опыта и привлечения пользователей. Кейсы показывают, как инвестиции в дизайн приводят к росту бизнеса.",
-          "source": "londonlovesbusiness.com",
-          "favicon_char": "L",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-21",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUVpOUNaelVWNXg0QWR4ZzdweWxaMkFTZDNoMWZQb3h3VVJWeFM0U3pVY0hTSGZxcXAxcHg3NVJrTkdRMzRMcVh5M0dqQ2xkUFBHdTU4VTBmTWx3ckdwckg0cDYxZWhTdjIzWGRUQmpVcmgtTkRIYXZPZEJFVDNiWnBsSzRRbkJGVTF1NV8yTWJveGZHSUc1Y3FZekt1c3lPQl84RG1B?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Исследование выявило проблемы UX в цифровой библиотеке Гвадалахары",
-          "description": "Студенческая оценка цифровой библиотеки обнаружила ключевые точки трения в пользовательском пути. Это демонстрирует важность UX-исследований для выявления проблем в цифровых продуктах.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-21",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS19md0tnWlZtS2ExSDZsOEtCU1dZMGkxekxvaS1MdnJROUNLTFVnc0ZlRXlma3l2aUlGZXNlbUk4dGVjVjVSU3ZGUDhDMHhmUGlORTNNNG9rb2drQjRvSnNKOVdpa2M0akVQbDFGaklHUl9fQ2R6aENINmxkd3NQQ2xVcGJuV1hIOXRRYmlQSGlrUU0xbmMzNGEzNzNnVjA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVNzR21malJvSGJyOTV3aGl5Ulpnc2FVd2NBcnFqa01GTU95c281N09oQklNb3RPTVV6bDVyaDlzRUw3dDh3QUlDNGF6TWJPMlp0YXhTMHJtVkY3dXRtMHlSelZTU3Iwamx0bjRIcU1VU29XeG5OaENFRTgtZi1YbGxTVF9fU0pjWlFkekV2M1FkeVpHeDZjQ1BUc0Y0SVJfYzhsS1Z5VHB1QjFRc2hBcGJiUl9QNGY3Qmo4TFlCQlpHY0XSAcMBQVVfeXFMTUVTc0dtZmpSb0hicjk1d2hpeVJaZ3NhVXdjQXJxamtNRk1PeXNvNTdPaEJJTW90T01Vemw1cmg5c0VMN3Q4d0FJQzRhek1iTzJadGF4UzBybVZGN3V0bTB5UnpWU1NyMGpsdG40SHFNVVNvV3huTmhDRUU4LWYtWGxsU1RfX1NKY1pRZHpFdjNRZHlaR3g2Y0NQVHNGNElSX2M4bEtWeVRwdUIxUXNoQXBiYlJfUDRmN0JqOExZQkJaR2NF?oc=5"
         },
         {
           "id": 6,
-          "headline": "flowres.io запустил платформу для качественных UX-исследований",
-          "description": "Новая платформа flowres.io предлагает полный цикл для найма участников и проведения онлайн-качественных исследований. Это инструмент для продуктовых дизайнеров, который упрощает процесс UX-исследований.",
+          "headline": "flowres.io запускает рекрутинг участников для качественных исследований",
+          "description": "Новая функция платформы flowres.io делает её полноценным инструментом для онлайн-качественных исследований, упрощая поиск респондентов. Полезно для UX-исследований в Профи.ру.",
           "source": "natlawreview.com",
           "favicon_char": "N",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-20",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2VYWGJZV19KTDJfb3pSMDUwcExDZ2dTZ2dzMnI2M1dETFo5MXN6Zml5SmlyRmtuZ1lWLWpiVWhtTnBsM1VEM1hZaHpIdTFSX1EzcDBsNjQ4VlNjbWFjNHlQbV9saDB1Q29zSGoyYXY3bUVyaF9rT0dISkRzQXBlc3NWS210TjZ2STNGMVI1eTZxUXVXa1Jvem1iNHlodVU3Z2VKTzMzT3p1VUFtWnpB?oc=5"
         }
@@ -91,75 +91,75 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс восстановил большинство сервисов после атак на ЦОДы",
-          "description": "После масштабных атак Яндекс объявил о восстановлении работы ключевых сервисов, включая городские и облачные платформы. Некоторые ограничения еще действуют, но функциональность постепенно возвращается.",
-          "source": "techora.ru",
-          "favicon_char": "T",
+          "headline": "«Авито» тестирует новую функцию «Авито Соседи»",
+          "description": "«Авито» запускает пилотный проект «Авито Соседи», ориентированный на локальное взаимодействие пользователей. Это потенциально новая категория услуг и способ увеличения вовлеченности на платформе.",
+          "source": "primamedia.ru",
+          "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-20",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORE93YTZqcEpxZGZqU0hUWTFXeHVGaVlsNWR2VFJCV2RibnN3a0NkcW51cmYyMUxLbE8yRS1qaENwZzh3SlUtOW1abE9xTzZocVpCT1M3MTQ3VGM2bEswb2xrejRBa3FrSTNkSzNTMGlEWDdHREhqb3ZLa2FicUhKTjVJdw?oc=5"
+          "published_at": "2026-10-22",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OS0VNUkxLVkF5MjVITzBQdVUzeTNraG5KSklzSDVWYWprT1FfY2c1enhyd0dnMTNIV05PRTd6d3Nud0h6Ylp3d0huUQ?oc=5"
         },
         {
           "id": 8,
-          "headline": "Основные функции Яндекс Директа полностью восстановлены",
-          "description": "Рекламодатели снова получили доступ ко всем ключевым функциям Яндекс Директа. Это важная новость для бизнеса, который использовал платформу для продвижения.",
-          "source": "kapital-rus.ru",
-          "favicon_char": "K",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-20",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeURxVDBOajh4bjJXcjg5Mms5T25uZ1FQOGhiNW0taENrWkozMUJjU3FfcjNHbmZJV0ZRWENlMGk1S1BSVkZSY2NyT1podTg0VFJOOUJRLXBoMDByMnh3eTJkLS1JTGdKMU1CX0V1RGdsbWRNRl9MREVzRG82ME5sUlJNbEpCQktseThWanRZMDR5WUtsczdMaGlvdmFTaks0czNXU2JJRQ?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Яндекс Сплит: сбой вызвал проблемы со списанием платежей",
-          "description": "Из-за недавних сбоев в работе сервисов Яндекса пользователи Яндекс Сплит столкнулись с повторными списаниями и необходимостью пополнять карты в течение суток.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-20",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV08wRmFDSC12YTI4V3RzRldJbV96ODVDTko0WDlrdWRYa3p3czFtcHRjTnRYeERFbVZnYVpYUkFQcUQ2Y2FMTnFkRFRHNGJtaWozZVBzRTBzTkVPTVdUcDZUZzBoWF9iclZxNDgxY2dkTE5RcjdKYVdPRHFOb3p6TTV2RDlOUEFNQlRxQS1HbHotdHNIM0xQNnJlRmxCTkRzZ1E?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Авито Услуги запустили ежегодную премию «Знак мастерства»",
-          "description": "Сервис «Авито Услуги» анонсировал новую премию для исполнителей, направленную на повышение качества услуг и доверия к платформе. Это может стимулировать провайдеров и улучшить пользовательский опыт.",
-          "source": "primamedia.ru",
-          "favicon_char": "P",
+          "headline": "«Авито Услуги» учредили премию для исполнителей",
+          "description": "«Авито Услуги» запускают собственную премию для повышения мотивации и признания лучших специалистов на платформе. Это может улучшить качество услуг и лояльность исполнителей.",
+          "source": "gorod55.ru",
+          "favicon_char": "G",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-21",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yel93UXNaTzN1dmY4bXQ5NFFBQnFILVQ2WU85bGZmVWNwdTczamstaFZpQ0JsS3Q2cFp3YjI5NlBXVXBzbGdKdUM5Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkpCUFFzX05STnVjcnJrU2hVdVFYZHBZU2dJV0pJWnFiZVhXOEZ1a2RROUJpWHAxeWZiNXNta0R4d0Q5aEdEbFRWbl9qOG9kM0t1N2g4cEtPeDdEcmFEM1F1SmxIOEwxQkRSVEJEaWY2S3JuRU5lM1F5SEhrYngtUGwyUzNmRXVwMmdaZVZBVElwSDdCV1dyUmo3YkJNVWdNb3A3ZDZrb1ZadXFwYW5Gd2w2RXhfdw?oc=5"
         },
         {
-          "id": 11,
-          "headline": "«Авито Услуги» запустили онлайн-интенсив для мастеров красоты",
-          "description": "Платформа «Авито Услуги» организовала образовательную программу для специалистов индустрии красоты. Интенсив поможет мастерам развивать навыки и эффективно работать с клиентами на платформе.",
+          "id": 9,
+          "headline": "«Авито Услуги» запустили интенсив для мастеров красоты",
+          "description": "Образовательная инициатива для профессионалов бьюти-сферы поможет им улучшить навыки и привлечь больше клиентов через платформу. Это поддержка исполнителей и развитие категории.",
           "source": "ploschadnews.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-19",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGdNRmtJNDdWMEZVaUNrbks5SGNYb2tSSDZuZVdFbDJJNmFtYU5XeUZpV0tabHdOM1l6blprZnp2X2tqdjBzRGl1aXUtMmc4QmtKT0lFY2RSLVhGY2F3RGQ3OVZtbFpqMmxuLXZQNkxxQVZJODBsYmVPREN0bkFQQ2pQSXc0cDVwTDNDZHN1Mkt0dmlDaUIxS00wYURROTlzSGxVNg?oc=5"
         },
         {
+          "id": 10,
+          "headline": "«Яндекс Пэй» все еще восстанавливают после атак",
+          "description": "Платежный сервис «Яндекс Пэй» продолжает испытывать проблемы после недавних кибератак. Это критично для пользователей, осуществляющих платежи.",
+          "source": "fontanka.ru",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-22",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aelFrQ2ZTRVRYZjFjWUVockkyVWh0VXlHUTh5cDJpOTgtNjNPV0JULVN6eXgzUUM2ang4Y0hsbmZDYjdubDRKTVNnZElKWDE4YnJacUJ6MA?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "«Яндекс» восстановил доступ к городским сервисам и ПромоСтраницам",
+          "description": "Доступ к геосервисам и рекламным инструментам «Яндекса» возвращается, что важно для бизнеса и пользователей. Постепенное восстановление функционала.",
+          "source": "seonews.ru",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-20",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW40bjV3VWFqUXR5M0xyTWxWQnpfMEY1TW80XzlDVWhLU0t2d0JkazFQZnBoV0Z5djV6VWkwSDNvMWFWOEcwbFZzTmNFaC1FdDZaZ094WERkUFVvQm1yaDFLMDNXdE9uaERacmpIWlRvQnY5OXkxWTFhU0FNakhXZDlhQ21nV2FPTmk3T00wLVVLSWRPQ0FMN0JSZjk0TW4wRV9SS0JaR2RiaE1JM1M5dWVEdi1pSm_SAboBQVVfeXFMUE1ZczJFcjk0VVRPV285UkQwZVFLOGdmN2xhdTRIdGdieEFtWTRPd2xMU0M0bkFFREtlakJPeFQtWUlQdThVLTlvV0dTY0EzaXRpLURwVUwyYmxscmhIbzFnR2xfYU8xejJKdy1Cd1dBd2ZSZWN6TjZ1QllwbHYzc3Q4bUJfN01jUll1THJiMmJ5NFBVSzlvelhCajBKM05UQ3Z3elNNckU2X0J1cGdqUkY5NVo5clJfRjVB?oc=5"
+        },
+        {
           "id": 12,
-          "headline": "Новые российские платформы конкурируют с Авито на рынке услуг",
-          "description": "На рынке услуг появились крупные российские платформы, которые начинают активно конкурировать с «Авито». Это указывает на усиление конкуренции и возможное перераспределение долей рынка.",
-          "source": "prufy.ru",
+          "headline": "Новый Li Auto L8 сертифицирован в России с сервисами «Яндекса»",
+          "description": "Китайский электромобиль Li Auto L8 выходит на российский рынок с предустановленными сервисами «Яндекса». Это расширяет интеграцию «Яндекса» в новые категории продуктов.",
+          "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-18",
-          "read_min": 4,
+          "published_at": "2026-10-19",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hrcVJBSEkza1EwMF9lUlFVZlFHbHN4SGN1MlJFZUJkcmxzMlh1VmRHekJ2Tnc3ZWcxaHJHR0xIOXVRVFhuWUNlUzhSSWhWZlJyN05iMlF6VHJ0alhNdVF0bThRbGNJSmpXNWpGalVtZzZZS2lVVjdnTGtSbV9KVnU1TVZ0amxwdDFrY0o2ZE9PazluR1M1dTh3N3JudWFDNVNuQ2pyeEc4aXVzMDYwTdIBuAFBVV95cUxOaEc4aFdUX0Y1alFYd0pVMGNweWRTVUk0bDFIUm5MS1U1WW1KRWNWbGR5d2FsZzRiWnNrR1dqOVlsSGk0S0M1T3gzeUI2UG0xcWxEbUJxSll5QTg4Ykhia3dnOWZWY2ZyY1pOR1ZkUVJZOFpZS0lXUmpYTDFnU256Y0dLQWdHVm1vNDBqcDZ6eExYUnFLYVNHN0hocTJGazlyM1FCVjNBN3VNSE1GdU83clNDLUNOdHpl?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV08wRmFDSC12YTI4V3RzRldJbV96ODVDTko0WDlrdWRYa3p3czFtcHRjTnRYeERFbVZnYVpYUkFQcUQ2Y2FMTnFkRFRHNGJtaWozZVBzRTBzTkVPTVdUcDZUZzBoWF9iclZxNDgxY2dkTE5RcjdKYVdPRHFOb3p6TTV2RDlOUEFNQlRxQS1HbHotdHNIM0xQNnJlRmxCTkRzZ1E?oc=5"
         }
       ]
     },
@@ -171,32 +171,32 @@
       "items": [
         {
           "id": 13,
-          "headline": "Тренды UI 2027: какие выживут, а какие уничтожит ИИ",
-          "description": "Анализ будущих трендов пользовательских интерфейсов и их судьба под влиянием искусственного интеллекта. Дизайнерам важно понимать, как ИИ изменит подходы к разработке UI.",
-          "source": "medium.com",
-          "favicon_char": "M",
+          "headline": "CapCut признан лучшим AI-инструментом для видеомонтажа 2026",
+          "description": "CapCut лидирует среди AI-инструментов для видеомонтажа благодаря интеллектуальным функциям и креативным рабочим процессам. Полезно для быстрого создания промо-материалов.",
+          "source": "finance.yahoo.com",
+          "favicon_char": "F",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-18",
-          "read_min": 5,
+          "published_at": "2026-10-21",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3ZKOWtEcUt5bkZxS2U0YU44X0ZBYVF6QTI5V2ZNUF96eTJRbEZtLUc2cU56ck9QRFZRN25kNnRyWFUxN3ZsUkVYVXJ0Q0hXZ2w0ZGtZWVZ1ZkJaUi1RN01VNlUtS3MtQWJwUy13cWNnYXhjanhDbTdZeUxGSWYwT2M0VzRMSWV1N1ItZEVDNzV1SVo3c2R4VW5YWE5XNVU1WmRwNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeERydloybk5QMkxxeS1mMWRCMGJXeGxycW5MUVRhc29fR1FUMVNKakhNOVk2RmxKa1R5TTVCdG8ydGRRVm9CZDBBNmRiU2YtMHVuYkNocHZjUzBROGx5dGszZXZWbThTVVVuZ3g0YWpZa05PN3JtQURTT1ZQMjNiWUtiZm5HUGhZY3pDV2puMXQ2c0FUTlE?oc=5"
         },
         {
           "id": 14,
-          "headline": "Обзор UX: фаза ИИ в дизайне и роли продактов",
-          "description": "Еженедельный дайджест UX-новостей, включающий обсуждение роли ИИ на разных фазах дизайн-процесса и взаимоотношений продакт-менеджеров с дизайнерами.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
+          "headline": "Миллион бизнес-идей, сгенерированных AI, от Idealab",
+          "description": "Билл Гросс из Idealab бесплатно распространяет 1.2 миллиона бизнес-идей, созданных с помощью искусственного интеллекта. Может служить вдохновением для продуктовых решений.",
+          "source": "fortune.com",
+          "favicon_char": "F",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-19",
-          "read_min": 6,
+          "published_at": "2026-10-20",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OTFBRcmExdTBtdEVvSUdwd0U0eFJQR2lfbGFvdnk1dWtDY0pqSFBEa015VG13VENXV2Y1UThERFUwYmE2YVFJZndWUXEtRGtzZ3NZYU44bmdiRml4NTdsUUt3emdMX0JPaVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkQ5MkVHUjR2OEFrNkZjSjFrMmZxb1dwdWpLajR6a05Rd2NBSVBYOUxvUWFaZ2JBQzFaN19HXzF2bklyLS1QS3hLOGRta1k0T1BZaGFhMFBQTWVLMUpJU1h3QmFBWmR2NDcxalM3UWprTFBnUDVpSWJiWGJabktzMG1SdGlkYWhyRUlOWVBOTnlqeHBNR3dFOHhTanh0VWN4WjRRTWRRWUQ4WkJBQVRSUHpsaDBCV3p2cUp5VDZBa0hHZ3V3dGJiM3RvN3E0WV83Y3dwRVpPeGJiWHc?oc=5"
         },
         {
           "id": 15,
-          "headline": "Tencent анонсировал новые AI-проекты на 2026 год",
-          "description": "Tencent представил планы по развитию AI-моделей, умных офисных решений и корпоративных приложений. Это указывает на расширение применения ИИ, что повлияет и на дизайн продуктов.",
+          "headline": "Tencent представила AI-проекты на 2026 год: от моделей до смарт-офиса",
+          "description": "Tencent анонсировала свои AI-разработки на 2026 год, включая новые модели ИИ, решения для умного офиса и корпоративных приложений. Показывает масштаб применения ИИ в крупных компаниях.",
           "source": "moomoo.com",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
@@ -207,20 +207,8 @@
         },
         {
           "id": 16,
-          "headline": "Siemens и NVIDIA расширяют сотрудничество по агентному ИИ",
-          "description": "Siemens углубляет партнерство с NVIDIA для применения агентного ИИ в решении сложных задач 3D-интегральных схем. Это демонстрирует возможности передового ИИ в высокотехнологичном проектировании.",
-          "source": "news.siemens.com",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-21",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVWRKckJkRGJmcTAwR0pVN0Fzanl3bmJaQUpyMGZiLVY5WFhDb0tKYzRTbF9ncGphWklTeDBXaGxlSUZuaVNsb2xKNnFoWkpWcnJlU043Zlp4QzZqNFZZRUVuOFgzbnA1aVEyZzhnY0wxdlRTckE?oc=5"
-        },
-        {
-          "id": 17,
-          "headline": "Фармацевтика активно внедряет ИИ для сокращения сроков и затрат",
-          "description": "Фармацевтическая отрасль все больше полагается на искусственный интеллект для оптимизации процессов, снижения издержек и ускорения разработки. Это пример широкого влияния ИИ на производственный цикл продуктов.",
+          "headline": "Фарминдустрия активно использует AI для сокращения издержек",
+          "description": "Фармацевтический сектор наращивает инвестиции в ИИ для оптимизации затрат и ускорения разработки. Демонстрирует широкое применение AI для повышения эффективности.",
           "source": "reuters.com",
           "favicon_char": "R",
           "favicon_color": "#6750A4",
@@ -230,16 +218,28 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjZWZmNiQWlERm1iQ0dDbUIzZnc3TVFzOFFscEJrR2lpYlFBRWktbFREdVBKUkdEaXpIVWxaRDBnWDRFejlYRFA2WXpiQkZ6cmZHcUgzT1R0emR1RHFFN0JsZHFEQ2VPdk9NUVBQT0JHMERCbXNEQWlNQ1RlN0trUWwxWWVZV0R1d2dfOGZBYzNuMzNSZ3hBMUk2NmUydFFqTXZWNzVfQ1h4allFZ2ZpZHlCRW1FUmNvQ0Z0bFVCUnVKUEp5SWpyZy1za3N3cG9wS05v?oc=5"
         },
         {
-          "id": 18,
-          "headline": "CapCut признан лучшим AI-инструментом для видеомонтажа в 2026 году",
-          "description": "Инструмент CapCut отмечен за свои возможности AI-редактирования и автоматизацию креативных рабочих процессов. Это демонстрирует потенциал ИИ в сфере медиадизайна и творческих задач.",
-          "source": "finance.yahoo.com",
-          "favicon_char": "F",
+          "id": 17,
+          "headline": "Markan AI запустил iOS-приложение для создания и планирования контента",
+          "description": "Markan AI выпустил приложение для iPhone и iPad, которое помогает в создании и планировании бренд-контента. Это новый инструмент, упрощающий работу с контентом для дизайнеров и маркетологов.",
+          "source": "markets.businessinsider.com",
+          "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-21",
+          "published_at": "2026-10-20",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeERydloybk5QMkxxeS1mMWRCMGJXeGxycW5MUVRhc29fR1FUMVNKakhNOVk2RmxKa1R5TTVCdG8ydGRRVm9CZDBBNmRiU2YtMHVuYkNocHZjUzBROGx5dGszZXZWbThTVVVuZ3g0YWpZa05PN3JtQURTT1ZQMjNiWUtiZm5HUGhZY3pDV2puMXQ2c0FUTlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdEkwdlZPNGFXVnhJbkl6TUVaN3VoVmhjMjRBbVd6U21waDlSeTdtclA5cmRvX3ZEV3hmV1VUdFdxb1RrazFfcDhQOEJBRXJ4NWNNZE5oallGTXFic2tuWnJXazk4T2I0WkFXd0tka1Y0NkpaTmZoZkRQNlNmZVdOaFdzeU9mRjh4MlhuVFA4aWktTF82VzJWb2stUHFVcE40OW1DR214WmViYVowdFFMQUZhUWJ6b1VVYlliRFVzNHhlRHVaNmY5ZUtPcjFldkVDZFdN?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "DeepSeek выпустила движок DeepInfer для обслуживания своих моделей",
+          "description": "Компания DeepSeek представила DeepInfer, движок, используемый для работы её моделей искусственного интеллекта. Это важный шаг в развитии инфраструктуры AI-сервисов, которые могут использоваться дизайнерами.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-20",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0dueE9mWjIyblo5UXVqamZUbHNiMThkdFlkaXNLeFZuRFBCOTJIWVl3M01YLU9QeTJZeHowVW40RUlZMlVTVXc3dG1kdU1QSnoxUlRSbHpTbEY5bTZDOVAweE1MNWFjN3NVeExaVVpnLWR6Vlg0Ty16OTFycmJ1U0VsYlltZUZ5WUtscQ?oc=5"
         }
       ]
     },
@@ -248,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 19,
-          "headline": "Пользователи Bitcoin ценят доверие, безопасность и удобство",
-          "description": "Исследование показывает, что ключевыми факторами удержания пользователей Bitcoin являются доверие, безопасность и удобство использования. Эти принципы критичны для любого маркетплейса или цифровой платформы.",
-          "source": "securities.io",
-          "favicon_char": "S",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-19",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRlJONzdLOVl2YVpBN3ZuMjVDZk9nSVc1UGdtUWdXZ0hPeWdwTmxDNmtJNUY4bHppZWtPVmpsWG9Hc1dJVEg3RGVLVHhhbzZia2tqa3U2a180NUVDYTFEOVRkNnpybkVTS1RZUFpXbW1fMzRYX2d5SXJTdw?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
