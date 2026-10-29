@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T05:03:01",
-  "next_issue_at": "2026-10-29T10:00:00",
+  "updated_at": "2026-10-29T05:01:44",
+  "next_issue_at": "2026-11-02T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,8 +11,20 @@
       "items": [
         {
           "id": 1,
-          "headline": "AI меняет дизайн моб. приложений и UX",
-          "description": "Искусственный интеллект трансформирует дизайн мобильных приложений, предлагая новые возможности для персонализации и оптимизации UX. Дизайнерам важно осваивать эти технологии для создания адаптивных интерфейсов.",
+          "headline": "Как UX-исследователи разных уровней используют AI",
+          "description": "Исследование Microsoft Design показывает, как специалисты воспринимают и интегрируют ИИ в свою работу, что важно для адаптации новых технологий в области UX-исследований.",
+          "source": "microsoft.design",
+          "favicon_char": "M",
+          "favicon_color": "#F25022",
+          "published_at": "2026-10-28",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iOTd3eFZlUXhRMTNrTW91cGhPekJJVUl4MFlLUVJ6WTZNc0FNdEFHY0x1bnp2X0pSMnZoUkJvaEdfV2xYclpxM2JkRGFUN3V3TE1aZHpic1Q3UFUycWc?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "ИИ меняет дизайн и UX мобильных приложений",
+          "description": "Искусственный интеллект трансформирует подходы к проектированию мобильных интерфейсов, предлагая новые возможности для персонализации и оптимизации пользовательского опыта.",
           "source": "we-heart.com",
           "favicon_char": "W",
           "favicon_color": "#6750A4",
@@ -22,64 +34,52 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURQVWFvRlRXODdhandyYTNKellJU1ZST1ppLWVxMnlDWEFFeE4td0ZaQzZQSXJ5R0NObkZzTnFJbGRTemtwZzlteHNWN0NfRTMxaW5DUUtZVUJKeWtKM0tNcms4S1pZQUt0WjR2VEVTTGhtQUJKOUhTZkFrZmlsSUxHekg5clB4MjhwSXBJbE05QQ?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Qt Group выпустила инструмент для Embedded UX",
-          "description": "Новый специализированный инструмент от Qt Group предназначен для дизайна UX во встраиваемых системах. Это упрощает создание сложных интерфейсов для устройств, где традиционные подходы были затруднительны.",
-          "source": "tradingview.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
+          "id": 3,
+          "headline": "Карта развития UX-дизайнера: навыки, инструменты, сертификации",
+          "description": "Обзор ключевых этапов и ресурсов для освоения UX-дизайна, который поможет продуктовым дизайнерам планировать свое обучение и карьерный рост.",
+          "source": "coursera.org",
+          "favicon_char": "C",
+          "favicon_color": "#0056D2",
           "published_at": "2026-10-27",
-          "read_min": 3,
+          "read_min": 6,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZEdjU0RnMlhXcFY2SWtGNUtYQUY0WThwSUd2MHFOaklVVEx5MFlrd1U5RDRBOERkN0RDUUllQVBoR0JrQk02N2ZjWWQ0STZVTzhOc3lHLVBFU3o1ai1naE5sOE5IM2hzRHVvNlhVb3QweFZ6aUZaNllvN2c4X1NDenh4Y1duQm01MzIzQ0RNUTBWZTNqY3JDOTVFMklMbUstXzRXcjdOOF9XTkNKanhRTlk5U3EwMXdabTFaZE1fYmZBQS10Ny16UEtVVEpzaWV0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tTzNMeFUyLUVUbzc1cUh6bWl6bnBCMmZpTlE1aW9tSHA3NkFHQVlMV2U5bHMzaDFSTzM5cFdsOGMtVTU2RFg3REM1dUFkeWVhekVWZ0ZyTjVRbjFlWkVrTkUwc3VYV1B1SWpMWkQxbHczcTA0eGUyOUd3?oc=5"
         },
         {
-          "id": 3,
-          "headline": "Мультимодальный анализ поведения пользователей в умном доме",
-          "description": "Исследование показывает, как анализ мультимодального поведения пользователей помогает оптимизировать взаимодействие в умном доме. Это открывает пути для создания более естественных и эффективных сценариев использования.",
+          "id": 4,
+          "headline": "Скорость изменений и вес места: новый взгляд на дизайн-процессы",
+          "description": "Статья исследует, как быстрые технологические изменения и контекст места влияют на современные дизайн-практики, предлагая задуматься о долгосрочной ценности решений.",
+          "source": "designweek.co.uk",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-27",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GS1E3OWttRGM0cVZkUnNQLWUyc2NlRFIyZTBOX2ZuRkN5d1h6bUZWQ3JFUmhzRXpvQ2RzdnZHUFlLZ1dGRVA2RnFEQ3NuWWdVcnJNbmh4bUxtaGlldnVXWlFzOXhjUFYwbmJKSFZQcEtZamVKQWZDZw?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Мультимодальный анализ поведения пользователей для умного дома",
+          "description": "Исследование предлагает использовать комбинированные данные для оптимизации сценариев взаимодействия в умных домах, что открывает новые пути для персонализированного UX.",
           "source": "bioengineer.org",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-26",
-          "read_min": 5,
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmpiNFJKb0NSTTBZWG1RemFtck1GUG5MUXZaNFdqQUJia1FwTzVHczY0TGZLSkwtM2ZzV3loV1o3cmxtQ1R3M3lTbXFqazNYdk1UMjFYYmhmRVkzTUZRa2lGVnVoRjZ3SFRpQ0x6Y1JhYkRNOF9aNW1QeDVMUGl0WmhnMnJqeUFDbGFaeTRNZlFFOFpjbF9MMEl6QWM5WGtvREE?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "UX-особенности казино-приложений 2026 года",
-          "description": "Обзор ключевых функций и трендов в дизайне пользовательского опыта для мобильных казино-приложений. Дизайнерам стоит изучить эти решения для понимания мотивации игроков и повышения вовлеченности.",
-          "source": "cinapse.co",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-24",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84RUh0ajcxNmlncFh6ZUFPNGtHa2RJNEJvT09md2hVei10bXM5OXplVTV1ZDREY192M2twWGJXa01BYWtMOEJHZ205VmFNQldkRWNoR1pfM3ZfSU02SEl2ZGw3S0tXVXQwX050MnRTY0JlOC1mRi11b1RpYnA?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Сербия: дизайн цифровых госуслуг для людей",
-          "description": "Инициатива в Сербии направлена на создание цифровых госуслуг, ориентированных на реальные потребности пользователей. Это демонстрирует важность пользовательского исследования и эмпатии в публичном секторе.",
-          "source": "unsdg.un.org",
-          "favicon_char": "U",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-27",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDdWTExUNlV4b1dCSXJiZmFxbzJPQU1nZTIzdlZGZ2lVVXN5RExUbm15dmR5S2l6UEpOSExtQ0V1a3h4QVE3UXgwdUFOaThhcnZyX1lwbGlQaG45bERIN0xCNFRzaTRCbjVvVDBnbXpfNXVCWExMUWhmSGRtMHFwOTlWeDhjOWJaVzJzc2dpaGx3MzZaYjZHLXEzNHBVb28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDBPQ05oam5HV2hmRzZWNnBvcWZuMm5lTkJub1lZUnhvb1EtQ3g4Tmo3OGtLc1dmYlB0TmFfZmdFMjNyWWV2V092X0xYQVRYbUxfenJOY1JXb2NpcGdWZkluU3FrNENsTGdKM2hGdGh0Vzc3YTlGbWVvM0ZZdEZiSkR3UGhVR0p3aVU3LTg2eTd1WkVWV0FxLVphMENTRXh0ZklNZw?oc=5"
         },
         {
           "id": 6,
-          "headline": "BIDV SmartBanking c интерфейсом для iPhone Duo",
-          "description": "Приложение BIDV SmartBanking первым внедрило выделенный интерфейс для iPhone Duo. Это показывает адаптацию мобильного UX к новым форматам устройств и их возможностям.",
-          "source": "vietnam.vn",
-          "favicon_char": "V",
+          "headline": "VR и AR меняют обучение на производстве: выводы исследования",
+          "description": "Обзор показывает, как технологии виртуальной и дополненной реальности перестраивают методы обучения на заводах, что является важным кейсом применения иммерсивного UX.",
+          "source": "bioengineer.org",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-24",
-          "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0hJZThkaDRGWXFTMXlEYmg4RHhkT0FqLXR0b2s5LXpNcFRyUGI4SVNPcWpkWVQyWm10VVo3dGJvQ2doZzloRG9RNExSeXhxTzNNTDRfWmZ4el8yMWFxMjBUMFFjVUFoaEtrdkVWZGw5MDhpcjJLTl9WYkZVdWhtQXBzMkUtQ3hjYUlwUmJhU2NoQQ?oc=5"
+          "published_at": "2026-10-27",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakVqcGxEaTh3N2QxMmxMejJCVU14UXdveHpSdzF1UmtQYk1LZGRyTkpqcUl6VGFqMWVHNWpkczVjNUhOSl9GQXdvNm5tTlNMY1pxNUZValV1S1E2UXRxa0tzdWxaZ2RuVEdrMVNVY2ctaUttNGdScmtrNnlRWEFDajBjdXFRc3d6OGlsTnF5WnFyamJPZzdlZ1pKRUpLMDF3TFRkdkFqbmtPVDJkQm9lUzRrS1VXREVuc3F6NHZXQkZGdw?oc=5"
         }
       ]
     },
@@ -91,15 +91,51 @@
       "items": [
         {
           "id": 7,
-          "headline": "Авито Услуги: Защита сделки для digital-сервисов",
-          "description": "«Авито Услуги» расширили механизм «Защита сделки» на цифровые услуги, повышая безопасность и доверие к онлайн-транзакциям. Это улучшает UX, снижая риски и гарантируя выполнение обязательств.",
-          "source": "tverigrad.ru",
-          "favicon_char": "T",
+          "headline": "«Авито Услуги» распространил «Защиту сделки» на пять направлений",
+          "description": "Ключевая функция безопасных расчетов теперь доступна для пяти новых категорий цифровых услуг, повышая доверие пользователей и безопасность транзакций на платформе.",
+          "source": "gazeta.spb.ru",
+          "favicon_char": "G",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-27",
+          "published_at": "2026-10-28",
           "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeE9MY3VMczV4UkJ5UFNVOHlPVTZIa2pEQzNjLWJCdW1YT3dfR21jakNSWWdkM3Z1NzRmMzlpVGtpOFhMSndDUDA5eEdCc1VLSTJOQjZxZDBFUnluOXV5TFFSVW5nUlBfdHJpcmZNX0hQUWlQZWNEaGRabmpNbnU4UlZOUVdpWXBJM3NSU2haOFNJUkR4OXRHcEJtYUxublFRZC0wOXFmWl9rQW9R?oc=5"
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWFLdlZXdGROVEJoU1RUT1FMNGh3NURzOFFLUWpyMllndGZNanB5eXBuMHlVN0hra1IxN2dOcjQ3THA2blkxNG5EbWJoWDd5REdNT1h6T2N0SjdfYjJsaFZwaU9JWWVXeHFWaVVwTjlETXptNDZqdVRRTFpJdXBzZmJtSG1lclg5blVZSkl2aWp6MUFOdVYw?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "«Авито Реклама» запустила автоматическую стратегию для роста конверсий",
+          "description": "Новая функция в рекламном кабинете Авито упрощает настройку кампаний и помогает увеличить эффективность привлечения клиентов для профессионалов.",
+          "source": "yuga.ru",
+          "favicon_char": "Y",
+          "favicon_color": "#1D5BB6",
+          "published_at": "2026-10-27",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGlnOXZ2dHU2d0hqOEFZa3QzUzM2T0E1dW5GMTFaMy12M1lQZDgwZlB6amtTMU50X2hSQTM5bmNkLTRIZm5EcDhVcWFQbGVESjM0cGxBS1BDaDUtS215cE1oX3ltTkpkYlhnZWNSUzFBNWVMRUktckZPbkpKd3NKQlRISEt4S243TDNlNlhydzF1OHk4RHBUa0JwRUM1S0g4RVVKVHpjYm80T3czS3U5d29CTHJYSDIzalBBVFR30gHDAUFVX3lxTE9pN3dYV1lsLUk1QS1YRFRRMG5HMC1iZlZXbkFHTi1PSkdFZE80b283OGtXRVNhcUx1eHVibXMwZHY3WFdoa1h4dVRxak5yVVJsazdSNFFSV0VPbEFPb3FRcjNjRmd2OUNlUzZDb0RhRGV5R0JZWklrNGRIaVZHYVlyNGd4WFJWU000aEhMNl9kYkthU2RCQlRtWXc2ZkhqTUdwZWFaQXNkaUVjc3g3aGZZeWp5Rmp3RGpWbm9oTzREamYtZw?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Сбой в работе «Яндекса»: что происходило 28 октября",
+          "description": "Обзор причин и последствий масштабного сбоя в сервисах «Яндекса», включая его влияние на доступность городских услуг и пользовательских данных.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-28",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Воронежцам вернули городские сервисы от «Яндекс» после сбоя",
+          "description": "После инцидента с доступностью, городские службы и сервисы «Яндекса» в Воронеже вновь стали работать, обеспечивая восстановление важной инфраструктуры для пользователей.",
+          "source": "gorcom36.ru",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-25",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXZhc3hjcW9IbGJQYnhGN1RNV2llRTFNcllrRXVIcjBmNDMtUEc1QlRfd1MzQVcxdWN4YlJzQlFkcTZmRUxCLXVfaXRhUjdKSXp5NjdPbDRuNWNNS1REWHRFSVljUjBUTDNLZEVKSVZOeWJyRHFyaDlaRFlYWms3amhBZjI?oc=5"
         }
       ]
     },
@@ -110,76 +146,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 8,
-          "headline": "Cadence Maestro: AI для проектирования чипов",
-          "description": "Cadence представила Maestro — ИИ-модели для проектирования чипов и систем. Они повышают качество на 30% и эффективность до 5 раз, демонстрируя потенциал генеративного дизайна.",
-          "source": "tomshardware.com",
-          "favicon_char": "T",
+          "id": 11,
+          "headline": "Figma добавила историю версий для генеративных плагинов",
+          "description": "Figma представила новую функцию, позволяющую отслеживать изменения в проектах, использующих генеративные ИИ-плагины, что улучшает контроль и совместную работу дизайнеров.",
+          "source": "opentools.ai",
+          "favicon_char": "O",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-26",
-          "read_min": 5,
+          "published_at": "2026-10-28",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOY1VwWEs1WEo1RUQ2ME5kS096cC1aOHdvdndBRzB0NlZEZktEaHFGUU5sTEQ1UHJlbUZMdUg1UGpJa3JZRkZZVHZtTUFaZGZpY0I2M2RDdDI3RnM4ZjJKS09uQzBHcmJBUHg0TkFJOTRIZFBZZzhiMk1POE9KRjJBNUlMWHNHR3BWWnJESmZ3ei1XdWttdGgzd2dPZThBYUlEdmlCNmZnYi1sOVRxb3FXSEZzQVNoT3E2NlJjclp0Z3NURWVUQk9BMGRISXVLN29TTVJzejdZYVNGMWtGTTdFVFh4bFhpcHB6V0lmWGs5elBpZUVDdWxfcERqZ0pNajh0ajJZNXREdzh3ZHQ3WUtPRnp4SVdWTWx2ako3MC1xLWZPQm5SdVY2YU9wLUFLaDl1Q2VsNGlNZ1NzS1k2bEpxZ0JXaEhZcjFEdFZpdWpDM1dHY2NEcEpOeEkwb3lIUUZsTkZqbUptalp5Vjk2WTNuSVJpR2tDQlZJUkZZZWlnXzR0U3RDWUhTbzJoWHVhLWxYVHE5WGxrNGI2STF0d0NBdmdQcGdiSnNLOVdpMlZLVlNobk5WNGVvelY2QWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVY0U2s5N1RrZ1NRMXM4cTVLa043bTdtbVJWTXVfUVgtTUdCa1N6SHlfR3JOek9fbnBkUU11WVNVdFhaR0lDSWFwWXdLeGwtQlJqeTZJejlmZ1NEd1FzbkxYb01fb1JXVWpNWm00bkVfeHU0NlAtRTBkY19qNnhFUEtSRnZCNnEzMVM4YzV2a3pwQWt2UlpjRUo5M3F4X201?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Apple Creator Studio пополнился AI-функциями",
-          "description": "Apple добавила мощные ИИ-функции в свой Creator Studio, расширяя возможности для создания креативного контента. Дизайнерам стоит изучить новые инструменты для ускорения рабочих процессов.",
-          "source": "apple.com",
-          "favicon_char": "A",
+          "id": 12,
+          "headline": "Qt Group представила Clate: AI-инструмент для embedded UX-дизайна",
+          "description": "Новый инструмент Clate облегчает создание пользовательских интерфейсов для встроенных систем, используя возможности ИИ для оптимизации дизайна и прототипирования.",
+          "source": "electropages.com",
+          "favicon_char": "E",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-27",
-          "read_min": 3,
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEhKTXo2T2ZNMTRfUXNnVHMwbURtYXUza2xtOHdiM1pfLVhUczZPSUVmT0ZFbVRtdGk5emVRcEVHRUJxMENOUmtMdllydGFvbTBWa3hWa3kxeTY3R29rOVdXZ2lISVc4d2VXQmxRZDVXQnQxb2JOa2dtaVQ2SXpJdWU3azVnNUlwUW5WamFpd09iMkxSOHVycUU1MVgxSzdmMDFQVGVnS0s5SlRZTGxr?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Apple Creator Studio получил новые AI-функции",
+          "description": "Apple обновила свой Creator Studio, добавив мощные инструменты ИИ для творчества, что расширяет возможности дизайнеров и контент-мейкеров в экосистеме Apple.",
+          "source": "apple.com",
+          "favicon_char": "A",
+          "favicon_color": "#000000",
+          "published_at": "2026-10-28",
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQml4ZFRBSld2aGQ4UjdWSzlfWG1PWk5Bbnd1a18wcTdxQUxGMHg2TW9pMkNFN3NCSFBfcXpQZFB4LWZpcFRSZ0NfdDJsc012aVJ3U3MxYkxrSmNRMTFhVDBzOENoX3I0NDE0N2Q2NUo3ZktWbDZOd0NGWFkwRFl6SlpxWXp2YW5QUC1hRmdXakxsN25jT0hLSnpNbWxKck5Zb2ptd1pPeW5sTUFkTmRTWlh3QU1rMVVwU1lF?oc=5"
         },
         {
-          "id": 10,
-          "headline": "Meshy открыл доступ к AI-3D инструментам в браузере",
-          "description": "Meshy предоставил бесплатные браузерные инструменты для AI-генерации 3D-контента, делая возможности дизайна доступными. Это снижает порог входа для создания 3D-активов и расширяет инструментарий.",
+          "id": 14,
+          "headline": "Рынок генеративного ИИ в дизайне достигнет $4.6 млрд",
+          "description": "Прогнозируется значительный рост рынка генеративного искусственного интеллекта в дизайне, что указывает на его растущую роль и инвестиционный потенциал для отрасли.",
+          "source": "natlawreview.com",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-27",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkhhYy1hQ0dSVUloZEpPQkk0VGt4MEdlWGNIR1RkaWNubnBBYzVVZmoyOVFJekk2RUhUZTItNDduUGpXSk96eUFVcy1OWElZRHFGRFV4RGlwZVdxZ3NlYnpqYkFZcmdZYlFOd2FYeVNhcW5oY1d1Z2dQOGoyYjR1UHN3bjZpWUJRdUktYldlYm9mdmktZVF2cVY3VHdVNlB1QVlnWS01alNlS254OVdJ?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "Новый инструмент исправляет ИИ-сгенерированные дизайны, которые нельзя напечатать",
+          "description": "Capra Sports выпустила бесплатный инструмент для доработки ИИ-сгенерированных дизайнов спортивной формы, делая их пригодными для печати и реального производства.",
           "source": "manilatimes.net",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-25",
+          "published_at": "2026-10-28",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGJ4ZjduLW93aFZGREtibGRPMkJ0ajA0aW1wN2txeURZTmdVNENpZTA3OFFEY241NFI5a3BTUGhiTnJkT0kwWVBmdkxrVkU2UEVVdThab0JueVpLNXNmWHRObFhYWVVYem01VDQxRkVrSDJReS02R3pzOXptbGsyMElwajFRMzZXOUdia3NYQ0NTaDJfRzhadkpTZjRuUHNsSkhzZXR3X2luMzQtX180N0RoVVXSAboBQVVfeXFMUDZrbFpSalN3blRTaExZZGdnNmhmMVJTNTFGX3F3N0hpRC1SdDVONVdkX1RPeWppNmJReThMSkpoRFRwQWMzY0dveW5QNGV2MUdBUnNCRUp5YzJNYTN1bDkwaWRJWEQ4alpYRHhjTHBNQWpfVFMwaWtSQnRZMzE5QmFlVm16TnA4X2xuWFZ4QWtTWElKNGFDdlRhMFE3SFVsZm1wVU1Pcm1wNThOX2t1WEV2bGNYZlhSUndB?oc=5"
         },
         {
-          "id": 11,
-          "headline": "Обзор нового AI-генератора изображений Canva",
-          "description": "Тестирование нового AI-генератора изображений в Canva показало смешанные результаты. Дизайнерам полезно ознакомиться с его возможностями и ограничениями для эффективного использования в проектах.",
-          "source": "businessinsider.com",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-24",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDUtMjNxZkJlOXVlR052Qi1Fc2E2dEZzbHh0UzY2V3BjdU82VU5YbE9YMFRUYTkwbFZ4QnJlaG5sdkFIWVdoY1VvdGlFQkFQWXhXZ2RtdmF1eVhIaUhRczI0OWpYeFgxRlVjUnB3SUIxbWtKVm4zMGtnNTBNeG9SV1NqYnRNZjA?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Google Flow: руководство по AI видеоинструменту",
-          "description": "Подробное руководство по Google Flow, инструменту для создания видео с искусственным интеллектом. Это важный ресурс для дизайнеров, работающих с динамическим контентом и анимацией.",
-          "source": "simplilearn.com",
-          "favicon_char": "S",
+          "id": 16,
+          "headline": "Replit AI: мобильный клиент для создания логотипов с ИИ",
+          "description": "Сервис Replit теперь предлагает мобильное приложение для генерации логотипов с помощью искусственного интеллекта, что делает процесс дизайна более доступным для пользователей.",
+          "source": "vnua.edu.vn",
+          "favicon_char": "V",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-27",
-          "read_min": 5,
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2SlNWRnpGejVMbGxMcG8tNlZkMWNyWlJaRk1TS2RmZnlKc3IzNVJEV00tNEp0cFJOTDZBVzhfSjNIVjRLbWFObE5US2h2QVFGajhrM2k5Z2FoQ3lGMWxQd0dXRQ?oc=5"
-        },
-        {
-          "id": 13,
-          "headline": "От намерений человека к поведению AI-агента",
-          "description": "Обсуждается подход к генеративному ИИ, который трансформирует намерения человека в поведение AI-агентов. Это важно для понимания будущего проектирования взаимодействия с интеллектуальными системами.",
-          "source": "techbullion.com",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-24",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXVxQmdpZjIzU2dPamhsNHNwM2tjTzEwUFVpalNUSThxRW81VHVtVzlTOGVlSDFLMXZhR3A3UnYwaUN2RDFKLWVqc3lCa2lNM2daM0dwSVNSWW03WW5YN2FOR3hpVUdWVV9ZZVVQN3dSZlFfNlg2SEpDcWhjWDYzQmJneDg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bTYxRnVOUndYX2pkS0lGd0NXeVBHeE5WNE1IWXJBODFMUDU5RG9CMUk1UE8xWjAyR2tER1c2aUZrZFVIQVIxTmJhX2Vpb0F3Z0YzUQ?oc=5"
         }
       ]
     },
