@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:02:29",
+  "updated_at": "2026-11-01T05:03:31",
   "next_issue_at": "2026-11-02T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,44 +11,44 @@
       "items": [
         {
           "id": 1,
-          "headline": "Отчет InfoQ: тренды в AI, ML и инженерии данных 2026",
-          "description": "Изучите основные технологические тренды в области искусственного интеллекта, машинного обучения и инженерии данных на 2026 год, чтобы понимать контекст развития продуктов. Это поможет дизайнерам предвидеть изменения в технологиях и их влияние на пользовательский опыт.",
-          "source": "infoq.com",
-          "favicon_char": "I",
-          "favicon_color": "#1CB0F6",
-          "published_at": "2026-10-30",
-          "read_min": 5,
+          "headline": "Qt Group представила Clate для промышленного UX-дизайна",
+          "description": "Новый инструмент Clate помогает сократить разрыв в удобстве использования интерфейсов в промышленном дизайне. Это важно для дизайнеров, работающих над сложными системами.",
+          "source": "eejournal.com",
+          "favicon_char": "E",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-28",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1faGlGLVpxNm1fcWhuZE81SVRmZzBfdFdmZ2g2TVAzNy1IdHJ0MlhVSTl2QlZmUDFEUk8xWS0xOVJLTzZHa3IwQ0pESkZuaVdQbURpTzR6ampDdWU1WXc0X0FkRmtXRE90ODhwemNKOVJoNGdX?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFUxSFRmWVZuMWNTS1FrVTNMZ3VHZG16SVNmREtpc1lXRGR1QzBpNzZnV3FyM3Radng1ajdpOHRJeGVLSjJqZ3dQMlJCTXB3Z1piLTJSalZlWWNEQ21IRTZlbkFfaHprWVdUeEdJV1p0cFlUZkhHakZQZFpqUGNCWlM1X1lqMHRibkVmQ2JWd2p2TVJfMTZJbW1YOGR4aUMtOFNxTHBHZDQyUkkzX0FTZXF4ZjJrNEhoSzhkWXcyTFpiNW8?oc=5"
         },
         {
           "id": 2,
-          "headline": "Как ИИ меняет дизайн мобильных приложений и UX",
-          "description": "Искусственный интеллект трансформирует подходы к дизайну мобильных приложений, предлагая новые возможности для персонализации и автоматизации. Дизайнерам важно освоить эти изменения для создания более интуитивных и адаптивных интерфейсов.",
-          "source": "we-heart.com",
-          "favicon_char": "W",
+          "headline": "Тренды веб-разработки 2026: что внедрять, отслеживать и избегать",
+          "description": "Обзор ключевых направлений в веб-разработке, включая новые технологии и подходы. Поможет продуктовым дизайнерам ориентироваться в будущем веба и адаптировать свои проекты.",
+          "source": "netguru.com",
+          "favicon_char": "N",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-27",
-          "read_min": 4,
+          "published_at": "2026-10-29",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURQVWFvRlRXODdhandyYTNKellJU1ZST1ppLWVxMnlDWEFFeE4td0ZaQzZQSXJ5R0NObkZzTnFJbGRTemtwZzlteHNWN0NfRTMxaW5DUUtZVUJKeWtKM0tNcms4S1pZQUt0WjR2VEVTTGhtQUJKOUhTZkFrZmlsSUxHekg5clB4MjhwSXBJbE05QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLY2tJd1NCNjlUQjhLaXkxV19JTXBjbHRwZFhFbUxjY0dVZDAyVkFJNGpYWW1lNF9wbXR3bk1kbXNGRXRQbEp1dkR6M3NGVlZBWWVVM3JwbVVNV1dLOHladA?oc=5"
         },
         {
           "id": 3,
-          "headline": "Дайджест UX от Якоба Нильсена: ИИ, темные паттерны и фейковые пользователи",
-          "description": "Обзор актуальных проблем UX: убеждение с помощью ИИ, использование \"темных\" паттернов и сравнение подлинности отзывов. Дизайнерам нужно быть в курсе этических вызовов и новых методов исследования.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
+          "headline": "DTG обновил D-Book с рекомендациями по доступности и IP-ТВ",
+          "description": "Обновление включает новые руководства по созданию более доступных интерфейсов и интеграции IP-телевидения. Для дизайнеров это сигнал к пересмотру подходов к инклюзивности и мультимедийному контенту.",
+          "source": "broadbandtvnews.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-30",
-          "read_min": 7,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwcmxLYVlJVm5NdjdsOHVzb1Y4YldNbzVkbXNQNjc5cnkybm1ZQWlhWTB5V210bXN1MUI2OW5KSHNKZ2RsMXEzRTRTVkgtblcyMm1pMzZlVm9ac3NaME1yRUNac0ZyS2FlTkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHQtQW4tQ1pPcXRCNkFjRENvbHdoU2NxSWhPZU85U2dSYUlLZ0FLR29tTlBrNDlha2lCOGVZVkhrWUQ5a210RWVZbFVSWTFtX09Hem9xT0dEcDhxTkxqUmpNNlh5c3FUR09fM01FckdqdzFCV0ZkWGtUSHV1TU9reF9qSmhyZmVNb3hMRGJTZ2dRRGxrX1NOTEZWWWJoanI1NTEtWDFiQjBWTjF6?oc=5"
         },
         {
           "id": 4,
           "headline": "Опыт UX-исследователей с ИИ на разных этапах карьеры",
-          "description": "Исследование Microsoft о том, как UX-исследователи интегрируют ИИ в свою работу и какие вызовы возникают. Это помогает понять эволюцию роли исследователя и требования к новым навыкам.",
+          "description": "Исследование Microsoft Design показывает, как ИИ влияет на работу UX-исследователей, от новичков до экспертов. Это предоставляет ценные инсайты о принятии и интеграции AI в процессы исследования.",
           "source": "microsoft.design",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
@@ -59,20 +59,20 @@
         },
         {
           "id": 5,
-          "headline": "Ко-дизайн mHealth приложения с участием детей и родителей",
-          "description": "Пример совместного дизайна мобильного приложения для здоровья, где активно участвовали будущие пользователи. Это подчеркивает важность вовлечения целевой аудитории в процесс разработки для повышения релевантности продукта.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
+          "headline": "Намерения пользователей по внедрению AI-аватаров в онлайн-обучении",
+          "description": "Исследование рассматривает факторы, влияющие на принятие AI-аватаров в образовательных платформах. Для дизайнеров важно понимать эти аспекты при интеграции новых AI-функций, повышая их эффективность.",
+          "source": "nature.com",
+          "favicon_char": "N",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 5,
+          "published_at": "2026-10-29",
+          "read_min": 7,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFpFV2RScDE2bzRJY2ZBblE0NkVWdm5iaXJ0R3otVnRjSGxoVzVEQTNCTHY4ZDRKc1M4Q0dCRzgzR1lGQWdKcE9yVU5HU3ZHdFUyMzVjdW9KRk9ycm1XTmNyUW9sd0l1aTVFWTZBQ0tCSXlha2EtOW5YNjN1b1ViX0ZRX25WNl9mcmRvQUNieFJab0ItU2hyS05Dbkx2WWdLbE5aX0psTExRVjkyR0hUd0dlY3lqSE1sNmhHNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGUmRRdF94YnRqZGhBZnJYNXQzM0JVdDN4eHp2ZnZaOXFMUXF5UmJjT3ZMVERXdGVLWEY0V1UyWFNjdk9qYS1qUGlaMTRuRjhKbVUxSWRybXFKTHU0WHUw?oc=5"
         },
         {
           "id": 6,
-          "headline": "Цифровые инструменты в пространствах для людей с деменцией",
-          "description": "Исследование показывает, что цифровые инструменты могут улучшать опыт людей с деменцией, но эффективность зависит от контекста и стадии заболевания. Это подчеркивает важность адаптивного и инклюзивного дизайна для разных групп пользователей.",
+          "headline": "Цифровые инструменты в условиях деменции: важность контекста",
+          "description": "Исследование показывает, что польза цифровых инструментов для людей с деменцией зависит от стадии заболевания и среды. Это подчеркивает важность контекстно-зависимого дизайна и персонализации для особых потребностей.",
           "source": "bioengineer.org",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
@@ -91,51 +91,39 @@
       "items": [
         {
           "id": 7,
-          "headline": "«Авито Услуги» расширил «Защиту сделки» на digital-категории",
-          "description": "Авито расширил функционал «Защита сделки» на пять ключевых digital-категорий услуг, повышая безопасность для пользователей. Это усилит доверие к платформе и может привлечь больше клиентов в этих сегментах.",
+          "headline": "Яндекс представил две новые суверенные ИИ-модели",
+          "description": "Яндекс выпустил две собственные модели искусственного интеллекта, которые могут быть интегрированы в различные сервисы. Это указывает на активное развитие AI-направления у конкурента и потенциальные будущие функции.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-30",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEYxeEN3VUxGYkZaNjVKSkFScDhsaG84dkNXX1ZlUmE0QzBZMWZrSUVWZlpiRERKZnNXQkIxUVVoaXlNbFdYSlZjUmZwb08tN2ZIcDJOUi16cndtVFAwWTBDR243eWpUM0lWWWxsdFh1NE80WDJ0N1dId2lpMU14TnktWjBqUTI1OUtzQ2Rn?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "Авито расширил «Защиту сделки» на 5 новых направлений услуг",
+          "description": "Авито расширил функционал «Защиты сделки» на дополнительные категории услуг, повышая безопасность для пользователей. Это укрепляет доверие к платформе и является важным улучшением в сфере услуг.",
           "source": "gazeta.spb.ru",
           "favicon_char": "G",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-28",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWFLdlZXdGROVEJoU1RUT1FMNGh3NURzOFFLUWpyMllndGZNanB5eXBuMHlVN0hra1IxN2dOcjQ3THA2blkxNG5EbWJoWDd5REdNT1h6T2N0SjdfYjJsaFZwaU9JWWVXeHFWaVVwTjlETXptNDZqdVRRTFpJdXBzZmJtSG1lclg5blVZSkl2aWp6MUFOdVYw?oc=5"
         },
         {
-          "id": 8,
-          "headline": "«Яндекс Пэй»: обзор работы и функций сервиса в 2026 году",
-          "description": "Подробный обзор возможностей «Яндекс Пэй», включая оформление карты и пополнение без комиссии. Дизайнерам полезно изучать платежные системы конкурентов для понимания стандартов удобства и безопасности.",
-          "source": "t-j.ru",
-          "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-28",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9MeHJWcTMyUm9tOUpnb0s1QlI1VmFaR2FXZEVqVThBUUhRel9hVDJZOVZhOTRNZXd2ZGY4YjRjYw?oc=5"
-        },
-        {
           "id": 9,
-          "headline": "«Яндекс» восстановил 90% данных после атак, но бизнес-сервисы пострадали",
-          "description": "После атак на дата-центры «Яндекс» восстановил большую часть данных, однако бизнес-сервисы столкнулись с большими проблемами. Это показывает критическую важность надежности инфраструктуры для крупных платформ.",
-          "source": "tks.ru",
-          "favicon_char": "T",
+          "headline": "Авито запустил аукцион для продавцов",
+          "description": "На платформе Авито теперь можно выставлять товары на торги через аукцион. Это существенное изменение бизнес-модели и функционала, которое может привлечь новых пользователей и продавцов.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
+          "published_at": "2026-10-29",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnRZQUFyU1NfRlBCYXphd0tHdFRWR1dRSFJZZEpHYkhTT0pXaU43aFBWUDRRNDhvLXFITkozOEk1bldmcFktbHV1cVFVUUdtX09meUdUSDdhcGJKTTE4aUF4ZmJ5Mi1ZcGNZclRBTUZyN2d3aHRDNTRsYV9MMHZ6UEtZckRxNnV5cm5wa0t2amFpd0NPdXVib0N6am9nakF3U0s0WEdCRmJncnprUlJUTTU4bW03ZzJDUkllZThLOWhfdmotNXZLZ2NiLS1OZWY2dGYwM09yUXBsMnQ1Sl9SOE12QmdfVHlhV3Blcw?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Прибыль «Яндекса» снизилась из-за инвестиций в ИИ и музыку",
-          "description": "Отчетность «Яндекса» показала снижение прибыли, связанное с активными инвестициями в развитие ИИ и музыкальные сервисы. Это отражает стратегические приоритеты компании и влияние на ее бизнес-модель.",
-          "source": "cnews.ru",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TWEVHUW5rdDZ2MWVWM1Fxbzl2RkNLTTVKcWJlTGg2THhGU1hfY2w4RkhTRTNfa2dPLVp5dlJ0ZWtjZU1EWnZwcnlrLUs0WFlyYWFYOTVoWHhac0xUZ1gxdmVyT2VkWFlDS3R3YVJYU2RaeXAwUGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalU5LXpVbFlkQ0p5SWlLSW5GYllEc3RRdUZTcXM5aVVGTHpYMHdpanVMSTg0WFhHSTZRVWhtREV6cGpWM2FLRV9vODhCZVhWUkxGRHU3R0ZKMEZhTENYNWVzOGFsRzZMVGp0WFpTX3h1OXFrejlaVkFmTUZrNklrMGZDMmdFYzY2Wi1uV1ltOG1abV9ESm1hNHBTQXN1ZllydnllZm9mZ0I?oc=5"
         }
       ]
     },
@@ -146,16 +134,52 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 11,
-          "headline": "Qt Group представила Clate — AI-инструмент для UX встраиваемых систем",
-          "description": "Qt Group выпустила Clate, первый специализированный инструмент для дизайна пользовательских интерфейсов встроенных систем с функциями ИИ. Это позволит дизайнерам быстрее создавать сложные и адаптивные UX для широкого спектра устройств.",
-          "source": "embedded.com",
-          "favicon_char": "E",
+          "id": 10,
+          "headline": "Как ИИ делает веб-дизайн доступнее в 2026 году",
+          "description": "Искусственный интеллект активно применяется для улучшения доступности веб-дизайна, автоматизируя проверку и предлагая решения. Для дизайнеров это возможность создавать более инклюзивные продукты с меньшими усилиями.",
+          "source": "hometownstation.com",
+          "favicon_char": "H",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-29",
+          "published_at": "2026-10-30",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUZWTlJtek9fRktrVm9iOWlXcGROa1h4dlFnQU93VFZOUlNwS2JxZFpTUEdmcmlzMlVHY3JDUjBfcjZKSmZ0T2dnZDdsTmVjWE10LS1ZVHRFVnR0cWRmSkR2TjN3cHFBdzMyb3pVeTFjRlVjM21WeE9vV2tCekE1aERjME11VkZ0YjNPQmdTNGN2dG9BeXZISGc3Qm1wVF9JdGRzdWZZUkhSVUxPMC1GOHhIaUtSU1ZhQzNoNWlpcTl0bGtJLVRUcDhBRmNWa0k?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Новая ИИ-функция Canva: конец некачественному графическому дизайну?",
+          "description": "Обсуждение новой функции ИИ в Canva, которая призвана повысить качество графического дизайна и минимизировать низкопробные работы. Это показывает стремление AI-инструментов улучшать творческий процесс.",
+          "source": "fastcompany.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-30",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXQ0YWZnUTdYR3c3UXp3STVFRUZSejY2TVlORGlXa3BRS0ctU3IyRDBJSm9sS09aOTlJc0w5a1BQemdwdUR2d29GbjZORGt3cV9QYjJvVmJlQkVHcUJ1QTI3UXB4dUhhMFR0SW5taTJKVThyVnFyZFdXRDhfODRGb3hvclg4TEdsZWQ0NlBB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekxRSGJuc3dqNzVfcXVCaVBIMFA2SUhEbUw5OXJiaGJDUFNNenVJNzIzVGxQbDZWNFQzTEgwWkJlam5OWHpHX3BzMVVnM1VwYnE1d0JGZmhjY3NuSVU4aWJWSldLZzRkLVlIY041TkFvNUZDS0gxS0luQmsxWmtfTE9TQTVrLTJ5dExUUnZVdjR4aTlWMFlzeA?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Представлен Replica — open-source инструмент для AI-прототипирования",
+          "description": "Выпущен новый open-source инструмент Replica, позволяющий создавать AI-прототипы. Это открывает новые возможности для дизайнеров в быстром тестировании и итерации идей с использованием ИИ.",
+          "source": "github.blog",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-28",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGF3M0hrWThMWU1RaHQ4Y3FCV1VHY2ZWUWMzVkNvcW9DZVhvQVdJS3dLRDlyWVdoLUFtMWRhbDh3cVh6cnFZNkgyMV94RV9SYVpQbm1FUVllb2F5eUMzOXBrajVhSUxjWVdmUWpuWVBSdmNVZ0pVcHNKMVExZnBCR0dCNzJ3LVVrZ19uZXpieHhpOWNQSnRVNTBDQjM?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Новый бесплатный инструмент для исправления AI-дизайнов",
+          "description": "Capra Sports выпустила бесплатный инструмент для корректировки AI-сгенерированных дизайнов, которые не подходят для печати. Это решает проблему практической применимости генеративного дизайна и его недостатков.",
+          "source": "finance.yahoo.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-28",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcFF3X1NtTUVkd09JM2ZXRWl4bkF2TmNvSmgyVXpDN3N4LVVCbmVQWFBmR3Qweks4R1ZmeG16eFJPcHRSdjFaZGJkOTBrUUR1ZFlBT0tfaDRwWlAzT3V2Snl2WU1mcy04OTVoMDQyMFowSWJxT1VRODlnZVBkZUI4R2JCWkpIYjZmb2d3NzFONXFzRFBzY0NRRGE2cw?oc=5"
         }
       ]
     },
