@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:10:55",
+  "updated_at": "2026-11-03T05:03:59",
   "next_issue_at": "2026-11-05T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,20 +11,8 @@
       "items": [
         {
           "id": 1,
-          "headline": "Отчет InfoQ о трендах в AI, ML и инженерии данных на 2026 год",
-          "description": "Ежегодный отчет охватывает ключевые тенденции в области искусственного интеллекта, машинного обучения и инженерии данных, что важно для продуктовых дизайнеров, чтобы быть в курсе технологического контекста.",
-          "source": "infoq.com",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1faGlGLVpxNm1fcWhuZE81SVRmZzBfdFdmZ2g2TVAzNy1IdHJ0MlhVSTl2QlZmUDFEUk8xWS0xOVJLTzZHa3IwQ0pESkZuaVdQbURpTzR6ampDdWU1WXc0X0FkRmtXRE90ODhwemNKOVJoNGdX?oc=5"
-        },
-        {
-          "id": 2,
-          "headline": "Qt Group представила Clate для встроенного UX-дизайна",
-          "description": "Новый инструмент Clate от Qt Group упрощает проектирование пользовательских интерфейсов для встроенных систем, что расширяет возможности дизайнеров в специализированных областях.",
+          "headline": "Qt Group запустила Clate для встроенного UX-дизайна",
+          "description": "Новый инструмент Clate призван упростить разработку UX для встраиваемых систем, что важно для дизайнеров, работающих с аппаратными продуктами и IoT. Это может ускорить прототипирование и тестирование.",
           "source": "techgig.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
@@ -34,36 +22,48 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3JBb1lCSE01ME0yV01xMW9GZDRrX0dFbUZTZ0pLR05aMTdZREhqem9mZFI3WE4tbE90ekdvOUk5bUM5c29rc0VGMDlYU1RQRlRYLUNtQndVTmVmMzZPem5tcEhrUm5aMzdNaDRXaXJaajh2MW5ZT2l6bWJHZlp6cnB3aTZBNmJpSTRHSFZEa1JhcXBLM01uODdUT21DUdIBowFBVV95cUxOTENzb19LNHkyc0lkZUtVY0NqNXRhV1RIQkpod0xPbDVQamxUUmx6NEQ5OWYtcUlCb25PYTZVTXZlNlJGVUliT1Q1Rl9LR3UtdkQtY082bXRzSUdUdmRKUnpPSGgxS25zX3puVjZfajltUEdsaEhxXzJkZFNLY1VYNDhSd1ZpRlFTMUNad2VqLS1yNVB6QVg5Y3c3ckZRdnpOX3Bv?oc=5"
         },
         {
+          "id": 2,
+          "headline": "Отчет InfoQ о трендах в AI, ML и инженерии данных 2026",
+          "description": "Ежегодный отчет освещает ключевые тенденции в области искусственного интеллекта, машинного обучения и обработки данных, что помогает продуктовым дизайнерам предвидеть развитие технологий и их влияние на продукты.",
+          "source": "infoq.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-30",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1faGlGLVpxNm1fcWhuZE81SVRmZzBfdFdmZ2g2TVAzNy1IdHJ0MlhVSTl2QlZmUDFEUk8xWS0xOVJLTzZHa3IwQ0pESkZuaVdQbURpTzR6ampDdWU1WXc0X0FkRmtXRE90ODhwemNKOVJoNGdX?oc=5"
+        },
+        {
           "id": 3,
-          "headline": "Дайджест UX-исследований: AI в интервью, выбор дат, фильтры",
-          "description": "Сборник статей Якоба Нильсена по UX-исследованиям, включая использование AI для интервью и сложности выбора дат, что полезно для глубокого понимания пользовательского опыта.",
+          "headline": "Обзор UX-исследований: ИИ в интервью и выбор даты",
+          "description": "Новый дайджест от Якоба Нильсена включает статьи о практике интервьюирования с помощью ИИ, сложности ответов ИИ, а также исследования по выбору дат, что полезно для улучшения взаимодействия с пользователем.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-11-02",
-          "read_min": 7,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpakJTa20wcEVJcW9BSS1LMk5Pa181bE4xX3RiaEZQYUhoSDlqWktFQWFfMkNqQ282c25qUlF2YTJwX09xU3NIbjZNbkdSakpCeUJ6Zlp1VVVMTmV6b3RkeTk4SkI0SkV2a3c?oc=5"
         },
         {
           "id": 4,
-          "headline": "Инновации в медицине требуют понимания клиницистов",
-          "description": "Статья подчеркивает важность глубокого понимания потребностей и рабочего процесса врачей при разработке медицинских продуктов, что является ключевым для UX-исследований.",
-          "source": "medicaleconomics.com",
-          "favicon_char": "M",
+          "headline": "DTG обновила D-Book: новые гайды по доступности и IP-ТВ",
+          "description": "DTG обновила свою D-Book, включив рекомендации по доступности и интерактивному телевидению, что является важным шагом для создания инклюзивных и современных пользовательских интерфейсов.",
+          "source": "broadbandtvnews.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-30",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQUt6SDF3UVRrUkJtMXVUWnNudktIV0dqT05mNnJvdTlDM2dYSHBpZ3J5SF9LRFVEMDVRWG5CTW1OdHg0eEZ2cEd5UlZwNTVxTVB0SWtYeURWWjMwOGo3Z1JGV0t6c05ZYzRsQ1dTYl9ZX01aZzNlTExmLVhRQlhuY3VnWFFTVXp3REMwRE1ULXV6Z2VoOEdqUmFac0E4UUMyOW52T2JMd3dWcEd0SlZRV1pwYUJPQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHQtQW4tQ1pPcXRCNkFjRENvbHdoU2NxSWhPZU85U2dSYUlLZ0FLR29tTlBrNDlha2lCOGVZVkhrWUQ5a210RWVZbFVSWTFtX09Hem9xT0dEcDhxTkxqUmpNNlh5c3FUR09fM01FckdqdzFCV0ZkWGtUSHV1TU9reF9qSmhyZmVNb3hMRGJTZ2dRRGxrX1NOTEZWWWJoanI1NTEtWDFiQjBWTjF6?oc=5"
         },
         {
           "id": 5,
-          "headline": "UX-дайджест: AI-убеждение, ложные пользователи, темный дизайн",
-          "description": "Еще один дайджест от Якоба Нильсена, затрагивающий актуальные темы UX: влияние AI на убеждение пользователей, различие между реальными и фейковыми пользователями, а также этика «темного дизайна».",
+          "headline": "UX-дайджест: ИИ-убеждение, темный дизайн и обратная связь",
+          "description": "Дайджест освещает темы использования ИИ для убеждения пользователей, проблемы 'темных паттернов' в дизайне и важность сбора обратной связи, что критично для этичного и эффективного продуктового дизайна.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-10-30",
           "read_min": 6,
           "is_ui_update": false,
@@ -71,15 +71,15 @@
         },
         {
           "id": 6,
-          "headline": "Совместный дизайн mHealth приложения для детей",
-          "description": "Кейс по совместному дизайну мобильного приложения для отслеживания активности детей с участием детей, родителей и учителей, демонстрирующий важность вовлечения всех стейкхолдеров.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
+          "headline": "Экс-глава по AI-стратегии Disney стал CPO в Utopai Studios",
+          "description": "Ханс Ку, бывший руководитель отдела AI-стратегии Disney, назначен директором по продукту в Utopai Studios. Это подчеркивает растущую интеграцию ИИ в стратегию продуктового дизайна и лидерства.",
+          "source": "advanced-television.com",
+          "favicon_char": "A",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 4,
+          "published_at": "2026-11-03",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlBzZlNTdFZfb0RVdDNhTm8wczB1N0MxMmVLNklnRFpSaVN5RXhlWi1qZkFRTG5mSWlrWFRrb0FvVWdxRDVicW5JWEZNV0ZsRlV2TVQ1TnBmenFrVThxQzBoSFNIbG5QblktMDJ0bUk5cnNfRHlKaHdJSFY2cnlIdzZqdk1Va1JQMTZhb1BHUkFXN083Y3Z0RkZRR2RBR2F6d0ZuSTl0NXBBTFZ6MDc4cU13TUVZQkFYbmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3hFZ2F0dVA4VW1MR25PS1dKS2RCY1JNNkpWQkJyVlA5dXpBRndHTXFYT0V0NTctSjVyeXlqUmJTaFloRUdHWFI1WE95ZExtZmNlcWg1LS00YktSYzZiOFdfdUVnenNwaU14cTNEcWxWcndVMDBVSVpNSC01UnFjeXRMdDNTUUhGeTZaaUVZQnVnRkhTYVRRRDZUcFVoeHdsaTdVVDFOYw?oc=5"
         }
       ]
     },
@@ -91,74 +91,74 @@
       "items": [
         {
           "id": 7,
-          "headline": "«Яндекс» восстановил данные после атак, пострадали бизнес-сервисы",
-          "description": "После масштабных кибератак «Яндекс» восстановил большинство данных, но их бизнес-сервисы испытали наибольшие трудности. Это указывает на уязвимость инфраструктуры и потенциальное влияние на работу сервисов, включая «Яндекс Услуги».",
-          "source": "tks.ru",
+          "headline": "Сбои в «Яндексе»: атаки на дата-центры вызвали недоступность сервисов",
+          "description": "Масштабные атаки на дата-центры «Яндекса» привели к частичной недоступности ряда сервисов, включая финансовые и файловые. Это демонстрирует риски для больших платформ и важность отказоустойчивости.",
+          "source": "techora.ru",
           "favicon_char": "T",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnRZQUFyU1NfRlBCYXphd0tHdFRWR1dRSFJZZEpHYkhTT0pXaU43aFBWUDRRNDhvLXFITkozOEk1bldmcFktbHV1cVFVUUdtX09meUdUSDdhcGJKTTE4aUF4ZmJ5Mi1ZcGNZclRBTUZyN2d3aHRDNTRsYV9MMHZ6UEtZckRxNnV5cm5wa0t2amFpd0NPdXVib0N6am9nakF3U0s0WEdCRmJncnprUlJUTTU4bW03ZzJDUkllZThLOWhfdmotNXZLZ2NiLS1OZWY2dGYwM09yUXBsMnQ1Sl9SOE12QmdfVHlhV3Blcw?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "Сбои в работе сервисов «Яндекс» 30 октября",
-          "description": "Новость о массовых сбоях в работе сервисов «Яндекс» 30 октября, вызванных хакерскими атаками. Это подчеркивает критическую важность стабильности работы платформы для поддержания доверия пользователей и поставщиков услуг.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Спрос на предпродажную подготовку квартир растет",
-          "description": "Статья отмечает рост спроса на услуги по подготовке квартир к продаже или сдаче в аренду. Это может быть важным сигналом для расширения категорий услуг на маркетплейсах, таких как Профи.ру или Авито Услуги.",
-          "source": "amur.info",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-31",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEF0MXJrUmRwMXRGcC1GWjI0RFp1X0FJUDRmNTlWLVRFZE40bGxfeTN5REtEdjAycW54c0JIZVl0NExzU0NwaG8xU1dBN2N6cEJSM0QzYTFhTVJaSXRkaUNicEdjTmItRy1QOElETzZOcENFdGhOZTNSR2dHT3lWUEFZcnEtY01yX2hYVHgySGVsaVMyaVE?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Сибиряки активно заказывают ремонт перед продажей жилья",
-          "description": "Жители Сибири стали активнее вкладываться в ремонт перед продажей квартир, что указывает на растущий рынок услуг по улучшению жилья и потенциал для развития маркетплейсов услуг.",
-          "source": "gorsite.ru",
-          "favicon_char": "G",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-29",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9oZU41a0hsSll4T3pmWnRtaGN2UWxFbTU2WkpvWFNZbDFpdUgwczBSNkR5Tm1IY0V4TDU5MlNEaVdtRjd2Rm5wTEpVR2dob3RwTjNKZ1prN2pRRUZRaDB3LURpdVlwVHVPSjNrbFgxSUd6RkVVeDBBSmZXZzJnamtDRlNLS1lwSG0wZ0hFajJXOUxvMWNtMzV5VHptVGhFdUNPODJrQjlSSTBy?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Сбои в работе сервисов «Авито» 2 ноября",
-          "description": "Сообщения о сбоях в работе «Авито» 2 ноября, вызванные техническими проблемами. Это также подчеркивает важность стабильности платформы и оперативного информирования пользователей для поддержания доверия.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-02",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrWmg4V0ROYTAwaWtSM3J4QTZfSVJqRW5IM0hzbHZ0MEZQdVhDZjdkeFFSVTZGcndzelFpT0phWE9xVHFuYWdBSExCMWVDUDJ0ZUk2d2VyWXA4ZVF2UjRKRUdoQzctemdaeVhEVzFZLVBsSTg2b0tWUGpqRjZLdw?oc=5"
         },
         {
-          "id": 12,
-          "headline": "«Авито» запустил функцию аукциона для продавцов",
-          "description": "«Авито» внедряет новую функцию аукциона, позволяющую продавцам выставлять товары на торги. Это изменение бизнес-модели может повлиять на динамику продаж и конкуренцию на платформе, а также потенциально расшириться на услуги.",
+          "id": 8,
+          "headline": "«Яндекс Пэй» снова испытывает сбои с платежами по России",
+          "description": "Платежный сервис «Яндекс Пэй» столкнулся с новыми сбоями, из-за которых платежи проходят с ошибками, а деньги не поступают на счета. Это критично для пользователей и бизнеса, использующих платформу.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-29",
+          "published_at": "2026-11-03",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXZwcjlzZmtRQ1Zhamg0NnlZSHNob0JvVVpnSTdncmpGaldPOWExTlQ3bVVEc2Ffd2ZiN0ZCekhQZ21uWlpoRDU1STN0cjAzdEhrN0N3VkdYNGJsRHk2VUdfeDZtb0Y1ZUN5SVVBLWtqckM2MjBEZ3lQZ2tHYWtOY3V6ekUxTzdsZHRXT2R1QmtQNjYyTXY2M3V2NHlqMnVsOEVQSDJvQ2dDRVJ3VW83cEFPZEtxeTV6SmZnOFRNZE01OFM4YXc?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "Сбои в работе «Авито»: сервис не работал 3 ноября",
+          "description": "Пользователи «Авито» столкнулись с масштабными сбоями 3 ноября, которые привели к временной недоступности сервиса. Подобные инциденты подчеркивают важность стабильности платформы для поддержания доверия.",
+          "source": "cybersport.metaratings.ru",
+          "favicon_char": "C",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-03",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "«Авито Работа»: вырос индекс конкуренции и медиана зарплат",
+          "description": "Отчет «Авито Работа» за III квартал 2026 года показал рост индекса конкуренции на рынке труда до 9,8 и медианы зарплатных предложений до 82 000 руб/мес. Это важные метрики рынка услуг.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-30",
           "read_min": 4,
-          "is_ui_update": true,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGc2UEpkSk85eGdCVFFkYU1pQmxsakZheUlzSTNyZzRBY3l2eEQxTERBMWZSQk9VU0h4Tkg0QkRJdWJvUXMwbjdIa2xmcmtZSXhiYXZ6WkpuUU9vbGVVRXN1M3l6S2tObXZVcFVUbXh4MS1YMW5qU3B2ZWdfRDc5TndKOTRiOTdxYUtWY0VFWmpsam8zNHVRSlBiSTJvQXJEMHFrYjBvek9VRTh3eWU1OXhVSzZWaUVZSU5iQWxIUFBUeFBGanhV?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Wildberries запускает услуги шиномонтажа на своей платформе",
+          "description": "Крупный маркетплейс Wildberries расширяет свою деятельность, добавляя в ассортимент услуги шиномонтажа. Это сигнализирует о растущем интересе к услугам со стороны традиционных торговых площадок.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-31",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTVMcVlWNjhJZzJJZV9GNWdHckV0QUszLUZYVWtFdjhHelRadkNtSktCZG5WY3FNb0F5VHhiRmwwV0ZNcnl3RkFqM08tZTF2YXdVcWZyS0xlQ2tNWEE5Z3h6TlM4dFVHWEtTSXJuNkJCaXA3TmVxZWVEVmgxVUI3NksxSWJyanlLQ09NX0lTdU9Fa2VnczBUQlY4bUpYUGRsYW1MMUJJTm9YS3hyTWNuQXhXRzRkenFScndodE5Vam12SUhTcklvc0NB?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "«Авито Недвижимость» запускает премию «Заслуженно» для риелторов",
+          "description": "«Авито Недвижимость» анонсировала премию «Заслуженно» для омских риелторов, что может стимулировать профессиональное развитие и повысить качество услуг на платформе. Это усиливает взаимодействие с профессионалами.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-10-31",
+          "read_min": 3,
+          "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQmxWVEl4V205VHhTbEhMR0haNnpmVGZ3MjhSMVVrUS03YzNDRFJ6VS0xV0ZONTdSTHBLR29NY1FxUXhlSVRRWno4QUpJTmV0ZW9aWjNldTMxalA2Z0RaTEdubTFNclhHTmZ5QlFPMzY3UTNHdEJHMGRDOXRqV0JhaUlnaEJ2OUxJalJqeW9TTEVnNHZrVFJuZU1OTC1NbTlhbURrQnR2Mll4YXJVSnFBMkNGZFFCY0wzNGlKTUtIVDJLTXZJUmtGbGp1UmFMLTllSGtUdHhXSWxXQQ?oc=5"
         }
       ]
@@ -171,44 +171,32 @@
       "items": [
         {
           "id": 13,
-          "headline": "QuartusIQ AI-инструмент для дизайна микросхем",
-          "description": "Новый инструмент QuartusIQ интегрирует AI в процесс проектирования FPGA, что демонстрирует углубление использования ИИ в комплексных инженерных задачах и может влиять на будущие CAD/CAE системы.",
-          "source": "linuxgizmos.com",
-          "favicon_char": "L",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-01",
-          "read_min": 4,
+          "headline": "Главные тренды и статистика ИИ на 2026 год от Forbes",
+          "description": "Forbes опубликовал обновленные данные по статистике и ключевым трендам в области искусственного интеллекта на 2026 год. Информация поможет дизайнерам понять, как ИИ будет формировать будущее продуктов и индустрии.",
+          "source": "forbes.com",
+          "favicon_char": "F",
+          "favicon_color": "#E03F34",
+          "published_at": "2026-11-02",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZklPb3VrTENYd3ZWZ1BVTkZOX2NqdmxEUFNJYkJZek9HVWluUEtJV3FFX2JSTHFIeWttUjJ5UHo0WlVsc3JaNlhaalRVZXcxbkRuUC1qaGJ2V2lIb2dHUUl6MWdnZW5XX2lpdE1MVE95aEIwMThwNUlDbjRmOFZwYUZFZnI2ZVhtRU82UWxMeWZWTkhQVkw3bTI3TE0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5"
         },
         {
           "id": 14,
-          "headline": "Новая AI-функция Canva улучшит качество графического дизайна",
-          "description": "Canva представила новую AI-функцию, призванную повысить качество графического дизайна, автоматизируя рутинные задачи и предлагая лучшие решения, что делает инструмент более мощным для пользователей.",
+          "headline": "Новая AI-функция Canva: конец халтуре в графическом дизайне?",
+          "description": "Canva представила новую функцию с использованием ИИ, которая может улучшить качество графического дизайна и сократить количество низкокачественных работ. Это важно для всех, кто создает визуалы.",
           "source": "fastcompany.com",
           "favicon_char": "F",
           "favicon_color": "#6750A4",
           "published_at": "2026-10-30",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekxRSGJuc3dqNzVfcXVCaVBIMFA2SUhEbUw5OXJiaGJDUFNNenVJNzIzVGxQbDZWNFQzTEgwWkJlam5OWHpHX3BzMVVnM1VwYnE1d0JGZmhjY3NuSVU4aWJWSldLZzRkLVlIY041TkFvNUZDS0gxS0luQmsxWmtfTE9TQTVrLTJ5dExUUnZVdjR4aTlWMFlzeA?oc=5"
         },
         {
           "id": 15,
-          "headline": "Matrix Design объединяет дизайнеров, создателей и AI в Лондоне",
-          "description": "Инициатива Matrix Design в Лондоне направлена на открытый диалог между дизайнерами, разработчиками и AI-системами, что способствует интеграции искусственного интеллекта в творческие процессы.",
-          "source": "markets.businessinsider.com",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-29",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcThqS1UwNlRrSlIxRGJrRloxc3VqZ1JSbDNUekZRbFlETFF2RmdrRTZabE1rYThjQi1LM2Rjek5INTZtYzJKVC01QVAwMWJFR2ZyVVR6X0dLbmpIeUFlb0w3SDJLZnpOR18zeGZpc2NSU2VGMTdFQUJzQl9OQlBBY3ZBekZaaGpHNWR6VmotWm9VZnNoMFF0cGRtZEhDWGpJenBkM1d4ZEI3UmVNZ1VVXzI0OVlrYkRmcE45X1NvS3FibDZ0bWdaUE55cUp1TnFMdmUtSVJB?oc=5"
-        },
-        {
-          "id": 16,
-          "headline": "Инструменты для дизайна ювелирных изделий на базе AI",
-          "description": "Появление AI-инструментов в ювелирном дизайне позволяет автоматизировать создание уникальных узоров и форм, что открывает новые возможности для персонализации и ускорения процесса.",
+          "headline": "Инструменты для дизайна ювелирных изделий на базе ИИ",
+          "description": "Появились новые инструменты на основе искусственного интеллекта, позволяющие генерировать дизайн ювелирных изделий. Это показывает потенциал ИИ в генеративном дизайне для различных областей.",
           "source": "trendhunter.com",
           "favicon_char": "T",
           "favicon_color": "#6750A4",
@@ -218,28 +206,40 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sLTJaT045M1NBaXh3OE1EQ19Hc2NGZDVxZVFMUWRXTmZkSlVncHdLRUJtS0MyaHI4N3o3eU4wcmZXSkR6a0lLbU1CUVFsRkl5bW94OXdDcUVScWd6Zjl6N3JQZjV3ZkpCTG5Rek5ibjdlTldt?oc=5"
         },
         {
-          "id": 17,
-          "headline": "Что такое DALL-E и как он работает",
-          "description": "Статья объясняет принципы работы DALL-E, одной из ведущих нейросетей для генерации изображений по текстовому описанию, что важно для понимания возможностей генеративного дизайна.",
-          "source": "coursera.org",
-          "favicon_char": "C",
+          "id": 16,
+          "headline": "Adobe: ИИ не уничтожит искусство, а поднимет планку для контента",
+          "description": "Глава Adobe APAC заявил, что ИИ не является угрозой для искусства, а, наоборот, стимулирует создание более качественного контента. Это поднимает дискуссию о роли ИИ и человека в творческих профессиях.",
+          "source": "straitstimes.com",
+          "favicon_char": "S",
           "favicon_color": "#6750A4",
-          "published_at": "2026-10-30",
+          "published_at": "2026-11-01",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZnNwNmlJd1Q3anJrbmxTTXNKTXEybS1mYnRqWVpfTWhYTjNUMkdkTll4NXB3YkZuaVhJNXk3bXl1MEVYaXdueF81Q3dXeW1RWGtiQThWdS1NVnFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYXp0b0x5Uk95Z1g3cXlkQi1TR2lST3U0SkkyLUZyblJNclFqOExZa0hIclYtVElvLWdQWWdSRmd2NVllX19idHMtWTBHa2paaUVmOTBKb21DRVR2WUxTdHcyYWJ0b291SHRCczZHSGUxbUp5SFNSZnhGUnJFTlBEdkNkYUZUV3BGTnk1VHFKN3hqVWVyN0ZNSktMY1NOVVg2UlpmRC0zOTNJV1ZhN1RpLUE5MjFXQlpLb05RVXU2YUZYTmFfM3UxNlpyS3RtRW9GV3EtSE5sVjdaQnFpZ2hvOFRtRFoxdmRqWi1EVDgzMU93ZFVp?oc=5"
         },
         {
-          "id": 18,
-          "headline": "Figma Weave Workflows: многоразовое производство в дизайн-среде",
-          "description": "Figma представила Weave Workflows, позволяющие использовать многоразовые компоненты и процессы в дизайн-среде, оптимизируя рабочие потоки и повышая эффективность для дизайнеров, работающих с дизайн-системами.",
-          "source": "remio.ai",
-          "favicon_char": "R",
+          "id": 17,
+          "headline": "AI в рабочем процессе Design-to-Code: новая эра передачи макетов",
+          "description": "Cisco исследует, как искусственный интеллект может преобразовать процесс передачи дизайна в код, делая его более эффективным и автоматизированным. Это потенциально упростит работу дизайнеров и разработчиков.",
+          "source": "blogs.cisco.com",
+          "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-02",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFhmRkgzUzlIMXJyNVYzVlBBRXRabFV0aEdpSHNrVE1ISEZaTTRNMEdVN0ZSZmc0ZTRNclNTbG1lYzhIRGtvOG5uemUzc2tRQTdhLVNYVTN6cVhtOUFLcXdwVk8xYkw3MzQwYzA0aFpkV1NYOEVWTi1qTUdoTHpfU3EwdjV6Wm92QVZpbVpXN0tNVnJRdlNpZDdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96bVIyOEN0SHVNSkt2dXdGSldVVGV5RVoxSjE2Tzc2NWJrVXdPektUTHdGdmpDakpfT25oS0dsNjAxUDdPWkVqNDdCN2Q0Z2xra1lVdHJHNjV4eU9NUG5DWE5GYXQwQjMtQzVabENUaTgtLTFkajU4ZXZOOA?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "ИИ — это UX-помощники, а не креативные директора",
+          "description": "Статья обсуждает роль ИИ в UX-дизайне, подчеркивая, что он должен служить инструментом для помощи, а не заменять креативное руководство дизайнеров. Это ключевой вопрос для будущей работы с ИИ.",
+          "source": "sdxcentral.com",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-02",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZklzWjlXYzNCa0dOZnU3Sy1CQzdUQnFtSS16V3I0M29IOUtIdy1RenRfM2I5VlZ4X181NzNmbDl0aVl2emFlYm9wZF9ESzNaN3FDZGtxdjFmd0R3RTJSNnBuWjF4VUpRZjJSdTVuaUVYMnM0Y1dMZGZCdXE1dlVFLV9KMW1JYVdEbEhYWFlzWQ?oc=5"
         }
       ]
     },
@@ -248,20 +248,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 19,
-          "headline": "Wildberries запускает услуги шиномонтажа",
-          "description": "Крупный российский маркетплейс Wildberries расширяет свою деятельность, добавляя в каталог услуг шиномонтаж, что демонстрирует тенденцию к диверсификации предложений и конкуренции с традиционными сервисными платформами.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-10-31",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaURrZWZhMlBJMXVlaXZRRTNPZm5Zb1dhMGNQcXQyc0lqYlp0bHo0MzVsT3RkUFVwU0oxNV9zQmMxYW0wanVXbmxqSlp0UnBKU2ZqY2lIdlJzRlRRVUZCNml2WkdMOWY0WVVBZkhhTlZ2RGMxX1YxeGhEN0pua1RBT1N0UVVPWmZWM1FVQXM2UTRZWnBabEhpT21aNVRTem4yUm9VT1JSbDBFY1lPZW9FeFN1aGUzMnBfUWhR?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
