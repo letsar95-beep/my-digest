@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:03:03",
+  "updated_at": "2026-11-08T05:02:38",
   "next_issue_at": "2026-11-09T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Wealthsimple обновил приложение и торговый интерфейс",
-          "description": "Первый взгляд на редизайн мобильного приложения и торгового интерфейса Wealthsimple демонстрирует новые подходы к UX/UI. Это важно для продуктовых дизайнеров, изучающих современные решения в финтехе.",
+          "headline": "UI/UX дизайн с Figma и AI: от брифа до передачи разработчику",
+          "description": "Как искусственный интеллект интегрируется в процесс UI/UX дизайна, помогая на всех этапах — от идеи до готового макета. Это оптимизирует рабочий процесс продуктового дизайнера.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-05",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2VaT3JlanFPVEllN1FBb3U1VGhYOXZITGxRTnExNG5XSnczeTRLeUJZY3I3UkFsSXZZOW00WDh6eE5UOEQ5REFFajdGUnFreFVKVVVKeWo2Tks4Z3JraURmTk9CcEo0V1pNdkxDdVFBZHRxUEtOclJ2LTRUd29Ud1lKaFR6MkVKLWZ3?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "Meta запустила Muse Voice: голосовое общение в реальном времени",
+          "description": "Новая функция Meta позволяет вести разговор с AI-агентами в режиме реального времени. Важно для развития разговорных интерфейсов и голосового UX.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-05",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhMLW0wNnNkT1RTd1pkaHJscDNDOE1XWW03di1DZnpVcjZ4WngxNkQzQXRzdjRKWG9xaWVwekNIeFQzQ2VXeHZqVTh3WkVYOHItZjF4dlBNNWd1Nm84cXNHNXA4RmNDNkdaQXpUc24weDU0UFRVTHRMU1A2Ml9hcXVESDFYUFJZRlI1Sg?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "TikTok нарушил DSA: алгоритм «Для вас» под угрозой штрафа",
+          "description": "Решение Брюсселя указывает на растущее внимание к прозрачности алгоритмов рекомендаций. Дизайнерам важно учитывать эти нормы при проектировании персонализированных лент.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-07",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUg1MkhCUW1wczBlNllTY19RTUNzem94STI4OUlaS1Job19GYmFlQVFlamR1WThQU0ltekxBMzRzMDhNR2xiREtHOEMwWFFQOXZzcWJJVmpzM0N0a1poanpHQVR0RDU5eHBrOGFMMVZtSy1aOUVVaEk0UnEzaHZIV0VhSFhnYkc5VlRZZGhTTHJPbGY5ZnlaZ1hDXzgxUVo4UWR5bFFZdWo?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Wealthsimple представил обновленный интерфейс мобильного приложения",
+          "description": "Финансовый сервис обновил дизайн своего приложения и торговой платформы. Это пример мобильного редизайна, который может повлиять на пользовательский опыт инвестиций.",
           "source": "iphoneincanada.ca",
           "favicon_char": "I",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-05",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnZXRWMtbkZ2OVNfZkFMZU5YZ0tKUWRxbmNsYzhpckRPdE5LazE0Y0Eza0xDd1ZfYlVaT0JMeExHR2lhMzRZVDhZUU1LbHFXV1JHYWk4OXBpS0hHZlktbExfV3lPVHVvV2dQWElPcTZsaVZwVy1nY01zUFhselI1d25jelNocEFXcXpuc2xUNUY?oc=5"
         },
         {
-          "id": 2,
-          "headline": "Чаты поддержки с ИИ: Высокое удобство и доверие от пользователей",
-          "description": "Исследование показало, что чат-боты социальной поддержки воспринимаются пользователями как очень удобные и заслуживающие доверия. Этот кейс подчеркивает важность эмпатичного дизайна и надежности в ИИ-интерфейсах.",
+          "id": 5,
+          "headline": "Исследование: чат-боты поддержки вызывают доверие и просты в использовании",
+          "description": "Результаты исследования показывают, что пользователи высоко оценивают юзабилити и надежность чат-ботов. Это подтверждает потенциал AI в улучшении пользовательского опыта.",
           "source": "bioengineer.org",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-06",
-          "read_min": 5,
+          "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOEloS200OXpaSW1yb2R4LW9EUjVORGtsTXg0QXFqdERIMFZmeTZ3NnZleHUzczhtOFRSZ094eHFhRnJtV2lUajBaTWl1Y3JkakpxQV84dEdGOE1oRVYxYW11OVNRNF9YejNlaDc1djlpdjJzV0k5QzdtSjNkRGRwZE8wTHB4V3dEM2xyUTk4Tlh0TUU4R0MzZGhocE9PWmZ2VWE0?oc=5"
         },
         {
-          "id": 3,
-          "headline": "Лучшие приложения для бюджетирования в 2026 году: Обзор и рейтинг",
-          "description": "Forbes представил рейтинг и анализ лучших приложений для бюджетирования. Дизайнерам полезно изучить эти примеры для понимания успешных паттернов UX в финансовых продуктах.",
-          "source": "forbes.com",
-          "favicon_char": "F",
-          "favicon_color": "#1A1A1A",
-          "published_at": "2026-11-03",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Farther привлекает ветеранов Google и NASA для улучшения юзабилити",
-          "description": "Компания Farther, работающая в сфере wealthtech, усиливает команду специалистами из Google и NASA для повышения удобства использования своих продуктов. Это демонстрирует растущее внимание к UX в высокотехнологичных финансовых сервисах.",
-          "source": "investmentnews.com",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-03",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3NueWxzeVlRRUN6YWtFcXhPN1R6dVRGOV82eGNpNU83SGtjcG1SVTRJaDk2WVFhZ05JRXJOaTZXdC1wT2lkUnZkWHZJSUxrVUtDQ1ZJM1BHOUs4Znh1WGl0Tk8wU3hjQjhWYnQ3TEozOXJZb1VTYWMxVzRLRlk3Y0RuWkQtWUFGVTN0dGpwVlJNM3d4dFY0QnkybEhRMHlhUlF4aGp5Qi1iU0phck5ReEhYd2Z1dw?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Исследование ВШЭ: Почему опытные читатели совершают ошибки",
-          "description": "Исследование ВШЭ выявило причины ошибок в понимании текста у опытных читателей. Это знание критически важно для продуктовых дизайнеров, работающих с контентом и информационными архитектурами.",
+          "id": 6,
+          "headline": "ВШЭ: Почему опытные читатели допускают ошибки в понимании текста",
+          "description": "Исследование ВШЭ выявляет факторы, влияющие на ошибки в понимании текста. Эти данные критически важны для продуктовых дизайнеров при проектировании интерфейсов с большим объемом информации.",
           "source": "hse.ru",
           "favicon_char": "H",
-          "favicon_color": "#004D8C",
+          "favicon_color": "#CC0000",
           "published_at": "2026-11-06",
           "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NSERqc2JvemZ0ZEZlX1lTQ3l4cEJCR3kzaWhLSDRvcDdSd3hDaDJBSU5Oa21NVVNNQkw4cGhBbTBsTGtyRTVuUWhCa2dDS0pYYW1SNGpLbXRtc0N0YTl4Mg?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Новые дизайнеры 2026: Куда идти, чтобы увидеть будущее",
-          "description": "Статья исследует, какие направления и проекты молодых дизайнеров определят будущее индустрии в 2026 году. Полезно для понимания формирующихся трендов и направлений в дизайне.",
-          "source": "designwanted.com",
-          "favicon_char": "D",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-04",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnVqczNmeXlEM0lBdXF3ZHJDS1VTejhTRmJ6MkZXT1VqdC1JdHpvMmRmWVlucUtYZjV3UUJKdEwxSjlFR01GdC10NDkzb3Z3ZDZNU0w0NEtYa0kwT1ExcVFqaktzeUtmaWkycm9kX1FpQjJuTTl3M2wxeE5BMHlySDNQNENIbnhTcENxbQ?oc=5"
         }
       ]
     },
@@ -91,44 +91,20 @@
       "items": [
         {
           "id": 7,
-          "headline": "Техника MEDIAPARK теперь доступна на Yandex Go",
-          "description": "Яндекс Go расширил спектр своих услуг, добавив доставку техники от MEDIAPARK. Это показывает расширение бизнес-модели и категорий услуг у ключевого конкурента.",
+          "headline": "Yandex Go расширяет услуги: теперь доступна доставка техники MEDIAPARK",
+          "description": "Маркетплейс Yandex Go добавил новую категорию услуг по доставке электроники. Это усиливает конкуренцию на рынке услуг и расширяет возможности платформы.",
           "source": "spot.uz",
           "favicon_char": "S",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-05",
-          "read_min": 3,
+          "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFQ1lwTFhKUWUyc3F1UldLSmhvbVdSdklINW01RXZHUzlxZXE3SXRiVDVscU9KcG5DQmo2ZUlWRDgyQlNneE9USi1wX1lkZ3J3ZktFUnRCSQ?oc=5"
         },
         {
           "id": 8,
-          "headline": "Что происходит с Яндекс 7 ноября: Причины сбоев",
-          "description": "7 ноября у сервисов Яндекса наблюдались сбои в работе. Информация о причинах и масштабах сбоев важна для оценки стабильности платформ конкурентов и потенциальных рисков.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#A50000",
-          "published_at": "2026-11-06",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Рекламная выручка Яндекса выросла на 9% год к году",
-          "description": "Бизнес-группа «Поисковые сервисы и ИИ» Яндекса показала рост рекламной выручки на 9%. Это свидетельствует об успешности их бизнес-модели и рекламных решений.",
-          "source": "prospect.com.ru",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-04",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGRqMmZTT2doeWVpeVlmS01UMHFIdllmZ2xDRTE1WldjVHBFMkI0UzNxY0daRVI3c3l5SEw4ZFMzN3BWbEVnRzJOMnM0enJCeTNLVVkwVmJhSVVmaXgxODlvQU9ZU295NmswZDFtNFVNRG5tUzdjSThJM0lNM1JaQmQ3eXhjTllwdXZtaXZjTmR1NEFWR3pWdjA3d2pKT3lhUEdVN0dVaUMwdHlGbnFmXzY1eEpsWU1zT09VWGVZRW5MSHZOaElITkdB?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Рекомендательные технологии Яндекса повысили конверсию",
-          "description": "Внедрение рекомендательных технологий в Яндексе привело к росту конверсионности продвижения. Это подчеркивает важность эффективных алгоритмов матчинга и персонализации для продуктовых метрик.",
+          "headline": "«Яндекс» улучшил рекомендации, повысив конверсию продвижения",
+          "description": "Оптимизация рекомендательных алгоритмов «Яндекса» привела к увеличению конверсии. Это показывает важность персонализации для эффективности маркетплейсов услуг.",
           "source": "prospect.com.ru",
           "favicon_char": "P",
           "favicon_color": "#6750A4",
@@ -136,18 +112,6 @@
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkYydHFKSjFzUm1mcVkzNEhwT2U2dkRtc2NValpQLVk2ZUZtYTQwWnl2SENHcWdHM2E4a0FGZXNhS2ZrS3puWVNYRTBvbXhlR1ZFMVRsU09RMzFMUTJMWFEyTndwU05FTDRJcE5WaWpaV2wtLTdaQmlxM04xaV9IVVNRUlZDTk1zSFRZT1hpNmU5VFhmOFB2UU1jR1hrSzVOZm5xMUVRcGJHdVhEeVJsUjNvQjd6LU0?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Что происходит с Авито 7 ноября: Причины сбоев",
-          "description": "7 ноября у Авито также наблюдались проблемы с доступом к сервисам. Подобные инциденты у крупных конкурентов показывают сложности обеспечения бесперебойной работы больших платформ.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "C",
-          "favicon_color": "#A50000",
-          "published_at": "2026-11-07",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
         }
       ]
     },
@@ -158,69 +122,69 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 12,
-          "headline": "Figma и AI: от брифа до передачи разработчикам",
-          "description": "Подробный обзор интеграции ИИ в рабочий процесс UI/UX дизайна, от первоначального брифа до передачи макетов разработчикам, с использованием Figma. Это показывает, как ИИ трансформирует этапы продуктового дизайна.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
+          "id": 9,
+          "headline": "Cadence Design Systems запустила новые AI-инструменты для проектирования",
+          "description": "Компания представила инновационные AI-решения для системного дизайна. Это отражает растущую интеграцию искусственного интеллекта в профессиональные дизайнерские рабочие процессы.",
+          "source": "finance.yahoo.com",
+          "favicon_char": "F",
+          "favicon_color": "#720e9e",
           "published_at": "2026-11-05",
-          "read_min": 6,
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenJyZXZxWXZ2ckxPT2Q1Nm51VFF2V2xyNDJRSlVFX2JlTXlOLXZEOElNanpMRVBmeXZJRWJCaFRTNGlISFBKcmJNbmVUQ0JqSmliRnVia095S2hTamRmRnpKRjA0eEVEbXVQZ2JySGxhMnNxNkJxcHkwV2duZHFuT1BXakxDSkVlTjgyZU5LUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLTFkVnB2YnMzTFpXeDBBTTFTY2ZYQVJhb3NIX2tHMVNFNy0yQXRObURrMGZBNmtPc25wdFF6U3RtQ3pwN0hSU3Rob0pQck9hZVJqNXQ5OEJ3S0R1OUZHaXpBdWRWakx3a184ZXZncnZrTXFXYl84U0d1dnA4YmVWYUZ5RFh0b1gtMG5uLXlfOS1zcVNwdmFXRThMLVhXUVlELWc?oc=5"
         },
         {
-          "id": 13,
-          "headline": "Chaos интегрирует ИИ для дизайн-исследований в Enscape",
-          "description": "Компания Chaos добавила возможности ИИ для исследования дизайна в свой инструмент Enscape. Это открывает новые перспективы для генеративного дизайна и быстрого прототипирования в 3D-моделировании.",
+          "id": 10,
+          "headline": "Chaos интегрирует AI-инструменты в Enscape для исследования дизайна",
+          "description": "Новая функция позволяет дизайнерам и архитекторам использовать ИИ для генерации и изучения различных вариантов дизайна прямо в Enscape. Это значительно ускоряет и обогащает процесс прототипирования.",
           "source": "aecmag.com",
           "favicon_char": "A",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-06",
-          "read_min": 5,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWxrX0dTYW5OdlBqZVZvUVBKSXl4ZGtDZmlyblNOeXhsRkU4ZUFya0dRa2NtUWhJNHZOLXNvSzBxUTVKNkxsZDUtenlHUzgyLWV4RU5FQWNaRE1RQVcyeXZzT2pfSFNmTFlqeGdFLTNOaGk0aTFhMDFJUV9KTkhfR0FYVXJVSGhX?oc=5"
         },
         {
-          "id": 14,
-          "headline": "Cadence Design Systems запустила новые ИИ-инструменты Maestro AI",
-          "description": "Cadence Design Systems представила новые инструменты Maestro AI, которые обещают изменить подходы к проектированию. Дизайнерам стоит следить за такими новинками для оптимизации своих процессов.",
-          "source": "simplywall.st",
-          "favicon_char": "S",
-          "favicon_color": "#00B1A7",
-          "published_at": "2026-11-07",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWtaeXppdm0wbTVzNDlERmxmbC1VOE9nYi1DdXQ5R2tMbFFPUlpfOVQwazBHT2VMX0ltUmFoLXlCUXI0d3BOMTNIdnQ0MllIWml6VGtpZUN2Z1doNmlJV25NWGlzV0VaMVplRmdzLXlwMUVYVGJhZUJJa2pIMU5NNVdVQzRWNkEzQnF6ZS13eHBEZjZXajQ3VGFUcGlURUYzTHpKLU9vdE1EaldqVU8xX0s3dkdaQUlxa3FiWlNpLWdBWURBRUZjYTkzMTYtSTQxOUJQc1NxZw?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "DesignNBuy выпускает ИИ-пакет для печати и промо-бизнеса",
-          "description": "DesignNBuy запустила комплекс ИИ-инструментов, предназначенных для дизайна в сфере печати и промо-материалов. Это демонстрирует расширение области применения ИИ в различных нишах дизайна.",
+          "id": 11,
+          "headline": "DesignNBuy представила AI-пакет для печатного и рекламного бизнеса",
+          "description": "Новая AI-платформа упрощает создание дизайнов для полиграфии и промо-материалов, делая их доступнее. Это показывает расширение применения ИИ в коммерческом дизайне.",
           "source": "greatreporter.com",
           "favicon_char": "G",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-05",
-          "read_min": 4,
+          "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcENpdzZ1aEVvcXNJY2NaaVhUNGZzY3N4YjZwcE9na1NEaENJbkU0S294SUFqa0pYWEh0UWxCT0diSTRfdzlDT3JLaGhka29Calc4THdWdk5jVVczaUxmdjhXeU9tOXVfWHpfcXBTUWYtSE5OOW9ZRFFaMmp6ZndnYnRFSllnbGZkREl0eGxuZGtjSGUzbDc0REZESFlSZTM2RGR5dk1FMA?oc=5"
         },
         {
-          "id": 16,
-          "headline": "Массовые увольнения в Canva говорят о ландшафте ИИ-дизайна",
-          "description": "Масштабные увольнения в Canva поднимают вопросы о влиянии ИИ на рынок труда в сфере дизайна. Это важный сигнал для дизайнеров о необходимости адаптации и освоения новых навыков.",
+          "id": 12,
+          "headline": "Обзор Claude Design: ИИ-инструмент Anthropic для дизайнеров",
+          "description": "Подробное описание функций, цен и сценариев использования инструмента Claude Design. Это дает представление о возможностях генеративного дизайна от Anthropic.",
+          "source": "felloai.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-04",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fc0tZNDF6a1pOV0dsbGxsUF9pNl9iNlBLd0NncTR4ZjVBYjNJLW9UZl9fRDBQdkJXR2dxclM5LTZHQjJFd3hkZnVhZFJCa096V0hBX1U4cw?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Массовые увольнения в Canva: влияние ИИ на ландшафт дизайна",
+          "description": "Сокращения в Canva поднимают вопросы о влиянии ИИ на индустрию дизайна и требования к навыкам специалистов. Продуктовым дизайнерам стоит задуматься о развитии своих компетенций.",
           "source": "fastcompany.com",
           "favicon_char": "F",
-          "favicon_color": "#2B455C",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-04",
-          "read_min": 5,
+          "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXc1UzlNT3VFeXB5LVUxR3Zyd0prMTBLT1VnZjA4UzdBTS1aVHVYMHBTeXBWZ3ZrWUtGZG9zaHI3NlRMeXdFWEU3VHZ0X25qMXZNcmpyQm5OLWFTQUNKZEljN1BMQkY0TjZ6NGRWQy1Ua05rc0ZlV0dvQUFycE1lcmVNcU1IM2UyX1JOSC1KWlZmQUROT0t2cTRFTQ?oc=5"
         },
         {
-          "id": 17,
-          "headline": "Сравнение Claude Design и ChatGPT Images 2.0: Слайды и мокапы",
-          "description": "Обзор и сравнение возможностей Claude Design и ChatGPT Images 2.0 для создания слайдов и мокапов. Полезно для выбора оптимального ИИ-инструмента для задач визуального дизайна и прототипирования.",
+          "id": 14,
+          "headline": "Сравнение Claude Design и ChatGPT Images 2.0: слайды и мокапы",
+          "description": "Анализ возможностей двух ведущих ИИ-инструментов для создания визуальных материалов, включая презентации и прототипы. Это помогает дизайнерам выбрать подходящий инструмент для своих задач.",
           "source": "felloai.com",
           "favicon_char": "F",
           "favicon_color": "#6750A4",
@@ -236,20 +200,7 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": [
-        {
-          "id": 18,
-          "headline": "ИИ-агенты Uber совершили всего 4 заказа за неделю Хэллоуина",
-          "description": "Uber подтвердил, что ИИ-агенты забронировали только 4 поездки за неделю Хэллоуина. Этот кейс показывает текущие вызовы и ограничения при внедрении ИИ-агентов в процессы бронирования маркетплейсов.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-06",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXhMLW0wNnNkT1RTd1pkaHJscDNDOE1XWW03di1DZnpVcjZ4WngxNkQzQXRzdjRKWG9xaWVwekNIeFQzQ2VXeHZqVTh3WkVYOHItZjF4dlBNNWd1Nm84cXNHNXA4RmNDNkdaQXpUc24weDU0UFRVTHRMU1A2Ml9hcXVESDFYUFJZRlI1Sg?oc=5"
-        }
-      ]
+      "items": []
     }
   ]
 }
