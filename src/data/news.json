@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T05:01:49",
+  "updated_at": "2026-11-14T05:01:37",
   "next_issue_at": "2026-11-16T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,75 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "ИИ разделяет продуктовых дизайнеров: исследование против создания",
-          "description": "Статья анализирует, как искусственный интеллект меняет роли продуктовых дизайнеров, разделяя их на тех, кто исследует новые возможности, и тех, кто фокусируется на создании. Это важно для понимания будущего профессии и адаптации навыков.",
+          "headline": "Новые тренды UX: отказ от Web и синтетические пользователи",
+          "description": "Якоб Нильсен выпустил обзор свежих тенденций в UX, включая идеи о 'не-вебе', социальных рабочих процессах и использовании синтетических пользователей. Это важно для понимания будущего направления продуктового дизайна.",
+          "source": "jakobnielsenphd.substack.com",
+          "favicon_char": "J",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-11-13",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQU9SbDcxb0UzNjZzOFdNVTRDVFNJbC1RQlFoNHFuS3V4bFFUVnNXSXRDLU5fWk9PSDNBX1BsOGdUU1F2RVVidEVsb25iT095U0pPVmhQUjhpU1F5U1RjZnkxZHZMcS1XbWc?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "ИИ разделяет продуктовых дизайнеров на «исследователей» и «строителей»",
+          "description": "ИИ меняет роли продуктовых дизайнеров, создавая разделение между теми, кто фокусируется на исследованиях и стратегиях, и теми, кто занимается реализацией. Это заставляет дизайнеров переосмысливать свои навыки и будущее профессии.",
           "source": "hackernoon.com",
           "favicon_char": "H",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#1CB0F6",
           "published_at": "2026-11-12",
           "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnNrQVhpM1dKa0NNMC15dk9VRkJRZDg2SEp3SjJtdEhPZFRBRS0yMEpKanJrYzl6YTllVFI4Z1J4akN4YUxVY1VIWjhQMkJqUUQzc2hvVHd3T1IyZDBYa0lkVEd1dk9zYWpSMERUYXN2bm1xcnRucjhYZFk4SkIyTHg2QQ?oc=5"
         },
         {
-          "id": 2,
-          "headline": "28 ключевых статистических данных веб-дизайна на 2026 год",
-          "description": "Обзор важнейших трендов и инсайтов в веб-дизайне, влияющих на пользовательский опыт. Дизайнерам полезно знать эти данные для принятия обоснованных решений и создания актуальных продуктов.",
-          "source": "hostinger.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-09",
-          "read_min": 6,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSSnFoRlFUdUVTXy1VUmdDODM5M2hTa1ViNkV1ZXlzWi1SU3ZlS0kxVTNQT2xTeFBXTkRRVkRxNlJucm1tOThBOUxCNWRTZHRRRGdOeW42Z3RzclhVVm5LRXppTnlmYzNiVGxvTkxn?oc=5"
-        },
-        {
           "id": 3,
-          "headline": "Утечка Samsung One UI 9.5: приложение для скриншотов с ИИ",
-          "description": "Новая версия One UI от Samsung будет включать функцию сохранения скриншотов с помощью ИИ, что может значительно улучшить управление контентом. Это показывает развитие мобильных интерфейсов и использование ИИ для повседневных задач.",
-          "source": "pasqualepillitteri.it",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-09",
-          "read_min": 3,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlRUeWJJR05HZjRaWFozblhmLW9semd4SFhoazczQVZHUER1OTZrbVV4dHdCMWIxd1A5eDVvZjFWa2hkUGRmd1o4SFlLV1JWRXFVZFVjaE1JdGZ4X3BEbG1SNWluNjVES0VKR0toVlFBZ1NONEh2V1d2NU5WanBKUWlrVnhnQQ?oc=5"
-        },
-        {
-          "id": 4,
-          "headline": "Что такое человеко-ориентированный дизайн: краткий обзор",
-          "description": "Основы человеко-ориентированного дизайна (HCD) в сжатом изложении. Это фундаментальный подход для продуктовых дизайнеров, который ставит пользователя в центр процесса разработки, обеспечивая создание востребованных решений.",
-          "source": "fourweekmba.com",
-          "favicon_char": "F",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-11",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pOVhqUlRlWkdpak54Q3lzRWxlMGVYZkRCWE5Oa2VwZ3QxTWEzc2hLaHBWSS1MQmNUWWVTcDdLTXAta25tNV94V3BnNGNrVEk1RmxVdHdiRzNWUQ?oc=5"
-        },
-        {
-          "id": 5,
-          "headline": "Правила доступности в Индии меняют подход к дизайну ПО и приложений",
-          "description": "Новые правила доступности в Индии заставляют разработчиков переосмысливать дизайн ПО и приложений. Это подчеркивает растущую важность инклюзивного дизайна и его влияние на глобальные рынки.",
+          "headline": "Новые правила доступности в Индии меняют дизайн приложений",
+          "description": "Индийские правила по доступности вынуждают разработчиков ПО переосмысливать дизайн приложений. Это показывает растущее значение инклюзивного дизайна и его правовое регулирование в глобальном контексте.",
           "source": "analyticsindiamag.com",
           "favicon_char": "A",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-12",
-          "read_min": 7,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJSOGZDWjFCX1IyUjVWNFdabnNaVkw4bjlJR0RWbExjcjYtVVBXenFlSG0zcXdGam9OZGxxaVpzRDRfRC1oUzNheXZrWWNvcXFVTXc1SXlwU0lsaHZFZC1QZlgyMjZYckZLUjFRUkkxb0FBRGVBNmtXMUI2WFEwejdpZlpYV3V1S2xoelQwUDZJZldPdzVUZmREOGN1M3AySk5abGh2YmJrYUp6TnpZTFQyQ3NfbG8?oc=5"
         },
         {
-          "id": 6,
-          "headline": "Изучение 10 000 сайтов с ИИ выявило 5 строгих правил макета",
-          "description": "Исследование выявило общие дизайнерские паттерны для сайтов, использующих ИИ. Дизайнерам полезно знать эти правила для создания интуитивно понятных и эффективных интерфейсов для продуктов на основе искусственного интеллекта.",
-          "source": "geeky-gadgets.com",
-          "favicon_char": "G",
+          "id": 4,
+          "headline": "Как измерять успех цифровых услуг через UX, а не только запуск",
+          "description": "Статья подчеркивает важность измерения успеха цифровых услуг на основе пользовательского опыта, а не просто факта запуска приложения. Это напоминает о необходимости метрик, отражающих реальную ценность для пользователя.",
+          "source": "jurnalpost.com",
+          "favicon_char": "J",
           "favicon_color": "#6750A4",
-          "published_at": "2026-11-09",
-          "read_min": 5,
+          "published_at": "2026-11-11",
+          "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZYm8yS0l2U2hNLVEwb0kzZjV6dldlTms4aWYwMHQwUy1NSUxVWUR6N2l0MGhBSF9laXVnVjJHY0k5MHA0NExJZUE4emhMc2M4akRtQzlUa3ZFbUZP?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXpDdzhUZnVxN0VKbTJXOExZZFlBNk9PNlR3eFNObjJXYjVyOEhhVV9NUXZyWFVST3hWTm1RUmFXSXY1NGtHX0xaRHp5aWhoQzlrcU1YNVp0TVZ4d3MwbndnZFBCeWNscmVBRHdTblNRejdlX1FwZkVYWjZ0Y1lZeVdUdWJ1UGxCN0tGX3ZXLW1HT1JxTkdHM1ZGOVVRTktPQlJ2dDZMd3JCV0laNEdLZWdB?oc=5"
+        },
+        {
+          "id": 5,
+          "headline": "Водители хотят возврата к кнопкам: почему упрощение технологий важно",
+          "description": "Исследование показывает, что водители предпочитают физические кнопки сложным сенсорным интерфейсам в автомобилях. Это подчеркивает важность тактильной обратной связи и простоты управления для безопасности и удобства.",
+          "source": "insighttrendsworld.com",
+          "favicon_char": "I",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-11",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFlrcU16WTZKWnFGbmdrbnFRak0xaUk5TlBIWWhHOU1rWWJ6OEJqaTRUOHNScjRBbGozVlI4WXZRRlBzVDktN0ZwX3ZadkxNbTBsOTBJbVQ4WWxMakRtbGx4NEt3Ql84ZmRldUNqc3RlcTJwT1Z3Q2JTWWJienZjcWRDUTZUaE10OFd4MTNsVlNhYm8yc2VaVGlEczh1Q3dXdWJBTU5URQ?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Пожилые люди хотят улучшений в дизайне роботов-тренеров",
+          "description": "Пожилые пользователи положительно относятся к роботам-тренерам, но требуют практических улучшений в дизайне. Это демонстрирует важность пользовательских исследований для специфических аудиторий и адаптации продукта.",
+          "source": "bioengineer.org",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-13",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXhTSWlGa1hmdmxKaFdmWE1vTjV6Sk1lUkR2NXRHODYyVFpSbDlhNF9wbzU1QlIxX09ISWQ4Q1JWMEJ5Ujl0VVRmaWFsU1Y1X1J0VjhVdWp2U3oxQm5mc0drRXlSajUwcElSZ3AwMjJuMWRhamxGWEVYb1RqalFpSGRwLUdDN1ppSVJpb1RXaXlZSDJLZklzZTZqLU9mbFFlWk44a25xbTRCWEQzXzJlbHk0dDZYV1o1WkdHQVRB?oc=5"
         }
       ]
     },
@@ -91,63 +91,27 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс Пэй: оплата баллами «Плюса» в Т2",
-          "description": "Теперь клиенты Т2 могут использовать баллы «Яндекс Плюса» для оплаты товаров и услуг через «Яндекс Пэй». Это расширяет экосистему Яндекса и предоставляет пользователям больше гибкости в расходах.",
-          "source": "donnews.ru",
-          "favicon_char": "D",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-12",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEZyTGdlbkhnbW00YjJpZi1rQkZmR2RwTW1Jb1BUb0hwSjZVUHZaWlRxT2ZKcF9aTTFobjJnc1NzOEZFcURhZHlnYU9hNWwxMlYyeDlzVjhsT21XQjhtcmJRTC1kZ2plR0hBOTJUWW5YSGJrd3M5WG5TWnpmZUQzRWg2NWE4RTRlUDRCV192YzhZMURTQ3pmMzZCbllyZlN40gGmAUFVX3lxTFBhNDdETTNPVjBmSGN5b2poNHprN0g4MzUxMkdFMDNxVlphUGlPRmIxZUhzSEVrUldLaTBrZHZtS3R0aDFZbkpiWTdhVXlkcG1EWXdjdDlnd2Rxb0tmdTNYc2ZoWF9qT1ZkTEljbTV6YXlrWTE3XzFWTW4wR3pVd19IYzZuUHZKNlF6dTVkdDVqZlNXOVRja1I5RGJwZ3NTLUhrYXRsbEE?oc=5"
-        },
-        {
-          "id": 8,
-          "headline": "Алиса AI от Яндекса начала совершать звонки по поручению",
-          "description": "ИИ-ассистент «Алиса» теперь может самостоятельно звонить и взаимодействовать с сервисами по голосовому поручению пользователя. Эта новая функция значительно повышает автономность ассистента и удобство для пользователей маркетплейсов услуг.",
-          "source": "habr.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
+          "headline": "Яндекс Алиса AI научилась бронировать услуги по звонку",
+          "description": "ИИ-ассистент Алиса теперь может самостоятельно звонить в компании и бронировать услуги, выполняя поручения пользователя. Эта новая функция в режиме «Действуй!» упрощает взаимодействие с сервисами.",
+          "source": "rb.ru",
+          "favicon_char": "R",
+          "favicon_color": "#FFCC00",
           "published_at": "2026-11-12",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfRUZNdW1lU0pxbjlsaWI4WE1OVXI5ZUNPUE1ndk1rcy1MelZYaVpLa25yUFdOSnJpUnVGb3EzTDFPZllwWXNaRENMeXFHZTJYdnBLd3RGLTLSAVhBVV95cUxQX0VGTXVtZVNKcW45bGliOFhNTlVyOWVDT1BNZ3ZNa3MtTHpWWGlaS2tuclBXTkpyaVJ1Rm9xM0wxT2ZZcFlzWkRDTHlxR2UyWHZwS3d0Ri0y?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb19IQUk1cW9xb2ZaeHFyLTZfV3JoZHU3bW5RbmdoYk5YT1JhM0R4RThKNXN1QmMzc0RMQ0kxbzVBdFhLcjVPdW1GUXZJSDE5enRER1EyN2RoZWNBU1I4eEloRDRWV0VLWjlfSTBtTEkxNExkRWVvOWlCaGRuMjlrbEh4UHVDeUh2dnptTW0zNnlTc2g5V0h4eUhXSXJGU0lFNDZqWWJvWUFjSGNDYi1FdUYwWXJycmJpdlluNDF1WDZTYzNfUDN4eg?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Яндекс Пэй запустил оплату с часов Huawei",
-          "description": "Сервис «Яндекс Пэй» теперь позволяет оплачивать покупки напрямую с умных часов Huawei, что делает процесс оплаты еще более удобным и быстрым. Это важный шаг в развитии мобильных платежей и расширении доступности сервиса.",
+          "id": 8,
+          "headline": "Яндекс Пэй теперь позволяет оплачивать покупки с часов Huawei",
+          "description": "Пользователи могут совершать покупки с помощью Яндекс Пэй напрямую с умных часов Huawei, что значительно повышает удобство и доступность платежных функций. Это расширяет экосистему Yandex Pay.",
           "source": "www1.ru",
           "favicon_char": "W",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#FFCC00",
           "published_at": "2026-11-10",
           "read_min": 2,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmtxVkU2SS1PUU1UZURhQnQzcDFZQVh5Qld2WE52eExVWFN5MXZCM0cwUTRZX1FWNDNLY0pueGl6SUExdkxqTktLVVN3a3ZZclR3UFVmb0RST01oZUVKbmFCUTRLS3g5NE1sLXQ5eUt6X0EzbVRpWTJ5bnMwMjJtdXdJN1ZNSURzdDNlQVJtdWp4NEdnMU5falNDTEQxaGoyT3NxUWltNk9NYzJFQ3FRRNIBtgFBVV95cUxQSmUxNkJpSnFsbmxaOE5iR3JueVB0bGRyV25zZ0RtX1kyOVdZRjJsbHNpa3ZKRWpDNEhiWEFxMkRhVUVIanNQcGxrMVhKZFk1UTMwMjBxekVLc2VJRFBIYWVMNVF6MG1jdjFPcEFtODh0QlRVUHc2M1R5WTlUUktYMjVlR2pMbnVua0pkcE1Jam1FUk9FRmVSQU5OSk1DaWVlSlBBUFlvN3p6YWFkRlNSWXJITi1Tdw?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Баллы Яндекс Плюса принимают в оффлайн-магазинах",
-          "description": "Расширены возможности использования баллов «Яндекс Плюса»: теперь ими можно расплачиваться в обычных розничных магазинах. Это увеличивает ценность подписки для пользователей и стимулирует их активность в экосистеме Яндекса.",
-          "source": "androidinsider.ru",
-          "favicon_char": "A",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-09",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDFwOVJZTVJlbV8ycDV5V3hSd3E0VVotcHFhUU93LWpJMEhDVGh4bmQ1cy1fSHFpa19qeWNCLVNHQjZEelpLRDJ6VFFVSWdDd3ZxS05KVUtmbkJ1bThvVFhNUDdPMUdRQ1hsTTFlSTdaWTAxMTZrNVVPZXJhMVVDSVA0RTVnV2NqUDhtelhMSGhVRS1YNjVtMV9DRUhQcnpTOUVCMjZQSjBmOWZBRU4wdUMxT1gyVjg5Zms3a05iMA?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Авито Подработка: рост интереса к автосервисам на 25%",
-          "description": "На платформе «Авито Подработка» значительно вырос интерес к поиску специалистов для автосервисов в СФО. Это указывает на потенциал для развития новых категорий услуг и адаптации предложений на маркетплейсе.",
-          "source": "vse42.ru",
-          "favicon_char": "V",
-          "favicon_color": "#00AFFF",
-          "published_at": "2026-11-11",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yUjdqRzBoZy11dXNtd25zSmVYdUJweU5VUmRxcnB3d3RsM0JneGV3c0hKTzlLSUlLcENCcnlqbHFVaFphWG53a3l30gFKQVVfeXFMTTJSN2pHMGhnLXV1c213bnNKZVh1QnB5TlVSZHFycHd3dGwzQmd4ZXdzSEpPOUtJSUtwQ0JyeWpscVVoWmFYbndreXc?oc=5"
         }
       ]
     },
@@ -156,7 +120,80 @@
       "title": "AI для дизайнера",
       "chip_label": "AI-инструменты",
       "subtitle": "инструменты, релизы, бета",
-      "items": []
+      "items": [
+        {
+          "id": 9,
+          "headline": "Adobe открывает новую эру творчества с ИИ-инструментами",
+          "description": "Adobe расширяет свои возможности, предлагая новые ИИ-агенты и инструменты для креативщиков. Это позволяет дизайнерам работать более эффективно и расширяет границы их творчества, интегрируя ИИ в привычные рабочие процессы.",
+          "source": "news.adobe.com",
+          "favicon_char": "N",
+          "favicon_color": "#FF0000",
+          "published_at": "2026-11-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JWjNRbUVlbFd4SF9zLWIyZGtfd1hGcUFsNF9BdkpMQm5JeUJLMUtOREowZFU1UmNYWmdYeWdRckkxeVRGOWM0amF1MFU5SFl6SzNLRV82MWdQYVJfUTFQZGtZRkFKZzluUUwzWHpTa3dfNEpOZjNRcm1R?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "Adobe Firefly становится креативной ИИ-студией",
+          "description": "Adobe Firefly расширяется, предлагая надежные творческие ИИ-инструменты для всех создателей. Это ключевое развитие в области генеративного дизайна и автоматизации креативных задач.",
+          "source": "news.adobe.com",
+          "favicon_char": "N",
+          "favicon_color": "#FF0000",
+          "published_at": "2026-11-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUDE4VGtTTDZZblhnYVdjSXZPVU5oZkRkbVVuTzdzQUYycGV0a0czMTFaT0NoTnRURzE1SHgzM01xZ3FvTy04alhJTm5BbDFtYUFUQ1h4QU95alpHNi1FcklkY0thS2RK?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Creative Cloud от Adobe трансформируется в ИИ-рабочие процессы",
+          "description": "Adobe переводит инструменты Creative Cloud на агентские рабочие процессы с использованием ИИ, обеспечивая профессионалам точность и контроль. Это позволяет дизайнерам экономить время и фокусироваться на творчестве.",
+          "source": "news.adobe.com",
+          "favicon_char": "N",
+          "favicon_color": "#FF0000",
+          "published_at": "2026-11-10",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zZnVyOTZ3Qm52Yy1rVGxxSDNIVVpXbmc3Sk1vT0c2ZDh1YUl6WWRKNWx5YXh5bldFSFhDMHFwUjN3OWpkb2ZmSThmNXlaME1HU1lDZEpNNU5feVNJaS1xaDBrVWhlcEZsMi1BTmlHWjF5SGZ3cTVNS2tVZTJwUQ?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Генератор изображений Printify AI создает дизайны для печати",
+          "description": "Printify запустил ИИ-генератор изображений, который превращает короткие запросы в готовые к печати дизайны. Это упрощает процесс создания продуктов и открывает новые возможности для e-commerce и персонализации.",
+          "source": "desmoinesregister.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-13",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlNWODVsa09HZ0JlT1k2NVUzM1REY1Q0WGtuWEFmTTRMUUxYRFAyMmN4NDR4eVZTelhoUm1SWVdLOElhdU0wOHVBWG9DemtRaUtKbF9JajA3bW5XYlg2cVAxY0w2TGRUSnFrUUgxTG5PbXFIanB6cFVlX2k0REFCZHhUZG52b295QTAzemVQZTIwV2cxUDRscll3RHdDRXh1RkUzZzFRLTRvcDRmbUtWT0F2Q1NlSHlwcjN6NVRXODhSS0tEWXhTeTljTldrM0h6MHZtb3ln?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "DeepL представил Aure, ИИ-модель для эмоционального перевода речи",
+          "description": "DeepL выпустил Aure, новую модель голосового перевода, способную передавать тон и эмоции говорящего. Это открывает новые горизонты для создания более естественных и эмпатичных голосовых интерфейсов.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-11",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXhWcm5vSzB2T2J6cFpTQllyaTRfN2lKWFBYM0NqQnZFM2FKN1p6cFBaeFQ3QXdaakl3MWFVQTAwUENCcWNGYUFjWkw0TzNQQ2pDc0hURnJRUFpiUFgwY3Jlc3J5dGdwVlhocXJDZENyeGNkVW1Ra0ZuOVplS09VUDhmQXVpejY2eWJJTjhpeUU3SVJra3QxWEdTQWQ1Q0x6?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Grok Bot 1.0 запускает общих ботов для Slack, Teams и встреч",
+          "description": "Grok Bot 1.0 представил возможность делиться ботами в популярных корпоративных мессенджерах и на встречах. Это повышает эффективность командной работы и автоматизацию задач с помощью ИИ.",
+          "source": "pasqualepillitteri.it",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-12",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm93aTF0ekFidGpQVGpEbUFyTDVYalc5ZTNfZlZJWWloSXVXMEZGRjV2UDhtSDJTc3VJdXJqbVZ6Q1pydE5IMlJ6a25ib1lWOU82UVp6VWp2X3pob1hiZmpCai1GS2dQaS1XRmsxZ1I0ZFkzVlRhUm51cUFhOEVCLWtoNDlyQl9lNzljX3VPaGRCSHc?oc=5"
+        }
+      ]
     },
     {
       "id": "mp",
