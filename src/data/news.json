@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T05:01:39",
-  "next_issue_at": "2026-11-16T10:00:00",
+  "updated_at": "2026-11-16T05:02:29",
+  "next_issue_at": "2026-11-19T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
     {
@@ -11,8 +11,32 @@
       "items": [
         {
           "id": 1,
-          "headline": "Роль дизайнеров: больше, чем просто внешний вид",
-          "description": "Обсуждение расширяющихся обязанностей дизайнеров, включая стратегию и понимание бизнеса, что важно для продуктовых дизайнеров.",
+          "headline": "ИИ в UX-дизайне: примеры, инструменты и тренды",
+          "description": "Искусственный интеллект трансформирует процессы UX-дизайна, предлагая новые возможности для исследования и создания пользовательских интерфейсов. Дизайнерам важно осваивать эти технологии для повышения эффективности.",
+          "source": "coursera.org",
+          "favicon_char": "C",
+          "favicon_color": "#1CB0F6",
+          "published_at": "2026-11-13",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tWmQ3SFRlbGRvYkQzcWVoTEp6Q3JkaUNzMzJuM056MzZUcFZfaGttU2JjOWZHQlczY3E1ai16LTUyaWpvUUdCTmloYnhuSUdSVEFjWTJCYXQtLWg0M1E?oc=5"
+        },
+        {
+          "id": 2,
+          "headline": "ИИ разделяет продуктовых дизайнеров: исследование против строительства",
+          "description": "Использование ИИ создает две основные группы дизайнеров: одни сосредоточены на исследованиях и концепциях, другие — на реализации. Это требует переосмысления ролей и навыков в командах.",
+          "source": "hackernoon.com",
+          "favicon_char": "H",
+          "favicon_color": "#36D61B",
+          "published_at": "2026-11-12",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnNrQVhpM1dKa0NNMC15dk9VRkJRZDg2SEp3SjJtdEhPZFRBRS0yMEpKanJrYzl6YTllVFI4Z1J4akN4YUxVY1VIWjhQMkJqUUQzc2hvVHd3T1IyZDBYa0lkVEd1dk9zYWpSMERUYXN2bm1xcnRucjhYZFk4SkIyTHg2QQ?oc=5"
+        },
+        {
+          "id": 3,
+          "headline": "Основные обязанности дизайнеров в современном мире",
+          "description": "Статья освещает ключевые роли и зоны ответственности дизайнеров, подчеркивая важность комплексного подхода к созданию продуктов. Полезно для понимания эволюции профессии.",
           "source": "lbbonline.com",
           "favicon_char": "L",
           "favicon_color": "#6750A4",
@@ -22,64 +46,40 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZ04tWnJ6dWd6cFNKeFItYkZjRHFxNjVQNldaUmlSaVQ1aXVNUW95cnZJQnJnSmtLTnhpaE9RdXlRb2xyWkFBOTFiQWhPWkJIc0Z4em9aWjhuWGFBbUV0RVMtMFg0cXBZakFjeA?oc=5"
         },
         {
-          "id": 2,
-          "headline": "ИИ разделяет продуктовых дизайнеров на «исследователей» и «строителей»",
-          "description": "ИИ меняет подходы к дизайну, создавая дилемму между исследованием новых возможностей и фокусировкой на реализации, что влияет на будущее профессии.",
-          "source": "hackernoon.com",
-          "favicon_char": "H",
-          "favicon_color": "#00DC6C",
-          "published_at": "2026-11-12",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnNrQVhpM1dKa0NNMC15dk9VRkJRZDg2SEp3SjJtdEhPZFRBRS0yMEpKanJrYzl6YTllVFI4Z1J4akN4YUxVY1VIWjhQMkJqUUQzc2hvVHd3T1IyZDBYa0lkVEd1dk9zYWpSMERUYXN2bm1xcnRucjhYZFk4SkIyTHg2QQ?oc=5"
-        },
-        {
-          "id": 3,
-          "headline": "Обзор трендов UX: от синтетических пользователей до ограничений ИИ",
-          "description": "Якоб Нильсен делится последними трендами и исследованиями в UX, охватывая такие темы, как будущее веба, ИИ в онбординге и неиспользуемые исследования.",
-          "source": "jakobnielsenphd.substack.com",
-          "favicon_char": "J",
-          "favicon_color": "#FF671B",
-          "published_at": "2026-11-13",
-          "read_min": 7,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQU9SbDcxb0UzNjZzOFdNVTRDVFNJbC1RQlFoNHFuS3V4bFFUVnNXSXRDLU5fWk9PSDNBX1BsOGdUU1F2RVVidEVsb25iT095U0pPVmhQUjhpU1F5U1RjZnkxZHZMcS1XbWc?oc=5"
-        },
-        {
           "id": 4,
-          "headline": "Алгоритмы триажа в скорой помощи редко используют UX-дизайн",
-          "description": "Исследование показало, что критически важные медицинские интерфейсы часто не проходят пользовательское тестирование, что подчеркивает важность user-centered design.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
-          "favicon_color": "#007bff",
+          "headline": "25 вдохновляющих сайтов с Flat Design 2.0",
+          "description": "Коллекция примеров плоского дизайна 2.0 демонстрирует актуальные визуальные тренды и подходы к интерфейсам. Отличный источник вдохновения для продуктовых дизайнеров.",
+          "source": "designmodo.com",
+          "favicon_char": "D",
+          "favicon_color": "#739BF0",
           "published_at": "2026-11-13",
-          "read_min": 6,
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXhTSWlGa1hmdmxKaFdmWE1vTjV6Sk1lUkR2NXRHODYyVFpSbDlhNF9wbzU1QlIxX09ISWQ4Q1JWMEJ5Ujl0VVRmaWFsU1Y1X1J0VjhVdWp2U3oxQm5mc0drRXlSajUwcElSZ3AwMjJuMWRhamxGWEVYb1RqalFpSGRwLUdDN1ppSVJpb1RXaXlZSDJLZklzZTZqLU9mbFFlWk44a25xbTRCWEQzXzJlbHk0dDZYV1o1WkdHQVRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xZkJ1VWVUWXc1SVhGd0o2VjhaZDBxbVI0VGJEbmFGNkFWTWZRVWMwdGxOMHFSeFpxdDdBR29MTk03MzlpeTR1RjBGRmxMVDNPdzhvYVRRWkRzUQ?oc=5"
         },
         {
           "id": 5,
-          "headline": "Высокая юзабилити системы поддержки решений в интенсивной терапии",
-          "description": "Успешное внедрение системы с высоким уровнем юзабилити демонстрирует, как дизайн интерфейсов может улучшить медицинские сервисы и принятие решений.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
-          "favicon_color": "#007bff",
-          "published_at": "2026-11-13",
-          "read_min": 4,
+          "headline": "Правила доступности в Индии меняют подход к дизайну приложений",
+          "description": "Новые нормы доступности в Индии заставляют разработчиков переосмысливать UX/UI для инклюзивности. Это подчеркивает глобальную важность универсального дизайна.",
+          "source": "analyticsindiamag.com",
+          "favicon_char": "A",
+          "favicon_color": "#D946EF",
+          "published_at": "2026-11-12",
+          "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUduSUh2WExGWkN2ZXJjY3dQUkZpVjNyYVNJcnhmbFlGcG5ZXzMxTlZweXFRT0hvQVdFcUhtMGxUQUl1MmI1V3N1MTVMN2prTHlDUmUzS1l0NXhQSlJwOElYWVhmV0xsVTJZVVdUR0RUUjF4QWkxcUE3OTlZTXJ4ZXNTajBrRlFUTHhWd2xBc3VGcXAwdFZkN0doQS1JdDBFY3VHSlRhZ1RVU1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJSOGZDWjFCX1IyUjVWNFdabnNaVkw4bjlJR0RWbExjcjYtVVBXenFlSG0zcXdGam9OZGxxaVpzRDRfRC1oUzNheXZrWWNvcXFVTXc1SXlwU0lsaHZFZC1QZlgyMjZYckZLUjFRUkkxb0FBRGVBNmtXMUI2WFEwejdpZlpYV3V1S2xoelQwUDZJZldPdzVUZmREOGN1M3AySk5abGh2YmJrYUp6TnpZTFQyQ3NfbG8?oc=5"
         },
         {
           "id": 6,
-          "headline": "Возвращение физических кнопок: почему водители хотят простоты",
-          "description": "Исследование показывает, что водители предпочитают более простые интерфейсы с физическими кнопками сложным сенсорным панелям, подчеркивая важность интуитивности.",
-          "source": "insighttrendsworld.com",
-          "favicon_char": "I",
+          "headline": "Ценность дизайна для бизнеса: доказательства и ограничения",
+          "description": "Исследование показывает влияние дизайна на бизнес-метрики и указывает на области, где его ценность еще недостаточно доказана. Важно для обоснования дизайн-решений.",
+          "source": "netguru.com",
+          "favicon_char": "N",
           "favicon_color": "#6750A4",
-          "published_at": "2026-11-11",
-          "read_min": 5,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFlrcU16WTZKWnFGbmdrbnFRak0xaUk5TlBIWWhHOU1rWWJ6OEJqaTRUOHNScjRBbGozVlI4WXZRRlBzVDktN0ZwX3ZadkxNbTBsOTBJbVQ4WWxMakRtbGx4NEt3Ql84ZmRldUNqc3RlcTJwT1Z3Q2JTWWJienZjcWRDUTZUaE10OFd4MTNsVlNhYm8yc2VaVGlEczh1Q3dXdWJBTU5URQ?oc=5"
+          "published_at": "2026-11-13",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMTNMNU5iRUc4RU50RFdkZXN4Q0E5VDZBSXdiNHVUQXZMYXNXUF8tazBWdGdPZjhlcUhfaUJseFc3akFWTTZFaF9KRjJYYmpJNmtCYlFwYi1DMnp1Zm4xNmFUSQ?oc=5"
         }
       ]
     },
@@ -91,8 +91,8 @@
       "items": [
         {
           "id": 7,
-          "headline": "Яндекс Алиса: ИИ-ассистент научился звонить и бронировать услуги",
-          "description": "Функция «Действуй!» позволяет Алисе самостоятельно совершать звонки и договариваться об услугах, что упрощает взаимодействие с сервисами для пользователей Яндекса.",
+          "headline": "Яндекс Алиса теперь может сама звонить и бронировать услуги",
+          "description": "Голосовой ассистент «Алиса» от Яндекса получил функцию автономного взаимодействия, позволяя бронировать и заказывать услуги без участия пользователя. Это значительно меняет пользовательский опыт и открывает новые возможности для сервисов.",
           "source": "rb.ru",
           "favicon_char": "R",
           "favicon_color": "#6750A4",
@@ -104,26 +104,14 @@
         {
           "id": 8,
           "headline": "Клиенты Т2 могут оплачивать услуги баллами Яндекс Плюса",
-          "description": "Интеграция с Яндекс Плюсом позволяет пользователям Т2 использовать баллы для оплаты, что расширяет экосистему Яндекса и влияет на потребительское поведение.",
-          "source": "ndn.info",
-          "favicon_char": "N",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-13",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEE2azVwN0JBdy13UWxZUXNuSzdKRF95RGFhVXJoVWR0QUZveTNrYzg5R3pCd2pCNElSbE5QNnlZNDJmUU8tLUwwVVpyNlBteWJiei1oZ3lOYlNCUXBscjY4eTNJZTdqWEpxVUJQZVZuT281SjZWZnEyNmVoYmEtVkFERVpzdXJCM1psbmFpWVY3azh3UUhmZVAxWkVJZ9IBngFBVV95cUxQcEE2azVwN0JBdy13UWxZUXNuSzdKRF95RGFhVXJoVWR0QUZveTNrYzg5R3pCd2pCNElSbE5QNnlZNDJmUU8tLUwwVVpyNlBteWJiei1oZ3lOYlNCUXBscjY4eTNJZTdqWEpxVUJQZVZuT281SjZWZnEyNmVoYmEtVkFERVpzdXJCM1psbmFpWVY3azh3UUhmZVAxWkVJZw?oc=5"
-        },
-        {
-          "id": 9,
-          "headline": "Сбои в работе Авито 15 ноября",
-          "description": "Сообщения о массовых сбоях в работе сервиса Авито, что может влиять на пользовательский опыт и доступность услуг на одной из крупнейших платформ.",
-          "source": "cybersport.metaratings.ru",
+          "description": "Расширена интеграция Яндекс Плюса с партнерами: теперь пользователи могут тратить бонусные баллы на товары и услуги в салонах Т2. Это повышает ценность экосистемы и лояльность клиентов.",
+          "source": "content-review.com",
           "favicon_char": "C",
           "favicon_color": "#6750A4",
-          "published_at": "2026-11-15",
-          "read_min": 2,
+          "published_at": "2026-11-14",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLMDduX3c1RHd6c0pqNWZ2NTZ2ZWlldVlUazd2eUpoNGJ3UDJPNFlWajFoaGd3T0NsTWlYR0xGUjJHRndNNUJLZEVwWUJjUmdMMzlyRUl1QWdBWktPcFRJ0gFfQVVfeXFMUEswN25fdzVEd3pzSmo1ZnY1NnZlaWV1WVRrN3Z5Smg0YndQMk80WVZqMWhoZ3dPQ2xNaVhHTEZSMkdGd001QktkRXBZQmNSZ0wzOXJFSXVBZ0FaS09wVEk?oc=5"
         }
       ]
     },
@@ -134,76 +122,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 10,
-          "headline": "AI-генератор Printify создает дизайны для печати по текстовым запросам",
-          "description": "Новый инструмент позволяет дизайнерам быстро превращать короткие текстовые описания в готовые к печати изображения, что ускоряет процесс создания мерча.",
+          "id": 9,
+          "headline": "Printify AI генерирует готовые к печати дизайны из текста",
+          "description": "Инструмент Printify теперь позволяет создавать полноценные дизайны для печати по текстовым запросам. Это открывает новые возможности для дизайнеров и предпринимателей в сфере кастомизации продуктов.",
           "source": "desmoinesregister.com",
           "favicon_char": "D",
-          "favicon_color": "#007bff",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-13",
           "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlNWODVsa09HZ0JlT1k2NVUzM1REY1Q0WGtuWEFmTTRMUUxYRFAyMmN4NDR4eVZTelhoUm1SWVdLOElhdU0wOHVBWG9DemtRaUtKbF9JajA3bW5XYlg2cVAxY0w2TGRUSnFrUUgxTG5PbXFIanB6cFVlX2k0REFCZHhUZG52b295QTAzemVQZTIwV2cxUDRscll3RHdDRXh1RkUzZzFRLTRvcDRmbUtWT0F2Q1NlSHlwcjN6NVRXODhSS0tEWXhTeTljTldrM0h6MHZtb3ln?oc=5"
         },
         {
-          "id": 11,
-          "headline": "MIT создал ИИ-копилота для генеративного дизайна в инженерии",
-          "description": "Новый ИИ-инструмент помогает инженерам в проектировании, демонстрируя потенциал генеративного дизайна для сложных структур и сокращения циклов разработки.",
-          "source": "casrai.org",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-14",
+          "id": 10,
+          "headline": "OpenAI представила новые модели GPT-6 Sol и Luna",
+          "description": "Выпущены новые версии языковых моделей GPT-6, демонстрирующие улучшенную генерацию текста и понимание контекста. Эти достижения расширяют потенциал AI-инструментов для творчества и автоматизации.",
+          "source": "openai.com",
+          "favicon_char": "O",
+          "favicon_color": "#000000",
+          "published_at": "2026-11-13",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44N2FncFo5TWNMM2lxM2ZZcG5YMWZZbTJxSmpCSmdjMkRJVjZTWnJJWm9jN1VMb1U4SnpadmxPWFNOTE43LVgzX2pYRnhTYzV1cE0yMEwzVTVwaHA4MGpSS0JxcWY4TlV1WlNXSGprWHdYQ2tRNTZhcDZ5Uk13Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Обзор 10 лучших AI-конструкторов приложений 2026 года",
+          "description": "Детальный обзор популярных AI-инструментов для создания приложений, выявляющий их сильные и слабые стороны. Поможет выбрать подходящий инструмент для прототипирования и быстрого запуска.",
+          "source": "sitepoint.com",
+          "favicon_char": "S",
+          "favicon_color": "#1A54F0",
+          "published_at": "2026-11-13",
+          "read_min": 7,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ODVtSy1yZnlqWG1zbnFpU1FqMEdTRHlHdVFpZGxieWFDYVhGNUg4WHp4MXl6RW5taXBDck84RVllaXlENlRtOG9mNWl4eVVWNmhSeDZjaWhUVm8?oc=5"
         },
         {
           "id": 12,
-          "headline": "Редизайн UX на основе ИИ для Platinum Health",
-          "description": "Кейс использования ИИ для улучшения пользовательского опыта в здравоохранении, показывающий, как ИИ может оптимизировать дизайн и аналитику UX.",
+          "headline": "Вышел Personal Agent Protocol 1.0 для развития AI-агентов",
+          "description": "Представлен новый протокол, который упрощает создание и взаимодействие персональных AI-агентов. Это шаг к более интеллектуальным и адаптивным пользовательским интерфейсам.",
+          "source": "sierra.ai",
+          "favicon_char": "S",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-13",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10TFpwVkp4MER1NXl1R0lMMWdhS212OFZTODl0UVlac2lyUHR4WmplUld4YWFXM3l3MnRZeXgxSDd3MzJSVVRUdDRkbkt6V3c?oc=5"
+        },
+        {
+          "id": 13,
+          "headline": "Лучшие AI-инструменты для создания контента в 2026 году",
+          "description": "Подборка ведущих платформ и инструментов на базе ИИ, предназначенных для генерации текстов, изображений и других видов контента. Помогает дизайнерам автоматизировать рутинные задачи.",
+          "source": "demandsage.com",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-14",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZTVTaDQ5Q19WaU9kOFpJT0NKN2JzT21nQ3FvUTVrMXFBX2hibVNKdThrSklHbmlwelN6YV9EWlA5WWs0UXEtTWY0ZU8ya2dydmRaWllYODFCaTQ3c2RycXBWeG0wV3RL?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Редизайн UX для Platinum Health с помощью AI",
+          "description": "Кейс демонстрирует успешное применение искусственного интеллекта для комплексного редизайна пользовательского опыта. Это показывает практическую ценность AI в оптимизации дизайна.",
           "source": "itweb.co.za",
           "favicon_char": "I",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-12",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXRnSmJzOE5rVVJNZG5WcVFtU2FzYm5UYkJtbWEyc24ycnA3dzVWMXhQVUhSMUxWaGM4aVQ1TkpjcE9BdmUyUGtqU1RXbXRHS3VBakExNFc3S3RmRkZ6TVczd3cyZHFZdlBDa2wxNHoteEFHMDJ1UEV3VUh0VXcyd3NScFFGMTdEb3QtanRsX29WRnkw?oc=5"
-        },
-        {
-          "id": 13,
-          "headline": "GPT-Synopsys: ИИ-агенты улучшают проектирование микросхем",
-          "description": "Объединение EDA-инструментов для проектирования интегральных схем с агентным ИИ демонстрирует, как ИИ может оптимизировать сложный технический дизайн.",
-          "source": "eetimes.com",
-          "favicon_char": "E",
-          "favicon_color": "#0056B3",
-          "published_at": "2026-11-11",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWdnYVZ1T2tZWnhzWVJmTTFwajR5LVdPc2x0X1Bxbm0ycEdWcFUybFZjNHNGc2h4eVlMUWQzaTJfM2YtMXpTLTE2dkk2V3dWT09ZN2pKNDFPSmFkak9uX05MS3hqeDk1MmdMMjJ1c0k4TzltblN3cjY2bDVTZGhlT2Rn?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "Adobe добавила новые ИИ-функции в Photoshop, Premiere и Firefly",
-          "description": "Обновления включают новые возможности ИИ для графических дизайнеров и видеоредакторов, значительно упрощая и ускоряя творческие процессы.",
-          "source": "innovation-village.com",
-          "favicon_char": "I",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-11",
-          "read_min": 4,
-          "is_ui_update": true,
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHJIejZ4aGEwMG5JSFdaU2U2cEtzOFEyeXE0U3N5S3UzU0NfRmY1b0hXT3AyWWIyd3dSSEdFY3NZMlM0emp2aVg0eWRqWmQtS0U5ZHQxNG9SVVFXTGJSVm12bmVGUTdyWkVqakJNMDhLaEFQM2VidjVsZlgwWm9vV2ZqRVZLRmlOTGNCZHphVmhfa3lVNXNN?oc=5"
-        },
-        {
-          "id": 15,
-          "headline": "Figma AI представила бенчмарк MotionGraphicsBench",
-          "description": "Новый бенчмарк для оценки производительности ИИ в работе с моушн-графикой, что важно для развития инструментов дизайна интерфейсов с ИИ.",
-          "source": "casrai.org",
-          "favicon_char": "C",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-14",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzJiU2wwaVJfNmtMbVZQRnZLbUpnanVyUUppM2J6MmtOQWNFQjd1TGwzVzBma2J3NGtfYm1SY0NMWXdhSkhxYy1Ybm1EMWJ4LWlDWmppQzZOVU5WY2tjNnlNcGtIUnFqTFFLd3hjVWhVS1RnT0RIWGQzRVRKZWo4ZHEwanBOX2V1U3Nz?oc=5"
         }
       ]
     },
@@ -212,7 +200,20 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 15,
+          "headline": "Маркетплейсы: ИИ-агенты не востребованы у пользователей Uber, DoorDash, Airbnb",
+          "description": "Крупные маркетплейсы, включая Uber и Airbnb, отмечают низкий уровень использования ИИ-агентов, несмотря на их повсеместное внедрение. Это поднимает вопросы о ценности и восприятии ботов пользователями.",
+          "source": "gadgetreview.com",
+          "favicon_char": "G",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-12",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQi1KNmI5MkROQmpXOUZLS25MWVFCTi1faUg3RnU1azNteVdEVTQwam51cjBsZlZEcXZsa1RTbXB6WHhsQTlXVmNsUmM0UklZN2hVaThDaEVDTXc4c2p5M3lIOWN0MHRxNVlyTTVZVnNxQU9CbnZrV1ZfUEsxRnpYbkRVdUJxaGdMMERVeW5WT0FDSXlGTXVneGd6aUNnSVdaOW5lMDV1dkI?oc=5"
+        }
+      ]
     }
   ]
 }
