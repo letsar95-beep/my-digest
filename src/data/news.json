@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T05:02:19",
+  "updated_at": "2026-11-18T05:07:46",
   "next_issue_at": "2026-11-19T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,63 +11,75 @@
       "items": [
         {
           "id": 1,
-          "headline": "Алгоритмы сортировки в экстренной медицине игнорируют UX-тестирование",
-          "description": "Исследование выявило, что жизненно важные системы часто не учитывают пользовательский опыт. Продуктовым дизайнерам важно помнить о критичности UCD даже в специализированных областях.",
-          "source": "bioengineer.org",
-          "favicon_char": "B",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-13",
+          "headline": "ИИ разделяет продуктовых дизайнеров: исследование или создание",
+          "description": "Искусственный интеллект меняет роли дизайнеров, фокусируясь либо на глубоком исследовании, либо на генерации решений. Это важно для понимания развития карьеры и процессов в дизайне продуктов.",
+          "source": "hackernoon.com",
+          "favicon_char": "H",
+          "favicon_color": "#00e0b7",
+          "published_at": "2026-11-17",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXhTSWlGa1hmdmxKaFdmWE1vTjV6Sk1lUkR2NXRHODYyVFpSbDlhNF9wbzU1QlIxX09ISWQ4Q1JWMEJ5Ujl0VVRmaWFsU1Y1X1J0VjhVdWp2U3oxQm5mc0drRXlSajUwcElSZ3AwMjJuMWRhamxGWEVYb1RqalFpSGRwLUdDN1ppSVJpb1RXaXlZSDJLZklzZTZqLU9mbFFlWk44a25xbTRCWEQzXzJlbHk0dDZYV1o1WkdHQVRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTM5RWU0ZXdGSGNIMnV4SjJQMlRwYWQ3ZWx5YkFtZjFoczRVYUh4MTZMUEpJWFNhczlIOXZ3UEpXdDNOQ00xeUozRTJYWXhSR19MelpaN1NjM05kS2lXSTd4YV9DTVBCbEVoWWlUdDR2SFhhS043czU4RW1NN3JCMF9hQS1TRXRvYmFwSUZR?oc=5"
         },
         {
           "id": 2,
-          "headline": "Ценность дизайна для бизнеса: что подтверждают данные",
-          "description": "Материал анализирует, как дизайн влияет на бизнес-показатели, и помогает дизайнерам аргументировать вклад в стратегическое развитие продукта. Важно понимать ограничения этих метрик.",
-          "source": "netguru.com",
-          "favicon_char": "N",
-          "favicon_color": "#00B175",
-          "published_at": "2026-11-13",
+          "headline": "Что такое бизнес-дизайнер? Роль и задачи в 2026 году",
+          "description": "Статья объясняет, как бизнес-дизайн объединяет стратегию, инновации и пользовательский опыт. Это помогает дизайнерам расширить свою область компетенций за рамки только UI/UX.",
+          "source": "fourweekmba.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-15",
           "read_min": 5,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMTNMNU5iRUc4RU50RFdkZXN4Q0E5VDZBSXdiNHVUQXZMYXNXUF8tazBWdGdPZjhlcUhfaUJseFc3akFWTTZFaF9KRjJYYmpJNmtCYlFwYi1DMnp1Zm4xNmFUSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JeWgtdjR5bUFPeGswYlhTRnpzUFpCZ2N1bFBCUzZYa055UGxnV2VkX1pzczU4am85UDRNN3NJQmxrZTFMcGxVeUhCaUpxUGJnZnc?oc=5"
         },
         {
           "id": 3,
-          "headline": "Взаимодействие в VR-музеях влияет на UX",
-          "description": "Исследование показывает, что качество нарратива и пространственной организации критичны для пользовательского опыта в виртуальной реальности. Это открывает новые горизонты для продуктового дизайна в иммерсивных средах.",
-          "source": "nature.com",
-          "favicon_char": "N",
-          "favicon_color": "#507722",
-          "published_at": "2026-11-16",
-          "read_min": 6,
+          "headline": "Что такое паттерн UI-дизайна? Объяснение концепции",
+          "description": "Краткое изложение основных принципов и преимуществ использования паттернов в UI-дизайне. Знание паттернов помогает создавать консистентные и интуитивно понятные интерфейсы.",
+          "source": "fourweekmba.com",
+          "favicon_char": "F",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-18",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83eEVqSG8xTXlicjlHX0dvN2NSSjdLaVRjNm1KQlpLUkw1VUZWY0wxc1pzNnUxVV9qLWhfcnBjbC1rVGFXN0lKNWR2Z0V6YV9YYWs2STNGQVllbDhKdHZB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vWWtWZGlOS2VaUzZXOE5SVGVRUlRNRjE1TXYyVnZ3RnY5ZjFjQnl3OXlVbnIwOWwtN2VybDQxZE9ITkw3bmxWeFhjclRwREp4NFhuWA?oc=5"
         },
         {
           "id": 4,
-          "headline": "Пациенты довольны асинхронными мед-чатами",
-          "description": "Опрос показал положительный опыт пользователей с мессенджерами для первичной медицинской помощи. Дизайнерам стоит изучить кейсы успешных решений в здравоохранении.",
+          "headline": "Пациенты позитивно оценивают асинхронные мед. приложения",
+          "description": "Исследование показало, что пользователи довольны приложениями для асинхронной связи с врачами. Это указывает на важность продуманного UX для повышения доверия и удобства в сфере цифрового здравоохранения.",
           "source": "bioengineer.org",
           "favicon_char": "B",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#0d8df1",
           "published_at": "2026-11-16",
-          "read_min": 3,
+          "read_min": 4,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM19Xc1BGMmZranlnZWhtZVpEY01YNktWaGFXV2lyM1hmRUtBb0JNdFFsZDFiRGNab3JvX19UU3ltOFdLNWFNcllCak5tV01xVktvOHA2QmJ4WlR5a2kzc3lxWkVfdmY4dFpTbVZGcWR4b21DNHRhYV9aeWY2NVg2TnRZcmFTdEdZcEl2ekZlNHdKR1VjMERTYmhXeEhpVUlZVzl3a3NvZEh6dEk?oc=5"
         },
         {
           "id": 5,
-          "headline": "Создание цифрового мед-ресурса для трансгендерных пожилых",
-          "description": "Совместное исследование помогло разработать цифровой ресурс для уязвимой группы пользователей. Пример инклюзивного дизайна, учитывающего специфические потребности.",
+          "headline": "Ресурс цифрового здравоохранения для пожилых трансгендеров",
+          "description": "Разработано цифровое решение для поддержки пожилых трансгендерных взрослых на основе партисипативного дизайна. Кейс демонстрирует важность инклюзивного подхода и исследований для создания доступных продуктов.",
           "source": "bioengineer.org",
           "favicon_char": "B",
-          "favicon_color": "#6750A4",
+          "favicon_color": "#0d8df1",
           "published_at": "2026-11-15",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnBOQTNWTklLVUE3Z0FISENLV3ZWZTZ3R1BSVWQySTZsUDMxTmcxUi1ISzcwTG5sMTlyV0MzQXlXMHAtdEJzRndJYlBGd29lZzZ3NkNtSUhrSE9ybWJ5SGNaNWQ3N0RBRFhSeGEyaHpoMDRuNkh5bTdEaDA1azFVWFZ0c1ZzMzZydVpBVjMxZUg4dU9jbzZDcjZBb2VtVmtKTklJZENaTFl4QQ?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Фреймворк для улучшения диалогов с LLM на основе эмоций",
+          "description": "Новая концепция позволяет LLM лучше понимать эмоциональный контекст беседы для более глубокого взаимодействия. Это критически важно для дизайнеров, работающих над диалоговыми интерфейсами.",
+          "source": "bioengineer.org",
+          "favicon_char": "B",
+          "favicon_color": "#0d8df1",
+          "published_at": "2026-11-17",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDN2VFVldUoyLVBnNG4zMVNsdTZPaEVLZkQ4UTYyNkdmMmJzM2NjQlNjRW9EUlJZbHdabWJsSWhkb2p2UHh1NEhhUU5iTkFFSmpGWnEyVWdNdFZ1SXZxWWRjd3FWNWhtU1JUNTdIV25KTmY3QUhnU2VlU21GSFBYU2dTVVhIVS1WNzRlb1doMDJjRkRyMW5FZjRBTVRlV2FtNldtdHRPV3Z2Ujg?oc=5"
         }
       ]
     },
@@ -78,76 +90,40 @@
       "subtitle": "что меняют конкуренты",
       "items": [
         {
-          "id": 6,
-          "headline": "Масштабный сбой в работе сервисов Яндекса",
-          "description": "Пользователи сообщали о проблемах с доступом ко многим сервисам Яндекса 17 ноября. Важно учитывать риски сбоев и их влияние на непрерывность предоставления услуг.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "Y",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-11-17",
+          "id": 7,
+          "headline": "Клиенты Т2 могут оплачивать услуги баллами Яндекс Плюса",
+          "description": "Интеграция баллов лояльности Яндекс Плюса для оплаты товаров и услуг у партнеров T2. Это расширяет экосистему Яндекса, влияя на бизнес-модель и привлекательность сервисов для пользователей.",
+          "source": "gubdaily.ru",
+          "favicon_char": "G",
+          "favicon_color": "#1E88E5",
+          "published_at": "2026-11-16",
           "read_min": 2,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2J2Uzl0Wi1CQWN3YlBTWFRXeEt3UmVucnBJT1ZKMVJLcHdzQkFFQzZqMzNfY0VFMU1OOXVRd1gyOGFCOHpoWUJSNW5IOVBZbjZGWUl6NlIxSXdyeTMtYWxBTl9XU05FY1R3eFVvOXBuTjc0SnhHNUg1eTc2bUJlQ19VdkFLRkJiQ29fR09URW1sS2p3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVdwSEVtaDZ4aWltSlpWc092M0ZIZXpKU2g5VkpoM0haNUJXeUNpOG1FVTduaWRZNHFzS2ttY1NsUTduY0M1RU84MUpOVW53ekwyWWlpcHpDemI2cUNYRHE0dHVWM2ZEOGxxV3pxLXBHSERtMU5yU2ZwM0k2WHlsRlhpc3lpTHRDNXd0NWlYemZUUy0zZ1R2LUh3cU1sdw?oc=5"
         },
         {
-          "id": 7,
-          "headline": "Яндекс научился вычислять домашние адреса пользователей",
-          "description": "Новая функция или политика Яндекса вызывает вопросы о приватности пользовательских данных. Важно для понимания подходов конкурентов к работе с конфиденциальной информацией.",
+          "id": 8,
+          "headline": "Яндекс определит домашние адреса по 'закладкам и меткам'",
+          "description": "Яндекс запускает функцию автоматического определения домашнего адреса на основе пользовательских данных. Это улучшит персонализацию и ускорит оформление заказов, но поднимает вопросы конфиденциальности.",
           "source": "prospect.com.ru",
-          "favicon_char": "Y",
-          "favicon_color": "#FFCC00",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-17",
           "read_min": 3,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1VVcTF6TlJkOGVnUzhtbm9VeFZMNkw4cTlzcVNaS3luYXF4M0luQnpJWFdjUjY3MXlBal90VWlwdUMtb3N3R2hlOTYxNXpaQkZMbUZud01zZ19pVFIxcndpWHRxSGlsYl8zU3U5aFBnNHQyWWZBUV9QTVFFWjVLbUxHWUVmNVVvdERMS1dNNjRlVzNiQVlnWUM5NTBkYmhvSFVyX2tHUXhUN2k1Y3R3aFVkYmM?oc=5"
         },
         {
-          "id": 8,
-          "headline": "DIKIDI интегрирует продвижение через Яндекс и РСЯ",
-          "description": "Платформа для записи в салоны красоты DIKIDI теперь позволяет специалистам продвигать свои услуги через рекламные сети Яндекса. Это расширяет возможности привлечения клиентов для исполнителей на маркетплейсах услуг.",
-          "source": "prospect.com.ru",
-          "favicon_char": "Y",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-11-16",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVhPd2Z4LUEwOTlJb0ZIZWdMTHRhWU9PRklaaU1BSlZQaTJpZFlvVVlyY3BGQnBYM1pDSFNYSFdYUFpTZUlQeEp4SldqWlRwOWdlT0Y1bnM3UXJiSXk3RUhOM3N6S0lNenU5ZFdUVlRteWhnbTRkWjZxM0o4X01vQUp0Vndad3Y5U3NjWURxZlpaSE5GMlhDNnFBYU5TQjZKRzlJVzRhd3VuU2hGVDRvWEJTd3ozNUVBRm1YMXRSbnI?oc=5"
-        },
-        {
           "id": 9,
-          "headline": "Отзывы — главный фактор выбора мастера на Авито Услугах",
-          "description": "Исследование Авито Услуг подтверждает критическую важность отзывов для выбора исполнителей. Продуктовым дизайнерам следует уделить особое внимание системам рейтингов и репутации.",
-          "source": "brief24.ru",
-          "favicon_char": "A",
-          "favicon_color": "#00A650",
-          "published_at": "2026-11-16",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9na2VqZFBJYWlJN2lKVjI0MldFT2FLSTloaUp6YkhvdHROYXYzV3JKbHN4bl84ZVUtLWxMU2ZoNkVGLWNLeDgzdjVockRreDdybm9z?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Масштабный сбой в работе Авито 17 ноября",
-          "description": "Сервис Авито столкнулся с перебоями в работе, вызвав недовольство пользователей. Анализ причин и последствий подобных инцидентов важен для обеспечения стабильности своей платформы.",
-          "source": "cybersport.metaratings.ru",
-          "favicon_char": "A",
-          "favicon_color": "#00A650",
+          "headline": "Google Карты бронируют услуги и планируют поездки с ИИ",
+          "description": "Google интегрирует ИИ в Карты для планирования поездок и бронирования различных услуг. Это значительно расширяет функционал сервиса, превращая его в мощную платформу для организации досуга и работы.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-17",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0FBckNwRk1oODUxVEpta0lpampjWFd2OVc0NW9LSFV2b2pRU1U2TTFtdlNyYWEtTVYyX1gxa3drNWV5OWFFVGtCSWJzM1JlV3lncEF5U21yVnpLYVFDT3NxWjAtb3kwbU9adjBVVGpfS1Z5ZU4zSTh6dE9CX2VhNFlhblBybFVLMWdjVW1qOA?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "Т2 и Яндекс Плюс расширяют партнерство",
-          "description": "Абоненты Т2 теперь могут использовать баллы Яндекс Плюса для оплаты услуг. Это демонстрирует интеграцию экосистем и расширение программы лояльности Яндекса.",
-          "source": "gubdaily.ru",
-          "favicon_char": "Y",
-          "favicon_color": "#FFCC00",
-          "published_at": "2026-11-16",
-          "read_min": 2,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVdwSEVtaDZ4aWltSlpWc092M0ZIZXpKU2g5VkpoM0haNUJXeUNpOG1FVTduaWRZNHFzS2ttY1NsUTduY0M1RU84MUpOVW53ekwyWWlpcHpDemI2cUNYRHE0dHVWM2ZEOGxxV3pxLXBHSERtMU5yU2ZwM0k2WHlsRlhpc3lpTHRDNXd0NWlYemZUUy0zZ1R2LUh3cU1sdw?oc=5"
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGtfY2xZdklEcFFmTDdSZHBUU3IyNFVQOWNCeEZ3djkwT3NpVURDT0FjcjJDNHY3RWlFdXJQRVQzS0JtUzEwaHhlQXEteGEtVUpVd0pfQlNQZV90OVJZUE1aVlY3N3lZVU5BaDR2Y01GS2VGajJ5YmRXQ3BaTW5UYmIzYXlWNzVTMEF4NFh5dUstZ0NsZFVYWmJjZWJwUHFETWhRcFN1eFZVdGNQbE9hOFl4Zw?oc=5"
         }
       ]
     },
@@ -158,40 +134,52 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 12,
-          "headline": "AI-генератор Printify создает дизайны для печати",
-          "description": "Printify запустил инструмент на базе AI, который преобразует текстовые запросы в готовые дизайны для печати. Это пример генеративного дизайна, упрощающего процесс создания визуального контента.",
-          "source": "desmoinesregister.com",
-          "favicon_char": "P",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-13",
+          "id": 10,
+          "headline": "Спрос на дизайнеров логотипов вырос, а на ИИ-генераторы упал",
+          "description": "Интерес к ИИ-генераторам логотипов снизился вдвое, в то время как поиск живых дизайнеров вырос на 30%. Это показывает текущие ограничения ИИ в креативных областях, требующих уникальности и глубокого понимания бренда.",
+          "source": "finance.yahoo.com",
+          "favicon_char": "F",
+          "favicon_color": "#7B0099",
+          "published_at": "2026-11-17",
           "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlNWODVsa09HZ0JlT1k2NVUzM1REY1Q0WGtuWEFmTTRMUUxYRFAyMmN4NDR4eVZTelhoUm1SWVdLOElhdU0wOHVBWG9DemtRaUtKbF9JajA3bW5XYlg2cVAxY0w2TGRUSnFrUUgxTG5PbXFIanB6cFVlX2k0REFCZHhUZG52b295QTAzemVQZTIwV2cxUDRscll3RHdDRXh1RkUzZzFRLTRvcDRmbUtWT0F2Q1NlSHlwcjN6NVRXODhSS0tEWXhTeTljTldrM0h6MHZtb3ln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmRFQ0xJYVhVeUE4RlBoQ28xYWJLaVpQNUtsUWszRkxGemQ3WTAtcGdqRmt4dllseDVqM0pSZnVuOUhOMVdVUi1idlQ5ZEMxRGpCQ0dnc2FRVWE3OUlBMWNDQ3ZXTlhTaXk2Rzc5T0FjTUxYWDNtQ1BuSVZnblRyWmJQSDhTa3VjUFJJUzFZYUVfUXJ2V2RGUGZMTk1qN01ZNGJoVWpR?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "Microsoft и Salesforce запускают Copilotforce для ИИ-опыта",
+          "description": "Новый инструмент Copilotforce объединяет данные о клиентах из Salesforce с ИИ-возможностями Microsoft. Для дизайнеров это означает новые возможности для создания более персонализированных и контекстно-зависимых интерфейсов.",
+          "source": "news.microsoft.com",
+          "favicon_char": "N",
+          "favicon_color": "#0078D4",
+          "published_at": "2026-11-17",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNm14ZjRrTW93dFpEX3FpMzhVcGNZQ0dGMm0tc2dxcGhxQ1Y0WjN6T0YtbkxlYjh1YTFHVHJ3R3NrbG56anItWjh2bTRpcktQYTdmLWdTUUI3aGRBVzZ5UDlEWGJXMlhLTDYyeDdiWFZUbDVMOHAtMUZzbm5zTzEzcUpERTlLbG5CNmlTbnNZcTNPTXE5Zk9Mc1I0QjF5bjJDcWdvUVNzQjRZRmtqX2Z6NW4teE11dGZGN2ZCd2JaUXR3X00tQlZvaVhLSG45QzlwZ2JLeXRMTlgtSFRNdnRieXd1Sklwc0U3dk5fc0pxQTlmTWlnTUlSUDVhWlF6WkxLVDhqMmVVa1dnY21t?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "Anthropic выпустил Claude Design: ИИ для прототипов и презентаций",
+          "description": "Claude Design от Anthropic позволяет создавать прототипы и презентации с помощью ИИ в один клик. Это потенциально ускоряет работу дизайнеров, автоматизируя рутинные этапы создания макетов и демонстраций.",
+          "source": "iphoneislam.com",
+          "favicon_char": "I",
+          "favicon_color": "#009900",
+          "published_at": "2026-11-17",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjV4YmtqWVZhUFBLVXV2c1dSanUzRG52d2JibnFES05RZzRncWMtOGIwS2dnS0NqTUFQY2pqNnpwLVJVQ09MaXVyemJZN3BJSXowUVotWlpnZURwU0hfQ0pZNEF3a2gwbXloeDMyVXBJeGxjLUhKVlBiNFZ2em9pQTJJengzZ3ptMFJGU3JwMmZlWnBJRHdELTBLTVJocndKNmUtbU9mdWU2TWw2N01CNTlZeDVmc29mZ3BWMU11WmxSSHlhbmhpVUtYRC10VnB2c3JvUExueFRubGxJVjJ5OTUwbi1FaUU0?oc=5"
         },
         {
           "id": 13,
-          "headline": "Обзор лучших AI-инструментов для создания контента",
-          "description": "Подборка включает бесплатные и платные AI-платформы, которые помогут дизайнерам и маркетологам в создании текстов и изображений. Полезный ресурс для расширения инструментария.",
-          "source": "demandsage.com",
-          "favicon_char": "D",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-14",
-          "read_min": 4,
+          "headline": "Австралия — лидер по совместной работе в Figma и внедрению ИИ",
+          "description": "Новые данные показывают, что австралийский рынок активно использует Figma для совместной работы и опережает другие по внедрению ИИ. Это подчеркивает растущую роль ИИ в экосистеме Figma и совместном дизайне.",
+          "source": "itwire.com",
+          "favicon_char": "I",
+          "favicon_color": "#048C04",
+          "published_at": "2026-11-17",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZTVTaDQ5Q19WaU9kOFpJT0NKN2JzT21nQ3FvUTVrMXFBX2hibVNKdThrSklHbmlwelN6YV9EWlA5WWs0UXEtTWY0ZU8ya2dydmRaWllYODFCaTQ3c2RycXBWeG0wV3RL?oc=5"
-        },
-        {
-          "id": 14,
-          "headline": "AI в UX-дизайне: примеры, инструменты и тренды",
-          "description": "Статья исследует влияние искусственного интеллекта на сферу UX-дизайна, приводя конкретные примеры инструментов и актуальных трендов. Важно для понимания будущего профессии.",
-          "source": "coursera.org",
-          "favicon_char": "C",
-          "favicon_color": "#2A73CC",
-          "published_at": "2026-11-13",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3lub1ZyYjJoTEswV3VZV3Z4MGdtVTRoTXVNcms0Qk1LVWUyZ0tzSUIxcFMxeEtmYTJvVDVCV05jMTI1TnVQSTJkYW41VWt3anRuNU1SdlNNaVlFZU1JYkZWXzRJLTVsRDNaVGtNaXdseXhYMlVyZ2p6TmhCM3FZalhR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkQ3Wjd6VTdjNkJ2dlhtVWVmLUhOUnBlaGdWcmNQdDdlVUZaRFlZTnZ3eUdkQzlReWZrOXVhT3Y0N2xzZk1rMUNLREtoWXlMbVExSHpGbm9KbkJ0UHhDYU40LWx3SG4yNXhsR0N4b2JoUEJrdHV0SkpKbFVaMnpsQUZDenNSRjhRYjMxQjJPMTJXODJxRTRRUXotU1NWZ2FBSTJpY1dLRThIUTRsYnh2dUFZQQ?oc=5"
         }
       ]
     },
@@ -200,7 +188,32 @@
       "title": "Кейсы маркетплейсов",
       "chip_label": "Маркетплейсы",
       "subtitle": "решения из больших платформ",
-      "items": []
+      "items": [
+        {
+          "id": 14,
+          "headline": "Авито Услуги: как выбрать надежного мастера для ремонта",
+          "description": "Авито Услуги опубликовали рекомендации для пользователей по выбору проверенных специалистов. Это часть стратегии по повышению доверия и безопасности на платформе, что критически важно для двухсторонних маркетплейсов.",
+          "source": "neva.today",
+          "favicon_char": "N",
+          "favicon_color": "#E61B23",
+          "published_at": "2026-11-16",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tN2d6cEMxTFBVWGIxX2JKeDJGSFB3NXFVeExzeElTWjVnNDVrZjhZWGFQT1VqODJ1bFctUnhKWWR6R19ndE9yUENKdXBpSUpPODBZ?oc=5"
+        },
+        {
+          "id": 15,
+          "headline": "13 платформ, которые платят за тестирование сайтов",
+          "description": "Список платформ, соединяющих тестировщиков с компаниями для оценки веб-сайтов. Эти двухсторонние маркетплейсы демонстрируют, как можно организовать процесс пользовательского тестирования и управлять потоком заказов.",
+          "source": "wellkeptwallet.com",
+          "favicon_char": "W",
+          "favicon_color": "#2196F3",
+          "published_at": "2026-11-14",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xdERSMDRxMHNtYW95a3F2OEEtLXJpVGViemUyZ3VaV3FYVUhTZ3ZNbkRSNEYzN1A5S244d2ZvcnJTSGd1c29LY0NZZm1WbUhIY0RNTGFKQlNLLXhhSi1B?oc=5"
+        }
+      ]
     }
   ]
 }
