@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T15:43:28",
+  "updated_at": "2026-11-25T05:02:53",
   "next_issue_at": "2026-11-26T10:00:00",
   "schedule": "по понедельникам и четвергам",
   "sections": [
@@ -11,20 +11,20 @@
       "items": [
         {
           "id": 1,
-          "headline": "AX Дизайн: новая роль, почти не использующая Figma",
-          "description": "Исследуется новая область дизайна, ориентированная на пользовательский опыт вне традиционных UI-инструментов, что важно для расширения понимания продуктового дизайна.",
+          "headline": "AX-дизайн: новая роль, где Figma используется мало",
+          "description": "Появляются новые роли в дизайне, фокусирующиеся на аудиальном опыте, что расширяет границы продукта за пределы визуального интерфейса. Важно для понимания эволюции дизайна и мультисенсорного UX.",
           "source": "medium.com",
           "favicon_char": "M",
-          "favicon_color": "#1CB0F6",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-22",
-          "read_min": 4,
+          "read_min": 5,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlpnUTI3UXZGWUtXSV9CZ1Yzc2dsVWxxR0FDaF9BTExYYUVORHpFOWxXZVZsRGpBVkZyN2dVUTJuOHdYMFhTRm9DZDg5bFpPU0I0Zlo1OEY2S25ab1p4MlFyYTd4YWdTMERvaXYwclBNZzRMaDZHeE9LM2tYeHZndmppc3AyaS1ITGhENUE3ZXc4TmJIcGRyZXlsWi1DdEtVaGMyYw?oc=5"
         },
         {
           "id": 2,
           "headline": "Почему UX-дизайн важен как никогда",
-          "description": "Обсуждается возрастающая значимость UX в современном мире, подчеркивая его ключевую роль в успехе продукта и удовлетворении пользователей.",
+          "description": "Актуальность UX-дизайна растет, подчеркивая его критическую роль в создании успешных продуктов в условиях высокой конкуренции и изменяющихся ожиданий пользователей. Напоминает о фундаментальной ценности профессии.",
           "source": "medya.press",
           "favicon_char": "M",
           "favicon_color": "#6750A4",
@@ -35,51 +35,51 @@
         },
         {
           "id": 3,
-          "headline": "UX Обзор: что такое UX, AI в UX, заметность и другие тренды",
-          "description": "Подборка свежих инсайтов от Якоба Нильсена, затрагивающая фундаментальные аспекты UX, влияние AI на разработчиков и пользовательские предпочтения в интерфейсах.",
+          "headline": "UX мобильных медприложений влияет на приверженность лечению",
+          "description": "Исследование показывает прямую связь между пользовательским опытом мобильных приложений для здоровья и тем, насколько пациенты соблюдают предписания. Это подчеркивает важность продуманного UX для критически важных сервисов.",
+          "source": "nature.com",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 6,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QVDJnRmI2TGZqU0Y4WjRva1pxeG1jclFFV250SmVRUHNONzBjSWZOejFNakhBN28wcUhDbi10OUlRUUttRU81SGpHT3REWkw2SXIwTVhJWTFvUW1DXzlN?oc=5"
+        },
+        {
+          "id": 4,
+          "headline": "Обзор UX-новостей от Нильсена: ИИ, открываемость и запахи в UI",
+          "description": "Еженедельный дайджест Якоба Нильсена охватывает широкий спектр тем, от влияния ИИ на разработчиков до концепции 'запахового' UI, предоставляя уникальные инсайты в будущее и текущие тренды UX.",
           "source": "jakobnielsenphd.substack.com",
           "favicon_char": "J",
-          "favicon_color": "#FF6700",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-23",
           "read_min": 7,
           "is_ui_update": false,
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VbU04WGlLM2VPN05vSE1Obm5IWWJfX0VCTWd6UUw2N3hxWkN4MEU5eXNQbkxHREJ3aEVHMWw0cXdiT3FFcWM4MW1fX004ZzB6MW1IN0VVVTVpLWo3M24yZ0VBdkRlU1JKZUE?oc=5"
         },
         {
-          "id": 4,
-          "headline": "Разработка цифровых продуктов: скорость, безопасность и UX",
-          "description": "Рассматриваются три ключевых аспекта успешной разработки продукта — скорость вывода на рынок, безопасность данных и качество пользовательского опыта.",
-          "source": "medya.press",
-          "favicon_char": "M",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-23",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85dURYMlNGZmwwelFNUUJiM21LZ0pXNnZaVDNTdW1TTlJhQUZGWEN0bjJxNXVpbU9uZlFyT0dXWWhVbkhMMXhVcURabzByanF1RTRnY1pEQW9KR0Rkb1Nlb1RIZTNWVU1BZjFUempZMG4ta2VSNUZPUkNWRE5TZw?oc=5"
-        },
-        {
           "id": 5,
-          "headline": "Дизайн упаковки лекарств: как сделать читабельной и удобной",
-          "description": "Кейс о важности дизайна упаковки лекарств для пациентов, учитывающий аспекты читаемости, удобства открывания и использования, что критично для безопасности и доступности.",
-          "source": "healthcarepackaging.com",
-          "favicon_char": "H",
-          "favicon_color": "#6750A4",
-          "published_at": "2026-11-19",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYk1UajlzcVpWU0xTUEZxN0JMTmZCWVZTRFNVcm5xODVTTUw4Q0Y5N25Cd0VXN3BpQXFud2tpMi14STF1OWFqZVhrLUxTSnMxX1ZFbjk4YmhnOWhiWWZyR0lvdV92cTdLZDBOVmlua0xJSV95c2VlY0ltQmQ3emotaWp4R2JGOHVobjZCQkNjdmV1eThQVjJEUTlZUjBoaGZvQ2lsR1p3dzJTTlF3TWZzNmRpcXdRUm9WTWZDMDhfbG9DSXpzd2JZZ0ZUWmtlbjFuQkw4RExqcEhQY1R1?oc=5"
-        },
-        {
-          "id": 6,
-          "headline": "Детский мобильный лаунчер Alphie способствует реальной игре",
-          "description": "Пример дизайна мобильного приложения для детей, которое поощряет взаимодействие родителей и стимулирует реальную, а не только цифровую, игру.",
+          "headline": "No-code инструменты снижают когнитивную нагрузку для VR-дизайнеров",
+          "description": "Новые иммерсивные no-code инструменты упрощают вход в VR-дизайн для новичков, уменьшая когнитивную нагрузку. Это важно для демократизации дизайна и создания более доступных инструментов.",
           "source": "bioengineer.org",
           "favicon_char": "B",
           "favicon_color": "#6750A4",
-          "published_at": "2026-11-23",
+          "published_at": "2026-11-24",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2xhV09BbjJKV2JyU2pfMXE0Vld3VmRHaXFRaEx4d1hfdm9SRTVZLUtxbU1GY205a29KUFJQdVN3X1JqWFV4MXRHdXlyZ3ZNQzBrSXI1RFMwVkpIMWtlYkVUNkdvTmw4dkFVekdjZHBrYl9TWVdWSFNyMlJacEpkdWNCTkQ3OUMxOFY4ZENhUnZvSUdCNnRRYTlmWEUxbFNSczQyaWtZVkEyZVRpNENrelZCOFpqV3laZWJ4dmgxY2NoODY4ZWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2tPUUN1WFkwUTZ6U3A2bG02OVhpbElkWTJTVkRUYmRCQWlKclpPVXFIMU45OEdIcy1wSTgzcktBMEFSWmlHR3o1V3lxOWs0cGhFelVMYnRYM2JrSlhvQzVocVF5Nm5laWVuV0paQlY0NmxJd3NWNmJSMTFJejhLNmVqVXlIMGJkdUJWZjJ5b1FyaE1ERmptaTMySU1mWlItQ0FtdlpCbzlHd2s?oc=5"
+        },
+        {
+          "id": 6,
+          "headline": "Носимый гаджет корректирует осанку затемнением экрана ПК",
+          "description": "Новое носимое устройство помогает улучшить осанку офисных работников, взаимодействуя с экраном компьютера. Пример инновационного продуктового дизайна, использующего физический и цифровой UX для решения повседневных проблем.",
+          "source": "bioengineer.org",
+          "favicon_char": "B",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-25",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVJJUFdxenJKM2JnXzF0bXJSbzBaRXVFR3J6bzBqeS1OZURrMEdCeFBEbXhnMHp0SS1oaXB6LXo2ZjdyMFp1SEhVVE5DQmp0bzV5dmNseHhvMXJ5S1hyM1F0WWlEelUwbXNUTHo1eXVSRmkzUXNDeEhpWjZySlBZNUtlWHJob1AzLWhieUJuWDRydndhbk5xSDJPeGdBekxiM09PYlh1bVJZM0k?oc=5"
         }
       ]
     },
@@ -88,7 +88,80 @@
       "title": "Конкуренты",
       "chip_label": "Конкуренты",
       "subtitle": "что меняют конкуренты",
-      "items": []
+      "items": [
+        {
+          "id": 7,
+          "headline": "«Яндекс.Браузер» изменил правила обработки данных",
+          "description": "Изменение политики конфиденциальности «Яндекса» может повлиять на доверие пользователей к платформе. Это важный аспект для продуктовых дизайнеров, работающих с пользовательскими данными и ожиданиями.",
+          "source": "3dnews.ru",
+          "favicon_char": "3",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 4,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEx5bzRZNG1KTVlOeklsdEFYSEtWYWgyakh1YjlxR05RNVlyV2ZDXzVtVWVYTzNpQzNwUnVaa3RuYTUtQ1BOQ1ZUVFJnbzUzaFN1RVFEX080ZTRNZkw0c01fTi1yd3lzMHZyZTNrMjZiWjlSY1NUMnNuX2ZJSko4WGlVQUx0cHlrVTVZSjZjdGFGMVN6MzNranRnYUptTEVCN3hFNGlUSU5nVGhfSTB2Z09wck42Z00xdk5hY3R6U1V6Q0p1RmhFYzNn?oc=5"
+        },
+        {
+          "id": 8,
+          "headline": "«Яндекс» запустил роботов-курьеров в Воронеже",
+          "description": "Расширение использования роботов для доставки заказов «Яндексом» демонстрирует инновации в логистике сервисов. Это может повлиять на ожидания пользователей от скорости и удобства получения услуг.",
+          "source": "vrn.vestipk.ru",
+          "favicon_char": "V",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ieEFWamd6N3I5NWIyMlJuZ0YxRE1qOXZfejdRWDlYd2RVWlkwYTNpSkRHM19XSGdldm1SUllIU0pUUHhNNjliWHoyOTBLNWdJM1hZZA?oc=5"
+        },
+        {
+          "id": 9,
+          "headline": "«Яндекс» запустил формат покупок с баннера",
+          "description": "Новый рекламный формат «Яндекса» позволяет совершать покупки напрямую с баннера, упрощая путь пользователя к конверсии. Это важно для понимания развития рекламных инструментов на платформах-конкурентах.",
+          "source": "prospect.com.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-23",
+          "read_min": 3,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlRTNmxpSHVKMl93cloxV0ZEQWFNdWdyaENLanZCNFdJUmNSQkNHT0FqYzZRczA5WHk1amExa04tVmZicEpzd0dnQkZZSDN6cGNuTkRWVkZmZmZRXzdObWt6VlJPcnFpWGVUWVM5SXpiWDdCQXZYX0hqMHdrRUVVYUZ3ZzlQV1ViMWJqdTFteUNvN1p2Zlh2R2RNLUtxYmtOY3VJOVpWdUR5LW9IekNpV2lVUFZEaHFjZzN3MEFzTVN6aDB1eFpabzN0S1haWEZXZ0VN?oc=5"
+        },
+        {
+          "id": 10,
+          "headline": "«Авито Услуги» запустили премию «Знак мастерства»",
+          "description": "«Авито Услуги» стимулируют активность мастеров и вовлечение пользователей через голосование за премию. Это пример механики, направленной на повышение качества и доверия на маркетплейсе услуг.",
+          "source": "neva.today",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 2,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUnhnTjBJMWNtRE1PM3BDOFNYVEJhLUJaY1NnSVR1cVBMX3M1T3ExNkVCU2xrNTNUSkZSTXpmS20yaGVDcUxpNGI2eTdWSzUwR05r?oc=5"
+        },
+        {
+          "id": 11,
+          "headline": "«Авито» дало советы по выбору нутрициолога",
+          "description": "«Авито Услуги» активно развивает категорию здоровья, предлагая пользователям гайды по выбору специалистов. Это показывает фокус на рост и поддержку новых категорий сервисов.",
+          "source": "prmira.ru",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 3,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUc0LTlyX29WX3ZwSE80QURuRUdRaDc2Q25NT0FCVy1FcGt1dlgwM0U3M1VDS0hpSTJUUHIyUmlDbUsxN01QZTFBdFdINjFlUDQyamRTbGJYZktrTjdjREZXNFJpSmxCNGctRVVZLUhMNFdRV0s3ZUtrdDROb0hPVzBNdVBpZEZBZTZuU25LWnNVbTNKejc1SVBOVmhCbFJhWXF6QnNub1FfdHctSGtHVWdsaw?oc=5"
+        },
+        {
+          "id": 12,
+          "headline": "«Авито Услуги» прогнозирует рост интереса к здоровью",
+          "description": "Исследование «Авито Услуг» о планах россиян заняться здоровьем в 2027 году демонстрирует стратегический интерес конкурента к сегменту велнес-услуг. Это важный сигнал для продуктового развития.",
+          "source": "neva.today",
+          "favicon_char": "N",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 2,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHQTdRN0JGU05na0ViM2JHMkNKdEVPYTViZ21UV2toR1VHWTU1UkxDSnQ4UjVWMU9wMjBOcjRPanR6aW81VmxDUjZyMnEwSk1iWk5n?oc=5"
+        }
+      ]
     },
     {
       "id": "ai",
@@ -97,76 +170,76 @@
       "subtitle": "инструменты, релизы, бета",
       "items": [
         {
-          "id": 7,
-          "headline": "AI меняет веб-дизайн: от запросов к работающим сайтам",
-          "description": "Статья исследует, как искусственный интеллект трансформирует процесс веб-дизайна, позволяя создавать полноценные сайты на основе текстовых запросов.",
-          "source": "medya.press",
-          "favicon_char": "M",
+          "id": 13,
+          "headline": "Агентский ИИ меняет творческие рабочие процессы",
+          "description": "Искусственный интеллект эволюционирует от простого инструмента до партнера в творческом процессе, трансформируя подход дизайнеров и креаторов к работе. Это указывает на глубокие изменения в методологии дизайна.",
+          "source": "press.asus.com",
+          "favicon_char": "P",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQm1hSDhQZ3FDZmFKNEhtZHByUlZGT1ljeWJ4UVB3aHJHOXdENzF6c2w1dWVCdk9Gc1lzNk03RFFKeHFoTGE1V2lQRE10c3NKeVg4U0JCWDZqT1N4dWFCeUVlTXZnNXAwMVpXeW5UdjFqU2FPZHdhM2lDWkw4RkZQeExn?oc=5"
+        },
+        {
+          "id": 14,
+          "headline": "Обзор Canva AI 2.0: отличия бесплатной и платной версии",
+          "description": "Подробный разбор возможностей Canva AI 2.0, включая различия между бесплатными и платными функциями. Это полезно для дизайнеров, использующих или рассматривающих Canva в своей работе.",
+          "source": "felloai.com",
+          "favicon_char": "F",
           "favicon_color": "#6750A4",
           "published_at": "2026-11-23",
           "read_min": 4,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemNkZF9EdE5WNTNTMFViem9YVzJSMWNEU0ZHRVhuRVk0a3BPREJxRXRCaEFRTVBIS3o1a25GUkJ5RTU4NEdUak5uUGFIblR6NzZ1Si1tblpEaG00OHdfd0t4VkxWbTJnTUZ3cGNKVkhJaHVQLUU3RkVyQjN4dVlYbFhabGRpRGdsRWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NYzdLaXd0SzFBQ1k4b1hyX1dCSEt3WGVFeDV5YXl4Slpzc1EzQjVLTVFKUzJkdU5ZVzlmbmNYemhSREZMZkFUckFyYl9vdw?oc=5"
         },
         {
-          "id": 8,
-          "headline": "Canva добавила 'выключатель AI' в свои инструменты",
-          "description": "Графический редактор Canva внедрил функцию отключения AI, предоставляя пользователям больше контроля над автоматизированными возможностями искусственного интеллекта.",
+          "id": 15,
+          "headline": "Canva добавила «выключатель» функций ИИ",
+          "description": "Canva внедрила возможность отключения функций искусственного интеллекта, предоставляя пользователям больше контроля. Это важный аспект пользовательского опыта в контексте этики и управления ИИ.",
           "source": "fastcompany.com",
           "favicon_char": "F",
-          "favicon_color": "#E0353A",
+          "favicon_color": "#6750A4",
           "published_at": "2026-11-21",
-          "read_min": 2,
-          "is_ui_update": false,
+          "read_min": 3,
+          "is_ui_update": true,
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2s4aDRVYmpuYlgyVU9GendjbklBZWJCYzVlVlF6T0tkQkp0ZTk3eVNkM0Z2OS1wc3lDY1V6cnA4am5nQm9Ma2pZaEhabHVrYnFuNEMweml4cjVNSTRldWpLajh6VURtLXY1akctZTdXRHh1dVMxTDdkb012WERqOFliekpGZw?oc=5"
         },
         {
-          "id": 9,
-          "headline": "Что пришлось изменить, прежде чем AI-приложение встретило пользователей",
-          "description": "Кейс-стади о сложностях и адаптациях, необходимых для успешного вывода приложения, разработанного с помощью AI, на реальных пользователей.",
-          "source": "news.designrush.com",
-          "favicon_char": "N",
-          "favicon_color": "#000000",
-          "published_at": "2026-11-20",
-          "read_min": 5,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LU1NfUUtSTTVMa2VtWUE5cWM3dENiM1V2NU1Sd0EwOGFNcm5GTHptUEI3QXA3VHI1aHEzbU5GWTU5bGl1aUJyczJrc3NFdDBEN3liUjBTVnVEU2R0cDdjZ0dGaG85RkRuZWZpYk94WEhWVUNJb3RuYw?oc=5"
-        },
-        {
-          "id": 10,
-          "headline": "Xjet расширяет услуги и внедряет AI-дизайн",
-          "description": "Компания Xjet интегрирует AI для помощи в дизайне, расширяя свои производственные услуги и возможности разработки продуктов.",
-          "source": "etmm-online.com",
-          "favicon_char": "E",
-          "favicon_color": "#002D5F",
-          "published_at": "2026-11-23",
-          "read_min": 3,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEJ1dHhJR0xqUEhLb2xXdmx2cjNvVWRFT0ZMMFRTSzVrUlEwaTJRZ1JGYTZkWW5jWnprR05YNTl0LS1pWFJiclBPaG8wcjI0bTlCVW9wbXc3Yk5qd1YyX25UeHRUenBfVVozYjV2U01Fc3p2SFBUYkcxbGV2T0lyZjdnVkJ2aVBEeEx1dWxnTHo3cXZhWXBldk5qTFRnbUFacEU3UXFrNGRBbEJoay11WVVEZ0wybm5Pa1VuREhQY2N3NlpCSjRjWG1Nb25EZGVOR3E1R2JiWXZRRTRlNnc?oc=5"
-        },
-        {
-          "id": 11,
-          "headline": "OpenAI: AI-модели улучшили дизайн GPU AMD на 14%",
-          "description": "Новость от OpenAI демонстрирует, как их модели ИИ могут значительно повысить эффективность и оптимизировать дизайн сложных аппаратных компонентов, таких как графические процессоры.",
-          "source": "forbes.com",
-          "favicon_char": "F",
-          "favicon_color": "#000000",
-          "published_at": "2026-11-20",
-          "read_min": 4,
-          "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3dzUU9tYy0ySmVBVElNcVR5SlBBNDVaNWVhVUZGclFZWF9IZURzQ1ZZSnFEZ2ZmUmFLZzZnUF9SMkhic2NVZTV6U0kzakJxODhhWnVTNjlkV1kzbWhZOWRGOS1WdGU3d2E5cnJQSXh0SXY2eHR1UG1RTExSb2RGdjhYbDZuN3BvLVhrOGhYczJ4d1JDOWhUblhjMU94Q0U4LTA0d2YxVGpteVNCV1NDZXNBbi1ILURQaW9IYUhIV00?oc=5"
-        },
-        {
-          "id": 12,
-          "headline": "Прогресс в дизайне чипов с моделями OpenAI",
-          "description": "Исследование показывает, как использование моделей OpenAI способствует инновациям и улучшению процессов проектирования микрочипов, открывая новые возможности для аппаратных продуктов.",
+          "id": 16,
+          "headline": "Представлены новые модели OpenAI: GPT-6 Sol и Luna",
+          "description": "OpenAI анонсировала выпуск новых мощных языковых моделей GPT-6 Sol и Luna. Эти достижения в области ИИ могут значительно повлиять на возможности генеративного дизайна и автоматизации задач.",
           "source": "openai.com",
           "favicon_char": "O",
-          "favicon_color": "#10A37F",
-          "published_at": "2026-11-19",
-          "read_min": 4,
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-22",
+          "read_min": 3,
           "is_ui_update": false,
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQkNIZW5seHNKYThIaGxjczVBa2NGUG5UYjNwR0g2REc2UnlSZ3BONmxqeUx4d2ZMT01SWDZzU1dEZExxVHJmcXdia0t5aTF2SFgybWpQUy1WS2VENV92TENPeWZDRkU5MVFXN05CajEtV3lYNHlqNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+        },
+        {
+          "id": 17,
+          "headline": "Google Search вынес ИИ-инструмент на главный экран",
+          "description": "Google интегрировал ИИ-инструмент прямо в кнопку поиска на главном экране, делая его более доступным. Это значимое UI-изменение, подчеркивающее центральную роль ИИ в продуктах.",
+          "source": "designcompass.org",
+          "favicon_char": "D",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-24",
+          "read_min": 2,
+          "is_ui_update": true,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEJKLVZ0TG9Dd2xxTVU0Z3lwMW5sTHFLX3N2bFp6a0Exa1hXZVBrYk42TU1xc2ZoUm53V2liYi1BTGpsSV9HUzNCOU1EbE1qMnNLbHFiRHdTR1d0dGFjc1IxeGZXMGhKbWVtT2NoNUNsYXpuajZTbnNNZjdKU252SQ?oc=5"
+        },
+        {
+          "id": 18,
+          "headline": "ИИ меняет веб-дизайн: от промптов к готовым сайтам",
+          "description": "Искусственный интеллект трансформирует процесс веб-дизайна, позволяя создавать полноценные сайты по текстовым описаниям. Это открывает новые перспективы для продуктовых дизайнеров и их рабочих процессов.",
+          "source": "medya.press",
+          "favicon_char": "M",
+          "favicon_color": "#6750A4",
+          "published_at": "2026-11-23",
+          "read_min": 5,
+          "is_ui_update": false,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemNkZF9EdE5WNTNTMFViem9YVzJSMWNEU0ZHRVhuRVk0a3BPREJxRXRCaEFRTVBIS3o1a25GUkJ5RTU4NEdUak5uUGFIblR6NzZ1Si1tblpEaG00OHdfd0t4VkxWbTJnTUZ3cGNKVkhJaHVQLUU3RkVyQjN4dVlYbFhabGRpRGdsRWc?oc=5"
         }
       ]
     },
